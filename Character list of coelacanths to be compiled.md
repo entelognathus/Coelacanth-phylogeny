@@ -68,7 +68,7 @@
 
 > - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
 
-8. Premaxillae : fragmented (0), paired (1), fused (2). **(Ordered)**
+8. Premaxillae : fragmented (0), paired (1), fused (2).
 > [Ca4, Cb4, Fb4, C4, F&C4, Y4, G4, W4, W&W4, Da4, Z4, GR4, WE4, CAa4, C&G4, A&S4, G&C4, Db4, CAb4, R&S4, CAc4, CAd4, T4]
 
 > - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
@@ -494,7 +494,6 @@
 
 > - Clement *et al.* (in review): " Character 105 is linked to character 103."
 
-
 106. Suboperculum, shape of: quadrilateral (0), triangular (1), ovoid (2). 
 > [Ca32, Cb32]
 
@@ -592,83 +591,100 @@
 
 > - Clement *et al.* (in review): "Forey (1998, char. 67)12 considered the presence of enlarged teeth lying alongside a replacement socket upon at least some of the anterior coronoids as the apomorphic condition. However, based on outgroup comparison with onychodontiforms, the presence would rather correspond to the plesiomorphic condition."
 
-126. Oral pit line [Fa43, Fb58, C58, F&C58, Y58, G58, W58, W&W58, Da58, Z58, GR58, WE58, CAa58, C&G58, A&S58, G&C58, Db58, CAb58, R&S58, T58]: short confined to angular (0), long reaching forward to dentary and or splenial (1)
->
-127. Oral pit line, position of [Fb59, C59, F&C59, Y59, G59, W59, W&W59, Da59, Z59, GR59, WE59, CAa59, C&G59, A&S59, G&C59, Db59, CAb59, R&S59, CAc32, CAd32, T59]: located at center of ossification of angular (0), removed from the center of ossification (1). Character 127 is in part linked with character 126.
->
-128. Subopercular branch of mandibular sensory canal [Fa41, Fb60, C60, F&C60, Y60, G60, W60, W&W60, Da60, Z60, GR60, WE60, CAa60, C&G60, A&S60, G&C60, Db60, CAb60, R&S60, CAc33, CAd33, T60]: absent (0), present (1)
+126. Oral pit line: short confined to angular (0), long reaching forward to dentary and or splenial (1)
+> [Fa43, Fb58, C58, F&C58, Y58, G58, W58, W&W58, Da58, Z58, GR58, WE58, CAa58, C&G58, A&S58, G&C58, Db58, CAb58, R&S58, T58]
 
-129. Mandibular canal, trajectory of [FR68, L&Z31]: not passing through most posterior infradentary (0), passing through most posterior infradentary (1). Zhu & Yu (2002, char. 80)84, Zhu & Yu (2004)106 and Friedman (2007, char. 68)98 used the trajectory of the mandibular canal in relation to the posteriormost infradentary to address the phylogenetic position among sarcopterygians as well as basal forms of actinistians such as Styloichthys.
->
+127. Oral pit line, position of: located at center of ossification of angular (0), removed from the center of ossification (1). Character 127 is in part linked with character 126.
+> [Fb59, C59, F&C59, Y59, G59, W59, W&W59, Da59, Z59, GR59, WE59, CAa59, C&G59, A&S59, G&C59, Db59, CAb59, R&S59, CAc32, CAd32, T59]
 
-> - Clement *et al.* (in review): "
+128. Subopercular branch of mandibular sensory canal: absent (0), present (1)
+> [Fa41, Fb60, C60, F&C60, Y60, G60, W60, W&W60, Da60, Z60, GR60, WE60, CAa60, C&G60, A&S60, G&C60, Db60, CAb60, R&S60, CAc33, CAd33, T60]
 
-130. Mandibular canal, trajectory of [L&Z32]: not passing through the lowermost part of the infradentary series with many tubes (0), passing through the lowermost part of the infradentary series with many tubes (1)
+129. Mandibular canal, trajectory of: not passing through most posterior infradentary (0), passing through most posterior infradentary (1). 
+> [FR68, L&Z31]
 
-131. Lower jaw, ornament of [Fb62, C62, F&C62, Y62, G62, W62, W&W62, Da62, Z62, GR62, WE62, CAa62, C&G62, A&S62, G&C62, Db62, CAb62, R&S62, T62]: ridged (0), tubercular (1), unornamented (2). Forey (1998, char. 62)12 recognized two character-states to describe the ornamentation of the lower jaw: ridged (0) and granular (1) ornament. We recognize an additional character-state to consider the complete disparity of the lower jaw ornament: unornamented (2). Character 131 is partly linked with characters 133 and 114.
->
+> - Clement *et al.* (in review): "Zhu & Yu (2002, char. 80)84, Zhu & Yu (2004)106 and Friedman (2007, char. 68)98 used the trajectory of the mandibular canal in relation to the posteriormost infradentary to address the phylogenetic position among sarcopterygians as well as basal forms of actinistians such as Styloichthys."
 
-> - Clement *et al.* (in review): "
+130. Mandibular canal, trajectory of: not passing through the lowermost part of the infradentary series with many tubes (0), passing through the lowermost part of the infradentary series with many tubes (1)
+> [L&Z32]
 
+131. Lower jaw, ornament of: ridged (0), tubercular (1), unornamented (2). 
+> [Fb62, C62, F&C62, Y62, G62, W62, W&W62, Da62, Z62, GR62, WE62, CAa62, C&G62, A&S62, G&C62, Db62, CAb62, R&S62, T62]
 
-132. Splenial [new]: present (0), absent (1)
+> - Clement *et al.* (in review): "Forey (1998, char. 62)12 recognized two character-states to describe the ornamentation of the lower jaw: ridged (0) and granular (1) ornament. We recognize an additional character-state to consider the complete disparity of the lower jaw ornament: unornamented (2). Character 131 is partly linked with characters 133 and 114."
 
-133. Splenial, ornament of [Fa32 in part, Fb64, C64, F&C64, Y64, G64, W64, W&W64, Da64, Z64, GR64, WE64, CAa64, C&G64, A&S64, G&C64, Db64, CAb64, R&S64, T64]: with ornament (0), without ornament (1). Character 133 is linked to character 132.
->
+132. Splenial: present (0), absent (1)
+> [new]
 
-> - Clement *et al.* (in review): "
+133. Splenial, ornament of: with ornament (0), without ornament (1). 
+> [Fa32 in part, Fb64, C64, F&C64, Y64, G64, W64, W&W64, Da64, Z64, GR64, WE64, CAa64, C&G64, A&S64, G&C64, Db64, CAb64, R&S64, T64]
 
-134. Posterior margin of splenial [new]: relatively at right angle with dorsal margin (0), dorsally beveled (1), ventrally believed (2), pointed (X bevel) (3), V-grooved (4). This character considers the general shape of the posterior margin of the splenial when looking at the lateral profile of the lateral surface of the splenial; this character is similar to Character 111 that is relative to the posterior margin of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the splenial is located ventrally (e.g., Allenypterus, Diplocercides, Garnbergia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Parnaibaia). In the pointed shape (or X bevel), the pointed part of the posterior margin of the splenial is approximately located at mid-height of the splenial (e.g., Coelacanthus, Holophagus), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Character 134 is linked to character 132.
->
+> - Clement *et al.* (in review): "Character 133 is linked to character 132."
 
-> - Clement *et al.* (in review): "
+134. Posterior margin of splenial: relatively at right angle with dorsal margin (0), dorsally beveled (1), ventrally believed (2), pointed (X bevel) (3), V-grooved (4). 
+> [new]
 
-
-135. Prearticular and/or coronoid teeth [Fa27 in part, Fb68, C68, F&C68, Y68, G68, W68, W&W68, Da68, Z68, GR68, WE68 modified, CAa68, C&G68, A&S68, G&C68, Db68, CAb68, R&S68, CAc37, CAd37, T68]: pointed and smooth (0), pointed and marked with fine striations (1), rounded and marked with fine striations (2). The definition and order of character-states have been changed from previous uses of this character [Forey (1991, char. 27 in part)97; Forey (1998, char. 68)12]. Wen et al. (2013, char. 68)54 added an additional apomorphic character-states (pointed and marked with fine striations). The order of the two apomorphic states are changed to obtain three character-states forming a morphocline.
->
-
-> - Clement *et al.* (in review): "
-
-136. Extensive dorsal expansion of angular [Ca]: absent (0), present (1)
-
-137. Angular, depth of [new]: posterior half deeper than anterior half of angular (0), deepest at approximately at midway along the length of the angular (1), anterior half deeper than posterior half of angular (2). Cavin et al. (2020, char. 56)101 defined a character identifying the deepest point of the angular. Two character-states were originally used: approximately midway along length of the bone (0) and near the anterior margin of the bone (1). Since the character-states were primarily defined in order to reflect a difference among derived coelacanths (mainly Mawsonia and Axelrodichthys), we used another state as "posterior half deeper than anterior half of angular" which is herein considered as the plesiomorphic state because it is observed among basal coelacanths. The three character-states form a morphocline. Character 137 is linked to character 136.
->
-
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "This character considers the general shape of the posterior margin of the splenial when looking at the lateral profile of the lateral surface of the splenial; this character is similar to Character 111 that is relative to the posterior margin of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the splenial is located ventrally (e.g., Allenypterus, Diplocercides, Garnbergia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Parnaibaia). In the pointed shape (or X bevel), the pointed part of the posterior margin of the splenial is approximately located at mid-height of the splenial (e.g., Coelacanthus, Holophagus), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Character 134 is linked to character 132."
 
 
-138. Angular with dentary and splenial, contact of [new]: linear (0), broad V-shaped (1), fine tapering (2), W-shaped (3), interdigitate (4). Character 138 is linked to characters 111 and 132.
+135. Prearticular and/or coronoid teeth: pointed and smooth (0), pointed and marked with fine striations (1), rounded and marked with fine striations (2). 
+> [Fa27 in part, Fb68, C68, F&C68, Y68, G68, W68, W&W68, Da68, Z68, GR68, WE68 modified, CAa68, C&G68, A&S68, G&C68, Db68, CAb68, R&S68, CAc37, CAd37, T68]
 
-139. Surangular [Ca]: present (0), absent (1)
+> - Clement *et al.* (in review): "The definition and order of character-states have been changed from previous uses of this character [Forey (1991, char. 27 in part)97; Forey (1998, char. 68)12]. Wen et al. (2013, char. 68)54 added an additional apomorphic character-states (pointed and marked with fine striations). The order of the two apomorphic states are changed to obtain three character-states forming a morphocline."
 
-140. Retroarticular and articular [Fa25, Fb53, C53, F&C53, Y53, G53, W53, W&W53, Da53, Z53, GR53, WE53, CAa53, C&G53, A&S53, G&C53, Db53, CAb53, R&S53, T53]: coossified (0), separated (1)
+136. Extensive dorsal expansion of angular: absent (0), present (1)
+> [Ca]
 
-141. Jaw articulation [new]: anterior to anterior level of operculum (0), posterior to anterior level of operculum (1)
+137. Angular, depth of: posterior half deeper than anterior half of angular (0), deepest at approximately at midway along the length of the angular (1), anterior half deeper than posterior half of angular (2). 
+> [new]
 
-142. Submandibulars [Ca, FR71]: absent (0), present (1)
+> - Clement *et al.* (in review): "Cavin et al. (2020, char. 56)101 defined a character identifying the deepest point of the angular. Two character-states were originally used: approximately midway along length of the bone (0) and near the anterior margin of the bone (1). Since the character-states were primarily defined in order to reflect a difference among derived coelacanths (mainly Mawsonia and Axelrodichthys), we used another state as "posterior half deeper than anterior half of angular" which is herein considered as the plesiomorphic state because it is observed among basal coelacanths. The three character-states form a morphocline. Character 137 is linked to character 136."
 
-143. Internasal pits [FR91]: absent (0), one large pit (1), shallow pits with midline ridge (2), deep pear-shaped pits (3)
+138. Angular with dentary and splenial, contact of: linear (0), broad V-shaped (1), fine tapering (2), W-shaped (3), interdigitate (4). 
+> [new]
+> - Clement *et al.* (in review): "Character 138 is linked to characters 111 and 132."
 
-144. Vomers, contact of [Fb81, C81, F&C81, FR77, Y81, G81, W81, W&W81, Da81, Z81, GR81, WE81, CAa81, C&G81, A&S81, G&C81, Db81, CAb81, R&S81, T81]: not meeting in midline (0), meeting medially (1)
+139. Surangular: present (0), absent (1)
+> [Ca]
 
-145. Vomerine fangs [FR78]: absent (0), present (1)
+140. Retroarticular and articular: coossified (0), separated (1)
+> [Fa25, Fb53, C53, F&C53, Y53, G53, W53, W&W53, Da53, Z53, GR53, WE53, CAa53, C&G53, A&S53, G&C53, Db53, CAb53, R&S53, T53]
 
-146. Parasphenoid, shape of [L&Z12]: small lozenge shaped (0), broad splint shaped (1)
+141. Jaw articulation: anterior to anterior level of operculum (0), posterior to anterior level of operculum (1)
+> [new]
 
-147.Parasphenoid, shape of [new]: margin close to parallel or subparallel (0), flared anteriorly (1). Character 147 reflects the broadening of the anterior part of the parasphenoid as spatulate lateral expansion.
+142. Submandibulars: absent (0), present (1)
+> [Ca, FR71]
 
-148. Parasphenoid denticle field [Ca34, Cb34, FR169 modified]: denticule field not expanding anterolaterally (0), denticule field expanding anterolaterally (1). Friedman (2007, char. 169)98 defined a character as the absence or presence of “denticle field of parasphenoid with anteriorly divergent lateral margins.” This character reflects if the denticles covered the anterolateral margins of the parasphenoid that flare anteriorly (character 147).
->
+143. Internasal pits: absent (0), one large pit (1), shallow pits with midline ridge (2), deep pear-shaped pits (3)
+> [FR91]
 
-> - Clement *et al.* (in review): "
+144. Vomers, contact of: not meeting in midline (0), meeting medially (1)
+> [Fb81, C81, F&C81, FR77, Y81, G81, W81, W&W81, Da81, Z81, GR81, WE81, CAa81, C&G81, A&S81, G&C81, Db81, CAb81, R&S81, T81]
 
+145. Vomerine fangs: absent (0), present (1)
+> [FR78]
 
-149. Parasphenoid denticle field [new]: ending at or anterior to level of foramina for internal carotid arteries (0), extending posterior to internal carotid foramina (1)
+146. Parasphenoid, shape of: small lozenge shaped (0), broad splint shaped (1)
+> [L&Z12]
 
-150. Parasphenoid [Fa3, Fb61, C79, F&C79, Y79, G79, W79, W&W79, Da79, Z79, GR79, WE79, CAa79, C&G79, A&S79, G&C79, Db79, CAb79, R&S79, CAc39, CAd39, T79]: without ascending laminae anteriorly (0), with ascending laminae anteriorly (1). The anterolateral ascending laminae of the parasphenoid are known in Macropoma and Latimeria (Forey, 1998)12. They also have been referred to as the "prominent lateral wing" (Forey, 1998)12.
->
+147.Parasphenoid, shape of: margin close to parallel or subparallel (0), flared anteriorly (1). 
+> [new]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Character 147 reflects the broadening of the anterior part of the parasphenoid as spatulate lateral expansion."
+
+148. Parasphenoid denticle field: denticule field not expanding anterolaterally (0), denticule field expanding anterolaterally (1). 
+> [Ca34, Cb34, FR169 modified]
+
+> - Clement *et al.* (in review): "Friedman (2007, char. 169)98 defined a character as the absence or presence of “denticle field of parasphenoid with anteriorly divergent lateral margins.” This character reflects if the denticles covered the anterolateral margins of the parasphenoid that flare anteriorly (character 147)."
+
+149. Parasphenoid denticle field: ending at or anterior to level of foramina for internal carotid arteries (0), extending posterior to internal carotid foramina (1)
+> [new]
+
+150. Parasphenoid: without ascending laminae anteriorly (0), with ascending laminae anteriorly (1). 
+> [Fa3, Fb61, C79, F&C79, Y79, G79, W79, W&W79, Da79, Z79, GR79, WE79, CAa79, C&G79, A&S79, G&C79, Db79, CAb79, R&S79, CAc39, CAd39, T79]
+
+> - Clement *et al.* (in review): "The anterolateral ascending laminae of the parasphenoid are known in Macropoma and Latimeria (Forey, 1998)12. They also have been referred to as the "prominent lateral wing" (Forey, 1998)."
 
 151. Buccohypophysial canal [Ca35, Cb35, Fa4 polarity, Fb78 polarity, C78 polarity, F&C78 polarity, Y78 polarity, G78, W78, W&W78, Da78 polarity, Z78 polarity, GR78 polarity, WE78 polarity, CAa78 polarity, C&G78 polarity, A&S78 polarity, G&C78 polarity, Db78 polarity, CAb78 polarity, R&S78 polarity, T78 polarity]: open (0), close (1). Khonsari et al. (2013)107 addressed specifically the evolution of the buccohypophysial foramen with a special interest to coelacanths.
 >
