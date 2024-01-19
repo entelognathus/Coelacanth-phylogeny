@@ -33,8 +33,10 @@
 
 1.Snout bones : separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
 > [Fb2, C2, F&C2, Y2, G2, W2, W&W2, Da2, Z2, GR2, WE2, CAa2, C&G2, A&S2, G&C2, Db2, CAb2 modified, R&S2, CAc2 modified, CAd2 modified, T2 modified] **To be replaced by the complete citation。**
+> **If there are any other references, add them here/**
 
-> - Burrow *et al.*: "Character 1 was originally defined by Forey (1998, char. 2)12. Subsequently, Cavin et al. (2017, char. 2)41 considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline."
+> - Burrow *et al.*: "Character 1 was originally defined by Forey (1998, char. 2)12. Subsequently, Cavin et al. (2017, char. 2)41 considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline." **citation from Burrow in this way**
+> -  **any other comments added here。**
 
 2.Ethmoid commissure, trajectory of: middle portion through median rostral (0), sutural course (1), through bone center of premaxilla (2); The three character-states form a morphocline.
 > [Ca6 in part, Cb6 in part]
