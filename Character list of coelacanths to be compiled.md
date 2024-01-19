@@ -85,36 +85,62 @@
 
 > - Clement *et al.* (in review): "Character 11 is linked to character 9."
 
-12.Premaxilla ventral margin, shape of [L&Z19 modified]: arched (0), not arched (1). Lu & Zhu (2009, char. 19)8 used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including Diplocercides and Styloichthys. Diplocercides, Styloichthys and Psarolepis were coded as having anteriorly arched premaxillae, whereas Onychodus, Strunius and Bukkanodus lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in Diplocercides kayseri and D. heiligenstockiensis. In Styloichthys the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved.
+12.Premaxilla ventral margin, shape of : arched (0), not arched (1). 
+> [L&Z19 modified]
 
-13.Median rostral, number of [Fb3, C3, F&C3, Y3, G3, W3, W&W3, Da3, Z3, GR3, WE3, CAa3, C&G3, A&S3, G&C3, Db3, Cab3, R&S3, CAc3, CAd3, T3]: single median rostral or internasal (0), multiple median rostrals or internasals (1)
+> - Clement *et al.* (in review): "Lu & Zhu (2009, char. 19)8 used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including Diplocercides and Styloichthys. Diplocercides, Styloichthys and Psarolepis were coded as having anteriorly arched premaxillae, whereas Onychodus, Strunius and Bukkanodus lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in Diplocercides kayseri and D. heiligenstockiensis. In Styloichthys the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved."
 
-14.Median rostral [FR143, L&Z3]: without teeth (0), with teeth (1). Lu & Zhu (2009, char. 3)8 coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including Diplocercides. The condition of Diplocercides was coded as unknown, and solely Psarolepis was coded as having this condition.
+13.Median rostral, number of : single median rostral or internasal (0), multiple median rostrals or internasals (1)
+> [Fb3, C3, F&C3, Y3, G3, W3, W&W3, Da3, Z3, GR3, WE3, CAa3, C&G3, A&S3, G&C3, Db3, Cab3, R&S3, CAc3, CAd3, T3]
+>
+14.Median rostral: without teeth (0), with teeth (1). 
+> [FR143, L&Z3]
 
-15.Parietal shield, profile of [CAc52, CAd52]: convex (0), flat (1), concave (2). Fragoso et al. (2018, p. 12)104 noticed a difference of profile for the parietal shield (their "frontoparietal shield") in terms of its curvature among species of Axelrodichthys. Cavin et al. (2020, char. 52)101 define a character as the dorsal outline of the ethmoid portion in lateral view. Two character-states were used by Cavin et al. (2020, char. 52)101: straight or convex (0) and concave (1). We divide the conditions into three character-states that form a morphocline.
+> - Clement *et al.* (in review): "Lu & Zhu (2009, char. 3) coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including *Diplocercides*. The condition of *Diplocercides* was coded as unknown, and solely *Psarolepis* was coded as having this condition."
 
-16.Preparietal, size of [Ca10, Cb10, Fa12 in part, Fb2 rephrased, C2 rephrased, F&C2 rephrased, Y2 rephrased, G2 rephrased, W2 rephrased, W&W2 rephrased, Da2 rephrased, Z2 rephrased, GR2 rephrased, WE2 rephrased, CAa2 rephrased, C&G2 rephrased, A&S2 rephrased, G&C2 rephrased, Db2 rephrased, CAb2 rephrased, R&S2 rephrased, CAc2 rephrased, CAd2 rephrased, T2 rephrased]: parietal longer than posterior preparietal (0), parietal equal in length to posterior preparietal (1), parietal shorter than posterior preparietal (2). Forey (1998, char. 7)12 coded for the presence of one pair (0) or two pairs (1) of parietals; however, in his matrix (and that of subsequent analyses by most authors they used the coding of one pair (1) or two pairs (2) omitting a coding of "0". In addition, Forey (1998, char. 8)12 coded for the relative size of the anterior and posterior parietals. Cloutier (1991a, char. 10)95 named the pair(s) of medial bones anterior to the parietals as the preparietals. Herein, we define the character-states in terms of the length of the posterior preparietals and parietals rather than the size. The three character-states form a morphocline relative to the size proportion between the parietal and preparietal. Morphometric character 9 provides the ratio of the median length of the posteriormost preparietal divided by the median parietal length; a ratio close to a value of one is considered as a condition where the parietal is equal in length to the posteriormost preparietal. In our analysis, the number of preparietals per row is taken into account in our meristic matrix.
+15.Parietal shield, profile of: convex (0), flat (1), concave (2). 
+> [CAc52, CAd52]
 
-17.Supraorbital canal, course of [FR31]: straight (0), lyre shaped (1). Friedman (2007, char. 31)98 mentioned that the trajectory of the supraorbital canals resembles a lyre in dorsal view in Styloichthys, Euporosteus, Latimeria and numerous coelacanths and sarcopterygians. It is considered to be a derived condition shared by Styloichthys, Dipnomorpha and Tetrapodomorpha (Friedman, 2007)98. The lyre-shape is owing to a medial curvature followed by a lateral trajectory of the supraorbital canal at the most anterior level of the snout.
+> - Clement *et al.* (in review): "Fragoso et al. (2018, p. 12) noticed a difference of profile for the parietal shield (their "frontoparietal shield") in terms of its curvature among species of *Axelrodichthys*. Cavin et al. (2020, char. 52) define a character as the dorsal outline of the ethmoid portion in lateral view. Two character-states were used by Cavin et al. (2020, char. 52): straight or convex (0) and concave (1). We divide the conditions into three character-states that form a morphocline."
 
-18.Supraorbital sensory canals, trajectory of [Fb19, C19, F&C19, Y19, G19, W19, W&W19, Da19, Z19, GR19, WE19, CAa19, C&G19, A&S19, G&C19, Db19, CAb19, R&S19, CAc19, CAd19, T19]: passing through ossification centers (0), following sutural course (1)
 
-19.Supraorbital sensory canals opening through bones, condition of [Ca3 in part, Ca9 in part, Cb3, Fb23, C23, F&C23, Y23, G23, W23, W&W23, Da23 modified, Z23, GR23, WE23, CAa23, C&G23 modified, A&S23 modified, G&C23, Db23, CAb23 modified, R&S23 modified, CAc23, CAd23, T23 modified]: single large pores (0), bifurcating pores (1), many tiny pores (2), large and continuous groove crossed by pillars (3), large and continuous groove without pillars (4). Forey (1998, char. 23)12 used a character to describe the condition of the pores of the supraorbital sensory canal. Three conditions were originally described: canals opening through bones as single large pores (0), bifurcating pores (1), and many tiny pores (2). These conditions refer to the relation between the main canals and the canaliculi linking the pores at the surface of the bone and the main canal. In a few species, a few pores are present at the surface of a supraorbital but since the relationship between the pore and the canal is simple it is coded as single large pores (e.g., Guizhoucoelacanthus). Dutel et al. (2012, char. 23)60 and Cavin et al. (2017, char. 23)41 added one additional character-state, respectively: a large, continuous groove crossed by pillars (3) and a large, continuous groove without pillars (4). Based on the onychodontiform outgroups, the plesiomorphic condition corresponds to the presence of many tiny pores.
+16.Preparietal, size of: parietal longer than posterior preparietal (0), parietal equal in length to posterior preparietal (1), parietal shorter than posterior preparietal (2). 
+> [Ca10, Cb10, Fa12 in part, Fb2 rephrased, C2 rephrased, F&C2 rephrased, Y2 rephrased, G2 rephrased, W2 rephrased, W&W2 rephrased, Da2 rephrased, Z2 rephrased, GR2 rephrased, WE2 rephrased, CAa2 rephrased, C&G2 rephrased, A&S2 rephrased, G&C2 rephrased, Db2 rephrased, CAb2 rephrased, R&S2 rephrased, CAc2 rephrased, CAd2 rephrased, T2 rephrased]
 
-20.Lateral bones alongside postparietal, number of [FR8]: one (0), two or more (1)
+> - Clement *et al.* (in review): "Forey (1998, char. 7) coded for the presence of one pair (0) or two pairs (1) of parietals; however, in his matrix (and that of subsequent analyses by most authors they used the coding of one pair (1) or two pairs (2) omitting a coding of "0". In addition, Forey (1998, char. 8)12 coded for the relative size of the anterior and posterior parietals. Cloutier (1991a, char. 10) named the pair(s) of medial bones anterior to the parietals as the preparietals. Herein, we define the character-states in terms of the length of the posterior preparietals and parietals rather than the size. The three character-states form a morphocline relative to the size proportion between the parietal and preparietal. Morphometric character 9 provides the ratio of the median length of the posteriormost preparietal divided by the median parietal length; a ratio close to a value of one is considered as a condition where the parietal is equal in length to the posteriormost preparietal. In our analysis, the number of preparietals per row is taken into account in our meristic matrix."
 
-21.Intertemporal [Ca17, Cb17, Fa15, Fb12, C12, F&C12, FR17, Y12, G12, W12, W&W12, Da12, Z12, GR12, WE12, CAa12, C&G12, A&S12, G&C12, Db12, CAb12, R&S12, T12]: absent (0), present (1)
+17.Supraorbital canal, course of: straight (0), lyre shaped (1).
+> [FR31]
+
+> - Clement *et al.* (in review): "Friedman (2007, char. 31) mentioned that the trajectory of the supraorbital canals resembles a lyre in dorsal view in *Styloichthys*, *Euporosteus*, *Latimeria* and numerous coelacanths and sarcopterygians. It is considered to be a derived condition shared by *Styloichthys*, Dipnomorpha and Tetrapodomorpha (Friedman, 2007). The lyre-shape is owing to a medial curvature followed by a lateral trajectory of the supraorbital canal at the most anterior level of the snout."
+
+> - **This character was orginally defined in Zhu et al. (2002?), cross-check this character in early gnathostome phylogeny.**
+
+18.Supraorbital sensory canals, trajectory of : passing through ossification centers (0), following sutural course (1)
+
+> [Fb19, C19, F&C19, Y19, G19, W19, W&W19, Da19, Z19, GR19, WE19, CAa19, C&G19, A&S19, G&C19, Db19, CAb19, R&S19, CAc19, CAd19, T19]
+
+19.Supraorbital sensory canals opening through bones, condition of : single large pores (0), bifurcating pores (1), many tiny pores (2), large and continuous groove crossed by pillars (3), large and continuous groove without pillars (4). 
+> [Ca3 in part, Ca9 in part, Cb3, Fb23, C23, F&C23, Y23, G23, W23, W&W23, Da23 modified, Z23, GR23, WE23, CAa23, C&G23 modified, A&S23 modified, G&C23, Db23, CAb23 modified, R&S23 modified, CAc23, CAd23, T23 modified]
+
+> - Clement *et al.* (in review): "Forey (1998, char. 23) used a character to describe the condition of the pores of the supraorbital sensory canal. Three conditions were originally described: canals opening through bones as single large pores (0), bifurcating pores (1), and many tiny pores (2). These conditions refer to the relation between the main canals and the canaliculi linking the pores at the surface of the bone and the main canal. In a few species, a few pores are present at the surface of a supraorbital but since the relationship between the pore and the canal is simple it is coded as single large pores (e.g., Guizhoucoelacanthus). Dutel et al. (2012, char. 23) and Cavin et al. (2017, char. 23) added one additional character-state, respectively: a large, continuous groove crossed by pillars (3) and a large, continuous groove without pillars (4). Based on the onychodontiform outgroups, the plesiomorphic condition corresponds to the presence of many tiny pores."
+
+20.Lateral bones alongside postparietal, number of: one (0), two or more (1)
+> [FR8]
+
+21.Intertemporal: absent (0), present (1)
+> [Ca17, Cb17, Fa15, Fb12, C12, F&C12, FR17, Y12, G12, W12, W&W12, Da12, Z12, GR12, WE12, CAa12, C&G12, A&S12, G&C12, Db12, CAb12, R&S12, T12]
 
 22.Supratemporal [Ca18, Cb18]: present (0), absent (1)
 
 23.Posterior margin of tabulars [Cb56, L&Z9]: anterior to posterior margin of postparietals (0), level with posterior margin of postparietals (1), extending beyond posterior margin of postparietals (2). The three character-states for a morphocline.
 
 24.Tabular descending process [Ca19, Cb19, Fa17 homology, Fb14 rephrased, C14 rephrased, F&C14 rephrased, Y14 rephrased, G14 rephrased, W&W14 rephrased, Da14 rephrased, Z14 rephrased, GR14 rephrased, WE14 rephrased, CAa14 rephrased, C&G14 rephrased, A&S14 rephrased, G&C14 rephrased, Db14 rephrased, CAb14 rephrased, R&S14 rephrased, CAc7, CAd7, T14 rephrased]: absent (0), present (1). As defined by Forey (1981, char. 8)105, the posterolateral margin of the tabular (his "supratemporal") may bear an external descending process. This process articulates against the prootic region of the braincase immediately in front of the hyomandibular facet (e.g., Coelacanthus granulatus, Laugia) (Cloutier, 1991a, char. 19)95.
-
+> - Clement *et al.* (in review): "
 25.Otic canal [new]: running through skull roof (0), following edge of skull roof (1) 
 
 26.Otic canal, trajectory of [Ca20, Cb20, L&Z30 in part]: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2). Cloutier (1991a, char. 20)95 defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20)95. The three character-states form a morphocline.
-
+> - Clement *et al.* (in review): "
 27.Medial branch of otic canal [Ca16, Cb16, Fa37, Fb20, C20, F&C20, Y20, G20, L&Z30 in part, W20, W&W20, Da20, Z20, GR20, WE20, CAa20, C&G20, A&S20, G&C20, Db20, CAb20, R&S20, T20]: absent (0), present (1)
 
 28.Otic canal joining supratemporal canal [Fa36, Fb21, C21, F&C21, Y21, G21, W21, W&W21, Da21, Z21, GR21, WE21, CAa21, C&G21, A&S21, G&C21, Db21, CAb21, R&S21, T21]: in lateral extrascapular (0), in tabular (1) 
@@ -122,29 +148,29 @@
 29.Tabular and postparietal [Cb57]: separated (0), fused (1)
 
 30.Lateral process of parietal [Cb58]: absent (0), present (1). The lateral process of the parietal is formed from the posterolateral margin of the parietal and is directed ventrolaterally toward the dorsal part of the postorbital (Cloutier, 1991b, char. 58)96. The process could either be in contact with the postorbital (e.g., Latimeria), extends towards the postorbital (e.g., Swenzia) or be separated from the postorbital by a supraorbital (e.g., Laugia, Macropoma, Yunnancoelacanthus). This process has been coded as present in Coelacanthus, Axelia, Wimania and Latimeria by Cloutier (1991b, char. 58)96. The posterior lateral process of the parietal could carry a segment of the infraorbital canal that connects to the supraorbital canal [e.g., Axelia (Stensiö, 1921, fig. 25)16, Coelacanthus (Schaumberg, 1978, figs. 5, 6)34, Wimania (Stensiö, 1921, fig. 43)16].
-
+> - Clement *et al.* (in review): "
 31.Descending process of parietal [Ca11, Cb11, Fa13, Fb11, C11, F&C11, Y11, G11, W11, W&W11, Da11, Z11, GR11, WE11, CAa11, C&G11, A&S11, G&C11, Db11, CAb11, R&S11, T11]: absent (0), present (1). The descending process ("ventral process" of Forey (1998)12) of the parietal articulates with the dorsal side of the ethmosphenoid (Cloutier, 1991a, char. 11)95. Forey (1981, char. 10)105 mentioned that this posteroventral process braces against the basisphenoid.
-
+> - Clement *et al.* (in review): "
 32.Parietals and postparietals, ornament of [Fa56 in part, Fb27, C27, F&C27, Y27, G27, W27, W&W27, Da27, Z27, GR27, WE27, CAa27, C&G27, A&S27, G&C27, Db27, CAb27, R&S27, CAc13, CAd13, T27]: enamel capped ridges or tubercles (0), unornamented (1), marked by coarse tuberosities (2)
 
 33.Pineal foramen [FR14, L&Z2]: present (0), absent (1) 
 
 34.Parietals and postparietals [Fb28, C28, F&C28, Y28, G28, W28, W&W28, Da28, Z28, GR28, WE28, CAa28, C&G28, A&S28, G&C28, Db28, CAb28, R&S28, CAc14, CAd14, T28]: without raised or depressed areas (0), with raised areas (1), with depressed areas (2). Forey (1998, char. 28)12 recognized the presence of a raised area at the anterior margin of the postparietals and posterior margin of the parietals (as seen in Latimeria chalumnae) as an apomorphic condition. We recognize a second apomorphic state to take into account the condition observed in Swenzia latimerae where there is an anterior depression on the postparietals in the same area.
-
+> - Clement *et al.* (in review): "
 35.Anterior margin of parietals [FR13, L&Z1]: between or in front of orbits (0), slightly posterior to orbits (1)
 
 36.Parietal and supraorbitals, contact of [CAc51, CAd51]: parietal contacts more than three supraorbitals (0), parietal contacts three supraorbitals (1), parietal contacts two supraorbitals (2). Cavin et al. (2020, char. 51)101 defined a character to identify the number of supraorbitals articulating with the parietal (their "posterior parietal"). This multistate character forms a morphocline.
-
+> - Clement *et al.* (in review): "
 37.Margin of dermal intracranial joint [Fb1, C1, F&C1 modified, FR147 in part, Y1, G1, W1, W&W1, Da1, Z1, GR1, WE1, CAa1, C&G1, A&S1 modified, G&C1, Db1, Cab1, R&S1, CAc1 modified, CAd1 modified, T1 modified]: straight (0), deeply notched (1), undulated (2). Forey (1998)12 defined the apomorphic state as "strongly interdigitate", while Friedman & Coates (2006)47 and subsequent authors defined the apomorphic state as "deeply notched". Arratia & Schultze (2015)15 used a second apomorphic character-state defined as "undulated or excavated"; only used for Atacamaia.
-
+> - Clement *et al.* (in review): "
 38.Postparietal descending process [Ca13, Cb13, Fa16, Fb13, C13, F&C13, Y13, G13, W13, W&W13, Da13, Z13, GR13, WE13, CAa13, C&G13, A&S13, G&C13, Db13, CAb13, R&S13, T13]: absent (0), present (1). The descending process of the postparietal is located on the posteroventral surface of the postparietal articulating with the oticoccipital part of the neurocranium.
-
+> - Clement *et al.* (in review): "
 39.Postparietal, shape of [Ca12, Cb12]: L shaped (0), rectangular (1), inverted L shaped (2). The shape of the postparietal takes into consideration the dorsal view of the element. In the inverted L shape, the small process forms the anterolateral component of the postparietal. The numbering of character-states has been modified from Cloutier (1991a, char. 12)95.
-
+> - Clement *et al.* (in review): "
 40.Postparietal [L&Z7]: not narrowing posteriorly (0), narrowing posteriorly (1). Lu and Zhu (2009, char. 7)8 defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in Onychodus, Qingmenodus and Grossius. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal [char. 39(2)].
-
+> - Clement *et al.* (in review): "
 41.Postparietal postorbital, contact of [Ca14, Cb14]: absent (0), present (1). The absence of contact between the anterolateral part of the postparietal and the postorbital could be owing either to the presence of intertemporal and/or supratemporal (e.g., Miguashaia), the presence of a gap between the elements (e.g., Allenypterus) or the presence of an elongated posterolateral process of the parietal (e.g., Coelacanthus).
-
+> - Clement *et al.* (in review): "
 42.Postparietal and lateral extrascapular, contact of [Ca15, Cb15]: present (0), absent (1)
 
 43.Pit lines on postparietals [Fb26, C26, F&C26, Y26, G26, W26, W&W26, Da26, Z26, GR26, WE26, CAa26, C&G26, A&S26, G&C26, Db26, CAb26, R&S26, T26]: marking postparietals (0), not marking postparietals (1)
@@ -152,31 +178,31 @@
 44.Anterior pit line [Fb24, C24, F&C24, Y24, G24, W24, W&W24, Da24, Z24, GR24, WE24, CAa24, C&G24, A&S24, G&C24, Db24, CAb24, R&S24, T24]: absent (0), present (1)
 
 45.Anterior pit line, position of [FR36]: on postparietal (0), on parietal (1). Character 45 is linked to character 44.
-
+> - Clement *et al.* (in review): "
 46.Middle pit line [L&Z28]: in line with tabular pit line (0), not in line with tabular pit line (1). Character 46 is linked to character 43.
-
+> - Clement *et al.* (in review): "
 47.Middle and posterior pit lines, position of [Fb25, C25, F&C25, Y25, G25, L&Z27, W25, W&W25, Da25, Z25, GR25, WE25, CAa25, C&G25, A&S25, G&C25, Db25, CAb25, R&S25, T25]: within posterior half of postparietals (0), within anterior third of postparietals (1). Character 47 is linked to characters 43 and 46.
-
+> - Clement *et al.* (in review): "
 48.Complete fusion of postparietal shield [new]: no (0), yes (1)
 
 49.Extratemporal [FR16, L&Z10]: absent (0), present (1)
 
 50.Extrascapulars, sutures of [Fa19, Fb15, C15, F&C15, Y15, G15, W15, W&W15, Da15, Z15, GR15, WE15, CAa15, C&G15, A&S15, G&C15, Db15, CAb15, R&S15, CAc8, CAd8, T15]: sutured with postparietals-parietals (0), free (1). Character 50 is in part link with character 42.
-
+> - Clement *et al.* (in review): "
 51.Extrascapulars, position of [Cb59, Fa19, Fb16, C16, F&C16, Y16, G16, W16, W&W16, Da16, Z16, GR16, WE16, CAa16, C&G16, A&S16, G&C16, Db16, CAb16, R&S16, CAc9, CAd9, T16]: behind level of neurocranium (0), part of skull roof (1)
 
 52.Median extrascapular [new]: present (0), absent (1) 
 
 53.Lateral extrascapulars, size of [new]: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2). In species coded for lateral extrascapulars being less than the width of median extrascapular, the median extrascapular could reach up to twice the width of the lateral extrascapular (e.g., Miguashaia bureaui). On the other hand, species coded as having lateral extrascapular more than the width of median extrascapular, the lateral extrascapular could reach up to twice the width of the median extrascapular (e.g., Hadronector donbairdi). Morphometric character 13 provides the ratio between the lateral extrascapular width and the median extrascapular width. For those species allowing us to measure the ratio, the plesiomorphic condition corresponds to a ratio smaller than 0.9, whereas apomorphic state 2 corresponds to a ratio greater than 1.1. Meristic character 2 provides the number of extrascapulars. Character 53 is linked with the presence of a median extrascapular (Char. 52). The three character-states form a morphocline.
-
+> - Clement *et al.* (in review): "
 54.Posterior margin of skull roof [Fb18, C18, F&C18, Y18, G18, W18, W&W18, Da18, Z18, GR18, WE18, CAa18, C&G18, A&S18, G&C18, Db18, CAb18, R&S18, T18]: straight (0), embayed (1). Forey (1998, char. 18)12 defined a character concerning the posterior margin of the skull roof as either straight or embayed. Forey (1998, p. 58)12 mentioned that the posterior margin of the tabulars (his "supratemporals") with the postparietals is straight in Diplocercides thus not taking into account the posterior limit of the lateral and median extrascapulars. In contrast, Forey (1998, p. 91)12 mentioned that the fusion of the lateral extrascapular with the tabular (his "extratemporal") results in the posterior profile of the skull roof being embayed with the remaining extrascapulars lying in between in Coelacanthus. We considered the posterior margin of the skull roof to be interpreted as the posterior margin of the tabulars and postparietals even in species in which lateral and median extrascapulars are present and attached the postparietals and tabulars. Character 54 is in part link with the condition in which the posterior margin of the tabular extends posteriorly to the posterior margin of the postparietal (char. 23.2).
-
+> - Clement *et al.* (in review): "
 55.Anterior branches of occipital commissure [Cb60, Fa40, Fb22, C22, F&C22, Y22, G22, W22, W&W22, Da22, Z22, GR22, WE22, CAa22, C&G22, A&S22, G&C22, Db22, CAb22, R&S22, CAc11, CAd11, T22]: absent (0), present (1). Occipital commissure [= "supratemporal commissural canal" of Schaeffer (1952)35; "supratemporal commissure" of Forey (1981)105]. Anterior branches (ramifications) of the occipital commissure extending to the anterior part of the extrascapulars and/or the posterior part of the postparietals are found in some actinistian species (Cloutier, 1991b)96.
 
 56.Sensory pores, size of [Fa38]: pores on ethmosphenoid shield similar to parietal shield pores (0), pores on ethmosphenoid shield larger than parietal shield pores (1)
 
 57.Preorbital [Ca22, Cb22, Fa20, Fa19, Fb10, C10, F&C10, FR8, Y10, G10, W10, W&W10, Da10, Z10, GR10, WE10, CAa10, C&G10, A&S10, G&C10, Db10, CAb10, R&S10, T10]: present (0), absent (1). The preorbital is a bone forming part of the anterior margin of the orbit in basal coelacanths. A posterior tectal occupies a similar position in onychodontiforms and some tetrapodomorphs. Forey (1998, char. 10)12 used the opposite polarity of the character-states. We coded the preorbital present in onychodontiforms although this element is referred to as the posterior tectal. This character is linked with characters 6 and 7.
-
+> - Clement *et al.* (in review): "
 58.Lateral rostral [Ca]: without ventral process (0), with ventral process (1). The ventral process of the lateral rostral is located anteriorly, it could be relatively broad and shallow (e.g., Rhabdoderma elegans) or narrow and longer (e.g., Macropoma lewesiensis).
 
 59.Lateral rostral [L&Z4]: forming part of orbit (0), not forming part of orbit (1)
