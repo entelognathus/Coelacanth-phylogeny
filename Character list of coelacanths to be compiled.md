@@ -135,12 +135,20 @@
 
 23.Posterior margin of tabulars [Cb56, L&Z9]: anterior to posterior margin of postparietals (0), level with posterior margin of postparietals (1), extending beyond posterior margin of postparietals (2). The three character-states for a morphocline.
 
-24.Tabular descending process [Ca19, Cb19, Fa17 homology, Fb14 rephrased, C14 rephrased, F&C14 rephrased, Y14 rephrased, G14 rephrased, W&W14 rephrased, Da14 rephrased, Z14 rephrased, GR14 rephrased, WE14 rephrased, CAa14 rephrased, C&G14 rephrased, A&S14 rephrased, G&C14 rephrased, Db14 rephrased, CAb14 rephrased, R&S14 rephrased, CAc7, CAd7, T14 rephrased]: absent (0), present (1). As defined by Forey (1981, char. 8)105, the posterolateral margin of the tabular (his "supratemporal") may bear an external descending process. This process articulates against the prootic region of the braincase immediately in front of the hyomandibular facet (e.g., Coelacanthus granulatus, Laugia) (Cloutier, 1991a, char. 19)95.
-> - Clement *et al.* (in review): "
-25.Otic canal [new]: running through skull roof (0), following edge of skull roof (1) 
+24.Tabular descending process: absent (0), present (1).
+> [Ca19, Cb19, Fa17 homology, Fb14 rephrased, C14 rephrased, F&C14 rephrased, Y14 rephrased, G14 rephrased, W&W14 rephrased, Da14 rephrased, Z14 rephrased, GR14 rephrased, WE14 rephrased, CAa14 rephrased, C&G14 rephrased, A&S14 rephrased, G&C14 rephrased, Db14 rephrased, CAb14 rephrased, R&S14 rephrased, CAc7, CAd7, T14 rephrased]
 
-26.Otic canal, trajectory of [Ca20, Cb20, L&Z30 in part]: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2). Cloutier (1991a, char. 20)95 defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20)95. The three character-states form a morphocline.
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): " As defined by Forey (1981, char. 8)105, the posterolateral margin of the tabular (his "supratemporal") may bear an external descending process. This process articulates against the prootic region of the braincase immediately in front of the hyomandibular facet (e.g., Coelacanthus granulatus, Laugia) (Cloutier, 1991a, char. 19)95."
+
+25.Otic canal: running through skull roof (0), following edge of skull roof (1) 
+> Clement *et al.* (in review), Character 25.
+
+26.Otic canal, trajectory of: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2).
+> [Ca20, Cb20, L&Z30 in part]
+
+> - Clement *et al.* (in review): " Cloutier (1991a, char. 20)95 defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20)95. The three character-states form a morphocline."
+
+
 27.Medial branch of otic canal [Ca16, Cb16, Fa37, Fb20, C20, F&C20, Y20, G20, L&Z30 in part, W20, W&W20, Da20, Z20, GR20, WE20, CAa20, C&G20, A&S20, G&C20, Db20, CAb20, R&S20, T20]: absent (0), present (1)
 
 28.Otic canal joining supratemporal canal [Fa36, Fb21, C21, F&C21, Y21, G21, W21, W&W21, Da21, Z21, GR21, WE21, CAa21, C&G21, A&S21, G&C21, Db21, CAb21, R&S21, T21]: in lateral extrascapular (0), in tabular (1) 
@@ -149,28 +157,36 @@
 
 30.Lateral process of parietal [Cb58]: absent (0), present (1). The lateral process of the parietal is formed from the posterolateral margin of the parietal and is directed ventrolaterally toward the dorsal part of the postorbital (Cloutier, 1991b, char. 58)96. The process could either be in contact with the postorbital (e.g., Latimeria), extends towards the postorbital (e.g., Swenzia) or be separated from the postorbital by a supraorbital (e.g., Laugia, Macropoma, Yunnancoelacanthus). This process has been coded as present in Coelacanthus, Axelia, Wimania and Latimeria by Cloutier (1991b, char. 58)96. The posterior lateral process of the parietal could carry a segment of the infraorbital canal that connects to the supraorbital canal [e.g., Axelia (Stensiö, 1921, fig. 25)16, Coelacanthus (Schaumberg, 1978, figs. 5, 6)34, Wimania (Stensiö, 1921, fig. 43)16].
 > - Clement *et al.* (in review): "
+
 31.Descending process of parietal [Ca11, Cb11, Fa13, Fb11, C11, F&C11, Y11, G11, W11, W&W11, Da11, Z11, GR11, WE11, CAa11, C&G11, A&S11, G&C11, Db11, CAb11, R&S11, T11]: absent (0), present (1). The descending process ("ventral process" of Forey (1998)12) of the parietal articulates with the dorsal side of the ethmosphenoid (Cloutier, 1991a, char. 11)95. Forey (1981, char. 10)105 mentioned that this posteroventral process braces against the basisphenoid.
 > - Clement *et al.* (in review): "
+
 32.Parietals and postparietals, ornament of [Fa56 in part, Fb27, C27, F&C27, Y27, G27, W27, W&W27, Da27, Z27, GR27, WE27, CAa27, C&G27, A&S27, G&C27, Db27, CAb27, R&S27, CAc13, CAd13, T27]: enamel capped ridges or tubercles (0), unornamented (1), marked by coarse tuberosities (2)
 
 33.Pineal foramen [FR14, L&Z2]: present (0), absent (1) 
 
 34.Parietals and postparietals [Fb28, C28, F&C28, Y28, G28, W28, W&W28, Da28, Z28, GR28, WE28, CAa28, C&G28, A&S28, G&C28, Db28, CAb28, R&S28, CAc14, CAd14, T28]: without raised or depressed areas (0), with raised areas (1), with depressed areas (2). Forey (1998, char. 28)12 recognized the presence of a raised area at the anterior margin of the postparietals and posterior margin of the parietals (as seen in Latimeria chalumnae) as an apomorphic condition. We recognize a second apomorphic state to take into account the condition observed in Swenzia latimerae where there is an anterior depression on the postparietals in the same area.
 > - Clement *et al.* (in review): "
+
 35.Anterior margin of parietals [FR13, L&Z1]: between or in front of orbits (0), slightly posterior to orbits (1)
 
 36.Parietal and supraorbitals, contact of [CAc51, CAd51]: parietal contacts more than three supraorbitals (0), parietal contacts three supraorbitals (1), parietal contacts two supraorbitals (2). Cavin et al. (2020, char. 51)101 defined a character to identify the number of supraorbitals articulating with the parietal (their "posterior parietal"). This multistate character forms a morphocline.
 > - Clement *et al.* (in review): "
 37.Margin of dermal intracranial joint [Fb1, C1, F&C1 modified, FR147 in part, Y1, G1, W1, W&W1, Da1, Z1, GR1, WE1, CAa1, C&G1, A&S1 modified, G&C1, Db1, Cab1, R&S1, CAc1 modified, CAd1 modified, T1 modified]: straight (0), deeply notched (1), undulated (2). Forey (1998)12 defined the apomorphic state as "strongly interdigitate", while Friedman & Coates (2006)47 and subsequent authors defined the apomorphic state as "deeply notched". Arratia & Schultze (2015)15 used a second apomorphic character-state defined as "undulated or excavated"; only used for Atacamaia.
 > - Clement *et al.* (in review): "
+
 38.Postparietal descending process [Ca13, Cb13, Fa16, Fb13, C13, F&C13, Y13, G13, W13, W&W13, Da13, Z13, GR13, WE13, CAa13, C&G13, A&S13, G&C13, Db13, CAb13, R&S13, T13]: absent (0), present (1). The descending process of the postparietal is located on the posteroventral surface of the postparietal articulating with the oticoccipital part of the neurocranium.
 > - Clement *et al.* (in review): "
+
 39.Postparietal, shape of [Ca12, Cb12]: L shaped (0), rectangular (1), inverted L shaped (2). The shape of the postparietal takes into consideration the dorsal view of the element. In the inverted L shape, the small process forms the anterolateral component of the postparietal. The numbering of character-states has been modified from Cloutier (1991a, char. 12)95.
 > - Clement *et al.* (in review): "
+
 40.Postparietal [L&Z7]: not narrowing posteriorly (0), narrowing posteriorly (1). Lu and Zhu (2009, char. 7)8 defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in Onychodus, Qingmenodus and Grossius. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal [char. 39(2)].
 > - Clement *et al.* (in review): "
+
 41.Postparietal postorbital, contact of [Ca14, Cb14]: absent (0), present (1). The absence of contact between the anterolateral part of the postparietal and the postorbital could be owing either to the presence of intertemporal and/or supratemporal (e.g., Miguashaia), the presence of a gap between the elements (e.g., Allenypterus) or the presence of an elongated posterolateral process of the parietal (e.g., Coelacanthus).
 > - Clement *et al.* (in review): "
+
 42.Postparietal and lateral extrascapular, contact of [Ca15, Cb15]: present (0), absent (1)
 
 43.Pit lines on postparietals [Fb26, C26, F&C26, Y26, G26, W26, W&W26, Da26, Z26, GR26, WE26, CAa26, C&G26, A&S26, G&C26, Db26, CAb26, R&S26, T26]: marking postparietals (0), not marking postparietals (1)
@@ -179,43 +195,56 @@
 
 45.Anterior pit line, position of [FR36]: on postparietal (0), on parietal (1). Character 45 is linked to character 44.
 > - Clement *et al.* (in review): "
+
 46.Middle pit line [L&Z28]: in line with tabular pit line (0), not in line with tabular pit line (1). Character 46 is linked to character 43.
 > - Clement *et al.* (in review): "
+
 47.Middle and posterior pit lines, position of [Fb25, C25, F&C25, Y25, G25, L&Z27, W25, W&W25, Da25, Z25, GR25, WE25, CAa25, C&G25, A&S25, G&C25, Db25, CAb25, R&S25, T25]: within posterior half of postparietals (0), within anterior third of postparietals (1). Character 47 is linked to characters 43 and 46.
 > - Clement *et al.* (in review): "
+
 48.Complete fusion of postparietal shield [new]: no (0), yes (1)
 
 49.Extratemporal [FR16, L&Z10]: absent (0), present (1)
 
 50.Extrascapulars, sutures of [Fa19, Fb15, C15, F&C15, Y15, G15, W15, W&W15, Da15, Z15, GR15, WE15, CAa15, C&G15, A&S15, G&C15, Db15, CAb15, R&S15, CAc8, CAd8, T15]: sutured with postparietals-parietals (0), free (1). Character 50 is in part link with character 42.
 > - Clement *et al.* (in review): "
+
 51.Extrascapulars, position of [Cb59, Fa19, Fb16, C16, F&C16, Y16, G16, W16, W&W16, Da16, Z16, GR16, WE16, CAa16, C&G16, A&S16, G&C16, Db16, CAb16, R&S16, CAc9, CAd9, T16]: behind level of neurocranium (0), part of skull roof (1)
 
 52.Median extrascapular [new]: present (0), absent (1) 
 
 53.Lateral extrascapulars, size of [new]: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2). In species coded for lateral extrascapulars being less than the width of median extrascapular, the median extrascapular could reach up to twice the width of the lateral extrascapular (e.g., Miguashaia bureaui). On the other hand, species coded as having lateral extrascapular more than the width of median extrascapular, the lateral extrascapular could reach up to twice the width of the median extrascapular (e.g., Hadronector donbairdi). Morphometric character 13 provides the ratio between the lateral extrascapular width and the median extrascapular width. For those species allowing us to measure the ratio, the plesiomorphic condition corresponds to a ratio smaller than 0.9, whereas apomorphic state 2 corresponds to a ratio greater than 1.1. Meristic character 2 provides the number of extrascapulars. Character 53 is linked with the presence of a median extrascapular (Char. 52). The three character-states form a morphocline.
 > - Clement *et al.* (in review): "
+
 54.Posterior margin of skull roof [Fb18, C18, F&C18, Y18, G18, W18, W&W18, Da18, Z18, GR18, WE18, CAa18, C&G18, A&S18, G&C18, Db18, CAb18, R&S18, T18]: straight (0), embayed (1). Forey (1998, char. 18)12 defined a character concerning the posterior margin of the skull roof as either straight or embayed. Forey (1998, p. 58)12 mentioned that the posterior margin of the tabulars (his "supratemporals") with the postparietals is straight in Diplocercides thus not taking into account the posterior limit of the lateral and median extrascapulars. In contrast, Forey (1998, p. 91)12 mentioned that the fusion of the lateral extrascapular with the tabular (his "extratemporal") results in the posterior profile of the skull roof being embayed with the remaining extrascapulars lying in between in Coelacanthus. We considered the posterior margin of the skull roof to be interpreted as the posterior margin of the tabulars and postparietals even in species in which lateral and median extrascapulars are present and attached the postparietals and tabulars. Character 54 is in part link with the condition in which the posterior margin of the tabular extends posteriorly to the posterior margin of the postparietal (char. 23.2).
 > - Clement *et al.* (in review): "
+
 55.Anterior branches of occipital commissure [Cb60, Fa40, Fb22, C22, F&C22, Y22, G22, W22, W&W22, Da22, Z22, GR22, WE22, CAa22, C&G22, A&S22, G&C22, Db22, CAb22, R&S22, CAc11, CAd11, T22]: absent (0), present (1). Occipital commissure [= "supratemporal commissural canal" of Schaeffer (1952)35; "supratemporal commissure" of Forey (1981)105]. Anterior branches (ramifications) of the occipital commissure extending to the anterior part of the extrascapulars and/or the posterior part of the postparietals are found in some actinistian species (Cloutier, 1991b)96.
 
 56.Sensory pores, size of [Fa38]: pores on ethmosphenoid shield similar to parietal shield pores (0), pores on ethmosphenoid shield larger than parietal shield pores (1)
 
 57.Preorbital [Ca22, Cb22, Fa20, Fa19, Fb10, C10, F&C10, FR8, Y10, G10, W10, W&W10, Da10, Z10, GR10, WE10, CAa10, C&G10, A&S10, G&C10, Db10, CAb10, R&S10, T10]: present (0), absent (1). The preorbital is a bone forming part of the anterior margin of the orbit in basal coelacanths. A posterior tectal occupies a similar position in onychodontiforms and some tetrapodomorphs. Forey (1998, char. 10)12 used the opposite polarity of the character-states. We coded the preorbital present in onychodontiforms although this element is referred to as the posterior tectal. This character is linked with characters 6 and 7.
 > - Clement *et al.* (in review): "
+
 58.Lateral rostral [Ca]: without ventral process (0), with ventral process (1). The ventral process of the lateral rostral is located anteriorly, it could be relatively broad and shallow (e.g., Rhabdoderma elegans) or narrow and longer (e.g., Macropoma lewesiensis).
+> - Clement *et al.* (in review): "
 
 59.Lateral rostral [L&Z4]: forming part of orbit (0), not forming part of orbit (1)
 
 60.Lateral rostral, shape of [new]: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). The shape of the lateral rostral is defined in terms of a ratio between the length of the element and the height (without taking into consideration the extend of the anterodorsal, anteroventral, and posterodorsal processes). Most coelacanths (more than 15 species out of 38 species including the outgroup Onychodus) have a length/height ratio of the lateral rostral around 3. The extreme values for our sample vary between 1.3 (Onychodus jandemarrai) and 10.7 (Axelrodichthys araripensis). The three character-states are defined in terms of the length/height ratio: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), and highly elongated (length/height ratio greater than 5) (2). The three character-states have been ordered to form a morphocline.
+> - Clement *et al.* (in review): "
 
 61.Posterodorsal process of lateral rostral [L&Z5]: absent (0), present (1). The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013)23. It is a well-developed and well-defined process that extends towards the midline of the skull roof [see Axelrodichthys maiseyi, de Carvalho et al. (2013, fig. 3B)23].
+> - Clement *et al.* (in review): "
 
 62.Cheek bones, contact of [Ca23 in part, Cb23, Fa22, Fb29, C29, F&C29, Y29, G29, W29, W&W29, Da29, Z29, GR29, WE29, CAa29, C&G29, A&S29, G&C29, Db29, CAb29, R&S29, T29]: in contact or overlapping (0), separated (1). Cloutier (1991a, b, char. 23)95,96 recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29)12 defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal.
+> - Clement *et al.* (in review): "
 
 63.Contact between lacrimojugal and preorbital and/or supraorbital series [Fb51, C51, F&C51, Y51, G51, W51, W&W51, Da51, Z51, GR51, WE51, CAa51, C&G51, A&S51, G&C51, Db51, CAb51, R&S51, T51]: present (0), absent (1). Character 63 is in part linked with character 57.
+> - Clement *et al.* (in review): "
 
 64.Spiracular [Ca24, Cb24, Fa21, Fb30 polarity, C30 polarity, F&C30 polarity, Y30 polarity, G30 polarity, W30 polarity, W&W30 polarity, Da30 polarity, Z30 polarity, GR30 polarity, WE30 polarity, CAa30 polarity, C&G30 polarity, A&S30 polarity, G&C30 polarity, Db30 polarity, CAb30 polarity, R&S30 polarity, CAc15, CAd15, T30 polarity]: present (0), absent (1). Schaeffer (1952)35 [=postspiracular of Lund & Lund (1985)13].
+> - Clement *et al.* (in review): "
 
 65.Preoperculum [Fa23, Fb31 polarity, C31 modified, F&C31, Y31, G31, W31, W&W31, Da31 polarity, Z31, GR31 polarity, WE31, CAa31, C&G31 polarity, A&S31 polarity, G&C31, Db31, CAb31 polarity, R&S31 polarity, T31 polarity]: present (0), absent (1)
 
@@ -225,41 +254,57 @@
 
 68.Squamosal [L&Z22]: present (0), absent (1)
 
-69.Squamosal, position of [Fb34, C34, F&C34, Y34, G34, W34, W&W34, Da34, Z34, GR34, WE34, CAa34, C&G34, A&S34, G&C34, Db34, CAb34, R&S34, T34]: limited to the midlevel of the cheek (0), extending behind the postorbital to reach skull roof (1). Character 69 is linked with character 68.
+69.Squamosal, position of [Fb34, C34, F&C34, Y34, G34, W34, W&W34, Da34, Z34, GR34, WE34, CAa34, C&G34, A&S34, G&C34, Db34, CAb34, R&S34, T34]: limited to the midlevel of the cheek (0), extending behind the postorbital 
+to reach skull roof (1). Character 69 is linked with character 68.
+> - Clement *et al.* (in review): "
 
 70.Squamosal, position of [new]: posterior to postorbital (0), ventral to postorbital (1). Character 70 is linked with character 68.
 
 71.Squamosal, position of [new]: forming part of upper jaw margin (0), not forming part of upper jaw margin (1). Character 71 is linked with character 68, and partly linked with character 69.
+> - Clement *et al.* (in review): "
 
 72.Squamosal, size of [Cb25 in part, Fb37, C37, F&C37, Y37, G37, W37, W&W37, Da37, Z37, GR37, WE37, CAa37, C&G37, A&S37, G&C37, Db37, CAb37, R&S37, T37]: large bone (0), reduced to a narrow tube (1). Character 72 is linked with character 68.
+> - Clement *et al.* (in review): "
 
 73.Squamosal, shape of [Ca25]: pentagonal (0), quadrilateral (1), triangular (2), irregular (3). Character 73 is linked with character 68.
 
 74.Lacrimal [new]: not fused with jugal (0), fused with jugal (1), fused with jugal and squamosal (2). The three character-states form a morphocline.
 
 75.Stud shaped ossicles near lacrimojugal [new]: absent (0), present (1). Forey (1998, p. 307)12 wrote in the diagnosis of Coelacanthus that the lacrimojugal is associated with small stud-shaped ossicles which must have lain free in the skin, a condition similar to those of Spermatodus.
+> - Clement *et al.* (in review): "
 
 76.Lacrimojugal, shape of [Cb65, Fb35 rephrased, C35 rephrased, F&C35 rephrased, Y35 rephrased, G35, W35, W&W35, Da35 rephrased, Z35 rephrased, GR35 rephrased, WE35 rephrased, CAa35, C&G35 rephrased, A&S35 rephrased, G&C35 rephrased, Db35 rephrased, CAb35 rephrased, R&S35 rephrased, T35 rephrased]: tapering anteriorly (0), not expanded anteriorly (1) expanded anteriorly (2). Forey (1998, char 35)12 recognized two conditions dealing with the anterior shape of the lacrimojugal: not expanded anteriorly (0) and expanded anteriorly (1). He associated the anterior expansion solely to the loss of the preorbital. Herein, we recognized an additional apomorphic condition of the anterior shape of the lacrimojugal which is "tapering anteriorly". The lacrimojugal expands anteriorly in genera such as Axelrodichthys, Chinlea, Libys, and Macropoma, it tapers anteriorly in Atacamaia, Coelacanthus, Luopingcoelacanthus and Wimania, while it is not expanded anteriorly in Hadronector, Polyosteorhynchus, Ticinepomis, and Yunnancoelacanthus. The three character-states form a morphocline. Character 76 is linked with character 74.
+> - Clement *et al.* (in review): "
 
 77.Lacrimojugal, sensory pores of [new]: relatively small size pores through the length of the lacrimojugal (0), anterior pore(s) expanded or forming a groove (1). Character 77 is linked with character 74.
+> - Clement *et al.* (in review): "
 
 78.Lacrimojugal, shape of [Fb36 rephrased, C36 rephrased, F&C36 rephrased, Y36 rephrased, G36, W36, W&W36, Da36 rephrased, Z36 rephrased, GR36 rephrased, WE36 rephrased, CAa36, C&G36 rephrased, A&S36 rephrased, G&C36 rephrased, Db36 rephrased, CAb36 rephrased, R&S36 rephrased, CAc17 modified, CAd17 modified, T36 rephrased]: not angled anteriorly (0), angled anteriorly (1). Forey (1998, char. 36)12 reported that the lacrimojugal ends anteriorly without or with an anterior angle. This downward angle is present in some species (e.g., Whiteia woodwardi, Atacamaia solitaria, Coelacanthus granulatus) in which the lacrimojugal extends more anteriorly than the anterior limit of the orbit. This angle is distinct from the angle that could be observed at mid-length of the ventral margin of the lacrimojugal (e.g., Diplocercides, Ticinepomis). Character 78 is linked with character 74.
+> - Clement *et al.* (in review): "
 
 79.Lacrimojugal ventral margin [G&C110 modified]: without a posteroventral extension (0), with a posteroventral extension (1). Gess & Coates (2015, char. 110)78 defined the shape of the lacrimojugal as elbow-like with a ventral extension. They coded this condition as present in Serenichthys and Diplocercides among the 28 actinistian taxa they coded for. Character 79 is linked with character 74.
+> - Clement *et al.* (in review): "
 
 80.Lacrimojugal ventral margin [G&C110 in part]: linear (0), V-shaped (1), curvilinear (2), sinusoidal (3). Cavin et al. (2020, char. 48)101 defined a lacrimojugal character to reflect differences among derived coelacanths. The lacrimojugal was considered either as being curved (0) or straight (1) in its mid-region. We redefine this character in terms of the ventral margin of the lacrimojugal to consider the disparity of all coelacanths. We are using four character-states to describe the shape of the ventral margin of the lacrimojugal: linear (0) (e.g., Miguashaia bureaui), V-shaped (1) (e.g., Diplocercides kayseri, Foreyia maxkuhni), curvilinear (2) (e.g., Caridosuctor populosum, Coccoderma suevicum), and sinusoidal (3) (e.g., Hadronector donbairdi). The V-shaped condition of the ventral margin of the lacrimojugal is in part associated with the presence of the posteroventral expansion of the margin (Character 79). Character 80 is linked with character 74.
+> - Clement *et al.* (in review): "
 
 81.Lacrimojugal, position of [Cb64]: extending only to anterior of orbit (0), extending to snout (1). Cloutier (1991b, char. 64)96 defined a character to reflect the anterior extent of the lacrimojugal which was suggested to be characteristic of advanced coelacanths by Stensiö (1921)16. However, Cloutier (1991b)96 only coded Mawsonia gigas as having a lacrimojugal extending to the anterior part of the snout. We redefined the apomorphic condition as extending to the snout, rather than the anterior part of the snout. Character 81 is linked with character 74.
+> - Clement *et al.* (in review): "
 
 82.Lacrimojugal postorbital limb [new]: absent (0), present (1). Character 82 takes into account the condition of the lacrimojugal. Therefore, the outgroups are coded as "-". Nevertheless, in Grossius aragonensis, Onychodus jandemarrai and Strunius walteri, the jugal lacks a postorbital limb. Character 82 is linked to character 74.
+> - Clement *et al.* (in review): "
 
 83.Lacrimojugal postorbital limb, extent of [new]: above midorbit level or at midorbit level (0), below midorbit level (1). Character 83 is linked with characters 74 and 82.
+> - Clement *et al.* (in review): "
 
 84.Preopercular and lacrimojugal (jugal), contact of [G&C114]: separated (0), abutting (1)
+> - Clement *et al.* (in review): "
 
 85.Anterodorsal excavation in postorbital [Fb40, C40, F&C40, Y40, G40, W40, W&W40, Da40, Z40, GR40, WE40, CAa40, C&G40, A&S40, G&C40, Db40, CAb40, R&S40, CAc20, CAd20, T40]: absent (0), present (1). Forey (1998, char. 40)12 considered the presence of an anterodorsal excavation in the postorbital to be an apomorphic condition. As described in Latimeria chalumnae, this excavation receives a tough ligamentous connection with the posteriormost supraorbitals (Forey, 1998, p. 98, fig. 4.1)12.
+> - Clement *et al.* (in review): "
 
 86.Postorbital [Cb62, Fb41, C41, F&C41, Y41, G41, W41, W&W41, Da41, Z41, GR41, WE41, CAa41, C&G41, A&S41, G&C41, Db41, CAb41, R&S41, CAc21, CAd21, T41]: without anterior process (0), with anterior process (1). Cloutier (1991b, char. 62)96 defined this anterior process of the postorbital as the anteroventral corner of the postorbital that extends anteriorly beyond the posteroventral margin of the orbit as seen in Mawsonia (e.g., Mawsonia brasiliensis (Yabumoto, 2002, fig. 4)55.
+> - Clement *et al.* (in review): "
 
 87.Postorbital, size of [Cb63, Fb42, C42, F&C42, Y42, G42, W42, W&W42, Da42, Z42, GR42, WE42, CAa42, C&G42, A&S42, G&C42, Db42, CAb42, R&S42, CAc22, CAd22, T42]: large bone (0), reduced to narrow tube (1)
 
@@ -270,6 +315,7 @@
 90.Infraorbital canal, trajectory of [Fb45, C45, F&C45, Y45, G45, W45, W&W45, Da45, Z45, GR45, WE45, CAa45, C&G45, A&S45, G&C45, Db45, CAb45, R&S45, CAc25, CAd25, T45]: running through center of postorbital (0), running along anterior margin of postorbital (1)
 
 91.Jugal canal [Fb46, C46, F&C46, Y46, G46, W46, W&W46, Da46, Z46, GR46, WE46, CAa46, C&G46, A&S46, G&C46, Db46, CAb46, R&S46, CAc26, CAd26, T46]: simple (0), prominent branches (1). Forey (1998, char. 46)12 described the apomorphic condition in which large pores are lying separate from the main trajectory canal of the jugal canal in the squamosal (e.g., Rhabdoderma, Latimeria).
+> - Clement *et al.* (in review): "
 
 92.Jugal canal, trajectory of [Fb47, C47, F&C47, Y47, G47, W47, W&W47, Da47, Z47, GR47, WE47, CAa47, C&G47, A&S47, G&C47, Db47, CAb47, R&S47, CAc27, CAd27, T47]: running through center of bone (0), running along ventral margin of squamosal (1)
 
@@ -286,14 +332,18 @@
 98.Contribution by maxilla to posterior margin of cheek [new]: present (0), absent (1). Character 98 is linked to character 95.
 
 99.Cheek bones, ornament of [Fa56 in part, Fb49, C49, F&C49, Y49, G49, W49, W&W49, Da49, Z49, GR49, WE49, CAa49, C&G49, A&S49, G&C49 in part, Db49, CAb49, R&S49, CAc28, CAd28, T49]: absent or with very fine tuberculation (0), tubercular (1), represented as a coarse superficial rugosity (2), ridged (3). Forey (1998, char. 49)12 considered three character-states to describe the cheek bone ornamentation: tubercular (1), absent (0), and with coarse superficial rugosity (2); in his character description (p. 128), the numbering of these character-states has been mislabeled where only state 1 and 2 have been written. In order to take into account the disparity of the cheek bone ornamentation in coelacanths, we used four character-states that better represent the disparity. In addition, some taxa are coded as a polymorphic condition to include both the tubercular and ridged ornamentation. We are limiting the coding of the cheek bones ornamentation to the condition observed on the postorbital, squamosal, preoperculum, and spiracular; in contrast to some previous papers, we are not taking into consideration the ornamentation of the operculum. Some of the polymorphic conditions correspond to different conditions observed on the preoperculum (frequently with ridges) and the remaining cheek bones (frequently tubercular) of a species.
+> - Clement *et al.* (in review): "
 
 100.Openings for infraorbital jugal and preopercular sensory canals [Fb50 modified, C50 modified, F&C50, Y50, G50, W50, W&W50, Da50 modified, Z50, GR50 modified, WE50, CAa50, C&G50 modified, A&S50 modified, G&C50, Db50, CAb50 modified, R&S50 modified, CAc29, CAd29, T50 modified]: many small pores (0), few large pores (1), large and continuous grooves crossed by pillars (2). Forey (1998, char. 50)12 described two character-states for the sensory openings for the infraorbital, jugal and preopercular canals: many tiny pores (0) and a few large pores (1). Dutel et al. (2012, char. 50)60 added a third character-states taking into account a condition in which there is a large continuous groove crossed by pillars. The three character-states form a morphocline.
+> - Clement *et al.* (in review): "
 
 101.Squamosal and preopercular [Ca26 in part, Cb26]: unfused (0), fused (1). Character 101 is linked to character 65.
 
 102.Foramina similar to infradentary foramina on cheek bones [L&Z16]: absent (0), present (1). Among actinistians, Friedman (2007, char. 47; fig. 4C)98 and Lu & Zhu (2009, char. 16)8 reported the presence of large foramina distinct from the sensory line pores and pit lines on the cheek solely in Styloichthys.
+> - Clement *et al.* (in review): "
 
 103.Suboperculum [Ca29, Cb29, Fa24, Fb32 polarity, C32 polarity, F&C32 polarity, Y32 polarity, G32 polarity, W32 polarity, W&W32 polarity, Da32 polarity, Z32 polarity, GR32 polarity, WE32 polarity, CAa32 polarity, C&G32 polarity, A&S32 polarity, G&C32 polarity, Db32 polarity, CAb32 polarity, R&S32 polarity, CAc16, CAd16, T32 polarity]: present (0), absent (1). Forey (1998)12 defined his character 32 as follows: (0) suboperculum absent, (1) suboperculum present. By out-group comparison (including actinopterygians, onychodontiforms, dipnomorphs and tetrapodomorphs), the presence of a suboperculum is the plesiomorphic condition. Thus, most of the coding that we are using differs from what has been provided by Forey (1998, char. 32)12 and subsequent analyses (up to Toriño et al., 2021, char. 32)14 because of the different polarity of the character.
+> - Clement *et al.* (in review): "
 
 104.Suboperculum, position of [Ca30, Cb30]: suturing with both the preoperculum and operculum (0), suturing only with preoperculum (1), suturing only with operculum (2), isolated (3). Character 104 is linked to characters 65 and 103.
 
@@ -304,24 +354,34 @@
 107.Operculum [new]: without sensory pores (0), with sensory pores (1)
 
 108.Operculum, shape of [Ca28, Cb28]: quadrilateral (0), triangular (1), ovoid (2). Cloutier (1991a, char 28)95 defined a character to describe the shape of the operculum among Palaeozoic coelacanths, either as quadrilateral (including rectangular, square and trapezoidal) (e.g., Miguashaia, Hadronector) and triangular (e.g., Coelacanthus, Rhabdoderma). Cloutier (1991b, p. 406)96 mentioned that the distinction between the two shapes was generally clear with the exception of species having operculum with strongly asymetrical, diamond-shape (e.g., Diplocercides jaekeli). Instead of coding for the global shape of the operculum, Cavin et al. (2020, char. 55)101 characterized the posteroventral edge of the operculum: marks an angle (or posterior margin rounded) (0) (e.g., Macropoma, Latimeria), straight (1) (e.g., Trachymetopon, Mawsonia), and regularly curved (2) (e.g., Axelrodichthys, Chinlea). We redefine the shape of the operculum using three character-states; we add the ovoid shape in contrast to the original description of Cloutier (1991a, b, char. 28)95,96. The ovoid shape takes into account some of the species that could have been coded as a regularly curved margin by Cavin et al. (2020, char. 55)101.
+> - Clement *et al.* (in review): "
 
 109.Dentary, shape of [Cb66, Fa30, Fb57, C57, F&C57, Y57, G57, W57, W&W57, Da57, Z57, GR57, WE57, CAa57, C&G57, A&S57, G&C57, Db57, CAb57, R&S57, CAc31 modified, CAd31 modified, T57]: absence of hook-shape process posteriorly oriented on the dentary (0), presence of hook-shape process posteriorly oriented on the dentary (1). Cloutier (1991b, char. 66)96 described this character as absence (0) or presence (1) of posterodorsal hook on the dentary. Forey (1998, char. 57)12 used a character to describe the shape of the dentary as simple (0) and hook-shaped (1). Forey (1998)12 associated this feature with the elaboration of the muscular lip fold as present in Latimeria chalumnae. This hook-shape is present in a few derived actinistians such as Chinlea, Heptanema, Foreyia, Luopingcoelacanthus, Macropoma, Macropomoides, Undina, Swenzia and Whiteia.
+> - Clement *et al.* (in review): "
 
 110.Dentary relative, size of [new]: dentary much bigger than the splenial (0), dentary approximately the same size as the splenial (1), dentary much smaller than the splenial (2). The relative size of the dentary and splenial considers the general surface of these bones in lateral view. The three character-states form a morphocline. Character 110 is linked with character 133.
+> - Clement *et al.* (in review): "
 
 111.Posterior margin of dentary [new]: relatively at right angle with the dorsal margin (0), dorsally beveled (1), ventrally beveled (2), pointed (X bevel) (3), V-grooved (4). This character takes into account the general shape of the posterior margin of the dentary when looking at the lateral profile of the lateral surface of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the dentary is located ventrally (e.g., Gavinia, Laugia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Libys, Tachymetopon). In the pointed shape (or X bevel), the pointed part of the posterior margin of the dentary is approximately located at mid-height of the dentary (e.g., Coelacanthus, Parnaibaia), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Most coelacanths having a dorsal hook-shape posteriorly oriented on the dentary (Char. 108) have a V-grooved posterior margin. This character does not apply for the out-groups in which a long dentary is known.
+> - Clement *et al.* (in review): "
 
 112.Dentary, orientation of [Ca37, Cb37]: horizontally straight (0), slightly dipping (1), sharply downturned (2). Lund and Lund (1985)13 proposed the lack of a distinct angular diastema in the orientation of the dentary (which thus has a relatively continuous occlusal line with the angular) to be the plesiomorphic condition. Cloutier (1991a, b, char. 37)95,96 suggested that the apomorphic condition corresponds to the presence of a dentary oriented diagonally with the angular. Because of the large disparity of inclination of the dentary we divided the original apomorphic condition into two character-states (slightly dipping and sharply inclined). The three character-states forms a morphocline on the anterior inclination of the dentary. The horizontally straight condition corresponds to the plesiomorphic condition where the dentary is nearly parallel to the main orientation of the lower jaw (e.g., Miguashaia, Caridosuctor, Coelacanthus). In a few species, the dentary is slightly dipping or inclined anteroventrally; the angle of inclination could vary between 10 (e.g., Serenichthys) and 40 degrees (e.g., Diplocercides). The sharply downturned orientation of the dentary corresponds to the condition where the main orientation of the dentary is approximately to a right angle with the main orientation of the lower jaw (e.g., Allenypterus, Diplurus, Foreyia). The three character-states form a morphocline.
+> - Clement *et al.* (in review): "
 
 113.Dentary [Fa29, Fb65, C65, F&C65, Y65, G65, W65, W&W65, Da65, Z65, GR65, WE65, CAa65, C&G65, A&S65, G&C65, Db65, CAb65, R&S65, CAc34, CAd34, T65]: without prominent lateral swelling (0), with prominent lateral swelling (1). Forey (1998, p. 153; char. 65)12 described the presence a prominent lateral swelling on the dentary of Mawsonia, Axelrodichthys and Lualabaea, located in front of the depression for the deep pseudomaxillary fold. This protuberance is a smooth dome-shaped protuberance (see Forey, 1998, char. 5.10A, B)12.
+> - Clement *et al.* (in review): "
 
 114.Dentary, ornament of [Fa32 in part, Fb63, C63, F&C63, Y63, G63, W63, W&W63, Da63, Z63, GR63, WE63, CAa63, C&G63, A&S63, G&C63, Db63, CAb63, R&S63, T63]: with ornament (0), without ornament (1). Character 114 is linked to character 132.
+> - Clement *et al.* (in review): "
 
 115.Dentary teeth [new]: present (0), absent (1). Friedman & Coates (2006, char. 54)47 coded Allenypterus as "?" because of its edentulous condition. We used a separate character to take into account the present or absent of teeth on the mandible.
+> - Clement *et al.* (in review): "
 
 116.Dentary teeth [Fa26, Fb54, C54, F&C54, Y54, G54, W54, W&W54, Da54, Z54, GR54, WE54, CAa54, C&G54, A&S54, G&C54, Db54, CAb54, R&S54, T54]: attached to dentary (0), on separate tooth plates (1). The presence of dentary teeth fused to the dentary or separate from the dentary was used by Forey (1998, char. 54)12. Forey (1998)12 mentioned that the apomorphic condition takes into account both a condition in which teeth are present on separate tooth plates and the edentulous condition (Character 115). Character 116 is linked with character 115.
+> - Clement *et al.* (in review): "
 
 117.Dentary sensory pore [Fa42, Fb61, C61, F&C61, Y61, G61, W61, W&W61, Da61, Z61, GR61, WE61, CAa61, C&G61, A&S61, G&C61, Db61, CAb61, R&S61, T61]: absent (0), present (1). The dentary sensory pore is generally a single large pore associated with the trigeminal nerve; Mawsonia soba differs by the presence of four pores rather than one large pore (Brito et al., 2018)56. As defined by Forey (1998, char. 61)12, this pore is located near the suture between the dentary and the splenial, above the mandibular canal.
+> - Clement *et al.* (in review): "
 
 118.Parasymphysial plate [new]: present (0), absent (1)
 
@@ -330,14 +390,19 @@
 120.Parasymphysial tusk [FR52 in part]: present (0), absent (1). Character 120 is linked with character 118.
 
 121.Coronoid opposite posterior end of dentary [Fa28 in part, Fb56, C56, F&C56, Y56, G56, W56, W&W56, Da56, Z56, GR56, WE56, CAa56, C&G56, A&S56, G&C56, Db56, CAb56, R&S56, CAc30, CAd30, T56]: not modified (0), modified (1). Forey (1998, char. 56)12 described that the fourth coronoid of the anterior series of coronoids is modified in some actinistians. This coronoid is closely associated with the posterior end of the dentary and is modified to bear enlarged tooth/teeth [e.g., Spermatodus (Forey, 1998, fig. 5.8A)12; Undina penicillata (Forey, 1998, fig. 5.12C)12] and the lateral edge rolled over [e.g., Sassenia; see Forey (1998, fig. 5.8B)12]. This coronoid is located anterior to the principal coronoid (char. 122).
+> - Clement *et al.* (in review): "
 
 122.Principal coronoid [new]: present (0), absent (1). An enlarged posterior (principal) coronoid projecting considerably above the occlusal margin of the lower jaw has been recognized by many authors as an actinistian synapomorphy (Schaeffer, 1952; Lund & Lund, 1985; Cloutier, 1991a)13,35,95. Cloutier (1991a)95 recognized the coronoid IV oriented vertically as an actinistian synapomorphy; although we agree that the posteriormost is oriented vertically, the homology of this element with coronoid IV is questioned. The modified coronoid (char. 121) is frequently referred to as Coronoid IV.
+> - Clement *et al.* (in review): "
 
 123.Principal coronoid [Cb68 in part, Fa31 in part, Fb66 in part, C66 in part, F&C66 in part, Y66 in part, G66, W66, W&W66, Da66 in part, Z66 in part, GR66 in part, WE66 in part, CAa66 in part, C&G66 in part, A&S66 in part, G&C66 in part, Db66 in part, CAb66 in part, R&S66 in part, CAc35, CAd35, T66 in part]: lying free (0), sutured to angular (1). Cloutier (1991b)96 mentioned that in most actinistians, the principal coronoid (his "Coronoid IV") abuts the mesial side of the prearticular. Forey (1998, char. 66)12 proposed two character-states for the condition of the principal coronoid: lying free (0) and sutured to the angular (1). Forey (1998, p. 163)12 and Clément (1999, p. 238)68 mentioned that the principal coronoid does not sutured to the angular in most actinistians with the exception of Axelrodichthys and Mawsonia. Character 123 is linked with character 122.
+> - Clement *et al.* (in review): "
 
 124.Principal coronoid, shape of [Ca38 in part, Cb38 in part]: subtriangular (0), subquadrilateral (1), saddle-shaped (2), boomerang-shaped (3). Forey (1981, 1998)12,105 mentioned the difference in the shape of the principal coronoid, but did not defined a character. Cloutier (1991a, char. 38)95 recognized two shapes relative to the lateral view of the principal coronoid (his "coronoid IV") visible above the angular: subtriangular and subquadrilateral. In addition, Cloutier (1991a)95 mentioned that these two character-states did not apply to the shape of Axelrodichthys araripensis. Yabumoto & Uyeno (2005)20 used the shape of the principal coronoid as distinctive for Mawsonia [M. lavocati (Yabumoto & Uyeno, 2005, figs. 6, 7)20 and M. brasiliensis]. Dutel et al. (2015, fig. 1)88 described the principal coronoid of Trachymetopon liassicum as saddle-shape. Fragoso et al. (2018)104 qualified the principal coronoid of Mawsonia/Axelrodichthys complex as saddle shaped displaying a cranial and a caudal process. We added a second apomorphic state to consider this shape. A third apomorphic state, the boomerang-shape, was defined to take into account the curved shape of the principal coronoid of Macropoma lewesiensis (Forey, 1998, fig. 5.13)12. Character 124 is linked with character 122.
+> - Clement *et al.* (in review): "
 
 125.Coronoid fangs [Fb67, C67, F&C67, Y67, G67, W67, W&W67, Da67, Z67, GR67, WE67, CAa67, C&G67, A&S67, G&C67, Db67, CAb67, R&S67, CAc36, CAd36, T67]: absent (0), present (1). Forey (1998, char. 67)12 considered the presence of enlarged teeth lying alongside a replacement socket upon at least some of the anterior coronoids as the apomorphic condition. However, based on outgroup comparison with onychodontiforms, the presence would rather correspond to the plesiomorphic condition.
+> - Clement *et al.* (in review): "
 
 126.Oral pit line [Fa43, Fb58, C58, F&C58, Y58, G58, W58, W&W58, Da58, Z58, GR58, WE58, CAa58, C&G58, A&S58, G&C58, Db58, CAb58, R&S58, T58]: short confined to angular (0), long reaching forward to dentary and or splenial (1)
 
@@ -346,22 +411,26 @@
 128.Subopercular branch of mandibular sensory canal [Fa41, Fb60, C60, F&C60, Y60, G60, W60, W&W60, Da60, Z60, GR60, WE60, CAa60, C&G60, A&S60, G&C60, Db60, CAb60, R&S60, CAc33, CAd33, T60]: absent (0), present (1)
 
 129.Mandibular canal, trajectory of [FR68, L&Z31]: not passing through most posterior infradentary (0), passing through most posterior infradentary (1). Zhu & Yu (2002, char. 80)84, Zhu & Yu (2004)106 and Friedman (2007, char. 68)98 used the trajectory of the mandibular canal in relation to the posteriormost infradentary to address the phylogenetic position among sarcopterygians as well as basal forms of actinistians such as Styloichthys.
+> - Clement *et al.* (in review): "
 
 130.Mandibular canal, trajectory of [L&Z32]: not passing through the lowermost part of the infradentary series with many tubes (0), passing through the lowermost part of the infradentary series with many tubes (1)
 
 131.Lower jaw, ornament of [Fb62, C62, F&C62, Y62, G62, W62, W&W62, Da62, Z62, GR62, WE62, CAa62, C&G62, A&S62, G&C62, Db62, CAb62, R&S62, T62]: ridged (0), tubercular (1), unornamented (2). Forey (1998, char. 62)12 recognized two character-states to describe the ornamentation of the lower jaw: ridged (0) and granular (1) ornament. We recognize an additional character-state to consider the complete disparity of the lower jaw ornament: unornamented (2). Character 131 is partly linked with characters 133 and 114.
+> - Clement *et al.* (in review): "
 
 132.Splenial [new]: present (0), absent (1)
 
 133.Splenial, ornament of [Fa32 in part, Fb64, C64, F&C64, Y64, G64, W64, W&W64, Da64, Z64, GR64, WE64, CAa64, C&G64, A&S64, G&C64, Db64, CAb64, R&S64, T64]: with ornament (0), without ornament (1). Character 133 is linked to character 132.
 
 134.Posterior margin of splenial [new]: relatively at right angle with dorsal margin (0), dorsally beveled (1), ventrally believed (2), pointed (X bevel) (3), V-grooved (4). This character considers the general shape of the posterior margin of the splenial when looking at the lateral profile of the lateral surface of the splenial; this character is similar to Character 111 that is relative to the posterior margin of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the splenial is located ventrally (e.g., Allenypterus, Diplocercides, Garnbergia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Parnaibaia). In the pointed shape (or X bevel), the pointed part of the posterior margin of the splenial is approximately located at mid-height of the splenial (e.g., Coelacanthus, Holophagus), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Character 134 is linked to character 132.
+> - Clement *et al.* (in review): "
 
 135.Prearticular and/or coronoid teeth [Fa27 in part, Fb68, C68, F&C68, Y68, G68, W68, W&W68, Da68, Z68, GR68, WE68 modified, CAa68, C&G68, A&S68, G&C68, Db68, CAb68, R&S68, CAc37, CAd37, T68]: pointed and smooth (0), pointed and marked with fine striations (1), rounded and marked with fine striations (2). The definition and order of character-states have been changed from previous uses of this character [Forey (1991, char. 27 in part)97; Forey (1998, char. 68)12]. Wen et al. (2013, char. 68)54 added an additional apomorphic character-states (pointed and marked with fine striations). The order of the two apomorphic states are changed to obtain three character-states forming a morphocline.
 
 136.Extensive dorsal expansion of angular [Ca]: absent (0), present (1)
 
 137.Angular, depth of [new]: posterior half deeper than anterior half of angular (0), deepest at approximately at midway along the length of the angular (1), anterior half deeper than posterior half of angular (2). Cavin et al. (2020, char. 56)101 defined a character identifying the deepest point of the angular. Two character-states were originally used: approximately midway along length of the bone (0) and near the anterior margin of the bone (1). Since the character-states were primarily defined in order to reflect a difference among derived coelacanths (mainly Mawsonia and Axelrodichthys), we used another state as "posterior half deeper than anterior half of angular" which is herein considered as the plesiomorphic state because it is observed among basal coelacanths. The three character-states form a morphocline. Character 137 is linked to character 136.
+> - Clement *et al.* (in review): "
 
 138.Angular with dentary and splenial, contact of [new]: linear (0), broad V-shaped (1), fine tapering (2), W-shaped (3), interdigitate (4). Character 138 is linked to characters 111 and 132.
 
@@ -384,16 +453,19 @@
 147.Parasphenoid, shape of [new]: margin close to parallel or subparallel (0), flared anteriorly (1). Character 147 reflects the broadening of the anterior part of the parasphenoid as spatulate lateral expansion.
 
 148.Parasphenoid denticle field [Ca34, Cb34, FR169 modified]: denticule field not expanding anterolaterally (0), denticule field expanding anterolaterally (1). Friedman (2007, char. 169)98 defined a character as the absence or presence of “denticle field of parasphenoid with anteriorly divergent lateral margins.” This character reflects if the denticles covered the anterolateral margins of the parasphenoid that flare anteriorly (character 147).
+> - Clement *et al.* (in review): "
 
 149.Parasphenoid denticle field [new]: ending at or anterior to level of foramina for internal carotid arteries (0), extending posterior to internal carotid foramina (1)
 
 150.Parasphenoid [Fa3, Fb61, C79, F&C79, Y79, G79, W79, W&W79, Da79, Z79, GR79, WE79, CAa79, C&G79, A&S79, G&C79, Db79, CAb79, R&S79, CAc39, CAd39, T79]: without ascending laminae anteriorly (0), with ascending laminae anteriorly (1). The anterolateral ascending laminae of the parasphenoid are known in Macropoma and Latimeria (Forey, 1998)12. They also have been referred to as the "prominent lateral wing" (Forey, 1998)12.
 
 151.Buccohypophysial canal [Ca35, Cb35, Fa4 polarity, Fb78 polarity, C78 polarity, F&C78 polarity, Y78 polarity, G78, W78, W&W78, Da78 polarity, Z78 polarity, GR78 polarity, WE78 polarity, CAa78 polarity, C&G78 polarity, A&S78 polarity, G&C78 polarity, Db78 polarity, CAb78 polarity, R&S78 polarity, T78 polarity]: open (0), close (1). Khonsari et al. (2013)107 addressed specifically the evolution of the buccohypophysial foramen with a special interest to coelacanths.
+> - Clement *et al.* (in review): "
 
 152.Entopterygoid, shape of [new]: elongated (0), triangular (1)
 
 153.Ventral swelling of palatoquadrate [Da110, CAa110, C&G110, CAb110, R&S110, CAc47, CAd47, T110]: absent (0), present (1). Dutel et al. (2012, fig. 20)60 illustrated the ventral swelling of the palatoquadrate (their character 110) as a process located on the ventrolateral margin of the entopterygoid seen in Latimeria. According to Dutel et al. (2012)60, the swelling is only observed in Holophagus, Latimeria, Libys, Macropoma, Megalocoelacanthus, and Undina. Toriño et al. (2021, p. 14 SI)14 discussed various codings that have been used in Fragoso’s (2014)108 analysis, and maintained Dutel et al.`s coding.
+> - Clement *et al.* (in review): "
 
 154.Linear subparallel ridges of remodeled denticles on dermal bones lining the oral cavity [FR161]: absent (0), present (1). Friedman (2007, char. 161)98 recognized that a shagreen of denticles is the plesiomorphic conditions in osteichthyans, whereas actinistians share denticles remodeled into long ridges on the oral surface of dermal bones (including the entopterygoids).
 
@@ -410,6 +482,7 @@
 160.Tectum orbitale, size of [new]: narrow (0), extensive (1)
 
 161.Ethmoid articulation for palatoquadrate [FR172]: placed on postnasal wall (0), majority of facet located anterior to postnasal wall (1). Friedman (2007, char. 172)98 originally used this character by including two apomorphic states. Herein, we are solely using one of the two character-states that is relevant with the taxa analyzed. Actinistians are characterized by greatly expanded depressions marking the ethmoid articulation between the palatoquadrate and the neurocranium (Friedman, 2007)98.
+> - Clement *et al.* (in review): "
 
 162.Eye stalk or unfinished area for similar structure [FR95 polarity]: present (0), absent (1). Zhu & Yu (2002, char. 109)84 and Friedman (2007, char. 95)98 used this character with a different polarity.
 
@@ -418,6 +491,7 @@
 164.Foramen for the facial nerve (VII) relative, position of [new]: same level as the anterior tip of the processus connectens (0), dorsal to the anterior tip of the processus connectens (1)
 
 165.Basipterygoid process [Ca36, Cb36, Fb72 polarity, C72 polarity, F&C72 polarity, Y72 polarity, G72, W72, W&W72, Da72 polarity, Z72 polarity, GR72 polarity, WE72 polarity, CAa72, C&G72 polarity, A&S72 polarity, G&C72 polarity, Db72 polarity, CAb72 polarity, R&S72 polarity, T72 polarity]: present (0), absent (1)
+> - Clement *et al.* (in review): "
 
 166.Basipterygoid process, size of [Fa2]: small knob-like process (0), developed as a broad platform (1). Character 166 is linked with character 165.
 
@@ -436,16 +510,19 @@
 173.Orbitosphenoid and basisphenoid regions [Fb69, C69, F&C69, Y69, G69, W69, W&W69, Da69, Z69, GR69, WE69, CAa69, C&G69, A&S69, G&C69, Db69, CAb69, R&S69, T69]: coossified (0), separate (1)
 
 174.Basisphenoid [Fb70, C70, F&C70, Y70, G70, W70, W&W70, Da70, Z70, GR70, WE70, CAa70, C&G70, A&S70, G&C70, Db70, CAb70, R&S70, T70]: extending forward to enclose optic foramen (0), optic foramen lying within separate interorbital ossification or cartilage (1). Forey (1998, char. 70)12 defined a character as the basisphenoid extending forward to enclose the optic foramen (0) or the optic foramen lying within separate interorbital ossification or cartilage (1). Toriño et al. (2021, char. 70)14 rather used the character relative to the optic foramen which is either enclosed by the basisphenoid extending forward (0) or lying within separate interorbital ossification or cartilage (1). Herein, the character concerns two conditions for the basisphenoid: extending forward to enclose the optic foramen (0) and optic foramen lying within separate interorbital ossification or cartilage (1).
+> - Clement *et al.* (in review): "
 
 175.Basisphenoid base of the lateral wings [new]: broad (0), constricted (1)
 
 176.Processus connectens [Fb71 polarity, C71 polarity, F&C71 polarity, Y71 polarity, G71 polarity, W71 polarity, W&W71 polarity, Da71 polarity, Z71 polarity, GR71 polarity, WE71 polarity, CAa71 polarity, C&G71 polarity, A&S71 polarity, G&C71 polarity, Db71 polarity, CAb71 polarity, R&S71 polarity, T71 polarity]: not meeting the parasphenoid (0), meeting the parasphenoid (1). Forey (1998, char. 71)12 considered the processus connectens meeting the parasphenoid as the plesiomorphic state, whereas a processus connectens failing to meet the parasphenoid as the apomorphic state. Cavin & Grădinaru (2014, char. 71)37 and Toriño et al. (2021, char. 71)14 mentioned that the original formulation given by Forey (1998, char. 71)12 is opposite to the character coding observed in Forey’s matrix. Cavin & Grădinaru (2014)37 inverted the original character-states. Therefore, we are using the character-states.
+> - Clement *et al.* (in review): "
 
 177.Antotic process [new]: absent (0), present (1)
 
 178.Antotic process [Fb73, C73, F&C73, Y73, G73, W73, W&W73, Da73, Z73, GR73, WE73, CAa73, C&G73, A&S73, G&C73, Db73, CAb73, R&S73, T73]: not covered by parietal descending process (0), covered by parietal descending process (1). Character 178 is linked with character 177 (antotic process) and character 31 (descending process of parietal).
 
 179.Temporal excavation [Fb74, C74, F&C74, Y74, G74, W74, W&W74, Da74, Z74, GR74, WE74, CAa74, C&G74, A&S74, G&C74, Db74, CAb74, R&S74, CAc38, CAd38, T74]: lined with bone (0), not lined with bone (1). The prootic presents two roughened areas: an anterior one, the prefacial eminence, that is sutured on the inner side with the postparietal descending (ventral) process, and a posterior one suturing with the tabular descending (ventral) process. The temporal excavation is located between these two areas. Forey (1998, char. 74)12 defined two character-states for the condition of the temporal excavation (or temporal fossa): lined with bone and not lined with bone. In his list of characters, Forey (1998, p. 192)12 coded this temporal excavation as lined with bone (1) and not lined with bone (0). Toriño et al. (2021, char. 74)14 used "0" for lined with bone and "1" for not lined.
+> - Clement *et al.* (in review): "
 
 180.Otic region [new]: mainly ossified (0), mainly cartilaginous (1)
 
@@ -458,10 +535,12 @@
 184.Otico-occipital [Fa5, Fb75, C75, F&C75, Y75, G75, W75, W&W75, Da75, Z75, GR75, WE75, CAa75, C&G75, A&S75, G&C75, Db75, CAb75, R&S75, T75]: solid (0), separated to prootic and opisthotic (1)
 
 185.Otico-occipital [new]: not hypertrophied (0), hypertrophied (1). Cavin et al. (2017)41 mentioned that the condition of the otico-occipital in Foreyia was hypertrophied in comparison to the generalized coelacanth Bauplan. It is suggested that in Foreyia that the postparietal, supratemporal (or tabular) and extrascapulars are all fused together. Not only the otico-occipital part of the skull roof forms a single ossified component, but this component is larger than in other coelacanths.
+> - Clement *et al.* (in review): "
 
 186.Supraoccipital [Fb76, C76, F&C76, Y76, G76, W76, W&W76, Da76, Z76, GR76, WE76, CAa76, C&G76, A&S76, G&C76, Db76, CAb76, R&S76, T76]: absent (0), present (1)
 
 187.Vestibular fontanelle accessory fenestration of otic capsule, size of [Fb77, C77, F&C77, FR181, Y77, G77, L&Z14, W77, W&W77, Da77 homology, Z77, GR77, WE77, CAa77, C&G77 homology, A&S77 homology, G&C77, Db77, CAb77 homology, R&S77 homology, T77 homology]: small (0), large (1). Forey (1998, char. 77)12 and subsequent analyses [up to Toriño et al. (2021, char. 80)14] coded for the presence or absence of the vestibular fontanelle. Herein, we are redefining the vestibular fontanelle character in terms of its size. We considered a vestibular fontanelle to be large if it occupies 33% or more of the length of the otico-occipital region of the neurocranium; this condition is found in Macropoma precursor (Forey, 1998, fig. 6.10)12. A vestibular fontanelle is considered to be small if it occupies less than 25% of the length of the otico-occipital region of the neurocranium; this condition is seen in Laugia groenlandica (Forey, 1998, fig. 6.7)12 and Sassenia groenlandica (Forey, 1998, fig. 6.8)12.
+> - Clement *et al.* (in review): "
 
 188.Suprapterygoid process [Fb80, C80, F&C80, Y80, G80, W80, W&W80, Da80, Z80, GR80, WE80, CAa80, C&G80, A&S80, G&C80, Db80, CAb80, R&S80, T80]: absent (0), present (1)
 
@@ -510,6 +589,7 @@
 210.Anocleithrum [new]: subdermal (0), dermal (1)
 
 211.Anocleithrum, shape of [Fb89, C89, F&C89, Y89, G89, W89, W&W89, Da89, Z89, GR89, WE89, CAa89, C&G89, A&S89, G&C89, Db89, CAb89, R&S89, CAc40, CAd40, T89]: ovoid (0), sigmoid (1), forked (2), broad plate like (3), triangular (4). Forey (1998, char. 89)12 and subsequent analyses [up to Toriño et al. (2021, char. 89)14 used solely two shapes [simple (0) and forked (1)] to describe the disparity of the shape of the anocleithrum. We are defining the plesiomorphic shape as ovoid as could be observed in the outgroup Onychodus jandemarrai (Andrews et al., 2006, figs. 5b, 21c-e)4 and Miguashaia bureaui (Cloutier, 1996, figs. 13A-B, 14C)61. Three apomorphic states are used to cover the disparity of anocleithral shape among coelacanths: sigmoid (1; e.g., Allenypterus montanus, Hadronector donbairdi), forked (2; e.g., Caridosuctor populosum), broad plate-like (3; e.g., Rhabdoderma elegans), and triangular (4; e.g., Coccoderma suevicum).
+> - Clement *et al.* (in review): "
 
 212.Anocleithrum, position of [new]: at dorsal end of cleithrum (0), at midpoint of cleithrum (1)
 
@@ -524,6 +604,7 @@
 217.Extracleithrum [new]: without anteroventral canal (0), with anteroventral canal (1). Character 217 is linked with character 216.
 
 218.Extracleithrum and clavicle, dorsal extent of [new]: extracleithrum extends more dorsally than clavicle (0), extracleithrum and clavicle extend dorsally approximately at the same level (1), clavicle extends more dorsally than the extracleithrum (2). This character is not polarized based on out-group comparison because the out-groups do not have an extracleithrum. However, in basal actinistians both elements extend approximately at the same level (e.g., Miguashaia bureaui) or the clavicle extends slightly more dorsally than the extracleithrum (e.g., Miguashaia grossi). The three character-states form a morphocline. Character 218 is linked with character 216.
+> - Clement *et al.* (in review): "
 
 219.Cleithrum and clavicle [new]: not forming a prominent postbranchial lamina (0), forming a prominent postbranchial lamina (1)
 
@@ -532,16 +613,21 @@
 221.Facet posterior to glenoid [new]: absent (0), present (1)
 
 222.Pectoral lepidotrichia [Fb99 in part, C99 in part, F&C99 in part, Y99 in part, G99 in part, W99 in part, W&W99 in part, Da99 in part, Z99 in part, GR99 in part, WE99 in part, CAa99 in part, C&G99 in part, A&S99 in part, G&C99 in part, Db99 in part, CAb99 in part, R&S99 in part, T99 in part]: not expanded (0), expanded (1). Forey (1998, char. 99)12 described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., Laugia, Coccoderma, Holophagus, and Libys) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in Libys and Holophagus, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in Laugia and Coccoderma, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 222 takes into account solely the condition of the pectoral lepidotrichia.
+> - Clement *et al.* (in review): "
 
 223.Pelvic lepidotrichia [Fb99 in part, C99 in part, F&C99 in part, Y99 in part, G99 in part, W99 in part, W&W99 in part, Da99 in part, Z99 in part, GR99 in part, WE99 in part, CAa99 in part, C&G99 in part, A&S99 in part, G&C99 in part, Db99 in part, CAb99 in part, R&S99 in part, T99 in part]: not expanded (0), expanded (1). Forey (1998, char. 99)12 described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., Laugia, Coccoderma, Holophagus, and Libys) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in Libys and Holophagus, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in Laugia and Coccoderma, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 223 takes into account solely the condition of the pelvic lepidotrichia.
+> - Clement *et al.* (in review): "
 
 224.Pelvic fins, position of [Ca43, Cb43 and 71, Fa51, Fb100 polarity, C100 polarity, F&C100 polarity, Y100 polarity, G100 polarity, W100 polarity, W&W100 polarity, Da100 polarity, Z100 polarity, GR100, WE100, CAa100, C&G100 polarity, A&S100 polarity, G&C100 polarity, Db100 polarity, CAb100 polarity, R&S100 polarity, T100 polarity]: anterior to level of D1 (0), between level of D1 and D2 (1), posterior to level of D2 (2). The three character-states form a morphocline. The order of character-states has been changed from the original description of the character (Cloutier, 1991a,b, char. 4395,96; Forey, 1991, char. 5197; Forey, 1998, char. 10012).
+> - Clement *et al.* (in review): "
 
 225.Pelvic bones on each side [Fb108, C108, F&C108, Y108, G108, W108, W&W108, Da108, Z108, GR108, WE108, CAa108, C&G108, A&S108, G&C108, Db108, CAb108, R&S108, T108]: separate (0), fused in midline (1)
 
 226.Anterior process(es) of pelvic plate [new]: single (0), forked (1). Schaeffer (1941)111 revised morphology of the pelvic plates in seven coelacanth taxa. The morphology of the pelvic plate was described in terms of three components of the pelvic plates: the anterior division, the posterior division and the medial process. We considered that the "anterior division" is composed between one to three processes: the anteromedial, the anterolateral and the lateral processes. The "posterior division" includes the posterior process; occasionally the lateral process seems to be coalescent with the posterior process. The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes. If a single anterior process is present (e.g., Changxingia, Libys) it is assumed that it corresponds generally to the anteromedial process. The forked condition corresponds to the clear presence of an anterior bifurcation, most likely corresponding to the presence of both the anteromedial and anterolateral processes.
+> - Clement *et al.* (in review): "
 
 227.Anterior processes of pelvic plate relative, length of [new]: anteromedial process longer than anterolateral process (0), anteromedial and anterolateral processes approximately the same length (1), anteromedial process shorter than anterolateral process (2). The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes; character 227 is linked with the forked condition of character 226. These processes correspond in part to the anterior division of the pelvic girdle mentioned by Schaeffer (1941)111. The three character-states are organized into a morphocline reflecting the relative length of the anteromedial and anterolateral processes.
+> - Clement *et al.* (in review): "
 
 228.Medial process of pelvic plate [new]: absent (or cartilaginous) (0), present (1)
 
@@ -552,12 +638,14 @@
 231.Distal radials of basal plates [Ca]: present (0), absent (1) 
 
 232.D1 basal plate, ventral margin of [Ca45, Cb45, Fb101, C101, F&C101, Y101, G101, W101, W&W101, Da101, Z101, GR101, WE101, CAa101, C&G101, A&S101, G&C101, Db101, CAb101, R&S101, T101]: smooth (0), emarginated and accommodating the tips of adjacent neural spines (1)
+> - Clement *et al.* (in review): "
 
 233.D1 basal plate, shape of [Cb73]: hemispherical or ovoid (0), triangular (1), trapezoidal or pentagonal (2). Schaeffer (1941)111 reported that in most coelacanth genera the basal plate of the first dorsal fin is triangular with the apex directed anteriorly.
 
 234.D1 lepidotrichia [Cb72, Fa49, Fb98, C98, F&C98, Y98, G98, W98, W&W98, Da98, Z98, GR98, WE98, CAa98, C&G98, A&S98, G&C98, Db98, CAb98, R&S98, CAc43, CAd43, T98]: without denticles (0), with denticles (1)
 
 235.D1 lepidotrichia [new]: same width as the lepidotrichia of the second dorsal and anal fins (0), substantially stouter than the second dorsal and anal fins (1). We considered a lepidotrichia to be substantially stouter when it is from two to three times broader than the lepidotrichia of the second dorsal and anal fins. Occasionally the caudal lepidotrichia could also be as stout as those of the first dorsal fin. This condition is clearly visible in Undina penicillata (see Arratia et al., 2001, fig. 31)112, Whiteia oishii (Yabumoto & Brito, 2016, fig. 2b)92, Ticinepomis peyeri (Cavin et al., 2013, fig. 4)87.
+> - Clement *et al.* (in review): "
 
 236.D2 fin [G&C113]: without a lobe (0), with a lobe (1)
 
@@ -585,7 +673,9 @@
 
 248.Caudal fin [Ca51, Cb51, Fa45 in part, Fb93 in part, C93 in part, F&C93 in part, Y93 in part, G93, W93, W&W93, Da93 in part, Z93 in part, GR93 in part, WE93 in part, CAa93 in part, C&G93 in part, A&S93 in part, G&C93 in part, Db93 in part, CAb93 in part, R&S93 in part, T93 in part]: heterocercal (0), diphycercal (1), triphycercal (2)
 
+> - Clement *et al.* (in review): "
 249.Epichordal and hypochordal lobes of caudal fin [new]: convex (0), concave (1), pointed (2). The convex, concave and pointed conditions only apply to the diphycercal and triphycercal conditions of character 248. The posterior profile of the caudal fin of actinistians varies among taxa. Three character-states are defined based on the curvature provided by the distal extremities of epichordal and hypochordal lepidotrichia of the caudal fin excluding the supplementary lobe. The caudal fin could either be convex (i.e., rounded curvature outward; e.g., Latimeria, Caridosuctor, Diplurus), concave (i.e., rounded curvature inward; e.g., Rebellatrix) or pointed (e.g., Allenypterus, Holopterygius). This character does not apply for actinistians having an heterocercal caudal fin (e.g., Miguashaia, Gavinia). Character 249 is linked to character 248.
+> - Clement *et al.* (in review): "
 
 250.Caudal lobes [Fa46, Fb97, C97, F&C97, Y97, G97, W97, W&W97, Da97, Z97, GR97, WE97, CAa97, C&G97, A&S97, G&C97, Db97, CAb97, R&S97, T97]: symmetrical (0), asymmetrical (1). The distinction between symmetrical and asymmetrical dorsal and ventral lobes of the caudal fin was not clarified by Forey (1998, char. 97)12. Generally, the ventral lobe bears 1 or 2 lepidotrichia less than the dorsal lobe. We considered a condition with a difference of up to two lepidotrichia as symmetrical.
 
@@ -604,160 +694,303 @@
 257.Vertebrae, alignment of [new]: linear above abdominal cavity (0), strongly arched above abdominal cavity (1)
 
 258.Supraneural [FR125]: presence of “supraneurals” along most of the abdominal-thoracic region of the axial skeleton (0), presence of “supraneurals” limited to 1-5 vertebrae located anteriorly to the insertion of the epichordal lobe of the caudal fin (1), absence of “supraneurals” anteriorly to the insertion of the epichordal lobe of the caudal fin (2). According to Arratia et al. (2001)112, ''supraneurals'' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia et al. (2001)112 illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia et al., 2001, fig. 30)112 and Undina penicillata (Arratia et al., 2001, fig. 31)112. They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125)98 considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline.
+> - Clement *et al.* (in review): "
 
 259.Neural spines [new]: abutting one another (0), not abutting (1)
 
 260.Cervical neural arches, shape of [Fa53, Fb91, C91, F&C91, Y91, G91, W91, W&W91, Da91, Z91, GR91, WE91, CAa91, C&G91, A&S91, G&C91, Db91, CAb91, R&S91, T91]: not expanded (0), expanded (1)
 
 261.Haemal spines [Fb90, C90, F&C90, Y90, G90, W90, W&W90, Da90, Z90, GR90, WE90, CAa90, C&G90, A&S90, G&C90, Db90, CAb90, R&S90, T90]: abutting one another (0), not abutting (1). Forey (1998, char. 90)12 considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in Miguashaia and Diplocercides; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines.
+> - Clement *et al.* (in review): "
 
 262.Ossified ribs [Cb69, Fa52, Fb92, C92, F&C92, Y92, G92, W92, W&W92, Da92, Z92, GR92, WE92, CAa92, C&G92, A&S92, G&C92, Db92, CAb92, R&S92, CAc44, CAd44, T92]: absent (0), present (1). Lambers (1992)31 mentioned that the presence of pleural ribs is rare in coelacanths. Since 1992, a few species with anatomical structures identified as ossified ribs are fairly common. Cloutier (1991b, char. 69)96 coded for the presence of pleural ribs, whereas Forey (1991, char. 52)97 coded for the presence of "long, ossified ribs". Lambers (1992, p. 43)31 suggested that this character should be coded as three character-states: absence of ossified ribs (0), presence of small, rudimentary ribs (1; as in Libys and Undina) and large ossified ribs (2; as in Diplurus).
+> - Clement *et al.* (in review): "
 
 263.Scale ornament [Fa54, Fb104, C104, F&C104, Y104, G104, W104, W&W104, Da104, Z104, GR104, WE104, CAa104, C&G104, A&S104, G&C104, Db104, CAb104, R&S104, CAc44, CAd44, T104]: not differentiated (0), differentiated (1). Forey (1991, char. 54)97 first defined this character. He mentioned that the plesiomorphic condition corresponds to a scale with a dense covering of uniform tubercles and/or ridges. The apomorphic condition (i.e., differentiated) as originally defined, corresponds to a scale where “the central tubercles are very much enlarged, hollow and surrounded by much smaller tubercles.” Mondéjar-Fernàndez et al. (2021)113 reviewed scale ornament for all coelacanth species.
+> - Clement *et al.* (in review): "
 
 264.Scale ornament [Fa56 in part, Fb106, C106, F&C106, Y106, G106, W106, W&W106, Da106, Z106, GR106, WE106, CAa106, C&G106, A&S106, G&C106, Db106, CAb106, R&S106, CAc45, CAd45, T106]: longitudinal ridges and tubercules (0), only longitudinal ridges (1), only tubercules (2). Forey (1998, char. 106)12 defined two character-states to take into account the condition of scale ornament: ridges or tubercles (0) and rugose (1). Since most of the disparity among coelacanths comes from the presence or absence of ridges and tubercles, we used three character-states to describe these conditions. Only three taxa were coded as having rugose ornament (i.e., Mawsonia, Axelrodichthys, and Guizhoucoelacanthus) by Toriño et al. (2021, char. 106)14. Mondéjar-Fernàndez et al. (2021, table 1)113 summarized the type of ornament on the exposed area of the external surface of the scales for numerous coelacanth species.
+> - Clement *et al.* (in review): "
 
 265.Scale inner surface [new]: without bumps (0), with bumps (1). Cloutier (1996, fig. 17D)61 and Mondéjar-Fernàndez et al. (2021, fig. 2)113 figured and described the presence of small circular bumps on the inner surface of the scales of Miguashaia bureaui.
+> - Clement *et al.* (in review): "
 
 266.Lateral line pores per scale [Ca2, Cb2, Fa55 polarity, Fb105, C105, F&C105, Y105, G105, W105, W&W105, Da105, Z105, GR105, WE105, CAa105, C&G105, A&S105, G&C105, Db105, CAb105, R&S105, T105]: single (0), multiple (1)
 
 267.Ventral keel scales [F&C109, G109, W109, W&W109, Da109, Z109, GR109, WE109, CAa109, C&G109, A&S109, G&C109, Db109, CAb109, R&S109, T109]: absent (0), present (1). Friedman & Coates (2006, char. 109)47 used the absence or presence of ventral keel scales. They coded the presence of ventral keel scales in Allenypterus and Holopterygius; a polymorphic state was coded for the actinopterygian out-group.
+> - Clement *et al.* (in review): "
 
 268.Lung [Fb107, C107, F&C107, Y107, G107, W107, W&W107, Da107, Z107, GR107, WE107, CAa107, C&G107, A&S107, G&C107, Db107, CAb107, R&S107, CAc46, CAd46, T107]: not ossified (0), ossified (1). Forey (1998, char. 107)12 referred to the condition of the swimbladder rather than the condition of the lung (Cavin et al., 2019, char. 46)100. Brito et al. (2010)114 and Cupello et al. (2017)115 investigated the structure identified as the calcified lungs in actinistians and more specifically that of Axelrodichthys. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of Latimeria also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)116.
+> - Clement *et al.* (in review): "
 
-Renesto, S. & Stockar, R. First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Rivista Italiana di Paleontologia e Stratigrafia 124, 639-653, doi:10.13130/2039-4942/10771 (2018).
-2	Brownstein, C. D. & Bissell, I. C. Species delimitation and coexistence in an ancient, depauperate vertebrate clade. BMC Ecology and Evolution 22, e90, doi:10.1186/s12862-022-02043-4 (2022).
-3	Cohen, K. M., Finney, S. C., Gibbard, P. L. & Fan, J.-X. The ICS international chronostratigraphic chart. Episodes 36, 199-204 ((2013; updated 2022 version 02)).
-4	Andrews, S. M., Long, J., Ahlberg, P., Barwick, R. & Campbell, K. The structure of the sarcopterygian Onychodus jandemarrai n. sp. from Gogo, Western Australia: With a functional interpretation of the skeleton. Transactions of the Royal Society of Edinburgh-Earth Sciences 96, 197-307 (2006).
+1 Renesto, S. & Stockar, R. First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Rivista Italiana di Paleontologia e Stratigrafia 124, 639-653, doi:10.13130/2039-4942/10771 (2018).
+
+2 Brownstein, C. D. & Bissell, I. C. Species delimitation and coexistence in an ancient, depauperate vertebrate clade. BMC Ecology and Evolution 22, e90, doi:10.1186/s12862-022-02043-4 (2022).
+
+3 Cohen, K. M., Finney, S. C., Gibbard, P. L. & Fan, J.-X. The ICS international chronostratigraphic chart. Episodes 36, 199-204 ((2013; updated 2022 version 02)).
+
+4 Andrews, S. M., Long, J., Ahlberg, P., Barwick, R. & Campbell, K. The structure of the sarcopterygian Onychodus jandemarrai n. sp. from Gogo, Western Australia: With a functional interpretation of the skeleton. Transactions of the Royal Society of Edinburgh-Earth Sciences 96, 197-307 (2006).
+
 5	Jessen, H. Weitere Fischreste aus dem Oberen Plattenkalk der Bergisch-Gladbach-Paffrather Mulde (Oberdevon, Rheinisches Schiefergebirge). Palaeontographica A 143, 159-187 (1973).
+
 6	Schultze, H.-P. & Cloutier, R. in Devonian Fishes and Plants of Miguasha, Quebec, Canada   (eds H.-P. Schultze & R. Cloutier)  348-368 (Verlag Dr. Friedrich Pfeil, 1996).
+
 7	Jessen, H. Die Crossopterygier des Oberen Plattenkalkes (Devon) der Bergisch-Gladbach-Paffrather Mulde (Rheinisches Schiefergebirge) unter Berücksichtigung von amerikanischem und europäischem Onychodus-Material. Arkiv för Zoologi 18, 306-389 (1966).
+
 8	Lu, J. & Zhu, M. An onychodont fish (Osteichthyes, Sarcopterygii) from the Early Devonian of China, and the evolution of the Onychodontiformes. Proceedings of the Royal Society B-Biological Sciences 277, 293-299, doi:10.1098/rspb.2009.0708 (2009).
+
 9	Schultze, H.-P. Crossopterygier mit heterozerker Schwanzflosse aus dem Oberdevon Kanadas, nebst einer Beschreibung von Onychodontida-Resten aus dem Mitteldevon Spaniens und aus dem Karbon der USA. Palaeontographica Abt. A 143, 188-208 (1973).
+
 10	Beltan, L. L. La faune ichthyologique du Muschelkalk de la Catalogne. Memorias de la Real Academia de Ciencias y Artes de Barcelona 41, 281-323 (1972).
+
 11	Beltan, L. Quelques poissons du Muschelkalk supérieur d'Espagne. Acta Geológica Hispánica 19, 117-127 (1984).
+
 12	Forey, P. L. History of the Coelacanth Fishes.  (Chapman & Hall, 1998).
+
 13	Lund, R. & Lund, W. L. Coelacanths from the Bear Gulch Limestone (Namurian) of Montana and the evolution of the Coelacanthiformes. Bulletin of Carnegie Museum of Natural History 25, 1-74 (1985).
+
 14	Toriño, P., Soto, M. & Perea, D. A comprehensive phylogenetic analysis of coelacanth fishes (Sarcopterygii, Actinistia) with comments on the composition of the Mawsoniidae and Latimeriidae: Evaluating old and new methodological challenges and constraints. Historical Biology 33, 3423-3443, doi:10.1080/08912963.2020.1867982 (2021).
+
 15	Arratia, G. & Schultze, H. P. A new fossil actinistian from the Early Jurassic of Chile and its bearing on the phylogeny of Actinistia. Journal of Vertebrate Paleontology 35, doi:10.1080/02724634.2015.983524 (2015).
+
 16	Stensiö, E. A. Triassic fishes from Spitzbergen.  Part I.  A.  (Holzhausen, 1921).
+
 17	Mørk, A. et al. The type section of the Vikinghøgda Formation: a new Lower Triassic unit in central and eastern Svalbard. Polar Research 18, 51-82, doi:10.1111/j.1751-8369.1999.tb00277.x (1999).
+
 18	Maisey, J. G. Coelacanths from the Lower Cretaceous of Brazil. American Museum Novitates, 1-30 (1986).
+
 19	Arai, M. & Assine, M. L. Chronostratigraphic constraints and paleoenvironmental interpretation of the Romualdo Formation (Santana Group, Araripe Basin, Northeastern Brazil) based on palynology. Cretaceous Research 116, doi:10.1016/j.cretres.2020.104610 (2020).
+
 20	Yabumoto, Y. & Uyeno, T. New materials of the Cretaceous coelacanth, Mawsonia lavocati Tabaste from Morocco. Bulletin of the National Science Museum, Tokyo, Series C: Geology & Paleontology 31, 39-49 (2005).
+
 21	Tabaste, N. Étude de restes de poissons du Crétacé saharien. Mémoires de l'Institut français d'Afrique Noire 68, 437-485 (1963).
+
 22	Ibrahim, N. et al. Geology and paleontology of the Upper Cretaceous Kem Kem Group of eastern Morocco. Zookeys, 1-216, doi:10.3897/zookeys.928.47517 (2020).
+
 23	de Carvalho, M. S. S., Gallo, V. & Santos, H. R. S. New species of coelacanth fish from the Lower Cretaceous (Albian) of the Grajau Basin, NE Brazil. Cretaceous Research 46, 80-89, doi:10.1016/j.cretres.2013.09.006 (2013).
+
 24	Cavin, L., Valentin, X. & Garcia, G. A new mawsoniid coelacanth (Actinistia) from the Upper Cretaceous of Southern France. Cretaceous Research 62, 65-73, doi:10.1016/j.cretres.2016.02.002 (2016).
+
 25	Wendruff, A. J. & Wilson, M. V. H. New Early Triassic coelacanth in the family Laugiidae (Sarcopterygii: Actinistia) from the Sulphur Mountain Formation near Wapiti Lake, British Columbia, Canada. Canadian Journal of Earth Sciences 50, 904-910, doi:10.1139/cjes-2013-0010 (2013).
+
 26	Wang, N. & Liu, H. Coelacanth fishes from the marine Permian of Zhejiang, South China. Vertebrata PalAsiatica 10, 305-312 (1981).
+
 27	Shen, S. Z. et al. Permian integrative stratigraphy and timescale of China. Science China-Earth Sciences 62, 154-188, doi:10.1007/s11430-017-9228-4 (2019).
+
 28	Jin, X. S. New species of coelacanth from Changxing Formation of Zhejiang. Bulletin of Science and Technology 13, 143-147 (1997).
+
 29	Tong, J. N., Zhou, X. J., Erwin, D. H., Zuo, J. X. & Zhao, L. S. Fossil fishes from the Lower Triassic of Majiashan, Chaohu, Anhui Province, China. Journal of Paleontology 80, 146-161, doi:10.1666/0022-3360(2006)080[0146:Ffftlt]2.0.Co;2 (2006).
+
 30	Schaeffer, B. Late Triassic fishes from the Western United States. Bulletin of the American Museum of Natural History 135, 1-18 (1967).
+
 31	Lambers, P. H. On the ichthyofauna of the Solnhofen lithographic limestone (Upper Jurassic, Germany) Ph.D. thesis, Rijkuniversiteit Groningen, (1992).
+
 32	Dietl, G. & Schweigert, G. The Nusplingen lithographic limestone - A "fossil lagerstaette" of Late Kimmeridgian age from the Swabian Alb (Germany). Rivista Italiana Di Paleontologia E Stratigrafia 110, 303-309 (2004).
+
 33	Schmid, D. U., Leinfelder, R. R. & Schweigert, G. Stratigraphy and palaeoenvironments of the Upper Jurassic of Southern Germany–a review. Zitteliana B 26, 31-41 (2005).
+
 34	Schaumberg, G. Neubeschreibung von Coelacanthus granulatus Agassiz (Actinistia, Pisces) aus dem Kupferschiefer von Richelsdorf (Perm, W.-Deutschland). Paläontologische Zeitschrift 52, 169-197 (1978).
+
 35	Schaeffer, B. The Triassic coelacanth fish Diplurus, with observations on the evolution of the Coelacanthini. Bulletin of the American Museum of Natural History 99, 29-78 (1952).
+
 36	Kent, D. V., Olsen, P. E. & Muttoni, G. Astrochronostratigraphic polarity time scale (APTS) for the Late Triassic and Early Jurassic from continental sediments and correlation with standard marine stages. Earth-Science Reviews 166, 153-180 (2017).
+
 37	Cavin, L. & Grădinaru, E. Dobrogeria aegyssensis, a new early Spathian (Early Triassic) coelacanth from North Dobrogea (Romania). Acta Geologica Polonica 64, 161-187, doi:10.2478/agp-2014-0010 (2014).
+
 38	Johanson, Z., Long, J. A., Talent, J. A., Janvier, P. & Warren, J. W. Oldest coelacanth, from the Early Devonian of Australia. Biology Letters 2, 443-446, doi:10.1098/rsbl.2006.0470 (2006).
+
 39	Gross, W. Die paläontologische und stratigraphische Bedeutung der Wirbeltierfaunen des Old Reds und der marinen altpaläozoischen Schichten. Abhandlungen der deutschen Akademie der Wissenschaften zu Berlin, Mathematisch-Naturwissenschaftliche Klasse 1949, 1-130 (1950).
+
 40	Zhu, M. et al. Earliest known coelacanth skull extends the range of anatomically modern coelacanths to the Early Devonian. Nature 3, doi:10.1038/ncomms1764 (2012).
+
 41	Cavin, L., Mennecart, B., Obrist, C., Costeur, L. & Furrer, H. Heterochronic evolution explains novel body shape in a Triassic coelacanth from Switzerland. Scientific Reports 7, e13695, doi:10.1038/s41598-017-13796-0 (2017).
+
 42	Hagdorn, H. & Mutter, R. J. The vertebrate fauna of the Lower Keuper Albertibank (Erfurt Formation, Middle Triassic) in the vicinity of Schwäbisch Hall (Baden-Württemberg, Germany). Palaeodiversity 4, 223-243 (2011).
+
 43	Martin, M. & Wenz, S. Découverte d'un nouveau Coelacanthidé, Garnbergia ommata n.g., n.sp., dans le Muschelkalk supérieur du Baden-Württemberg. Stuttgarter Beiträge zur Naturkunde, Serie B (Geologie und Paläontologie) 105, 1-17 (1984).
+
 44	Long, J. A. A new genus of fossil coelacanth (Osteichthyes: Coelacanthiformes) from the Middle Devonian of southeastern Australia. Records of the Western Australian Museum, Supplement, 37-53 (1999).
+
 45	Geng, B.-H., Zhu, M. & Jin, F. A revision and phylogenetic analysis of Guizhoucoelacanthus (Sarcopterygii, Actinistia) from the Triassic of China. Vertebrata PalAsiatica 47, 165-177 (2009).
+
 46	Schweizer, R. Ein Coelacanthide aus dem Oberen Muschelkalk Göttingens. Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 125, 216-226 (1966).
+
 47	Friedman, M. & Coates, M. I. A newly recognized fossil coelacanth highlights the early morphological diversification of the clade. Proceedings of the Royal Society B-Biological Sciences 273, 245-250, doi:10.1098/rspb.2005.3316 (2006).
+
 48	Hartkopf-Fröder, C., Jux, U., Knapp, G. & Piecha, M. The Late Devonian of the Bergisch Gladbach-Paffrath Syncline (Ardennes-Rhenish Massif, Germany): An overview. Courier Forschungsinstitut Senckenberg 251, 7-18 (2004).
+
 49	Jain, S. L. Indocoelacanthus robustus n. gen., n. sp. (Coelacanthidae, Lower Jurassic), the first fossil coelacanth from India. Journal of Paleontology 48, 49-62 (1974).
+
 50	Gradstein, F. M. et al. in Geochronology, Time Scales and Global Stratigraphic Correlation   (eds W. A. Berggren, D. V. Kent, M.-P. Aubry, & J. Hardenbol)  95-128 (SEPM Special Publication, 1995).
+
 51	Kadarusman et al. A thirteen-million-year divergence between two lineages of Indonesian coelacanths. Scientific Reports 10, doi:10.1038/s41598-019-57042-1 (2020).
+
 52	Nielsen, E. Some few preliminary remarks on Triassic fishes from East Greenland. Meddelelser om Grønland 112, 1-55 (1936).
+
 53	Surlyk, F., Bjerager, M., Piasecki, S. & Stemmerik, L. Stratigraphy of the marine Lower Triassic succession at Kap Stosch, Hold with Hope, North- East Greenland. Bulletin of the Geological Society of Denmark 65, 87-123 (2017).
+
 54	Wen, W. et al. Coelacanths from the Middle Triassic Luoping Biota, Yunnan, South China, with the earliest evidence of ovoviviparity. Acta Palaeontologica Polonica 58, 175-193, doi:10.4202/app.2011.0066 (2013).
+
 55	Yabumoto, Y. A new coelacanth from the Early Cretaceous of Brazil (Sarcopterygii, Actinistia). Paleontological Research 6, 343-350 (2002).
+
 56	Brito, P. M. et al. First occurrence of a mawsoniid (Sarcopterygii: Actinistia), Mawsonia soba sp nov., in pre-Aptian Cretaceous deposits from Cameroon. Cretaceous Research 86, 91-96, doi:10.1016/j.cretres.2017.12.014 (2018).
+
 57	Wenz, S. in Colloques Internationaux du Centre National de la Recherche Scientifique Vol. 218    175-190 (Centre National de la Recherche Scientifique, 1975).
+
 58	Taquet, P. Géologie et paléontologie du gisement de Gadoufaoua (Aptien du Niger). Cahiers de paléontologie, 1-191 (1976).
+
 59	Schwimmer, D. R., Stewart, J. D. & Williams, G. D. Giant fossil coelacanths of the Late Cretaceous in the eastern United-States. Geology 22, 503-506, doi:10.1130/0091-7613(1994)022<0503:Gfcotl>2.3.Co;2 (1994).
+
 60	Dutel, H. et al. The giant Cretaceous coelacanth (Actinistia, Sarcopterygii) Megalocoelacanthus dobiei Schwimmer, Stewart & Williams, 1994, and its bearing on Latimerioidei interrelationships. PLoS One 7, e49911, doi:10.1371/journal.pone.0049911 (2012).
+
 61	Cloutier, R. in Devonian Fishes and Plants of Miguasha, Quebec, Canada   (eds H.-P. Schultze & R.  Cloutier)  227-247 (Verlag Dr. Friedrich Pfeil, 1996).
+
 62	Cloutier, R., Loboziak, S., Candilier, A.-M. & Blieck, A. Biostratigraphy of the Upper Devonian Escuminac Formation, eastern Quebec, Canada: A comparative study based on miospores and fishes. Review of Palaeobotany and Palynology 93, 191-215 (1996).
+
 63	Forey, P. L., Ahlberg, P. E., Luksevics, E. & Zupins, I. A new coelacanth from the Middle Devonian of Latvia. Journal of Vertebrate Paleontology 20, 243-252 (2000).
+
 64	Heckert, A. B., Lucas, S. G. & Hunt, A. P. in Vertebrate Paleontology in Arizona Vol. 29  (eds A. B. Heckert & S. G. Lucas)  16-44 (New Mexico Museum of Natural History and Science Bulletin, 2005).
+
 65	Long, J. A. & Trinajstic, K. A review of recent discoveries of exceptionally preserved fossil fishes from the Gogo sites (Late Devonian, Western Australia). Earth and Environmental Science Transactions of the Royal Society of Edinburgh 108, 111-117 (2018).
+
 66	Yabumoto, Y. A new Mesozoic coelacanth from Brazil (Sarcopterygii, Actinistia). Paleontological Research 12, 329-343 (2008).
+
 67	Montefeltro, F. C., Larsson, H. C. E., de Franca, M. A. G. & Langer, M. C. A new neosuchian with Asian affinities from the Jurassic of northeastern Brazil. Naturwissenschaften 100, 835-841, doi:10.1007/s00114-013-1083-9 (2013).
+
 68	Clément, G. The actinistian (Sarcopterygii) Piveteauia madagascariensis Lehman from the Lower Triassic of northwestern Madagascar: A redescription on the basis of new material. Journal of Vertebrate Paleontology 19, 234-242 (1999).
+
 69	Nowak, H., Schneebeli-Hermann, E. & Kustatscher, E. Correlation of Lopingian to Middle Triassic Palynozones. Journal of Earth Science 29, 755-777, doi:10.1007/s12583-018-0790-8 (2018).
+
 70	Wendruff, A. J. & Wilson, M. V. H. A fork-tailed coelacanth, Rebellatrix divaricerca, gen. et sp. nov. (Actinistia, Rebellatricidae, fam. nov.), from the Lower Triassic of western Canada. Journal of Vertebrate Paleontology 32, 499-511, doi:10.1080/02724634.2012.657317 (2012).
+
 71	Graf, J. A new Early Cretaceous coelacanth from Texas. Historical Biology 24, 441-452, doi:10.1080/08912963.2012.696636 (2012).
+
 72	Cloutier, R. & Candilier, A.-M. Palaeozoic vertebrates of northern France and Belgium: Part III - Sarcopterygii (Devonian to Carboniferous). Geobios, mémoire spécial 19, 335-342 (1995).
+
 73	Menning, M., Weyer, D., Drozdzewski, G., van Amerom, H. W. & Wendt, I. in Karbon: Zeitskala und Sequenzstratigraphie Vol. 156  (eds M. Menning et al.)  3-44 (Geologisches Jahrbuch Reihe A, 2000).
+
 74	Clements, T., Purnell, M. & Gabbott, S. The Mazon Creek Lagerstatte: A diverse Late Paleozoic ecosystem entombed within siderite concretions. Journal of the Geological Society 176, 1-11, doi:10.1144/jgs2018-088 (2019).
+
 75	Echols, J. A new genus of Pennsylvanian fish (Crossopterygii, Coelacanthiformes) from Kansas. University of Kansas Publications. Museum of Natural History, Lawrence 12, 475-501 (1963).
+
 76	Schultze, H.-P. Terrestrial biota in coastal marine deposits: Fossil-Lagerstatten in the Pennsylvanian of Kansas, USA. Palaeogeography Palaeoclimatology Palaeoecology 119, 255-273, doi:10.1016/0031-0182(95)00011-9 (1996).
+
 77	Mork, A. et al. The type section of the Vikinghogda Formation: a new Lower Triassic unit in central and eastern Svalbard. Polar Research 18, 51-82, doi:10.1111/j.1751-8369.1999.tb00277.x (1999).
+
 78	Gess, R. W. & Coates, M. I. Fossil juvenile coelacanths from the Devonian of South Africa shed light on the order of character acquisition in actinistians. Zoological Journal of the Linnean Society 175, 360-383, doi:10.1111/zoj.12276 (2015).
+
 79	Friedman, M., Coates, M. I. & Anderson, P. First discovery of a primitive coelacanth fin fills a major gap in the evolution of lobed fins and limbs. Evolution & Development 9, 329-337 (2007).
+
 80	Liu, H.-T. A new coelacanth from the marine Lower Triassic of N.W. Kwangsi, China. Vertebrata Palasiatica 8, 211-214 (1964).
+
 81	Tong, J. & Yin, H. The Lower Triassic of South China. Journal of Asian Earth Sciences 20, 803-815 (2002).
+
 82	Galfetti, T. et al. Evolution of Early Triassic outer platform paleoenvironments in the Nanpanjiang Basin (South China) and their significance for the biotic recovery. Sedimentary Geology 204, 36-60, doi:10.1016/j.sedgeo.2007.12.008 (2008).
+
 83	Lucas, S. G. Global Permian tetrapod biostratigraphy and biochronology. Geological Society, London, Special Publications 265, 65-93 (2006).
+
 84	Zhu, M. & Yu, X. B. A primitive fish close to the common ancestor of tetrapods and lungfish. Nature 418, 767-770 (2002).
+
 85	Zhao, W.-J. & Zhu, M. Siluro-Devonian vertebrate biostratigraphy and biogeography of China. Palaeoworld 19 4–26 (2010).
+
 86	Clément, G. A new coelacanth (Actinistia, Sarcopterygii) from the Jurassic of France, and the question of the closest relative fossil to Latimeria. Journal of Vertebrate Paleontology 25, 481-491 (2005).
+
 87	Cavin, L., Furrer, H. & Obrist, C. New coelacanth material from the Middle Triassic of eastern Switzerland, and comments on the taxic diversity of actinistans. Swiss Journal of Geosciences 106, 161-177, doi:10.1007/s00015-013-0143-7 (2013).
+
 88	Dutel, H., Herbin, M. & Clément, G. First occurrence of a mawsoniid coelacanth in the Early Jurassic of Europe. Journal of Vertebrate Paleontology 35, e929581-929582, doi:10.1080/02724634.2014.929581 (2015).
+
 89	Dutel, H., Pennetier, E. & Pennetier, G. A giant marine coelacanth from the Jurassic of Normandy, France. Journal of Vertebrate Paleontology 34, 1239-1242, doi:10.1080/02724634.2014.838176 (2014).
+
 90	Bernier, P. et al. The lithographic limestones of Cerin (southern Jura Mountains, France). A synthetic approach and environmental interpretation. Comptes Rendus Palevol 13, 383-402, doi:10.1016/j.crpv.2014.01.006 (2014).
+
 91	Wendruff, A. J. Lower Triassic Coelacanths of the Sulphur Mountain Formation (Wapiti Lake) in British Columbia, Canada M.Sc. thesis thesis, University of Alberta, (2011).
+
 92	Yabumoto, Y. & Brito, P. M. A new Triassic coelacanth, Whiteia oishii (Sarcopterygii, Actinistia) from West Timor, Indonesia. Paleontological Research 20, 233-246 (2016).
+
 93	Wescott, W. A. & Diggens, J. N. Depositional history and stratigraphical evolution of the Sakamena Group (Middle Karoo Supergroup) in the southern Morondava Basin, Madagascar. Journal of African Earth Sciences 27, 461-479, doi:10.1016/s0899-5362(98)00073-6 (1998).
+
 94	Simões, T. R., Caldwell, M. W., Palci, A. & Nydam, R. L. Giant taxon‐character matrices: Quality of character constructions remains critical regardless of size. Cladistics 33 198-219 (2017).
+
 95	Cloutier, R. in Early Vertebrates and Related Problems of Evolutionary Biology   (eds M.-M. Chang, Y.-H. Liu, & G.-R. Zhang)  379–428 (Science Press, 1991).
+
 96	Cloutier, R. Patterns, trends, and rates of evolution within the Actinistia. Environmental Biology of Fishes 32, 23-58 (1991).
+
 97	Forey, P. L. Latimeria chalumnae and its pedigree. Environmental Biology of Fishes 32, 75-97 (1991).
+
 98	Friedman, M. Styloichthys as the oldest coelacanth: Implications for early osteichthyan interrelationships. Journal of Systematic Palaeontology 5, 289-343 (2007).
+
 99	Dutel, H., Herbin, M. & Clement, G. First occurrence of a mawsoniid coelacanth in the Early Jurassic of Europe. Journal of Vertebrate Paleontology 35, doi:10.1080/02724634.2014.929581 (2015).
+
 100	Cavin, L. et al. Phylogeny and evolutionary history of mawsoniid coelacanths. Bulletin of the Kitakyushu Museum of Natural History and Human History, Series A (Natural History) 17, 3-13 (2019).
+
 101	Cavin, L. et al. The last known freshwater coelacanths: New Late Cretaceous mawsoniid remains (Osteichthyes: Actinistia) from Southern France. PLoS One 15, e0234183, doi:10.1371/journal.pone.0234183 (2020).
+
 102	O’Leary, M. A. & Kaufman, S. MorphoBank: phylophenomics in the “cloud”. Cladistics 27, 529-537 (2011).
+
 103	Forey, P. L. Latimeria: A paradoxical fish. Proceedings of the Royal Society B-Biological Sciences 208, 369-384 (1980).
+
 104	Fragoso, L. G. C., Brito, P. & Yabumoto, Y. Axelrodichthys araripensis Maisey, 1986 revisited. Historical Biology 31, 1350-1372, doi:10.1080/08912963.2018.1454443 (2018).
+
 105	Forey, P. L. The coelacanth Rhabdoderma in the Carboniferous of the British Isles. Palaeontology 24, 203-229 (1981).
+
 106	Zhu, M. & Yu, X. B. in Recent Advances in the Origin and Early Radiation of Vertebrates   (eds G. Arratia, M. V. H. Wilson, & R. Cloutier)  271-286 (Verlag Dr. Friedrich Pfeil, 2004).
+
 107	Khonsari, R. H. et al. The buccohypophyseal canal is an ancestral vertebrate trait maintained by modulation in sonic hedgehog signaling. Bmc Biology 11, doi:10.1186/1741-7007-11-27 (2013).
+
 108	Fragoso, L. G. C. Revisão do ramo gondwánico da familia Mawsoniidae (Sarcopterygii, Actinistia, Coelacanthiformes) Ph.D. thesis, Universidade do Estado de Rio de Janeiro, (2014).
+
 109	Clack, J. A. Earliest known tetrapod braincase and the evolution of the stapes and febestra ovalis. Nature 369, 392-394, doi:10.1038/369392a0 (1994).
+
 110	Romano, C., Ware, D., Brühwiler, T., Bucher, H. & Brinkmann, W. Marine Early Triassic Osteichthyes from Spiti, Indian Himalayas. Swiss Journal of Palaeontology 135, 275-294 (2016).
+
 111	Schaeffer, B. A revision of Coelacanthus newarki and notes on the evolution of the girdles and basal plates of the median fins in the Coelacanthini. American Museum Novitates, 1-17 (1941).
+
 112	Arratia, G., Schultze, H.-P. & Casciotta, J. Vertebral column and associated elements in dipnoans and comparison with other fishes: Development and homology. Journal of Morphology 250, 101-172 (2001).
+
 113	Mondéjar-Fernàndez, J., Meunier, F. J., Cloutier, R., Clément, G. & Laurin, M. A microanatomical and histological study of the scales of the Devonian sarcopterygian Miguashaia bureaui and the evolution of the squamation in coelacanths. Journal of Anatomy 239, 451-478, doi:10.1111/joa.13428 (2021).
+
 114	Brito, P. M., Meunier, F. J., Clément, G. & Geffard-Kuriyama, D. The histological structure of the calcified lung of the fossil coelacanth Axelrodichthys araripensis (Actinistia: Mawsoniidae). Palaeontology 53, 1281-1290, doi:10.1111/j.1475-4983.2010.01015.x (2010).
+
 115	Cupello, C. et al. The homology and function of the lung plates in extant and fossil coelacanths. Scientific Reports 7, doi:10.1038/s41598-017-09327-6 (2017).
+
 116	Schultze, H.-P. & Cloutier, R. Computed-tomography and magnetic-resonance-imaging studies of Latimeria chalumnae. Environmental Biology of Fishes 32, 159-181 (1991).
+
 117	Schindelin, J. et al. Fiji: an open-source platform for biological-image analysis. Nature Methods 9, 676-682, doi:10.1038/nmeth.2019 (2012).
+
 118	Mondéjar-Fernàndez, J. A new onychodont (Osteichthyes; Sarcopterygii) from the Middle Devonian of Morocco and its bearing on early osteichthyan evolution. Journal of Systematic Palaeontology 18, 573-606, doi:10.1080/14772019.2019.1655495 (2019).
+
 119	Long, J. A. On the relationships of Psarolepis and the onychodontiform fishes. Journal of Vertebrate Paleontology 21, 815-820 (2001).
+
 120	Lu, J. et al. A Devonian predatory fish provides insights into the early evolution of modern sarcopterygians. Science Advances 2, e1600154, doi:10.1126/sciadv.1600154 (2016).
+
 121	Gross, W. Über Crossopterygier und Dipnoer aus dem baltischen Oberdevon im Zusammenhang einer vergleichenden untersuchung des Porenkanal-systems paläozoischer Agnathen und Fische. Kungliga Svenska Vetenskapsakademiens Handlingar, serie 4 5, 1-140 (1956).
+
 122	Upeniece, I. New species of Strunius (Sarcopterygii, Onychodontida) from Latvia, Lode quarry (Upper Devonian). Geobios, Mémoire Spécial 19, 281-284 (1995).
+
 123	Maisey, J. G. Santana Fossils: An Illustrated Atlas.  459 (T.F.H. Publications, 1991).
+
 124	Barbosa, R. E. S., da Silva, M. C., Duque, R. R. C. & Barreto, A. M. F. Os Mawsoniídeos das bacias sedimentares do nordest do Brasil: Revisão bibliográfica. Estudos Geológicos 29, 94-119 (2019).
+
 125	Brito, P. M. & Yabumoto, Y. An updated review of the fish faunas from the Crato and Santana formations in Brazil, a close relationship to the Tethys fauna. Bulletin of the Kitakyushu Museum of Natural History and Human History, Series A (Natural History) 9, 107-136 (2011).
+
 126	Cavin, L. & Forey, P. L. in Mesozoic Fishes 3 - Systematics, Paleoenvironments and Biodiversity   (eds G. Arratia & A. Tintori)  493-506 (Verlag Dr. Friedrich Pfeil, 2004).
+
 127	Benton, M. J. et al. Exceptional vertebrate biotas from the Triassic of China, and the expansion of marine ecosystems after the Permo-Triassic mass extinction. Earth-Science Reviews 125, 199-243, doi:10.1016/j.earscirev.2013.05.014 (2013).
+
 128	Elliott, D. K. A new specimen of Chinlea sorenseni from the Chinle Formation, Dolores River, Colorado. Journal of the Arizona-Nevada Academy of Science 22, 47-52 (1987).
+
 129	Martz, J., Kirkland, J., Milner, A., Parker, W. & Santucci, V. Upper Triassic lithostratigraphy, depositional systems, and vertebrate paleontology across southern Utah. Geology of the Intermountain West 4, 99-180 (2017).
+
 130	Lambers, P. H. The identity of the type specimen of Coelacanthus harlemensis WINKLER (Pisces, Actinistia) from the lithographic limestone of Solnhofen (Tithonian), Bavaria. Paläontologische Zeitschrift 65, 173-189 (1991).
+
 131	Moy-Thomas, J. A. & Westoll, T. S. On the Permian coelacanth, Coelacanthus granulatus, Ag. Geological Magazine 72, 446-457 (1935).
+
 132	Brandt, S. Über isolierte Knochenfunde von Quastenflossern aus dem Ober-Perm von Thüringen und Hessen - Ein Beitrag zur Anatomie von Coelacanthus granulatus AGASSIZ. Veröffentlichungen Naturhistorisches Museum Schloss Bertholdsburg Schleusingen 22, 69-78 (2007).
+
 133	Stensiö, E. A. Über zwei Coelacanthiden aus dem Oberdevon von Wildungen. Paläontologische Zeitschrift 4, 167-210 (1922).
+
 134	Stensiö, E. A. On the Devonian coelacanthids of Germany with special reference to the dermal skeleton. Kungliga Svenska vetenskapsakademiens handlingar 16, 1-56 (1937).
+
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
+
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
