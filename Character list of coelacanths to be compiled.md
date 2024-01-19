@@ -45,51 +45,56 @@
 > - The three character-states form a morphocline.
 
 3. Rostral tubuli: present (0), absent (1)
-> [FR136] **Replaced by Friedman (2007), Character 36.**
+> Friedman (2007), character 136.
 
 4. Rostral organ pores : absent (0), present (1). 
-> [Ca, FR145] **Replaced by Cloutier (1991a), Friedman (2007), Character 145.**
+> Cloutier (1991a), Character 145; Friedman (2007), Character 145.
 
 > - Character 4 is linked to characters 5, 6 and 7.
 
 5. Anterior opening of rostral organ: within premaxilla (0), within separate rostral ossicles (1).
-> [Cb55, Fa34, Fb6, C6, F&C6, Y6, G6, W6, W&W6, Da6, Z6, GR6, WE6, CAa6, C&G6, A&S6, G&C6, Db6, CAb6, R&S6, T6]
+ 
+> Cloutier (1991b), Character55; Forey (1991), Character34; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 6.
 
 > - Clement *et al.* (in review): "Character 5 is linked to character 4."
 
-6. Posterior openings of rostral organ : widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2). 
-> [Fa35] **Replaced by Forey (1991), Character 35.**
+6. Posterior openings of rostral organ : widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2).
 
+> Forey (1991), Character 35.
 
 > - Burrow *et al.* (in review): "Forey (1991, char. 35)97 defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980)103 mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
 
 7. Posterior openings of rostral organ : anterior and posterior pores aligned horizontally (0), posterior pore offset posterodorsally to anterior pore (1). 
-> [new] **Replaced by Clement *et al.* (in review), Character 7.**
+> Clement *et al.* (in review), Character 7.
 
 > - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
 
 8. Premaxillae : fragmented (0), paired (1), fused (2).
-> [Ca4, Cb4, Fb4, C4, F&C4, Y4, G4, W4, W&W4, Da4, Z4, GR4, WE4, CAa4, C&G4, A&S4, G&C4, Db4, CAb4, R&S4, CAc4, CAd4, T4]
+
+> Cloutier (1991a), Cloutier (1991b), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 4.
 
 > - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
 9. Dorsal lamina of premaxillae : present (0), absent (1). 
-> [Fb5, C5, F&C5, Y5, G5, W5, W&W5, Da5, Z5, GR5, WE5, CAa5, C&G5, A&S5, G&C5, Db5, CAb5, R&S5, T5]
+
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 5.
 
 > - Clement *et al.* (in review): "Forey (1998, char. 5)12 coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998)12 when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our character 10."
 
-10. Dorsal lamina of premaxilla, completeness of : complete (0), invaginated (1), reduced (2). **(Ordered)**
-> [Fa10 in part]
+10. Dorsal lamina of premaxilla, completeness of : complete (0), invaginated (1), reduced (2).
+
+> Forey (1991), character 10.
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline. Character 10 is linked with character 9."
 
 11. Dorsal lamina of premaxilla, perforation of : perforated by ethmoid commissure (0), not perforated by ethmoid commissure (1). 
-> [Ca6, Cb6]
+> Cloutier (1991a), Cloutier (1991b), character 6.
 
 > - Clement *et al.* (in review): "Character 11 is linked to character 9."
 
 12. Premaxilla ventral margin, shape of : arched (0), not arched (1). 
-> [L&Z19 modified]
+
+> Lu & Zhu (2009), character 19, modified.
 
 > - Clement *et al.* (in review): "Lu & Zhu (2009, char. 19)8 used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including Diplocercides and Styloichthys. Diplocercides, Styloichthys and Psarolepis were coded as having anteriorly arched premaxillae, whereas Onychodus, Strunius and Bukkanodus lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in Diplocercides kayseri and D. heiligenstockiensis. In Styloichthys the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved."
 
