@@ -1,5 +1,5 @@
 ﻿# Character List of the coelacanth clade.
-## Characters 1-268 are from Clement et al. (in review). 269-+++ are newly added. (To be edited)
+## Characters 1-268 are from Clement et al. (in review). 269-+++ are newly added (Lu et al., 2017, Clement et al. 2018). (To be edited)
 > Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201).
 
 > Ca, Cloutier (1991a),
@@ -391,112 +391,134 @@
 
 > - Clement *et al.* (in review): "Character 82 takes into account the condition of the lacrimojugal. Therefore, the outgroups are coded as "-". Nevertheless, in Grossius aragonensis, Onychodus jandemarrai and Strunius walteri, the jugal lacks a postorbital limb. Character 82 is linked to character 74.
 
-83.Lacrimojugal postorbital limb, extent of [new]: above midorbit level or at midorbit level (0), below midorbit level (1). Character 83 is linked with characters 74 and 82.
->
+83.Lacrimojugal postorbital limb, extent of: above midorbit level or at midorbit level (0), below midorbit level (1). Character 83 is linked with characters 74 and 82.
+> [new]
 
 > - Clement *et al.* (in review): "
 
+84.Preopercular and lacrimojugal (jugal), contact of: separated (0), abutting (1)
+> [G&C114]
 
-84.Preopercular and lacrimojugal (jugal), contact of [G&C114]: separated (0), abutting (1)
+85.Anterodorsal excavation in postorbital: absent (0), present (1). 
+> [Fb40, C40, F&C40, Y40, G40, W40, W&W40, Da40, Z40, GR40, WE40, CAa40, C&G40, A&S40, G&C40, Db40, CAb40, R&S40, CAc20, CAd20, T40]
+
+> - Clement *et al.* (in review): "Forey (1998, char. 40)12 considered the presence of an anterodorsal excavation in the postorbital to be an apomorphic condition. As described in Latimeria chalumnae, this excavation receives a tough ligamentous connection with the posteriormost supraorbitals (Forey, 1998, p. 98, fig. 4.1)."
+
+86.Postorbital: without anterior process (0), with anterior process (1).
+> [Cb62, Fb41, C41, F&C41, Y41, G41, W41, W&W41, Da41, Z41, GR41, WE41, CAa41, C&G41, A&S41, G&C41, Db41, CAb41, R&S41, CAc21, CAd21, T41]
+
+> - Clement *et al.* (in review): " Cloutier (1991b, char. 62)96 defined this anterior process of the postorbital as the anteroventral corner of the postorbital that extends anteriorly beyond the posteroventral margin of the orbit as seen in Mawsonia (e.g., Mawsonia brasiliensis (Yabumoto, 2002, fig. 4)."
+
+87.Postorbital, size of: large bone (0), reduced to narrow tube (1)
+> [Cb63, Fb42, C42, F&C42, Y42, G42, W42, W&W42, Da42, Z42, GR42, WE42, CAa42, C&G42, A&S42, G&C42, Db42, CAb42, R&S42, CAc22, CAd22, T42]
+
+88.Postorbital, position of: lying wholly behind intracranial joint (0), spanning intracranial joint (1)
+> [Fb43, C43, F&C43, Y43, G43, W43, W&W43, Da43, Z43, GR43, WE43, CAa43, C&G43, A&S43, G&C43, Db43, CAb43, R&S43, CAc23, CAd23, T43]
+
+89.Infraorbital canal, trajectory of: within postorbital with simple pores opening directly from main canal (0), anterior and posterior branches within postorbital (1)
+> [Fb44, C44, F&C44, Y44, G44, W44, W&W44, Da44, Z44, GR44, WE44, CAa44, C&G44, A&S44, G&C44, Db44, CAb44, R&S44, CAc24, CAd24, T44]
+
+90.Infraorbital canal, trajectory of: running through center of postorbital (0), running along anterior margin of postorbital (1)
+> [Fb45, C45, F&C45, Y45, G45, W45, W&W45, Da45, Z45, GR45, WE45, CAa45, C&G45, A&S45, G&C45, Db45, CAb45, R&S45, CAc25, CAd25, T45]
+
+91.Jugal canal: simple (0), prominent branches (1). 
+> [Fb46, C46, F&C46, Y46, G46, W46, W&W46, Da46, Z46, GR46, WE46, CAa46, C&G46, A&S46, G&C46, Db46, CAb46, R&S46, CAc26, CAd26, T46]
+
+> - Clement *et al.* (in review): "Forey (1998, char. 46)12 described the apomorphic condition in which large pores are lying separate from the main trajectory canal of the jugal canal in the squamosal (e.g., Rhabdoderma, Latimeria)."
+
+92.Jugal canal, trajectory of: running through center of bone (0), running along ventral margin of squamosal (1)
+> [Fb47, C47, F&C47, Y47, G47, W47, W&W47, Da47, Z47, GR47, WE47, CAa47, C&G47, A&S47, G&C47, Db47, CAb47, R&S47, CAc27, CAd27, T47]
+
+93.Pit lines: marking cheek bones (0), not marking cheek bones (1)
+> [Fb48, C48, F&C48, Y48, G48, W48, W&W48, Da48, Z48, GR48, WE48, CAa48, C&G48, A&S48, G&C48, Db48, CAb48, R&S48, T48]
+
+94.Preopercular canal: preopercular canal ends at dorsal margin of preopercular (0), does not end at dorsal margin of preopercular (1). 
+>  [L&Z29]
+> - Clement *et al.* (in review): "Character 93 is linked with character 65."
+
+95.Maxilla: absent (0), present (1)
+> [FR38]
+
+96.Ventral margin of maxilla: straight (0), curved (1). Character 96 is linked to character 95.
+> [L&Z21]
+
+97.Posterior expansion of the maxilla: absent (0), small expansion (posterodorsal process) (1), large expansion (cleaver-shaped) (2). 
+> [FR39, L&Z20 polarity]
+
+> - Clement *et al.* (in review): "The three character-states form a morphocline. Character 97 is linked to character 95."
+
+98.Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
+> [new]
+
+> - Clement *et al.* (in review): "Character 98 is linked to character 95."
+
+99.Cheek bones, ornament of: absent or with very fine tuberculation (0), tubercular (1), represented as a coarse superficial rugosity (2), ridged (3).
+> [Fa56 in part, Fb49, C49, F&C49, Y49, G49, W49, W&W49, Da49, Z49, GR49, WE49, CAa49, C&G49, A&S49, G&C49 in part, Db49, CAb49, R&S49, CAc28, CAd28, T49]
+
+> - Clement *et al.* (in review): " Forey (1998, char. 49)12 considered three character-states to describe the cheek bone ornamentation: tubercular (1), absent (0), and with coarse superficial rugosity (2); in his character description (p. 128), the numbering of these character-states has been mislabeled where only state 1 and 2 have been written. In order to take into account the disparity of the cheek bone ornamentation in coelacanths, we used four character-states that better represent the disparity. In addition, some taxa are coded as a polymorphic condition to include both the tubercular and ridged ornamentation. We are limiting the coding of the cheek bones ornamentation to the condition observed on the postorbital, squamosal, preoperculum, and spiracular; in contrast to some previous papers, we are not taking into consideration the ornamentation of the operculum. Some of the polymorphic conditions correspond to different conditions observed on the preoperculum (frequently with ridges) and the remaining cheek bones (frequently tubercular) of a species."
+
+100.Openings for infraorbital jugal and preopercular sensory canals: many small pores (0), few large pores (1), large and continuous grooves crossed by pillars (2). 
+> [Fb50 modified, C50 modified, F&C50, Y50, G50, W50, W&W50, Da50 modified, Z50, GR50 modified, WE50, CAa50, C&G50 modified, A&S50 modified, G&C50, Db50, CAb50 modified, R&S50 modified, CAc29, CAd29, T50 modified]
+
+> - Clement *et al.* (in review): "Forey (1998, char. 50)12 described two character-states for the sensory openings for the infraorbital, jugal and preopercular canals: many tiny pores (0) and a few large pores (1). Dutel et al. (2012, char. 50)60 added a third character-states taking into account a condition in which there is a large continuous groove crossed by pillars. The three character-states form a morphocline."
+
+101.Squamosal and preopercular: unfused (0), fused (1). 
+> [Ca26 in part, Cb26]
+> - Clement *et al.* (in review): "Character 101 is linked to character 65."
+
+102.Foramina similar to infradentary foramina on cheek bones: absent (0), present (1).
+> [L&Z16]
+
+> - Clement *et al.* (in review): "Among actinistians, Friedman (2007, char. 47; fig. 4C)98 and Lu & Zhu (2009, char. 16)8 reported the presence of large foramina distinct from the sensory line pores and pit lines on the cheek solely in Styloichthys."
+
+103.Suboperculum: present (0), absent (1). Forey (1998)12 defined his character 32 as follows: (0) suboperculum absent, (1) suboperculum present. 
+> [Ca29, Cb29, Fa24, Fb32 polarity, C32 polarity, F&C32 polarity, Y32 polarity, G32 polarity, W32 polarity, W&W32 polarity, Da32 polarity, Z32 polarity, GR32 polarity, WE32 polarity, CAa32 polarity, C&G32 polarity, A&S32 polarity, G&C32 polarity, Db32 polarity, CAb32 polarity, R&S32 polarity, CAc16, CAd16, T32 polarity]
+
+> - Clement *et al.* (in review): "By out-group comparison (including actinopterygians, onychodontiforms, dipnomorphs and tetrapodomorphs), the presence of a suboperculum is the plesiomorphic condition. Thus, most of the coding that we are using differs from what has been provided by Forey (1998, char. 32)12 and subsequent analyses (up to Toriño et al., 2021, char. 32)14 because of the different polarity of the character."
 >
+104.Suboperculum, position of: suturing with both the preoperculum and operculum (0), suturing only with preoperculum (1), suturing only with operculum (2), isolated (3). 
+> [Ca30, Cb30]
+
+> - Clement *et al.* (in review): "Character 104 is linked to characters 65 and 103."
+
+105.Suboperculum, size of: longer than deep (0), deeper than long (1).
+> [Ca31, Cb31]
+
+> - Clement *et al.* (in review): " Character 105 is linked to character 103."
 
 
-85.Anterodorsal excavation in postorbital [Fb40, C40, F&C40, Y40, G40, W40, W&W40, Da40, Z40, GR40, WE40, CAa40, C&G40, A&S40, G&C40, Db40, CAb40, R&S40, CAc20, CAd20, T40]: absent (0), present (1). Forey (1998, char. 40)12 considered the presence of an anterodorsal excavation in the postorbital to be an apomorphic condition. As described in Latimeria chalumnae, this excavation receives a tough ligamentous connection with the posteriormost supraorbitals (Forey, 1998, p. 98, fig. 4.1)12.
->
+106.Suboperculum, shape of: quadrilateral (0), triangular (1), ovoid (2). 
+> [Ca32, Cb32]
+
+> - Clement *et al.* (in review): "Character 106 is linked to character 103."
+
+107.Operculum: without sensory pores (0), with sensory pores (1)
+> [new]
+
+108.Operculum, shape of: quadrilateral (0), triangular (1), ovoid (2). 
+> [Ca28, Cb28]
+
+> - Clement *et al.* (in review): "Cloutier (1991a, char 28)95 defined a character to describe the shape of the operculum among Palaeozoic coelacanths, either as quadrilateral (including rectangular, square and trapezoidal) (e.g., Miguashaia, Hadronector) and triangular (e.g., Coelacanthus, Rhabdoderma). Cloutier (1991b, p. 406)96 mentioned that the distinction between the two shapes was generally clear with the exception of species having operculum with strongly asymetrical, diamond-shape (e.g., Diplocercides jaekeli). Instead of coding for the global shape of the operculum, Cavin et al. (2020, char. 55)101 characterized the posteroventral edge of the operculum: marks an angle (or posterior margin rounded) (0) (e.g., Macropoma, Latimeria), straight (1) (e.g., Trachymetopon, Mawsonia), and regularly curved (2) (e.g., Axelrodichthys, Chinlea). We redefine the shape of the operculum using three character-states; we add the ovoid shape in contrast to the original description of Cloutier (1991a, b, char. 28)95,96. The ovoid shape takes into account some of the species that could have been coded as a regularly curved margin by Cavin et al. (2020, char. 55)101."
+
+109.Dentary, shape of: absence of hook-shape process posteriorly oriented on the dentary (0), presence of hook-shape process posteriorly oriented on the dentary (1). Cloutier (1991b, char. 66)96 described this character as absence (0) or presence (1) of posterodorsal hook on the dentary. Forey (1998, char. 57)12 used a character to describe the shape of the dentary as simple (0) and hook-shaped (1). Forey (1998)12 associated this feature with the elaboration of the muscular lip fold as present in Latimeria chalumnae. This hook-shape is present in a few derived actinistians such as Chinlea, Heptanema, Foreyia, Luopingcoelacanthus, Macropoma, Macropomoides, Undina, Swenzia and Whiteia.
+> [Cb66, Fa30, Fb57, C57, F&C57, Y57, G57, W57, W&W57, Da57, Z57, GR57, WE57, CAa57, C&G57, A&S57, G&C57, Db57, CAb57, R&S57, CAc31 modified, CAd31 modified, T57]
 
 > - Clement *et al.* (in review): "
 
+110.Dentary relative, size of: dentary much bigger than the splenial (0), dentary approximately the same size as the splenial (1), dentary much smaller than the splenial (2). 
+> [new]
 
-86.Postorbital [Cb62, Fb41, C41, F&C41, Y41, G41, W41, W&W41, Da41, Z41, GR41, WE41, CAa41, C&G41, A&S41, G&C41, Db41, CAb41, R&S41, CAc21, CAd21, T41]: without anterior process (0), with anterior process (1). Cloutier (1991b, char. 62)96 defined this anterior process of the postorbital as the anteroventral corner of the postorbital that extends anteriorly beyond the posteroventral margin of the orbit as seen in Mawsonia (e.g., Mawsonia brasiliensis (Yabumoto, 2002, fig. 4)55.
->
+> - Clement *et al.* (in review): "The relative size of the dentary and splenial considers the general surface of these bones in lateral view. The three character-states form a morphocline. Character 110 is linked with character 133."
 
-> - Clement *et al.* (in review): "
+111.Posterior margin of dentary: relatively at right angle with the dorsal margin (0), dorsally beveled (1), ventrally beveled (2), pointed (X bevel) (3), V-grooved (4). 
+> [new]
 
-87.Postorbital, size of [Cb63, Fb42, C42, F&C42, Y42, G42, W42, W&W42, Da42, Z42, GR42, WE42, CAa42, C&G42, A&S42, G&C42, Db42, CAb42, R&S42, CAc22, CAd22, T42]: large bone (0), reduced to narrow tube (1)
+> - Clement *et al.* (in review): "This character takes into account the general shape of the posterior margin of the dentary when looking at the lateral profile of the lateral surface of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the dentary is located ventrally (e.g., Gavinia, Laugia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Libys, Tachymetopon). In the pointed shape (or X bevel), the pointed part of the posterior margin of the dentary is approximately located at mid-height of the dentary (e.g., Coelacanthus, Parnaibaia), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Most coelacanths having a dorsal hook-shape posteriorly oriented on the dentary (Char. 108) have a V-grooved posterior margin. This character does not apply for the out-groups in which a long dentary is known."
 
-88.Postorbital, position of [Fb43, C43, F&C43, Y43, G43, W43, W&W43, Da43, Z43, GR43, WE43, CAa43, C&G43, A&S43, G&C43, Db43, CAb43, R&S43, CAc23, CAd23, T43]: lying wholly behind intracranial joint (0), spanning intracranial joint (1)
+112.Dentary, orientation of: horizontally straight (0), slightly dipping (1), sharply downturned (2).
+> [Ca37, Cb37]
 
-89.Infraorbital canal, trajectory of [Fb44, C44, F&C44, Y44, G44, W44, W&W44, Da44, Z44, GR44, WE44, CAa44, C&G44, A&S44, G&C44, Db44, CAb44, R&S44, CAc24, CAd24, T44]: within postorbital with simple pores opening directly from main canal (0), anterior and posterior branches within postorbital (1)
-
-90.Infraorbital canal, trajectory of [Fb45, C45, F&C45, Y45, G45, W45, W&W45, Da45, Z45, GR45, WE45, CAa45, C&G45, A&S45, G&C45, Db45, CAb45, R&S45, CAc25, CAd25, T45]: running through center of postorbital (0), running along anterior margin of postorbital (1)
-
-91.Jugal canal [Fb46, C46, F&C46, Y46, G46, W46, W&W46, Da46, Z46, GR46, WE46, CAa46, C&G46, A&S46, G&C46, Db46, CAb46, R&S46, CAc26, CAd26, T46]: simple (0), prominent branches (1). Forey (1998, char. 46)12 described the apomorphic condition in which large pores are lying separate from the main trajectory canal of the jugal canal in the squamosal (e.g., Rhabdoderma, Latimeria).
->
-
-> - Clement *et al.* (in review): "
-"
-
-92.Jugal canal, trajectory of [Fb47, C47, F&C47, Y47, G47, W47, W&W47, Da47, Z47, GR47, WE47, CAa47, C&G47, A&S47, G&C47, Db47, CAb47, R&S47, CAc27, CAd27, T47]: running through center of bone (0), running along ventral margin of squamosal (1)
-
-93.Pit lines [Fb48, C48, F&C48, Y48, G48, W48, W&W48, Da48, Z48, GR48, WE48, CAa48, C&G48, A&S48, G&C48, Db48, CAb48, R&S48, T48]: marking cheek bones (0), not marking cheek bones (1)
-
-94.Preopercular canal [L&Z29]: preopercular canal ends at dorsal margin of preopercular (0), does not end at dorsal margin of preopercular (1). Character 93 is linked with character 65.
-
-95.Maxilla [FR38]: absent (0), present (1)
-
-96.Ventral margin of maxilla [L&Z21]: straight (0), curved (1). Character 96 is linked to character 95.
-
-97.Posterior expansion of the maxilla [FR39, L&Z20 polarity]: absent (0), small expansion (posterodorsal process) (1), large expansion (cleaver-shaped) (2). The three character-states form a morphocline. Character 97 is linked to character 95.
-
-98.Contribution by maxilla to posterior margin of cheek [new]: present (0), absent (1). Character 98 is linked to character 95.
-
-99.Cheek bones, ornament of [Fa56 in part, Fb49, C49, F&C49, Y49, G49, W49, W&W49, Da49, Z49, GR49, WE49, CAa49, C&G49, A&S49, G&C49 in part, Db49, CAb49, R&S49, CAc28, CAd28, T49]: absent or with very fine tuberculation (0), tubercular (1), represented as a coarse superficial rugosity (2), ridged (3). Forey (1998, char. 49)12 considered three character-states to describe the cheek bone ornamentation: tubercular (1), absent (0), and with coarse superficial rugosity (2); in his character description (p. 128), the numbering of these character-states has been mislabeled where only state 1 and 2 have been written. In order to take into account the disparity of the cheek bone ornamentation in coelacanths, we used four character-states that better represent the disparity. In addition, some taxa are coded as a polymorphic condition to include both the tubercular and ridged ornamentation. We are limiting the coding of the cheek bones ornamentation to the condition observed on the postorbital, squamosal, preoperculum, and spiracular; in contrast to some previous papers, we are not taking into consideration the ornamentation of the operculum. Some of the polymorphic conditions correspond to different conditions observed on the preoperculum (frequently with ridges) and the remaining cheek bones (frequently tubercular) of a species.
->
-
-> - Clement *et al.* (in review): "
-
-100.Openings for infraorbital jugal and preopercular sensory canals [Fb50 modified, C50 modified, F&C50, Y50, G50, W50, W&W50, Da50 modified, Z50, GR50 modified, WE50, CAa50, C&G50 modified, A&S50 modified, G&C50, Db50, CAb50 modified, R&S50 modified, CAc29, CAd29, T50 modified]: many small pores (0), few large pores (1), large and continuous grooves crossed by pillars (2). Forey (1998, char. 50)12 described two character-states for the sensory openings for the infraorbital, jugal and preopercular canals: many tiny pores (0) and a few large pores (1). Dutel et al. (2012, char. 50)60 added a third character-states taking into account a condition in which there is a large continuous groove crossed by pillars. The three character-states form a morphocline.
->
-
-> - Clement *et al.* (in review): "
-
-
-101.Squamosal and preopercular [Ca26 in part, Cb26]: unfused (0), fused (1). Character 101 is linked to character 65.
-
-102.Foramina similar to infradentary foramina on cheek bones [L&Z16]: absent (0), present (1). Among actinistians, Friedman (2007, char. 47; fig. 4C)98 and Lu & Zhu (2009, char. 16)8 reported the presence of large foramina distinct from the sensory line pores and pit lines on the cheek solely in Styloichthys.
->
-
-> - Clement *et al.* (in review): "
-
-
-103.Suboperculum [Ca29, Cb29, Fa24, Fb32 polarity, C32 polarity, F&C32 polarity, Y32 polarity, G32 polarity, W32 polarity, W&W32 polarity, Da32 polarity, Z32 polarity, GR32 polarity, WE32 polarity, CAa32 polarity, C&G32 polarity, A&S32 polarity, G&C32 polarity, Db32 polarity, CAb32 polarity, R&S32 polarity, CAc16, CAd16, T32 polarity]: present (0), absent (1). Forey (1998)12 defined his character 32 as follows: (0) suboperculum absent, (1) suboperculum present. By out-group comparison (including actinopterygians, onychodontiforms, dipnomorphs and tetrapodomorphs), the presence of a suboperculum is the plesiomorphic condition. Thus, most of the coding that we are using differs from what has been provided by Forey (1998, char. 32)12 and subsequent analyses (up to Toriño et al., 2021, char. 32)14 because of the different polarity of the character.
->
-
-> - Clement *et al.* (in review): "
-
-
-104.Suboperculum, position of [Ca30, Cb30]: suturing with both the preoperculum and operculum (0), suturing only with preoperculum (1), suturing only with operculum (2), isolated (3). Character 104 is linked to characters 65 and 103.
-
-105.Suboperculum, size of [Ca31, Cb31]: longer than deep (0), deeper than long (1). Character 105 is linked to character 103.
-
-106.Suboperculum, shape of [Ca32, Cb32]: quadrilateral (0), triangular (1), ovoid (2). Character 106 is linked to character 103.
-
-107.Operculum [new]: without sensory pores (0), with sensory pores (1)
-
-108.Operculum, shape of [Ca28, Cb28]: quadrilateral (0), triangular (1), ovoid (2). Cloutier (1991a, char 28)95 defined a character to describe the shape of the operculum among Palaeozoic coelacanths, either as quadrilateral (including rectangular, square and trapezoidal) (e.g., Miguashaia, Hadronector) and triangular (e.g., Coelacanthus, Rhabdoderma). Cloutier (1991b, p. 406)96 mentioned that the distinction between the two shapes was generally clear with the exception of species having operculum with strongly asymetrical, diamond-shape (e.g., Diplocercides jaekeli). Instead of coding for the global shape of the operculum, Cavin et al. (2020, char. 55)101 characterized the posteroventral edge of the operculum: marks an angle (or posterior margin rounded) (0) (e.g., Macropoma, Latimeria), straight (1) (e.g., Trachymetopon, Mawsonia), and regularly curved (2) (e.g., Axelrodichthys, Chinlea). We redefine the shape of the operculum using three character-states; we add the ovoid shape in contrast to the original description of Cloutier (1991a, b, char. 28)95,96. The ovoid shape takes into account some of the species that could have been coded as a regularly curved margin by Cavin et al. (2020, char. 55)101.
->
-
-> - Clement *et al.* (in review): "
-
-
-109.Dentary, shape of [Cb66, Fa30, Fb57, C57, F&C57, Y57, G57, W57, W&W57, Da57, Z57, GR57, WE57, CAa57, C&G57, A&S57, G&C57, Db57, CAb57, R&S57, CAc31 modified, CAd31 modified, T57]: absence of hook-shape process posteriorly oriented on the dentary (0), presence of hook-shape process posteriorly oriented on the dentary (1). Cloutier (1991b, char. 66)96 described this character as absence (0) or presence (1) of posterodorsal hook on the dentary. Forey (1998, char. 57)12 used a character to describe the shape of the dentary as simple (0) and hook-shaped (1). Forey (1998)12 associated this feature with the elaboration of the muscular lip fold as present in Latimeria chalumnae. This hook-shape is present in a few derived actinistians such as Chinlea, Heptanema, Foreyia, Luopingcoelacanthus, Macropoma, Macropomoides, Undina, Swenzia and Whiteia.
-> - Clement *et al.* (in review): "
-
-110.Dentary relative, size of [new]: dentary much bigger than the splenial (0), dentary approximately the same size as the splenial (1), dentary much smaller than the splenial (2). The relative size of the dentary and splenial considers the general surface of these bones in lateral view. The three character-states form a morphocline. Character 110 is linked with character 133.
->
-
-> - Clement *et al.* (in review): "
-
-111.Posterior margin of dentary [new]: relatively at right angle with the dorsal margin (0), dorsally beveled (1), ventrally beveled (2), pointed (X bevel) (3), V-grooved (4). This character takes into account the general shape of the posterior margin of the dentary when looking at the lateral profile of the lateral surface of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the dentary is located ventrally (e.g., Gavinia, Laugia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Libys, Tachymetopon). In the pointed shape (or X bevel), the pointed part of the posterior margin of the dentary is approximately located at mid-height of the dentary (e.g., Coelacanthus, Parnaibaia), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Most coelacanths having a dorsal hook-shape posteriorly oriented on the dentary (Char. 108) have a V-grooved posterior margin. This character does not apply for the out-groups in which a long dentary is known.
->
-
-> - Clement *et al.* (in review): "
-
-
-112.Dentary, orientation of [Ca37, Cb37]: horizontally straight (0), slightly dipping (1), sharply downturned (2). Lund and Lund (1985)13 proposed the lack of a distinct angular diastema in the orientation of the dentary (which thus has a relatively continuous occlusal line with the angular) to be the plesiomorphic condition. Cloutier (1991a, b, char. 37)95,96 suggested that the apomorphic condition corresponds to the presence of a dentary oriented diagonally with the angular. Because of the large disparity of inclination of the dentary we divided the original apomorphic condition into two character-states (slightly dipping and sharply inclined). The three character-states forms a morphocline on the anterior inclination of the dentary. The horizontally straight condition corresponds to the plesiomorphic condition where the dentary is nearly parallel to the main orientation of the lower jaw (e.g., Miguashaia, Caridosuctor, Coelacanthus). In a few species, the dentary is slightly dipping or inclined anteroventrally; the angle of inclination could vary between 10 (e.g., Serenichthys) and 40 degrees (e.g., Diplocercides). The sharply downturned orientation of the dentary corresponds to the condition where the main orientation of the dentary is approximately to a right angle with the main orientation of the lower jaw (e.g., Allenypterus, Diplurus, Foreyia). The three character-states form a morphocline.
->
-
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Lund and Lund (1985)13 proposed the lack of a distinct angular diastema in the orientation of the dentary (which thus has a relatively continuous occlusal line with the angular) to be the plesiomorphic condition. Cloutier (1991a, b, char. 37)95,96 suggested that the apomorphic condition corresponds to the presence of a dentary oriented diagonally with the angular. Because of the large disparity of inclination of the dentary we divided the original apomorphic condition into two character-states (slightly dipping and sharply inclined). The three character-states forms a morphocline on the anterior inclination of the dentary. The horizontally straight condition corresponds to the plesiomorphic condition where the dentary is nearly parallel to the main orientation of the lower jaw (e.g., Miguashaia, Caridosuctor, Coelacanthus). In a few species, the dentary is slightly dipping or inclined anteroventrally; the angle of inclination could vary between 10 (e.g., Serenichthys) and 40 degrees (e.g., Diplocercides). The sharply downturned orientation of the dentary corresponds to the condition where the main orientation of the dentary is approximately to a right angle with the main orientation of the lower jaw (e.g., Allenypterus, Diplurus, Foreyia). The three character-states form a morphocline."
 
 113.Dentary [Fa29, Fb65, C65, F&C65, Y65, G65, W65, W&W65, Da65, Z65, GR65, WE65, CAa65, C&G65, A&S65, G&C65, Db65, CAb65, R&S65, CAc34, CAd34, T65]: without prominent lateral swelling (0), with prominent lateral swelling (1). Forey (1998, p. 153; char. 65)12 described the presence a prominent lateral swelling on the dentary of Mawsonia, Axelrodichthys and Lualabaea, located in front of the depression for the deep pseudomaxillary fold. This protuberance is a smooth dome-shaped protuberance (see Forey, 1998, char. 5.10A, B)12.
 >
