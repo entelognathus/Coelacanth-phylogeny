@@ -35,7 +35,7 @@
 > [Fb2, C2, F&C2, Y2, G2, W2, W&W2, Da2, Z2, GR2, WE2, CAa2, C&G2, A&S2, G&C2, Db2, CAb2 modified, R&S2, CAc2 modified, CAd2 modified, T2 modified] **To be replaced by the complete citation。**
 > **If there are any other references, add them here/**
 
-> - Burrow *et al.*: "Character 1 was originally defined by Forey (1998, char. 2)12. Subsequently, Cavin et al. (2017, char. 2)41 considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline." **citation from Burrow in this way**
+> - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2)12. Subsequently, Cavin et al. (2017, char. 2)41 considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline." **citation from Clement in this way**
 > -  **any other comments added here。**
 
 2.Ethmoid commissure, trajectory of: middle portion through median rostral (0), sutural course (1), through bone center of premaxilla (2); The three character-states form a morphocline.
@@ -52,27 +52,38 @@
 5.Anterior opening of rostral organ: within premaxilla (0), within separate rostral ossicles (1).
 > [Cb55, Fa34, Fb6, C6, F&C6, Y6, G6, W6, W&W6, Da6, Z6, GR6, WE6, CAa6, C&G6, A&S6, G&C6, Db6, CAb6, R&S6, T6]
 
-> - Burrow *et al.*: "Character 5 is linked to character 4."
+> - Clement *et al.* (in review): "Character 5 is linked to character 4."
 > 
 6.Posterior openings of rostral organ : widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2). 
 > [Fa35] **Replaced by Forey (1991), Character 35.**
 
 
-> - Burrow *et al.*: "Forey (1991, char. 35)97 defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980)103 mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
+> - Burrow *et al.* (in review): "Forey (1991, char. 35)97 defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980)103 mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
 
+7.Posterior openings of rostral organ : anterior and posterior pores aligned horizontally (0), posterior pore offset posterodorsally to anterior pore (1). 
+> [new] **Replaced by Clement *et al.* (in review), Character 7.**
 
-7.Posterior openings of rostral organ [new]: anterior and posterior pores aligned horizontally (0), posterior pore offset posterodorsally to anterior pore (1). Character 7 is linked to characters 4, 6 and 57.
+> - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
 
-8.Premaxillae : fragmented (0), paired (1), fused (2). 
+8.Premaxillae : fragmented (0), paired (1), fused (2). **(Ordered)**
 > [Ca4, Cb4, Fb4, C4, F&C4, Y4, G4, W4, W&W4, Da4, Z4, GR4, WE4, CAa4, C&G4, A&S4, G&C4, Db4, CAb4, R&S4, CAc4, CAd4, T4]
 
-> - Burrow *et al.*: "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
+> - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
-9.Dorsal lamina of premaxillae [Fb5, C5, F&C5, Y5, G5, W5, W&W5, Da5, Z5, GR5, WE5, CAa5, C&G5, A&S5, G&C5, Db5, CAb5, R&S5, T5]: present (0), absent (1). Forey (1998, char. 5)12 coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998)12 when the dorsal lamina was reduced (e.g., Allenypterus, Lochmocercus). The extent of the dorsal laminae is taken into consideration in our character 10.
+9.Dorsal lamina of premaxillae : present (0), absent (1). 
+> [Fb5, C5, F&C5, Y5, G5, W5, W&W5, Da5, Z5, GR5, WE5, CAa5, C&G5, A&S5, G&C5, Db5, CAb5, R&S5, T5]
 
-10.Dorsal lamina of premaxilla, completeness of [Fa10 in part]: complete (0), invaginated (1), reduced (2). The three character-states form a morphocline. Character 10 is linked with character 9.
+> - Clement *et al.* (in review): "Forey (1998, char. 5)12 coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998)12 when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our character 10."
 
-11.Dorsal lamina of premaxilla, perforation of [Ca6, Cb6]: perforated by ethmoid commissure (0), not perforated by ethmoid commissure (1). Character 11 is linked to character 9.
+10.Dorsal lamina of premaxilla, completeness of : complete (0), invaginated (1), reduced (2). **(Ordered)**
+> [Fa10 in part]
+
+> - Clement *et al.* (in review): "The three character-states form a morphocline. Character 10 is linked with character 9."
+
+11.Dorsal lamina of premaxilla, perforation of : perforated by ethmoid commissure (0), not perforated by ethmoid commissure (1). 
+> [Ca6, Cb6]
+
+> - Clement *et al.* (in review): "Character 11 is linked to character 9."
 
 12.Premaxilla ventral margin, shape of [L&Z19 modified]: arched (0), not arched (1). Lu & Zhu (2009, char. 19)8 used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including Diplocercides and Styloichthys. Diplocercides, Styloichthys and Psarolepis were coded as having anteriorly arched premaxillae, whereas Onychodus, Strunius and Bukkanodus lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in Diplocercides kayseri and D. heiligenstockiensis. In Styloichthys the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved.
 
