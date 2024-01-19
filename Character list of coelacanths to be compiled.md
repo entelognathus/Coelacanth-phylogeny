@@ -1,5 +1,5 @@
 ﻿# Character List of the coelacanth clade.
-## (To be edited)
+## Characters 1-268 are Clement et al. (in review). 269-+++ are newly added. (To be edited)
 > Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201).
 
 > Ca, Cloutier (1991a),
@@ -194,181 +194,185 @@
 
 > - Clement *et al.* (in review): "The descending process of the postparietal is located on the posteroventral surface of the postparietal articulating with the oticoccipital part of the neurocranium."
 
-39.Postparietal, shape of [Ca12, Cb12]: L shaped (0), rectangular (1), inverted L shaped (2). The shape of the postparietal takes into consideration the dorsal view of the element. In the inverted L shape, the small process forms the anterolateral component of the postparietal. The numbering of character-states has been modified from Cloutier (1991a, char. 12)95.
+39.Postparietal, shape of: L shaped (0), rectangular (1), inverted L shaped (2).
+> [Ca12, Cb12]
+> - Clement *et al.* (in review): " The shape of the postparietal takes into consideration the dorsal view of the element. In the inverted L shape, the small process forms the anterolateral component of the postparietal. The numbering of character-states has been modified from Cloutier (1991a, char. 12)."
+
+40.Postparietal: not narrowing posteriorly (0), narrowing posteriorly (1).
+> [L&Z7]
+> - Clement *et al.* (in review): " Lu and Zhu (2009, char. 7)8 defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in Onychodus, Qingmenodus and Grossius. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal [char. 39(2)]."
+
+41.Postparietal postorbital, contact of: absent (0), present (1). 
+> [Ca14, Cb14]
+> - Clement *et al.* (in review): "The absence of contact between the anterolateral part of the postparietal and the postorbital could be owing either to the presence of intertemporal and/or supratemporal (e.g., Miguashaia), the presence of a gap between the elements (e.g., Allenypterus) or the presence of an elongated posterolateral process of the parietal (e.g., Coelacanthus)."
+
+42.Postparietal and lateral extrascapular, contact of: present (0), absent (1)
+> [Ca15, Cb15]
 >
-> - Clement *et al.* (in review): "
+43.Pit lines on postparietals: marking postparietals (0), not marking postparietals (1)
+> [Fb26, C26, F&C26, Y26, G26, W26, W&W26, Da26, Z26, GR26, WE26, CAa26, C&G26, A&S26, G&C26, Db26, CAb26, R&S26, T26]
 
-40.Postparietal [L&Z7]: not narrowing posteriorly (0), narrowing posteriorly (1). Lu and Zhu (2009, char. 7)8 defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in Onychodus, Qingmenodus and Grossius. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal [char. 39(2)].
+44.Anterior pit line: absent (0), present (1)
+> [Fb24, C24, F&C24, Y24, G24, W24, W&W24, Da24, Z24, GR24, WE24, CAa24, C&G24, A&S24, G&C24, Db24, CAb24, R&S24, T24]
+
+45.Anterior pit line, position of: on postparietal (0), on parietal (1). 
+> [FR36]
 >
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Character 45 is linked to character 44."
 
-41.Postparietal postorbital, contact of [Ca14, Cb14]: absent (0), present (1). The absence of contact between the anterolateral part of the postparietal and the postorbital could be owing either to the presence of intertemporal and/or supratemporal (e.g., Miguashaia), the presence of a gap between the elements (e.g., Allenypterus) or the presence of an elongated posterolateral process of the parietal (e.g., Coelacanthus).
->
-> - Clement *et al.* (in review): "
+46.Middle pit line: in line with tabular pit line (0), not in line with tabular pit line (1). 
+> [L&Z28]
+> - Clement *et al.* (in review): "Character 46 is linked to character 43."
 
-42.Postparietal and lateral extrascapular, contact of [Ca15, Cb15]: present (0), absent (1)
->
-43.Pit lines on postparietals [Fb26, C26, F&C26, Y26, G26, W26, W&W26, Da26, Z26, GR26, WE26, CAa26, C&G26, A&S26, G&C26, Db26, CAb26, R&S26, T26]: marking postparietals (0), not marking postparietals (1)
->
-44.Anterior pit line [Fb24, C24, F&C24, Y24, G24, W24, W&W24, Da24, Z24, GR24, WE24, CAa24, C&G24, A&S24, G&C24, Db24, CAb24, R&S24, T24]: absent (0), present (1)
->
-45.Anterior pit line, position of [FR36]: on postparietal (0), on parietal (1). Character 45 is linked to character 44.
-> - Clement *et al.* (in review): "
->
-46.Middle pit line [L&Z28]: in line with tabular pit line (0), not in line with tabular pit line (1). Character 46 is linked to character 43.
->
-> - Clement *et al.* (in review): "
+47.Middle and posterior pit lines, position of: within posterior half of postparietals (0), within anterior third of postparietals (1). 
+> [Fb25, C25, F&C25, Y25, G25, L&Z27, W25, W&W25, Da25, Z25, GR25, WE25, CAa25, C&G25, A&S25, G&C25, Db25, CAb25, R&S25, T25]
+> - Clement *et al.* (in review): "Character 47 is linked to characters 43 and 46."
 
-47.Middle and posterior pit lines, position of [Fb25, C25, F&C25, Y25, G25, L&Z27, W25, W&W25, Da25, Z25, GR25, WE25, CAa25, C&G25, A&S25, G&C25, Db25, CAb25, R&S25, T25]: within posterior half of postparietals (0), within anterior third of postparietals (1). Character 47 is linked to characters 43 and 46.
->
-> - Clement *et al.* (in review): "
+48.Complete fusion of postparietal shield: no (0), yes (1)
+> [new]
 
-48.Complete fusion of postparietal shield [new]: no (0), yes (1)
->
-49.Extratemporal [FR16, L&Z10]: absent (0), present (1)
->
-50.Extrascapulars, sutures of [Fa19, Fb15, C15, F&C15, Y15, G15, W15, W&W15, Da15, Z15, GR15, WE15, CAa15, C&G15, A&S15, G&C15, Db15, CAb15, R&S15, CAc8, CAd8, T15]: sutured with postparietals-parietals (0), free (1). Character 50 is in part link with character 42.
->
-> - Clement *et al.* (in review): "
+49.Extratemporal: absent (0), present (1)
+> [FR16, L&Z10]
 
-51.Extrascapulars, position of [Cb59, Fa19, Fb16, C16, F&C16, Y16, G16, W16, W&W16, Da16, Z16, GR16, WE16, CAa16, C&G16, A&S16, G&C16, Db16, CAb16, R&S16, CAc9, CAd9, T16]: behind level of neurocranium (0), part of skull roof (1)
->
-52.Median extrascapular [new]: present (0), absent (1) 
->
-53.Lateral extrascapulars, size of [new]: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2). In species coded for lateral extrascapulars being less than the width of median extrascapular, the median extrascapular could reach up to twice the width of the lateral extrascapular (e.g., Miguashaia bureaui). On the other hand, species coded as having lateral extrascapular more than the width of median extrascapular, the lateral extrascapular could reach up to twice the width of the median extrascapular (e.g., Hadronector donbairdi). Morphometric character 13 provides the ratio between the lateral extrascapular width and the median extrascapular width. For those species allowing us to measure the ratio, the plesiomorphic condition corresponds to a ratio smaller than 0.9, whereas apomorphic state 2 corresponds to a ratio greater than 1.1. Meristic character 2 provides the number of extrascapulars. Character 53 is linked with the presence of a median extrascapular (Char. 52). The three character-states form a morphocline.
->
-> - Clement *et al.* (in review): "
+50.Extrascapulars, sutures of: sutured with postparietals-parietals (0), free (1). 
+> [Fa19, Fb15, C15, F&C15, Y15, G15, W15, W&W15, Da15, Z15, GR15, WE15, CAa15, C&G15, A&S15, G&C15, Db15, CAb15, R&S15, CAc8, CAd8, T15]
+> - Clement *et al.* (in review): "Character 50 is in part link with character 42."
 
-54.Posterior margin of skull roof [Fb18, C18, F&C18, Y18, G18, W18, W&W18, Da18, Z18, GR18, WE18, CAa18, C&G18, A&S18, G&C18, Db18, CAb18, R&S18, T18]: straight (0), embayed (1). Forey (1998, char. 18)12 defined a character concerning the posterior margin of the skull roof as either straight or embayed. Forey (1998, p. 58)12 mentioned that the posterior margin of the tabulars (his "supratemporals") with the postparietals is straight in Diplocercides thus not taking into account the posterior limit of the lateral and median extrascapulars. In contrast, Forey (1998, p. 91)12 mentioned that the fusion of the lateral extrascapular with the tabular (his "extratemporal") results in the posterior profile of the skull roof being embayed with the remaining extrascapulars lying in between in Coelacanthus. We considered the posterior margin of the skull roof to be interpreted as the posterior margin of the tabulars and postparietals even in species in which lateral and median extrascapulars are present and attached the postparietals and tabulars. Character 54 is in part link with the condition in which the posterior margin of the tabular extends posteriorly to the posterior margin of the postparietal (char. 23.2).
->
+51.Extrascapulars, position of: behind level of neurocranium (0), part of skull roof (1)
+> [Cb59, Fa19, Fb16, C16, F&C16, Y16, G16, W16, W&W16, Da16, Z16, GR16, WE16, CAa16, C&G16, A&S16, G&C16, Db16, CAb16, R&S16, CAc9, CAd9, T16]
 
-> - Clement *et al.* (in review): "
+52.Median extrascapular: present (0), absent (1) 
+> [new]
 
-55.Anterior branches of occipital commissure [Cb60, Fa40, Fb22, C22, F&C22, Y22, G22, W22, W&W22, Da22, Z22, GR22, WE22, CAa22, C&G22, A&S22, G&C22, Db22, CAb22, R&S22, CAc11, CAd11, T22]: absent (0), present (1). Occipital commissure [= "supratemporal commissural canal" of Schaeffer (1952)35; "supratemporal commissure" of Forey (1981)105]. Anterior branches (ramifications) of the occipital commissure extending to the anterior part of the extrascapulars and/or the posterior part of the postparietals are found in some actinistian species (Cloutier, 1991b)96.
->
+53.Lateral extrascapulars, size of: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2). 
+> [new]
+> - Clement *et al.* (in review): "In species coded for lateral extrascapulars being less than the width of median extrascapular, the median extrascapular could reach up to twice the width of the lateral extrascapular (e.g., Miguashaia bureaui). On the other hand, species coded as having lateral extrascapular more than the width of median extrascapular, the lateral extrascapular could reach up to twice the width of the median extrascapular (e.g., Hadronector donbairdi). Morphometric character 13 provides the ratio between the lateral extrascapular width and the median extrascapular width. For those species allowing us to measure the ratio, the plesiomorphic condition corresponds to a ratio smaller than 0.9, whereas apomorphic state 2 corresponds to a ratio greater than 1.1. Meristic character 2 provides the number of extrascapulars. Character 53 is linked with the presence of a median extrascapular (Char. 52). The three character-states form a morphocline."
 
-> - Clement *et al.* (in review): "
+54.Posterior margin of skull roof: straight (0), embayed (1).
+> [Fb18, C18, F&C18, Y18, G18, W18, W&W18, Da18, Z18, GR18, WE18, CAa18, C&G18, A&S18, G&C18, Db18, CAb18, R&S18, T18]
 
-56.Sensory pores, size of [Fa38]: pores on ethmosphenoid shield similar to parietal shield pores (0), pores on ethmosphenoid shield larger than parietal shield pores (1)
+> - Clement *et al.* (in review): " Forey (1998, char. 18)12 defined a character concerning the posterior margin of the skull roof as either straight or embayed. Forey (1998, p. 58)12 mentioned that the posterior margin of the tabulars (his "supratemporals") with the postparietals is straight in Diplocercides thus not taking into account the posterior limit of the lateral and median extrascapulars. In contrast, Forey (1998, p. 91)12 mentioned that the fusion of the lateral extrascapular with the tabular (his "extratemporal") results in the posterior profile of the skull roof being embayed with the remaining extrascapulars lying in between in Coelacanthus. We considered the posterior margin of the skull roof to be interpreted as the posterior margin of the tabulars and postparietals even in species in which lateral and median extrascapulars are present and attached the postparietals and tabulars. Character 54 is in part link with the condition in which the posterior margin of the tabular extends posteriorly to the posterior margin of the postparietal (char. 23.2)."
 
-57.Preorbital [Ca22, Cb22, Fa20, Fa19, Fb10, C10, F&C10, FR8, Y10, G10, W10, W&W10, Da10, Z10, GR10, WE10, CAa10, C&G10, A&S10, G&C10, Db10, CAb10, R&S10, T10]: present (0), absent (1). The preorbital is a bone forming part of the anterior margin of the orbit in basal coelacanths. A posterior tectal occupies a similar position in onychodontiforms and some tetrapodomorphs. Forey (1998, char. 10)12 used the opposite polarity of the character-states. We coded the preorbital present in onychodontiforms although this element is referred to as the posterior tectal. This character is linked with characters 6 and 7.
->
+55.Anterior branches of occipital commissure: absent (0), present (1). 
+> [Cb60, Fa40, Fb22, C22, F&C22, Y22, G22, W22, W&W22, Da22, Z22, GR22, WE22, CAa22, C&G22, A&S22, G&C22, Db22, CAb22, R&S22, CAc11, CAd11, T22]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Occipital commissure [= "supratemporal commissural canal" of Schaeffer (1952)35; "supratemporal commissure" of Forey (1981)105]. Anterior branches (ramifications) of the occipital commissure extending to the anterior part of the extrascapulars and/or the posterior part of the postparietals are found in some actinistian species (Cloutier, 1991b)96."
 
+56.Sensory pores, size of: pores on ethmosphenoid shield similar to parietal shield pores (0), pores on ethmosphenoid shield larger than parietal shield pores (1)
+> [Fa38]
 
-58.Lateral rostral [Ca]: without ventral process (0), with ventral process (1). The ventral process of the lateral rostral is located anteriorly, it could be relatively broad and shallow (e.g., Rhabdoderma elegans) or narrow and longer (e.g., Macropoma lewesiensis).
->
+57.Preorbital: present (0), absent (1). 
+> [Ca22, Cb22, Fa20, Fa19, Fb10, C10, F&C10, FR8, Y10, G10, W10, W&W10, Da10, Z10, GR10, WE10, CAa10, C&G10, A&S10, G&C10, Db10, CAb10, R&S10, T10]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "The preorbital is a bone forming part of the anterior margin of the orbit in basal coelacanths. A posterior tectal occupies a similar position in onychodontiforms and some tetrapodomorphs. Forey (1998, char. 10)12 used the opposite polarity of the character-states. We coded the preorbital present in onychodontiforms although this element is referred to as the posterior tectal. This character is linked with characters 6 and 7."
 
-59.Lateral rostral [L&Z4]: forming part of orbit (0), not forming part of orbit (1)
->
 
-60.Lateral rostral, shape of [new]: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). The shape of the lateral rostral is defined in terms of a ratio between the length of the element and the height (without taking into consideration the extend of the anterodorsal, anteroventral, and posterodorsal processes). Most coelacanths (more than 15 species out of 38 species including the outgroup Onychodus) have a length/height ratio of the lateral rostral around 3. The extreme values for our sample vary between 1.3 (Onychodus jandemarrai) and 10.7 (Axelrodichthys araripensis). The three character-states are defined in terms of the length/height ratio: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), and highly elongated (length/height ratio greater than 5) (2). The three character-states have been ordered to form a morphocline.
->
+58.Lateral rostral: without ventral process (0), with ventral process (1). 
+> [Ca]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "The ventral process of the lateral rostral is located anteriorly, it could be relatively broad and shallow (e.g., Rhabdoderma elegans) or narrow and longer (e.g., Macropoma lewesiensis)."
 
+59.Lateral rostral: forming part of orbit (0), not forming part of orbit (1)
+> [L&Z4]
 
-61.Posterodorsal process of lateral rostral [L&Z5]: absent (0), present (1). The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013)23. It is a well-developed and well-defined process that extends towards the midline of the skull roof [see Axelrodichthys maiseyi, de Carvalho et al. (2013, fig. 3B)23].
->
+60.Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). 
+> [new]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "The shape of the lateral rostral is defined in terms of a ratio between the length of the element and the height (without taking into consideration the extend of the anterodorsal, anteroventral, and posterodorsal processes). Most coelacanths (more than 15 species out of 38 species including the outgroup Onychodus) have a length/height ratio of the lateral rostral around 3. The extreme values for our sample vary between 1.3 (Onychodus jandemarrai) and 10.7 (Axelrodichthys araripensis). The three character-states are defined in terms of the length/height ratio: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), and highly elongated (length/height ratio greater than 5) (2). The three character-states have been ordered to form a morphocline."
 
 
-62.Cheek bones, contact of [Ca23 in part, Cb23, Fa22, Fb29, C29, F&C29, Y29, G29, W29, W&W29, Da29, Z29, GR29, WE29, CAa29, C&G29, A&S29, G&C29, Db29, CAb29, R&S29, T29]: in contact or overlapping (0), separated (1). Cloutier (1991a, b, char. 23)95,96 recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29)12 defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal.
->
+61.Posterodorsal process of lateral rostral: absent (0), present (1). 
+> [L&Z5]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013)23. It is a well-developed and well-defined process that extends towards the midline of the skull roof [see Axelrodichthys maiseyi, de Carvalho et al. (2013, fig. 3B)23]."
 
 
-63.Contact between lacrimojugal and preorbital and/or supraorbital series [Fb51, C51, F&C51, Y51, G51, W51, W&W51, Da51, Z51, GR51, WE51, CAa51, C&G51, A&S51, G&C51, Db51, CAb51, R&S51, T51]: present (0), absent (1). Character 63 is in part linked with character 57.
->
+62.Cheek bones, contact of: in contact or overlapping (0), separated (1). 
+> [Ca23 in part, Cb23, Fa22, Fb29, C29, F&C29, Y29, G29, W29, W&W29, Da29, Z29, GR29, WE29, CAa29, C&G29, A&S29, G&C29, Db29, CAb29, R&S29, T29]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Cloutier (1991a, b, char. 23)95,96 recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29)12 defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal."
 
-64.Spiracular [Ca24, Cb24, Fa21, Fb30 polarity, C30 polarity, F&C30 polarity, Y30 polarity, G30 polarity, W30 polarity, W&W30 polarity, Da30 polarity, Z30 polarity, GR30 polarity, WE30 polarity, CAa30 polarity, C&G30 polarity, A&S30 polarity, G&C30 polarity, Db30 polarity, CAb30 polarity, R&S30 polarity, CAc15, CAd15, T30 polarity]: present (0), absent (1). Schaeffer (1952)35 [=postspiracular of Lund & Lund (1985)13].
->
+63.Contact between lacrimojugal and preorbital and/or supraorbital series: present (0), absent (1).
+> [Fb51, C51, F&C51, Y51, G51, W51, W&W51, Da51, Z51, GR51, WE51, CAa51, C&G51, A&S51, G&C51, Db51, CAb51, R&S51, T51]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): " Character 63 is in part linked with character 57."
 
-65.Preoperculum [Fa23, Fb31 polarity, C31 modified, F&C31, Y31, G31, W31, W&W31, Da31 polarity, Z31, GR31 polarity, WE31, CAa31, C&G31 polarity, A&S31 polarity, G&C31, Db31, CAb31 polarity, R&S31 polarity, T31 polarity]: present (0), absent (1)
->
+64.Spiracular: present (0), absent (1). 
+> [Ca24, Cb24, Fa21, Fb30 polarity, C30 polarity, F&C30 polarity, Y30 polarity, G30 polarity, W30 polarity, W&W30 polarity, Da30 polarity, Z30 polarity, GR30 polarity, WE30 polarity, CAa30 polarity, C&G30 polarity, A&S30 polarity, G&C30 polarity, Db30 polarity, CAb30 polarity, R&S30 polarity, CAc15, CAd15, T30 polarity]
 
+> - Clement *et al.* (in review): "Schaeffer (1952)35 [=postspiracular of Lund & Lund (1985)13]."
 
-66.Preoperculum, size of [Fb38, C38, F&C38, Y38, G38, W38, W&W38, Da38, Z38, GR38, WE38, CAa38, C&G38, A&S38, G&C38, Db38, CAb38, R&S38, CAc18, CAd18, T38]: large bone (0), reduced to narrow tube (1). Character 66 is linked to character 65.
->
+65.Preoperculum: present (0), absent (1)
+> [Fa23, Fb31 polarity, C31 modified, F&C31, Y31, G31, W31, W&W31, Da31 polarity, Z31, GR31 polarity, WE31, CAa31, C&G31 polarity, A&S31 polarity, G&C31, Db31, CAb31 polarity, R&S31 polarity, T31 polarity]
 
-> - Clement *et al.* (in review): "
+66.Preoperculum, size of: large bone (0), reduced to narrow tube (1). 
+> [Fb38, C38, F&C38, Y38, G38, W38, W&W38, Da38, Z38, GR38, WE38, CAa38, C&G38, A&S38, G&C38, Db38, CAb38, R&S38, CAc18, CAd18, T38]
 
-67.Preoperculum [Fb39, C39, F&C39, Y39, G39, W39, W&W39, Da39, Z39, GR39, WE39, CAa39, C&G39, A&S39, G&C39, Db39, CAb39, R&S39, CAc19, CAd19, T39]: undifferentiated (0), developed as a posterior tube-like canal-bearing portion and an anterior blade-like portion (1). Character 67 is linked to character 65.
->
+> - Clement *et al.* (in review): "Character 66 is linked to character 65."
 
-> - Clement *et al.* (in review): "
+67.Preoperculum: undifferentiated (0), developed as a posterior tube-like canal-bearing portion and an anterior blade-like portion (1). 
+> [Fb39, C39, F&C39, Y39, G39, W39, W&W39, Da39, Z39, GR39, WE39, CAa39, C&G39, A&S39, G&C39, Db39, CAb39, R&S39, CAc19, CAd19, T39]
 
-68.Squamosal [L&Z22]: present (0), absent (1)
+> - Clement *et al.* (in review): "Character 67 is linked to character 65."
 
-69.Squamosal, position of [Fb34, C34, F&C34, Y34, G34, W34, W&W34, Da34, Z34, GR34, WE34, CAa34, C&G34, A&S34, G&C34, Db34, CAb34, R&S34, T34]: limited to the midlevel of the cheek (0), extending behind the postorbital to reach skull roof (1). Character 69 is linked with character 68.
->
+68.Squamosal: present (0), absent (1)
+> [L&Z22]
 
-> - Clement *et al.* (in review): "
+69.Squamosal, position of: limited to the midlevel of the cheek (0), extending behind the postorbital to reach skull roof (1). 
+> [Fb34, C34, F&C34, Y34, G34, W34, W&W34, Da34, Z34, GR34, WE34, CAa34, C&G34, A&S34, G&C34, Db34, CAb34, R&S34, T34]
 
+> - Clement *et al.* (in review): "Character 69 is linked with character 68."
 
-70.Squamosal, position of [new]: posterior to postorbital (0), ventral to postorbital (1). Character 70 is linked with character 68.
->
+70.Squamosal, position of: posterior to postorbital (0), ventral to postorbital (1).
+> [new]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): " Character 70 is linked with character 68."
 
-71.Squamosal, position of [new]: forming part of upper jaw margin (0), not forming part of upper jaw margin (1). Character 71 is linked with character 68, and partly linked with character 69.
->
+71.Squamosal, position of: forming part of upper jaw margin (0), not forming part of upper jaw margin (1). 
+> [new]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Character 71 is linked with character 68, and partly linked with character 69."
 
-72.Squamosal, size of [Cb25 in part, Fb37, C37, F&C37, Y37, G37, W37, W&W37, Da37, Z37, GR37, WE37, CAa37, C&G37, A&S37, G&C37, Db37, CAb37, R&S37, T37]: large bone (0), reduced to a narrow tube (1). Character 72 is linked with character 68.
->
+72.Squamosal, size of: large bone (0), reduced to a narrow tube (1). 
+> [Cb25 in part, Fb37, C37, F&C37, Y37, G37, W37, W&W37, Da37, Z37, GR37, WE37, CAa37, C&G37, A&S37, G&C37, Db37, CAb37, R&S37, T37]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Character 72 is linked with character 68."
 
+73.Squamosal, shape of: pentagonal (0), quadrilateral (1), triangular (2), irregular (3).
+> [Ca25]
 
-73.Squamosal, shape of [Ca25]: pentagonal (0), quadrilateral (1), triangular (2), irregular (3). Character 73 is linked with character 68.
->
+> - Clement *et al.* (in review): " Character 73 is linked with character 68."
 
-> - Clement *et al.* (in review): "
+74.Lacrimal: not fused with jugal (0), fused with jugal (1), fused with jugal and squamosal (2). 
+> [new]
 
-74.Lacrimal [new]: not fused with jugal (0), fused with jugal (1), fused with jugal and squamosal (2). The three character-states form a morphocline.
->
+> - Clement *et al.* (in review): "The three character-states form a morphocline."
 
-> - Clement *et al.* (in review): "
+75.Stud shaped ossicles near lacrimojugal: absent (0), present (1). 
+> [new]
 
-75.Stud shaped ossicles near lacrimojugal [new]: absent (0), present (1). Forey (1998, p. 307)12 wrote in the diagnosis of Coelacanthus that the lacrimojugal is associated with small stud-shaped ossicles which must have lain free in the skin, a condition similar to those of Spermatodus.
->
+> - Clement *et al.* (in review): "Forey (1998, p. 307)12 wrote in the diagnosis of Coelacanthus that the lacrimojugal is associated with small stud-shaped ossicles which must have lain free in the skin, a condition similar to those of Spermatodus."
 
-> - Clement *et al.* (in review): "
+76.Lacrimojugal, shape of: tapering anteriorly (0), not expanded anteriorly (1) expanded anteriorly (2).
+> [Cb65, Fb35 rephrased, C35 rephrased, F&C35 rephrased, Y35 rephrased, G35, W35, W&W35, Da35 rephrased, Z35 rephrased, GR35 rephrased, WE35 rephrased, CAa35, C&G35 rephrased, A&S35 rephrased, G&C35 rephrased, Db35 rephrased, CAb35 rephrased, R&S35 rephrased, T35 rephrased]
 
+> - Clement *et al.* (in review): " Forey (1998, char 35)12 recognized two conditions dealing with the anterior shape of the lacrimojugal: not expanded anteriorly (0) and expanded anteriorly (1). He associated the anterior expansion solely to the loss of the preorbital. Herein, we recognized an additional apomorphic condition of the anterior shape of the lacrimojugal which is "tapering anteriorly". The lacrimojugal expands anteriorly in genera such as Axelrodichthys, Chinlea, Libys, and Macropoma, it tapers anteriorly in Atacamaia, Coelacanthus, Luopingcoelacanthus and Wimania, while it is not expanded anteriorly in Hadronector, Polyosteorhynchus, Ticinepomis, and Yunnancoelacanthus. The three character-states form a morphocline. Character 76 is linked with character 74."
 
-76.Lacrimojugal, shape of [Cb65, Fb35 rephrased, C35 rephrased, F&C35 rephrased, Y35 rephrased, G35, W35, W&W35, Da35 rephrased, Z35 rephrased, GR35 rephrased, WE35 rephrased, CAa35, C&G35 rephrased, A&S35 rephrased, G&C35 rephrased, Db35 rephrased, CAb35 rephrased, R&S35 rephrased, T35 rephrased]: tapering anteriorly (0), not expanded anteriorly (1) expanded anteriorly (2). Forey (1998, char 35)12 recognized two conditions dealing with the anterior shape of the lacrimojugal: not expanded anteriorly (0) and expanded anteriorly (1). He associated the anterior expansion solely to the loss of the preorbital. Herein, we recognized an additional apomorphic condition of the anterior shape of the lacrimojugal which is "tapering anteriorly". The lacrimojugal expands anteriorly in genera such as Axelrodichthys, Chinlea, Libys, and Macropoma, it tapers anteriorly in Atacamaia, Coelacanthus, Luopingcoelacanthus and Wimania, while it is not expanded anteriorly in Hadronector, Polyosteorhynchus, Ticinepomis, and Yunnancoelacanthus. The three character-states form a morphocline. Character 76 is linked with character 74.
->
+77.Lacrimojugal, sensory pores of: relatively small size pores through the length of the lacrimojugal (0), anterior pore(s) expanded or forming a groove (1).
+> [new]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): " Character 77 is linked with character 74."
 
+78.Lacrimojugal, shape of: not angled anteriorly (0), angled anteriorly (1).
+> [Fb36 rephrased, C36 rephrased, F&C36 rephrased, Y36 rephrased, G36, W36, W&W36, Da36 rephrased, Z36 rephrased, GR36 rephrased, WE36 rephrased, CAa36, C&G36 rephrased, A&S36 rephrased, G&C36 rephrased, Db36 rephrased, CAb36 rephrased, R&S36 rephrased, CAc17 modified, CAd17 modified, T36 rephrased]
 
-77.Lacrimojugal, sensory pores of [new]: relatively small size pores through the length of the lacrimojugal (0), anterior pore(s) expanded or forming a groove (1). Character 77 is linked with character 74.
->
+> - Clement *et al.* (in review): " Forey (1998, char. 36)12 reported that the lacrimojugal ends anteriorly without or with an anterior angle. This downward angle is present in some species (e.g., Whiteia woodwardi, Atacamaia solitaria, Coelacanthus granulatus) in which the lacrimojugal extends more anteriorly than the anterior limit of the orbit. This angle is distinct from the angle that could be observed at mid-length of the ventral margin of the lacrimojugal (e.g., Diplocercides, Ticinepomis). Character 78 is linked with character 74."
 
-> - Clement *et al.* (in review): "
 
+79.Lacrimojugal ventral margin: without a posteroventral extension (0), with a posteroventral extension (1). 
+> [G&C110 modified]
 
-78.Lacrimojugal, shape of [Fb36 rephrased, C36 rephrased, F&C36 rephrased, Y36 rephrased, G36, W36, W&W36, Da36 rephrased, Z36 rephrased, GR36 rephrased, WE36 rephrased, CAa36, C&G36 rephrased, A&S36 rephrased, G&C36 rephrased, Db36 rephrased, CAb36 rephrased, R&S36 rephrased, CAc17 modified, CAd17 modified, T36 rephrased]: not angled anteriorly (0), angled anteriorly (1). Forey (1998, char. 36)12 reported that the lacrimojugal ends anteriorly without or with an anterior angle. This downward angle is present in some species (e.g., Whiteia woodwardi, Atacamaia solitaria, Coelacanthus granulatus) in which the lacrimojugal extends more anteriorly than the anterior limit of the orbit. This angle is distinct from the angle that could be observed at mid-length of the ventral margin of the lacrimojugal (e.g., Diplocercides, Ticinepomis). Character 78 is linked with character 74.
->
-
-> - Clement *et al.* (in review): "
-
-
-79.Lacrimojugal ventral margin [G&C110 modified]: without a posteroventral extension (0), with a posteroventral extension (1). Gess & Coates (2015, char. 110)78 defined the shape of the lacrimojugal as elbow-like with a ventral extension. They coded this condition as present in Serenichthys and Diplocercides among the 28 actinistian taxa they coded for. Character 79 is linked with character 74.
->
-
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Gess & Coates (2015, char. 110)78 defined the shape of the lacrimojugal as elbow-like with a ventral extension. They coded this condition as present in Serenichthys and Diplocercides among the 28 actinistian taxa they coded for. Character 79 is linked with character 74."
 
 80.Lacrimojugal ventral margin [G&C110 in part]: linear (0), V-shaped (1), curvilinear (2), sinusoidal (3). Cavin et al. (2020, char. 48)101 defined a lacrimojugal character to reflect differences among derived coelacanths. The lacrimojugal was considered either as being curved (0) or straight (1) in its mid-region. We redefine this character in terms of the ventral margin of the lacrimojugal to consider the disparity of all coelacanths. We are using four character-states to describe the shape of the ventral margin of the lacrimojugal: linear (0) (e.g., Miguashaia bureaui), V-shaped (1) (e.g., Diplocercides kayseri, Foreyia maxkuhni), curvilinear (2) (e.g., Caridosuctor populosum, Coccoderma suevicum), and sinusoidal (3) (e.g., Hadronector donbairdi). The V-shaped condition of the ventral margin of the lacrimojugal is in part associated with the presence of the posteroventral expansion of the margin (Character 79). Character 80 is linked with character 74.
 >
