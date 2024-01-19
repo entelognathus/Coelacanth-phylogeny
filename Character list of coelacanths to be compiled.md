@@ -148,30 +148,41 @@
 
 > - Clement *et al.* (in review): " Cloutier (1991a, char. 20)95 defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20)95. The three character-states form a morphocline."
 
+27.Medial branch of otic canal: absent (0), present (1)
+< [Ca16, Cb16, Fa37, Fb20, C20, F&C20, Y20, G20, L&Z30 in part, W20, W&W20, Da20, Z20, GR20, WE20, CAa20, C&G20, A&S20, G&C20, Db20, CAb20, R&S20, T20]
 
-27.Medial branch of otic canal [Ca16, Cb16, Fa37, Fb20, C20, F&C20, Y20, G20, L&Z30 in part, W20, W&W20, Da20, Z20, GR20, WE20, CAa20, C&G20, A&S20, G&C20, Db20, CAb20, R&S20, T20]: absent (0), present (1)
+28.Otic canal joining supratemporal canal: in lateral extrascapular (0), in tabular (1) 
+< [Fa36, Fb21, C21, F&C21, Y21, G21, W21, W&W21, Da21, Z21, GR21, WE21, CAa21, C&G21, A&S21, G&C21, Db21, CAb21, R&S21, T21]
 
-28.Otic canal joining supratemporal canal [Fa36, Fb21, C21, F&C21, Y21, G21, W21, W&W21, Da21, Z21, GR21, WE21, CAa21, C&G21, A&S21, G&C21, Db21, CAb21, R&S21, T21]: in lateral extrascapular (0), in tabular (1) 
+29.Tabular and postparietal: separated (0), fused (1)
+> [Cb57]
 
-29.Tabular and postparietal [Cb57]: separated (0), fused (1)
+30.Lateral process of parietal: absent (0), present (1). 
+> [Cb58]
 
-30.Lateral process of parietal [Cb58]: absent (0), present (1). The lateral process of the parietal is formed from the posterolateral margin of the parietal and is directed ventrolaterally toward the dorsal part of the postorbital (Cloutier, 1991b, char. 58)96. The process could either be in contact with the postorbital (e.g., Latimeria), extends towards the postorbital (e.g., Swenzia) or be separated from the postorbital by a supraorbital (e.g., Laugia, Macropoma, Yunnancoelacanthus). This process has been coded as present in Coelacanthus, Axelia, Wimania and Latimeria by Cloutier (1991b, char. 58)96. The posterior lateral process of the parietal could carry a segment of the infraorbital canal that connects to the supraorbital canal [e.g., Axelia (Stensiö, 1921, fig. 25)16, Coelacanthus (Schaumberg, 1978, figs. 5, 6)34, Wimania (Stensiö, 1921, fig. 43)16].
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "The lateral process of the parietal is formed from the posterolateral margin of the parietal and is directed ventrolaterally toward the dorsal part of the postorbital (Cloutier, 1991b, char. 58). The process could either be in contact with the postorbital (e.g., *Latimeria*), extends towards the postorbital (e.g., *Swenzia*) or be separated from the postorbital by a supraorbital (e.g., *Laugia, Macropoma, Yunnancoelacanthus*). This process has been coded as present in *Coelacanthus*, *Axelia*, *Wimania* and *Latimeria* by Cloutier (1991b, char. 58). The posterior lateral process of the parietal could carry a segment of the infraorbital canal that connects to the supraorbital canal (e.g., *Axelia* (Stensiö, 1921, fig. 25), *Coelacanthus* (Schaumberg, 1978, figs. 5, 6), *Wimania* (Stensiö, 1921, fig. 43))."
 
-31.Descending process of parietal [Ca11, Cb11, Fa13, Fb11, C11, F&C11, Y11, G11, W11, W&W11, Da11, Z11, GR11, WE11, CAa11, C&G11, A&S11, G&C11, Db11, CAb11, R&S11, T11]: absent (0), present (1). The descending process ("ventral process" of Forey (1998)12) of the parietal articulates with the dorsal side of the ethmosphenoid (Cloutier, 1991a, char. 11)95. Forey (1981, char. 10)105 mentioned that this posteroventral process braces against the basisphenoid.
-> - Clement *et al.* (in review): "
+31.Descending process of parietal: absent (0), present (1).
+> [Ca11, Cb11, Fa13, Fb11, C11, F&C11, Y11, G11, W11, W&W11, Da11, Z11, GR11, WE11, CAa11, C&G11, A&S11, G&C11, Db11, CAb11, R&S11, T11]
 
-32.Parietals and postparietals, ornament of [Fa56 in part, Fb27, C27, F&C27, Y27, G27, W27, W&W27, Da27, Z27, GR27, WE27, CAa27, C&G27, A&S27, G&C27, Db27, CAb27, R&S27, CAc13, CAd13, T27]: enamel capped ridges or tubercles (0), unornamented (1), marked by coarse tuberosities (2)
+> - Clement *et al.* (in review): " The descending process ("ventral process" of Forey (1998)) of the parietal articulates with the dorsal side of the ethmosphenoid (Cloutier, 1991a, char. 11)95. Forey (1981, char. 10) mentioned that this posteroventral process braces against the basisphenoid."
 
-33.Pineal foramen [FR14, L&Z2]: present (0), absent (1) 
+32.Parietals and postparietals, ornament of: enamel capped ridges or tubercles (0), unornamented (1), marked by coarse tuberosities (2)
+> [Fa56 in part, Fb27, C27, F&C27, Y27, G27, W27, W&W27, Da27, Z27, GR27, WE27, CAa27, C&G27, A&S27, G&C27, Db27, CAb27, R&S27, CAc13, CAd13, T27]
 
-34.Parietals and postparietals [Fb28, C28, F&C28, Y28, G28, W28, W&W28, Da28, Z28, GR28, WE28, CAa28, C&G28, A&S28, G&C28, Db28, CAb28, R&S28, CAc14, CAd14, T28]: without raised or depressed areas (0), with raised areas (1), with depressed areas (2). Forey (1998, char. 28)12 recognized the presence of a raised area at the anterior margin of the postparietals and posterior margin of the parietals (as seen in Latimeria chalumnae) as an apomorphic condition. We recognize a second apomorphic state to take into account the condition observed in Swenzia latimerae where there is an anterior depression on the postparietals in the same area.
-> - Clement *et al.* (in review): "
+33.Pineal foramen: present (0), absent (1) 
+> [FR14, L&Z2]
+
+34.Parietals and postparietals: without raised or depressed areas (0), with raised areas (1), with depressed areas (2).
+>  [Fb28, C28, F&C28, Y28, G28, W28, W&W28, Da28, Z28, GR28, WE28, CAa28, C&G28, A&S28, G&C28, Db28, CAb28, R&S28, CAc14, CAd14, T28]
+
+> - Clement *et al.* (in review): " Forey (1998, char. 28) recognized the presence of a raised area at the anterior margin of the postparietals and posterior margin of the parietals (as seen in Latimeria chalumnae) as an apomorphic condition. We recognize a second apomorphic state to take into account the condition observed in Swenzia latimerae where there is an anterior depression on the postparietals in the same area."
 
 35.Anterior margin of parietals [FR13, L&Z1]: between or in front of orbits (0), slightly posterior to orbits (1)
 
 36.Parietal and supraorbitals, contact of [CAc51, CAd51]: parietal contacts more than three supraorbitals (0), parietal contacts three supraorbitals (1), parietal contacts two supraorbitals (2). Cavin et al. (2020, char. 51)101 defined a character to identify the number of supraorbitals articulating with the parietal (their "posterior parietal"). This multistate character forms a morphocline.
 > - Clement *et al.* (in review): "
+
 37.Margin of dermal intracranial joint [Fb1, C1, F&C1 modified, FR147 in part, Y1, G1, W1, W&W1, Da1, Z1, GR1, WE1, CAa1, C&G1, A&S1 modified, G&C1, Db1, Cab1, R&S1, CAc1 modified, CAd1 modified, T1 modified]: straight (0), deeply notched (1), undulated (2). Forey (1998)12 defined the apomorphic state as "strongly interdigitate", while Friedman & Coates (2006)47 and subsequent authors defined the apomorphic state as "deeply notched". Arratia & Schultze (2015)15 used a second apomorphic character-state defined as "undulated or excavated"; only used for Atacamaia.
 > - Clement *et al.* (in review): "
 
