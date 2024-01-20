@@ -177,58 +177,74 @@
 > - Clement *et al.* (in review): " Cloutier (1991a, char. 20)95 defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20)95. The three character-states form a morphocline."
 
 27. Medial branch of otic canal: absent (0), present (1)
-< [Ca16, Cb16, Fa37, Fb20, C20, F&C20, Y20, G20, L&Z30 in part, W20, W&W20, Da20, Z20, GR20, WE20, CAa20, C&G20, A&S20, G&C20, Db20, CAb20, R&S20, T20]
 
-28. Otic canal joining supratemporal canal: in lateral extrascapular (0), in tabular (1) 
-< [Fa36, Fb21, C21, F&C21, Y21, G21, W21, W&W21, Da21, Z21, GR21, WE21, CAa21, C&G21, A&S21, G&C21, Db21, CAb21, R&S21, T21]
+> Cloutier (1991a), Cloutier (1991b), Character 16; Forey (1991), Character 37; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Character 20; Lu & Zhu (2009), Character 30, in part;  Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 20.
 
-29. Tabular and postparietal: separated (0), fused (1)
-> [Cb57]
+29. Otic canal joining supratemporal canal: in lateral extrascapular (0), in tabular (1) 
+
+< Forey (1991), Character 36; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 21.
+
+31. Tabular and postparietal: separated (0), fused (1)
+
+> Cloutier (1991b), Character 57.
 
 30. Lateral process of parietal: absent (0), present (1). 
-> [Cb58]
+
+> Cloutier (1991b), Character 58.
 
 > - Clement *et al.* (in review): "The lateral process of the parietal is formed from the posterolateral margin of the parietal and is directed ventrolaterally toward the dorsal part of the postorbital (Cloutier, 1991b, char. 58). The process could either be in contact with the postorbital (e.g., *Latimeria*), extends towards the postorbital (e.g., *Swenzia*) or be separated from the postorbital by a supraorbital (e.g., *Laugia, Macropoma, Yunnancoelacanthus*). This process has been coded as present in *Coelacanthus*, *Axelia*, *Wimania* and *Latimeria* by Cloutier (1991b, char. 58). The posterior lateral process of the parietal could carry a segment of the infraorbital canal that connects to the supraorbital canal (e.g., *Axelia* (Stensiö, 1921, fig. 25), *Coelacanthus* (Schaumberg, 1978, figs. 5, 6), *Wimania* (Stensiö, 1921, fig. 43))."
 
 31. Descending process of parietal: absent (0), present (1).
-> [Ca11, Cb11, Fa13, Fb11, C11, F&C11, Y11, G11, W11, W&W11, Da11, Z11, GR11, WE11, CAa11, C&G11, A&S11, G&C11, Db11, CAb11, R&S11, T11]
+
+> Cloutier (1991a), Cloutier (1991b), Character 11; Forey (1991), Character 13; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 11.
 
 > - Clement *et al.* (in review): " The descending process ("ventral process" of Forey (1998)) of the parietal articulates with the dorsal side of the ethmosphenoid (Cloutier, 1991a, char. 11)95. Forey (1981, char. 10) mentioned that this posteroventral process braces against the basisphenoid."
 
 32. Parietals and postparietals, ornament of: enamel capped ridges or tubercles (0), unornamented (1), marked by coarse tuberosities (2)
-> [Fa56 in part, Fb27, C27, F&C27, Y27, G27, W27, W&W27, Da27, Z27, GR27, WE27, CAa27, C&G27, A&S27, G&C27, Db27, CAb27, R&S27, CAc13, CAd13, T27]
+
+> Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Character 27; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 13; Toriño *et al.* (2021), Character 27.
 
 33. Pineal foramen: present (0), absent (1) 
-> [FR14, L&Z2]
+
+> Friedman (2007), Character 14; Lu & Zhu (2009), Character 2.
 
 34. Parietals and postparietals: without raised or depressed areas (0), with raised areas (1), with depressed areas (2).
->  [Fb28, C28, F&C28, Y28, G28, W28, W&W28, Da28, Z28, GR28, WE28, CAa28, C&G28, A&S28, G&C28, Db28, CAb28, R&S28, CAc14, CAd14, T28]
+
+> Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Character 28; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 14; Toriño *et al.* (2021), Character 28.
 
 > - Clement *et al.* (in review): " Forey (1998, char. 28) recognized the presence of a raised area at the anterior margin of the postparietals and posterior margin of the parietals (as seen in Latimeria chalumnae) as an apomorphic condition. We recognize a second apomorphic state to take into account the condition observed in Swenzia latimerae where there is an anterior depression on the postparietals in the same area."
 
 35. Anterior margin of parietals: between or in front of orbits (0), slightly posterior to orbits (1)
-> [FR13, L&Z1]
+
+>  Friedman (2007), Character 13; Lu & Zhu (2009), Character 1.
 
 36. Parietal and supraorbitals, contact of: parietal contacts more than three supraorbitals (0), parietal contacts three supraorbitals (1), parietal contacts two supraorbitals (2). 
-> [CAc51, CAd51]
+
+> Cavin *et al.* (2019), Cavin *et al.* (2020), Character 51.
+
 > - Clement *et al.* (in review): "Cavin et al. (2020, char. 51)101 defined a character to identify the number of supraorbitals articulating with the parietal (their "posterior parietal"). This multistate character forms a morphocline."
 
 37.Margin of dermal intracranial joint: straight (0), deeply notched (1), undulated (2). 
-> [Fb1, C1, F&C1 modified, FR147 in part, Y1, G1, W1, W&W1, Da1, Z1, GR1, WE1, CAa1, C&G1, A&S1 modified, G&C1, Db1, Cab1, R&S1, CAc1 modified, CAd1 modified, T1 modified]
+
+> Forey (1998), Clément (2005), Friedman & Coates (2006), modified, Character 1; Friedman (2007), Character 147, in part; Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), modified, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin *et al.* (2019), modified, Cavin *et al.* (2020), modified, Toriño *et al.* (2021), modified, Character 1.
 
 > - Clement *et al.* (in review): "Forey (1998)12 defined the apomorphic state as "strongly interdigitate", while Friedman & Coates (2006)47 and subsequent authors defined the apomorphic state as "deeply notched". Arratia & Schultze (2015)15 used a second apomorphic character-state defined as "undulated or excavated"; only used for Atacamaia."
 
 38. Postparietal descending process: absent (0), present (1). 
-> [Ca13, Cb13, Fa16, Fb13, C13, F&C13, Y13, G13, W13, W&W13, Da13, Z13, GR13, WE13, CAa13, C&G13, A&S13, G&C13, Db13, CAb13, R&S13, T13]
+
+> Cloutier (1991a), Cloutier (1991b), Forey (1991), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 13.
 
 > - Clement *et al.* (in review): "The descending process of the postparietal is located on the posteroventral surface of the postparietal articulating with the oticoccipital part of the neurocranium."
 
 39. Postparietal, shape of: L shaped (0), rectangular (1), inverted L shaped (2).
-> [Ca12, Cb12]
+
+> Cloutier (1991a), Cloutier (1991b), Character 12.
+
 > - Clement *et al.* (in review): " The shape of the postparietal takes into consideration the dorsal view of the element. In the inverted L shape, the small process forms the anterolateral component of the postparietal. The numbering of character-states has been modified from Cloutier (1991a, char. 12)."
 
 40. Postparietal: not narrowing posteriorly (0), narrowing posteriorly (1).
-> [L&Z7]
+
+> Lu & Zhu (2009), Character 7.
 
 > - Clement *et al.* (in review): " Lu and Zhu (2009, char. 7)8 defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in Onychodus, Qingmenodus and Grossius. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal [char. 39(2)]."
 
