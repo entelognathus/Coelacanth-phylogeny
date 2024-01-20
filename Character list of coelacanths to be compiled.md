@@ -107,7 +107,7 @@
 
 14. Median rostral: without teeth (0), with teeth (1). 
 
-> Friedman (2007), C43; Lu & Zhu (2009), Character 3.
+> Friedman (2007), Character 3; Lu & Zhu (2009), Character 3.
 
 > - Clement *et al.* (in review): "Lu & Zhu (2009, char. 3) coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including *Diplocercides*. The condition of *Diplocercides* was coded as unknown, and solely *Psarolepis* was coded as having this condition."
 
@@ -248,96 +248,121 @@
 
 > - Clement *et al.* (in review): " Lu and Zhu (2009, char. 7)8 defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in Onychodus, Qingmenodus and Grossius. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal [char. 39(2)]."
 
-41. Postparietal postorbital, contact of: absent (0), present (1). 
-> [Ca14, Cb14]
+41. Postparietal postorbital, contact of: absent (0), present (1).
+
+> Cloutier (1991a), Cloutier (1991b), Character 14.
 
 > - Clement *et al.* (in review): "The absence of contact between the anterolateral part of the postparietal and the postorbital could be owing either to the presence of intertemporal and/or supratemporal (e.g., Miguashaia), the presence of a gap between the elements (e.g., Allenypterus) or the presence of an elongated posterolateral process of the parietal (e.g., Coelacanthus)."
 
 42. Postparietal and lateral extrascapular, contact of: present (0), absent (1)
-> [Ca15, Cb15]
+
+> Cloutier (1991a), Cloutier (1991b), Character 15.
 
 43. Pit lines on postparietals: marking postparietals (0), not marking postparietals (1)
-> [Fb26, C26, F&C26, Y26, G26, W26, W&W26, Da26, Z26, GR26, WE26, CAa26, C&G26, A&S26, G&C26, Db26, CAb26, R&S26, T26]
+
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 26.
+
 
 44. Anterior pit line: absent (0), present (1)
-> [Fb24, C24, F&C24, Y24, G24, W24, W&W24, Da24, Z24, GR24, WE24, CAa24, C&G24, A&S24, G&C24, Db24, CAb24, R&S24, T24]
+
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 24.
+
 
 45. Anterior pit line, position of: on postparietal (0), on parietal (1). 
-> [FR36]
+
+> Friedman (2007), Character 36.
 
 > - Clement *et al.* (in review): "Character 45 is linked to character 44."
 
 46. Middle pit line: in line with tabular pit line (0), not in line with tabular pit line (1). 
-> [L&Z28]
+
+> Lu & Zhu (2009), Character 28.
 
 > - Clement *et al.* (in review): "Character 46 is linked to character 43."
 
 47. Middle and posterior pit lines, position of: within posterior half of postparietals (0), within anterior third of postparietals (1). 
-> [Fb25, C25, F&C25, Y25, G25, L&Z27, W25, W&W25, Da25, Z25, GR25, WE25, CAa25, C&G25, A&S25, G&C25, Db25, CAb25, R&S25, T25]
+
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Lu & Zhu (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 25.
 
 > - Clement *et al.* (in review): "Character 47 is linked to characters 43 and 46."
 
 48. Complete fusion of postparietal shield: no (0), yes (1)
-> [new]
+
+> new
 
 49. Extratemporal: absent (0), present (1)
-> [FR16, L&Z10]
+
+> Friedman (2007), Character 16; Lu & Zhu (2009), Character 10.
 
 50. Extrascapulars, sutures of: sutured with postparietals-parietals (0), free (1). 
-> [Fa19, Fb15, C15, F&C15, Y15, G15, W15, W&W15, Da15, Z15, GR15, WE15, CAa15, C&G15, A&S15, G&C15, Db15, CAb15, R&S15, CAc8, CAd8, T15]
+
+> Forey (1991), Character 19; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 15; Cavin et al. (2019), Cavin et al. (2020), Character 8.
 
 > - Clement *et al.* (in review): "Character 50 is in part link with character 42."
 
+> - The Character 19 of Forey (1991): Extrascapular contact. An extrascapular may be sutured (0) to the parietal shield or may lie free (1): the former condition is regarded as plesiomorphic. 
+
 51. Extrascapulars, position of: behind level of neurocranium (0), part of skull roof (1)
-> [Cb59, Fa19, Fb16, C16, F&C16, Y16, G16, W16, W&W16, Da16, Z16, GR16, WE16, CAa16, C&G16, A&S16, G&C16, Db16, CAb16, R&S16, CAc9, CAd9, T16]
+
+> Cloutier (1991b), Character 59; Forey (1991), Character 19; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 16; Cavin et al. (2019), Cavin et al. (2020), Character 9.
+
 
 52. Median extrascapular: present (0), absent (1) 
-> [new]
+> new
 
 53. Lateral extrascapulars, size of: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2). 
-> [new]
+> new
 
 > - Clement *et al.* (in review): "In species coded for lateral extrascapulars being less than the width of median extrascapular, the median extrascapular could reach up to twice the width of the lateral extrascapular (e.g., Miguashaia bureaui). On the other hand, species coded as having lateral extrascapular more than the width of median extrascapular, the lateral extrascapular could reach up to twice the width of the median extrascapular (e.g., Hadronector donbairdi). Morphometric character 13 provides the ratio between the lateral extrascapular width and the median extrascapular width. For those species allowing us to measure the ratio, the plesiomorphic condition corresponds to a ratio smaller than 0.9, whereas apomorphic state 2 corresponds to a ratio greater than 1.1. Meristic character 2 provides the number of extrascapulars. Character 53 is linked with the presence of a median extrascapular (Char. 52). The three character-states form a morphocline."
 
 54. Posterior margin of skull roof: straight (0), embayed (1).
-> [Fb18, C18, F&C18, Y18, G18, W18, W&W18, Da18, Z18, GR18, WE18, CAa18, C&G18, A&S18, G&C18, Db18, CAb18, R&S18, T18]
+
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 18.
 
 > - Clement *et al.* (in review): " Forey (1998, char. 18)12 defined a character concerning the posterior margin of the skull roof as either straight or embayed. Forey (1998, p. 58)12 mentioned that the posterior margin of the tabulars (his "supratemporals") with the postparietals is straight in Diplocercides thus not taking into account the posterior limit of the lateral and median extrascapulars. In contrast, Forey (1998, p. 91)12 mentioned that the fusion of the lateral extrascapular with the tabular (his "extratemporal") results in the posterior profile of the skull roof being embayed with the remaining extrascapulars lying in between in Coelacanthus. We considered the posterior margin of the skull roof to be interpreted as the posterior margin of the tabulars and postparietals even in species in which lateral and median extrascapulars are present and attached the postparietals and tabulars. Character 54 is in part link with the condition in which the posterior margin of the tabular extends posteriorly to the posterior margin of the postparietal (char. 23.2)."
 
 55. Anterior branches of occipital commissure: absent (0), present (1). 
-> [Cb60, Fa40, Fb22, C22, F&C22, Y22, G22, W22, W&W22, Da22, Z22, GR22, WE22, CAa22, C&G22, A&S22, G&C22, Db22, CAb22, R&S22, CAc11, CAd11, T22]
+
+> Cloutier (1991b), Character 60; Forey (1991), Character 40; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 22; Cavin et al. (2019), Cavin et al. (2020), Character 11.
 
 > - Clement *et al.* (in review): "Occipital commissure [= "supratemporal commissural canal" of Schaeffer (1952)35; "supratemporal commissure" of Forey (1981)105]. Anterior branches (ramifications) of the occipital commissure extending to the anterior part of the extrascapulars and/or the posterior part of the postparietals are found in some actinistian species (Cloutier, 1991b)96."
 
 56. Sensory pores, size of: pores on ethmosphenoid shield similar to parietal shield pores (0), pores on ethmosphenoid shield larger than parietal shield pores (1)
-> [Fa38]
+> Forey (1991), Character 38.
 
 57. Preorbital: present (0), absent (1). 
-> [Ca22, Cb22, Fa20, Fa19, Fb10, C10, F&C10, FR8, Y10, G10, W10, W&W10, Da10, Z10, GR10, WE10, CAa10, C&G10, A&S10, G&C10, Db10, CAb10, R&S10, T10]
+
+> Cloutier (1991a), Cloutier (1991b), Character 22; Forey (1991), Character 20; Forey (1991), Character 19; Forey (1998), Clément (2005), Friedman & Coates (2006), Friedman (2007), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 10.
 
 > - Clement *et al.* (in review): "The preorbital is a bone forming part of the anterior margin of the orbit in basal coelacanths. A posterior tectal occupies a similar position in onychodontiforms and some tetrapodomorphs. Forey (1998, char. 10)12 used the opposite polarity of the character-states. We coded the preorbital present in onychodontiforms although this element is referred to as the posterior tectal. This character is linked with characters 6 and 7."
 
 58. Lateral rostral: without ventral process (0), with ventral process (1). 
-> [Ca]
+
+> Cloutier (1991a).
 
 > - Clement *et al.* (in review): "The ventral process of the lateral rostral is located anteriorly, it could be relatively broad and shallow (e.g., Rhabdoderma elegans) or narrow and longer (e.g., Macropoma lewesiensis)."
 
 59. Lateral rostral: forming part of orbit (0), not forming part of orbit (1)
-> [L&Z4]
+
+> Lu & Zhu (2009), Character 4.
 
 60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). 
-> [new]
+
+> new
 
 > - Clement *et al.* (in review): "The shape of the lateral rostral is defined in terms of a ratio between the length of the element and the height (without taking into consideration the extend of the anterodorsal, anteroventral, and posterodorsal processes). Most coelacanths (more than 15 species out of 38 species including the outgroup Onychodus) have a length/height ratio of the lateral rostral around 3. The extreme values for our sample vary between 1.3 (Onychodus jandemarrai) and 10.7 (Axelrodichthys araripensis). The three character-states are defined in terms of the length/height ratio: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), and highly elongated (length/height ratio greater than 5) (2). The three character-states have been ordered to form a morphocline."
 
 61. Posterodorsal process of lateral rostral: absent (0), present (1). 
-> [L&Z5]
+
+> Lu & Zhu (2009), Character 5.
 
 > - Clement *et al.* (in review): "The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013)23. It is a well-developed and well-defined process that extends towards the midline of the skull roof [see Axelrodichthys maiseyi, de Carvalho et al. (2013, fig. 3B)23]."
 
 
 62. Cheek bones, contact of: in contact or overlapping (0), separated (1). 
-> [Ca23 in part, Cb23, Fa22, Fb29, C29, F&C29, Y29, G29, W29, W&W29, Da29, Z29, GR29, WE29, CAa29, C&G29, A&S29, G&C29, Db29, CAb29, R&S29, T29]
+
+> Cloutier (1991a), Character 5, in part; Cloutier (1991b), Character 23; Forey (1991), Character 22; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 29.
+
 
 > - Clement *et al.* (in review): "Cloutier (1991a, b, char. 23)95,96 recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29)12 defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal."
 
