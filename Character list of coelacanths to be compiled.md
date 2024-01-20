@@ -241,7 +241,7 @@
 > - Clement *et al.* (in review): "Character 47 is linked to characters 43 and 46."
 
 48. Complete fusion of postparietal shield: no (0), yes (1)
-> new
+> Clement *et al.* (in review), Character 48.
 
 49. Extratemporal: absent (0), present (1)
 > Friedman (2007), Character 16; Lu & Zhu (2009), Character 10.
@@ -257,7 +257,7 @@
 > Cloutier (1991b), Character 59; Forey (1991), Character 19; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 16; Cavin et al. (2019), Cavin et al. (2020), Character 9.
 
 52. Median extrascapular: present (0), absent (1) 
-> new
+> Clement *et al.* (in review), Character 52.
 
 53. Lateral extrascapulars, size of: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2). 
 > new
@@ -291,8 +291,7 @@
 > Lu & Zhu (2009), Character 4.
 
 60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). 
-
-> new
+> Clement *et al.* (in review), Character 60.
 
 > - Clement *et al.* (in review): "The shape of the lateral rostral is defined in terms of a ratio between the length of the element and the height (without taking into consideration the extend of the anterodorsal, anteroventral, and posterodorsal processes). Most coelacanths (more than 15 species out of 38 species including the outgroup Onychodus) have a length/height ratio of the lateral rostral around 3. The extreme values for our sample vary between 1.3 (Onychodus jandemarrai) and 10.7 (Axelrodichthys araripensis). The three character-states are defined in terms of the length/height ratio: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), and highly elongated (length/height ratio greater than 5) (2). The three character-states have been ordered to form a morphocline."
 
@@ -340,12 +339,12 @@
 > - Clement *et al.* (in review): "Character 69 is linked with character 68."
 
 70. Squamosal, position of: posterior to postorbital (0), ventral to postorbital (1).
-> [new]
+> Clement *et al.* (in review), Character 70.
 
 > - Clement *et al.* (in review): " Character 70 is linked with character 68."
 
 71. Squamosal, position of: forming part of upper jaw margin (0), not forming part of upper jaw margin (1). 
-> [new]
+> Clement *et al.* (in review), Character 71.
 
 > - Clement *et al.* (in review): "Character 71 is linked with character 68, and partly linked with character 69."
 
@@ -360,12 +359,12 @@
 > - Clement *et al.* (in review): " Character 73 is linked with character 68."
 
 74. Lacrimal: not fused with jugal (0), fused with jugal (1), fused with jugal and squamosal (2). 
-> [new]
+> Clement *et al.* (in review), Character 74.
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline."
 
 75. Stud shaped ossicles near lacrimojugal: absent (0), present (1). 
-> [new]
+> Clement *et al.* (in review), Character 75.
 
 > - Clement *et al.* (in review): "Forey (1998, p. 307)12 wrote in the diagnosis of Coelacanthus that the lacrimojugal is associated with small stud-shaped ossicles which must have lain free in the skin, a condition similar to those of Spermatodus."
 
@@ -375,7 +374,7 @@
 > - Clement *et al.* (in review): " Forey (1998, char 35)12 recognized two conditions dealing with the anterior shape of the lacrimojugal: not expanded anteriorly (0) and expanded anteriorly (1). He associated the anterior expansion solely to the loss of the preorbital. Herein, we recognized an additional apomorphic condition of the anterior shape of the lacrimojugal which is "tapering anteriorly". The lacrimojugal expands anteriorly in genera such as Axelrodichthys, Chinlea, Libys, and Macropoma, it tapers anteriorly in Atacamaia, Coelacanthus, Luopingcoelacanthus and Wimania, while it is not expanded anteriorly in Hadronector, Polyosteorhynchus, Ticinepomis, and Yunnancoelacanthus. The three character-states form a morphocline. Character 76 is linked with character 74."
 
 77. Lacrimojugal, sensory pores of: relatively small size pores through the length of the lacrimojugal (0), anterior pore(s) expanded or forming a groove (1).
-> [new]
+> Clement *et al.* (in review), Character 77.
 
 > - Clement *et al.* (in review): " Character 77 is linked with character 74."
 
@@ -400,7 +399,7 @@
 > - Clement *et al.* (in review): " Cloutier (1991b, char. 64)96 defined a character to reflect the anterior extent of the lacrimojugal which was suggested to be characteristic of advanced coelacanths by Stensiö (1921)16. However, Cloutier (1991b)96 only coded Mawsonia gigas as having a lacrimojugal extending to the anterior part of the snout. We redefined the apomorphic condition as extending to the snout, rather than the anterior part of the snout. Character 81 is linked with character 74."
 
 82. Lacrimojugal postorbital limb: absent (0), present (1). 
-> [new]
+> Clement *et al.* (in review), Character 82.
 
 > - Clement *et al.* (in review): "Character 82 takes into account the condition of the lacrimojugal. Therefore, the outgroups are coded as "-". Nevertheless, in Grossius aragonensis, Onychodus jandemarrai and Strunius walteri, the jugal lacks a postorbital limb. Character 82 is linked to character 74.
 
@@ -461,7 +460,7 @@
 > - Clement *et al.* (in review): "The three character-states form a morphocline. Character 97 is linked to character 95."
 
 98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
-> [new]
+> Clement *et al.* (in review), Character 98.
 
 > - Clement *et al.* (in review): "Character 98 is linked to character 95."
 
@@ -505,7 +504,7 @@
 > - Clement *et al.* (in review): "Character 106 is linked to character 103."
 
 107. Operculum: without sensory pores (0), with sensory pores (1)
-> [new]
+> Clement *et al.* (in review), Character 107.
 
 108. Operculum, shape of: quadrilateral (0), triangular (1), ovoid (2). 
 > [Ca28, Cb28]
@@ -518,12 +517,12 @@
 > - Clement *et al.* (in review): "
 
 110. Dentary relative, size of: dentary much bigger than the splenial (0), dentary approximately the same size as the splenial (1), dentary much smaller than the splenial (2). 
-> [new]
+> Clement *et al.* (in review), Character 110.
 
 > - Clement *et al.* (in review): "The relative size of the dentary and splenial considers the general surface of these bones in lateral view. The three character-states form a morphocline. Character 110 is linked with character 133."
 
 111. Posterior margin of dentary: relatively at right angle with the dorsal margin (0), dorsally beveled (1), ventrally beveled (2), pointed (X bevel) (3), V-grooved (4). 
-> [new]
+> Clement *et al.* (in review), Character 111.
 
 > - Clement *et al.* (in review): "This character takes into account the general shape of the posterior margin of the dentary when looking at the lateral profile of the lateral surface of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the dentary is located ventrally (e.g., Gavinia, Laugia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Libys, Tachymetopon). In the pointed shape (or X bevel), the pointed part of the posterior margin of the dentary is approximately located at mid-height of the dentary (e.g., Coelacanthus, Parnaibaia), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Most coelacanths having a dorsal hook-shape posteriorly oriented on the dentary (Char. 108) have a V-grooved posterior margin. This character does not apply for the out-groups in which a long dentary is known."
 
@@ -543,7 +542,7 @@
 > - Clement *et al.* (in review): " Character 114 is linked to character 132."
 
 115. Dentary teeth: present (0), absent (1). 
-> [new]
+> Clement *et al.* (in review), Character 115.
 
 > - Clement *et al.* (in review): "Friedman & Coates (2006, char. 54)47 coded Allenypterus as "?" because of its edentulous condition. We used a separate character to take into account the present or absent of teeth on the mandible."
 
@@ -558,10 +557,10 @@
 > - Clement *et al.* (in review): "The dentary sensory pore is generally a single large pore associated with the trigeminal nerve; Mawsonia soba differs by the presence of four pores rather than one large pore (Brito et al., 2018)56. As defined by Forey (1998, char. 61)12, this pore is located near the suture between the dentary and the splenial, above the mandibular canal."
 
 118. Parasymphysial plate: present (0), absent (1)
-> [new]
+> Clement *et al.* (in review), Character 118.
 
 119. Parasymphysial plate: detachable tooth whorl (0), long sutured to coronoid (1), short not sutured to coronoid (2).
-> [new]
+> Clement *et al.* (in review), Character 119.
 
 > - Clement *et al.* (in review): "Character 119 is linked with character 118."
 
@@ -576,7 +575,7 @@
 > - Clement *et al.* (in review): "Forey (1998, char. 56)12 described that the fourth coronoid of the anterior series of coronoids is modified in some actinistians. This coronoid is closely associated with the posterior end of the dentary and is modified to bear enlarged tooth/teeth [e.g., Spermatodus (Forey, 1998, fig. 5.8A)12; Undina penicillata (Forey, 1998, fig. 5.12C)12] and the lateral edge rolled over [e.g., Sassenia; see Forey (1998, fig. 5.8B)12]. This coronoid is located anterior to the principal coronoid (char. 122)."
 
 122. Principal coronoid: present (0), absent (1). 
-> [new]
+> Clement *et al.* (in review), Character 122.
 
 > - Clement *et al.* (in review): "An enlarged posterior (principal) coronoid projecting considerably above the occlusal margin of the lower jaw has been recognized by many authors as an actinistian synapomorphy (Schaeffer, 1952; Lund & Lund, 1985; Cloutier, 1991a)13,35,95. Cloutier (1991a)95 recognized the coronoid IV oriented vertically as an actinistian synapomorphy; although we agree that the posteriormost is oriented vertically, the homology of this element with coronoid IV is questioned. The modified coronoid (char. 121) is frequently referred to as Coronoid IV."
 
@@ -619,7 +618,7 @@
 > - Clement *et al.* (in review): "Forey (1998, char. 62)12 recognized two character-states to describe the ornamentation of the lower jaw: ridged (0) and granular (1) ornament. We recognize an additional character-state to consider the complete disparity of the lower jaw ornament: unornamented (2). Character 131 is partly linked with characters 133 and 114."
 
 132. Splenial: present (0), absent (1)
-> [new]
+> Clement *et al.* (in review), Character 132.
 
 133. Splenial, ornament of: with ornament (0), without ornament (1). 
 > [Fa32 in part, Fb64, C64, F&C64, Y64, G64, W64, W&W64, Da64, Z64, GR64, WE64, CAa64, C&G64, A&S64, G&C64, Db64, CAb64, R&S64, T64]
@@ -627,7 +626,7 @@
 > - Clement *et al.* (in review): "Character 133 is linked to character 132."
 
 134. Posterior margin of splenial: relatively at right angle with dorsal margin (0), dorsally beveled (1), ventrally believed (2), pointed (X bevel) (3), V-grooved (4). 
-> [new]
+> Clement *et al.* (in review), Character 134.
 
 > - Clement *et al.* (in review): "This character considers the general shape of the posterior margin of the splenial when looking at the lateral profile of the lateral surface of the splenial; this character is similar to Character 111 that is relative to the posterior margin of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the splenial is located ventrally (e.g., Allenypterus, Diplocercides, Garnbergia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Parnaibaia). In the pointed shape (or X bevel), the pointed part of the posterior margin of the splenial is approximately located at mid-height of the splenial (e.g., Coelacanthus, Holophagus), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Character 134 is linked to character 132."
 
@@ -641,12 +640,12 @@
 > [Ca]
 
 137. Angular, depth of: posterior half deeper than anterior half of angular (0), deepest at approximately at midway along the length of the angular (1), anterior half deeper than posterior half of angular (2). 
-> [new]
+> Clement *et al.* (in review), Character 137.
 
 > - Clement *et al.* (in review): "Cavin et al. (2020, char. 56)101 defined a character identifying the deepest point of the angular. Two character-states were originally used: approximately midway along length of the bone (0) and near the anterior margin of the bone (1). Since the character-states were primarily defined in order to reflect a difference among derived coelacanths (mainly Mawsonia and Axelrodichthys), we used another state as "posterior half deeper than anterior half of angular" which is herein considered as the plesiomorphic state because it is observed among basal coelacanths. The three character-states form a morphocline. Character 137 is linked to character 136."
 
 138. Angular with dentary and splenial, contact of: linear (0), broad V-shaped (1), fine tapering (2), W-shaped (3), interdigitate (4). 
-> [new]
+> Clement *et al.* (in review), Character 138.
 > - Clement *et al.* (in review): "Character 138 is linked to characters 111 and 132."
 
 139. Surangular: present (0), absent (1)
@@ -656,7 +655,7 @@
 > [Fa25, Fb53, C53, F&C53, Y53, G53, W53, W&W53, Da53, Z53, GR53, WE53, CAa53, C&G53, A&S53, G&C53, Db53, CAb53, R&S53, T53]
 
 141. Jaw articulation: anterior to anterior level of operculum (0), posterior to anterior level of operculum (1)
-> [new]
+> Clement *et al.* (in review), Character 141.
 
 142. Submandibulars: absent (0), present (1)
 > [Ca, FR71]
@@ -674,7 +673,7 @@
 > [L&Z12]
 
 147.Parasphenoid, shape of: margin close to parallel or subparallel (0), flared anteriorly (1). 
-> [new]
+> Clement *et al.* (in review), Character 147.
 
 > - Clement *et al.* (in review): "Character 147 reflects the broadening of the anterior part of the parasphenoid as spatulate lateral expansion."
 
@@ -684,7 +683,7 @@
 > - Clement *et al.* (in review): "Friedman (2007, char. 169)98 defined a character as the absence or presence of “denticle field of parasphenoid with anteriorly divergent lateral margins.” This character reflects if the denticles covered the anterolateral margins of the parasphenoid that flare anteriorly (character 147)."
 
 149. Parasphenoid denticle field: ending at or anterior to level of foramina for internal carotid arteries (0), extending posterior to internal carotid foramina (1)
-> [new]
+> Clement *et al.* (in review), Character 149.
 
 150. Parasphenoid: without ascending laminae anteriorly (0), with ascending laminae anteriorly (1). 
 > [Fa3, Fb61, C79, F&C79, Y79, G79, W79, W&W79, Da79, Z79, GR79, WE79, CAa79, C&G79, A&S79, G&C79, Db79, CAb79, R&S79, CAc39, CAd39, T79]
@@ -697,7 +696,7 @@
 > - Clement *et al.* (in review): "Khonsari et al. (2013)107 addressed specifically the evolution of the buccohypophysial foramen with a special interest to coelacanths."
 
 152. Entopterygoid, shape of: elongated (0), triangular (1)
-> [new]
+> Clement *et al.* (in review), Character 152.
 
 153. Ventral swelling of palatoquadrate: absent (0), present (1). Dutel et al. (2012, fig. 20)60 illustrated the ventral swelling of the palatoquadrate (their character 110) as a process located on the ventrolateral margin of the entopterygoid seen in Latimeria. According to Dutel et al. (2012)60, the swelling is only observed in Holophagus, Latimeria, Libys, Macropoma, Megalocoelacanthus, and Undina. Toriño et al. (2021, p. 14 SI)14 discussed various codings that have been used in Fragoso’s (2014)108 analysis, and maintained Dutel et al.`s coding.
 > [Da110, CAa110, C&G110, CAb110, R&S110, CAc47, CAd47, T110]
@@ -710,16 +709,16 @@
 > - Clement *et al.* (in review): "Friedman (2007, char. 161)98 recognized that a shagreen of denticles is the plesiomorphic conditions in osteichthyans, whereas actinistians share denticles remodeled into long ridges on the oral surface of dermal bones (including the entopterygoids)."
 
 155. Nasal capsule, shape of: round or triangular shaped (0), deep and elongate (1)
-> [new]
+> Clement *et al.* (in review), Character 155.
 
 156. Olfactory tracts: short diverging at the level or anterior to the ethmoid process (0), long diverging posterior to the level of the ethmoid process (closer to the optic foramen) (1)
-> [new]
+> Clement *et al.* (in review), Character 156.
 
 157. Hypophysial fossa: extending posterior to the orbit (0), extending at the level of the orbit or anterior to the orbit (1)
-> [new]
+> Clement *et al.* (in review), Character 157.
 
 158. Hypophysial fossa posterior lobe: absent (0), present (1)
-> [new]
+> Clement *et al.* (in review), Character 158.
 
 159. Fenestra ventralis: absent (0), present (1).
 > [FR93 in part, L&Z11]
@@ -727,7 +726,7 @@
 > - Clement *et al.* (in review): "Zhu & Yu (2002, char. 107)84 and Friedman (2007, char. 93)98 used the presence of the fenestra ventralis (or ventrolateralis) as well as the common ventral fenestra for anterior and posterior nostrils to investigate sarcopterygian interrelationships."
 
 160. Tectum orbitale, size of: narrow (0), extensive (1)
-> [new]
+> Clement *et al.* (in review), Character 160.
 
 161. Ethmoid articulation for palatoquadrate: placed on postnasal wall (0), majority of facet located anterior to postnasal wall (1). 
 > [FR172]
@@ -740,12 +739,12 @@
 > - Clement *et al.* (in review): "Zhu & Yu (2002, char. 109)84 and Friedman (2007, char. 95)98 used this character with a different polarity."
 
 163. Foramen for oculomotor nerve (III) relative, position of: dorsal and near the optic nerve (II) foramen (0), posterior and at the same height as the optic nerve (II) foramen (1)
-> [new]
+> Clement *et al.* (in review), Character 163.
 
 > - 
 
 164. Foramen for the facial nerve (VII) relative, position of: same level as the anterior tip of the processus connectens (0), dorsal to the anterior tip of the processus connectens (1)
-> [new]
+> Clement *et al.* (in review), Character 164.
 
 > - 
 165 Basipterygoid process: present (0), absent (1)
@@ -759,12 +758,12 @@
 > - Clement *et al.* (in review): "Character 166 is linked with character 165."
 
 167. Basipterygoid process articular facet: facing posteriorly (0), facing anteriorly (1). 
-> [new]
+> Clement *et al.* (in review), Character 167.
 
 > - Clement *et al.* (in review): "Character 167 is linked with character 165."
 
 168. Intracranial joint relative to cranial nerves, position of: through profundus foramen (0), through or behind trigeminal (V) foramen (1)
-> [new]
+> Clement *et al.* (in review), Character 168.
 
 > - 
 169. Vagus nerve (X): not bone enclosed (0), bone enclosed (1)
@@ -773,7 +772,7 @@
 > - 
 
 170. Processus connectens, size of: knob like not well developed (0), long and well developed (1)
-> [new]
+> Clement *et al.* (in review), Character 170.
 
 > - 
 171. Vestibular fontanelle: absent (0), present (1). 
@@ -797,7 +796,7 @@
 > - Clement *et al.* (in review): "Forey (1998, char. 70)12 defined a character as the basisphenoid extending forward to enclose the optic foramen (0) or the optic foramen lying within separate interorbital ossification or cartilage (1). Toriño et al. (2021, char. 70)14 rather used the character relative to the optic foramen which is either enclosed by the basisphenoid extending forward (0) or lying within separate interorbital ossification or cartilage (1). Herein, the character concerns two conditions for the basisphenoid: extending forward to enclose the optic foramen (0) and optic foramen lying within separate interorbital ossification or cartilage (1)."
 
 175. Basisphenoid base of the lateral wings: broad (0), constricted (1)
-> [new]
+> Clement *et al.* (in review), Character 175.
 
 176. Processus connectens: not meeting the parasphenoid (0), meeting the parasphenoid (1).
 > [Fb71 polarity, C71 polarity, F&C71 polarity, Y71 polarity, G71 polarity, W71 polarity, W&W71 polarity, Da71 polarity, Z71 polarity, GR71 polarity, WE71 polarity, CAa71 polarity, C&G71 polarity, A&S71 polarity, G&C71 polarity, Db71 polarity, CAb71 polarity, R&S71 polarity, T71 polarity]
@@ -805,7 +804,7 @@
 > - Clement *et al.* (in review): "Forey (1998, char. 71)12 considered the processus connectens meeting the parasphenoid as the plesiomorphic state, whereas a processus connectens failing to meet the parasphenoid as the apomorphic state. Cavin & Grădinaru (2014, char. 71)37 and Toriño et al. (2021, char. 71)14 mentioned that the original formulation given by Forey (1998, char. 71)12 is opposite to the character coding observed in Forey’s matrix. Cavin & Grădinaru (2014)37 inverted the original character-states. Therefore, we are using the character-states."
 
 177. Antotic process: absent (0), present (1)
-> [new]
+> Clement *et al.* (in review), Character 177.
 
 178. Antotic process: not covered by parietal descending process (0), covered by parietal descending process (1).
 > [Fb73, C73, F&C73, Y73, G73, W73, W&W73, Da73, Z73, GR73, WE73, CAa73, C&G73, A&S73, G&C73, Db73, CAb73, R&S73, T73]
@@ -818,22 +817,22 @@
 > - Clement *et al.* (in review): "The prootic presents two roughened areas: an anterior one, the prefacial eminence, that is sutured on the inner side with the postparietal descending (ventral) process, and a posterior one suturing with the tabular descending (ventral) process. The temporal excavation is located between these two areas. Forey (1998, char. 74)12 defined two character-states for the condition of the temporal excavation (or temporal fossa): lined with bone and not lined with bone. In his list of characters, Forey (1998, p. 192)12 coded this temporal excavation as lined with bone (1) and not lined with bone (0). Toriño et al. (2021, char. 74)14 used "0" for lined with bone and "1" for not lined."
 
 180. Otic region: mainly ossified (0), mainly cartilaginous (1)
-> [new]
+> Clement *et al.* (in review), Character 180.
 
 181. Well-developed posterolateral otic process: absent (0), present (1)
-> [new]
+> Clement *et al.* (in review), Character 181.
 
 182. Jugular process: absent (0), present (1)
-> [new]
+> Clement *et al.* (in review), Character 182.
 
 183. Accessory jugular processes: absent (0), present (1)
-> [new]
+> Clement *et al.* (in review), Character 183.
 
 184. Otico-occipital: solid (0), separated to prootic and opisthotic (1)
 > [Fa5, Fb75, C75, F&C75, Y75, G75, W75, W&W75, Da75, Z75, GR75, WE75, CAa75, C&G75, A&S75, G&C75, Db75, CAb75, R&S75, T75]
 
 185. Otico-occipital: not hypertrophied (0), hypertrophied (1). 
-> [new]
+> Clement *et al.* (in review), Character 185.
 
 > - Clement *et al.* (in review): "Cavin et al. (2017)41 mentioned that the condition of the otico-occipital in Foreyia was hypertrophied in comparison to the generalized coelacanth Bauplan. It is suggested that in Foreyia that the postparietal, supratemporal (or tabular) and extrascapulars are all fused together. Not only the otico-occipital part of the skull roof forms a single ossified component, but this component is larger than in other coelacanths."
 
@@ -849,13 +848,13 @@
 > [Fb80, C80, F&C80, Y80, G80, W80, W&W80, Da80, Z80, GR80, WE80, CAa80, C&G80, A&S80, G&C80, Db80, CAb80, R&S80, T80]
 
 189. Prominent groove for the jugular vein on the prootic: present (0), absent (1)
-> [new]
+> Clement *et al.* (in review), Character 189.
 
 190. Prootic: without complex suture with basioccipital region (0), with complex suture with basioccipital region (1)
 > [Fa6, Fb82, C82, F&C82, Y82, G82, W82, W&W82, Da82, Z82, GR82, WE82, CAa82, C&G82, A&S82, G&C82, Db82, CAb82, R&S82, T82]
 
 191. Prominent ridge on prootic: present (0), absent (1). A prominent ridge on the prootic is also present in tetrapodomorphs (e.g., Gogonasus).
-> [new]
+> Clement *et al.* (in review), Character 191.
 
 192. Superficial ophthalmic branch of anterodorsal lateral line nerve [Fb83, C83, F&C83, Y83, G83, W83, W&W83, Da83, Z83, GR83, WE83, CAa83, C&G83, A&S83, G&C83, Db83, CAb83, R&S83, T83]: not piercing antotic process (0), piercing antotic process (1)
 
@@ -868,48 +867,48 @@
 196. Dorsum sellae, size of [Fb87, C87, F&C87, Y87, G87, W87, W&W87, Da87, Z87, GR87, WE87, CAa87, C&G87, A&S87, G&C87, Db87, CAb87, R&S87, T87]: small (0), large and constricting entrance to cranial cavity anterior to intracranial joint (1)
 
 197. Hypophysial fossa: with anterior lobe (0), without anterior lobe (1)
-> [new]
+> Clement *et al.* (in review), Character 197.
 
 198. Endolymphatic ducts: open posteriorly (0), open dorsally (1)
-> [new]
+> Clement *et al.* (in review), Character 198.
 
 199. Hyomandibular: ossified (0), cartilaginous (1)
-> [new]
+> Clement *et al.* (in review), Character 199.
 
 200. Hyomandibular, orientation of: almost horizontal (0), almost vertical (1)
-> [new]
+> Clement *et al.* (in review), Character 200.
 
 201. Hyomandibular proximal articular facet: single headed (0), double headed (1)
 > [FR84, L&Z13]
 
 202. Ceratohyal, size of: short and stubby (0), long and narrow (1)
-> [new]
+> Clement *et al.* (in review), Character 202.
 
 203. Anterior end of urohyal: unifid (0), bifid (1). 
-> [new]
+> Clement *et al.* (in review), Character 203.
 
 > - Clement *et al.* (in review): "Romano et al. (2016)110 compared the evolutionary morphology of the urohyal among coelacanths. We based our two urohyal characters (characters 203 and 204) on the general trends reflected by this comparison (Romano et al., 2006, fig. 9)."
 
 204. Urohyal, shaft of: narrow (0), broad (1)
-> [new]
+> Clement *et al.* (in review), Character 204.
 
 205. Basibranchial anterior one, shape of: pointed lateral margins (0), parallel lateral margins (1)
-> [new]
+> Clement *et al.* (in review), Character 205.
 
 206. Basibranchial, number of: two (0), one (1)
-> [new]
+> Clement *et al.* (in review), Character 206.
 
 207. Ceratobranchials, shape of: straight to weakly curved (0), strongly curved (1)
-> [new]
+> Clement *et al.* (in review), Character 207.
 
 208. Ceratobranchials, shape of: expanded distally (0), same width along length (1), expanded proximally (2). The three character-states form a morphocline.
-> [new]
+> Clement *et al.* (in review), Character 208.
 
 209. Epibranchials, shape of: elongate and rod like (0), short and flat (1)
-> [new]
+> Clement *et al.* (in review), Character 209.
 
 210. Anocleithrum: subdermal (0), dermal (1)
-> [new]
+> Clement *et al.* (in review), Character 210.
 
 211. Anocleithrum, shape of: ovoid (0), sigmoid (1), forked (2), broad plate like (3), triangular (4). 
 > [Fb89, C89, F&C89, Y89, G89, W89, W&W89, Da89, Z89, GR89, WE89, CAa89, C&G89, A&S89, G&C89, Db89, CAb89, R&S89, CAc40, CAd40, T89]
@@ -917,10 +916,10 @@
 > - Clement *et al.* (in review): "Forey (1998, char. 89)12 and subsequent analyses [up to Toriño et al. (2021, char. 89)14 used solely two shapes [simple (0) and forked (1)] to describe the disparity of the shape of the anocleithrum. We are defining the plesiomorphic shape as ovoid as could be observed in the outgroup Onychodus jandemarrai (Andrews et al., 2006, figs. 5b, 21c-e)4 and Miguashaia bureaui (Cloutier, 1996, figs. 13A-B, 14C)61. Three apomorphic states are used to cover the disparity of anocleithral shape among coelacanths: sigmoid (1; e.g., Allenypterus montanus, Hadronector donbairdi), forked (2; e.g., Caridosuctor populosum), broad plate-like (3; e.g., Rhabdoderma elegans), and triangular (4; e.g., Coccoderma suevicum)."
 
 212. Anocleithrum, position of: at dorsal end of cleithrum (0), at midpoint of cleithrum (1)
-> [new]
+> Clement *et al.* (in review), Character 212.
 
 213. Cleithrum: not covered anteriorly by operculum (0), covered anteriorly by operculum (1)
-> [new]
+> Clement *et al.* (in review), Character 213.
 
 214. Dorsal end of cleithrum, shape of: pointed (0), broad and rounded (1)
 > [FR107]
@@ -932,21 +931,21 @@
 > [Ca40, Cb40, Fb88, C88, F&C88, Y88, G88, W88, W&W88, Da88, Z88, GR88, WE88, CAa88, C&G88, A&S88, G&C88, Db88, CAb88, R&S88, T88]
 
 217. Extracleithrum: without anteroventral canal (0), with anteroventral canal (1). Character 217 is linked with character 216.
-> [new]
+> Clement *et al.* (in review), Character 217.
 
 218.Extracleithrum and clavicle, dorsal extent of: extracleithrum extends more dorsally than clavicle (0), extracleithrum and clavicle extend dorsally approximately at the same level (1), clavicle extends more dorsally than the extracleithrum (2). This character is not polarized based on out-group comparison because the out-groups do not have an extracleithrum. However, in basal actinistians both elements extend approximately at the same level (e.g., Miguashaia bureaui) or the clavicle extends slightly more dorsally than the extracleithrum (e.g., Miguashaia grossi). The three character-states form a morphocline. Character 218 is linked with character 216.
-> [new]
+> Clement *et al.* (in review), Character 218.
 
 > - Clement *et al.* (in review): "
 
 219. Cleithrum and clavicle: not forming a prominent postbranchial lamina (0), forming a prominent postbranchial lamina (1)
-> [new]
+> Clement *et al.* (in review), Character 219.
 
 220. Clavicle [new]: not hypertrophied (0), hypertrophied (1). The clavicle is considered to be hypertrophied to take into account the condition in Foreyia maxkuhni (Cavin et al., 2017, figs. 1A-C, 2A-B)41. With the exception of the postparietal shield, the clavicle is the largest element in Foreyia; it is approximately twice the size of the operculum, and represents approximately a fourth of the size of the head.
-> [new]
+> Clement *et al.* (in review), Character 220.
 
 221. Facet posterior to glenoid: absent (0), present (1)
-> [new]
+> Clement *et al.* (in review), Character 221.
 
 222. Pectoral lepidotrichia: not expanded (0), expanded (1). 
 > [Fb99 in part, C99 in part, F&C99 in part, Y99 in part, G99 in part, W99 in part, W&W99 in part, Da99 in part, Z99 in part, GR99 in part, WE99 in part, CAa99 in part, C&G99 in part, A&S99 in part, G&C99 in part, Db99 in part, CAb99 in part, R&S99 in part, T99 in part]
@@ -968,23 +967,23 @@
 > [Fb108, C108, F&C108, Y108, G108, W108, W&W108, Da108, Z108, GR108, WE108, CAa108, C&G108, A&S108, G&C108, Db108, CAb108, R&S108, T108]:
 
 226. Anterior process(es) of pelvic plate: single (0), forked (1). 
-> [new]
+> Clement *et al.* (in review), Character 226.
 
 > - Clement *et al.* (in review): "Schaeffer (1941)111 revised morphology of the pelvic plates in seven coelacanth taxa. The morphology of the pelvic plate was described in terms of three components of the pelvic plates: the anterior division, the posterior division and the medial process. We considered that the "anterior division" is composed between one to three processes: the anteromedial, the anterolateral and the lateral processes. The "posterior division" includes the posterior process; occasionally the lateral process seems to be coalescent with the posterior process. The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes. If a single anterior process is present (e.g., Changxingia, Libys) it is assumed that it corresponds generally to the anteromedial process. The forked condition corresponds to the clear presence of an anterior bifurcation, most likely corresponding to the presence of both the anteromedial and anterolateral processes."
 
 227. Anterior processes of pelvic plate relative, length of: anteromedial process longer than anterolateral process (0), anteromedial and anterolateral processes approximately the same length (1), anteromedial process shorter than anterolateral process (2). 
-> [new]
+> Clement *et al.* (in review), Character 227.
 
 > - Clement *et al.* (in review): "The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes; character 227 is linked with the forked condition of character 226. These processes correspond in part to the anterior division of the pelvic girdle mentioned by Schaeffer (1941)111. The three character-states are organized into a morphocline reflecting the relative length of the anteromedial and anterolateral processes."
 
 228. Medial process of pelvic plate: absent (or cartilaginous) (0), present (1)
-> [new]
+> Clement *et al.* (in review), Character 228.
 
 229. Lateral process of pelvic plate: absent (or cartilaginous) (0), present (1)
-> [new]
+> Clement *et al.* (in review), Character 229.
 
 230. Posterior process of pelvic plate: absent or not clearly differentiated from the main corpus of the pelvic girdle or from the lateral process (0), clearly differentiated as a spatulated process from the main corpus of the pelvic girdle (1)
-> [new]
+> Clement *et al.* (in review), Character 230.
 
 231. Distal radials of basal plates: present (0), absent (1) 
 > [Ca]
@@ -1016,11 +1015,11 @@
 > - Clement *et al.* (in review): "Character 238 is linked with character 237."
 
 239. Anterodorsal process of D2 basal plate: narrow on all the length of the process (0), expanded by a dorsal flange on most of the length of the process (1).
-> [new]
+> Clement *et al.* (in review), Character 239.
 > - Clement *et al.* (in review): " Character 239 is linked with character 238."
 
 240. Anterodorsal process of D2 basal plate, relative size of: short and stubbier than the anteroventral process of D2 basal plate (0), similar in length and height to anteroventral process of D2 basal plate (1), longer than anteroventral process of D2 basal plate (2). 
-> [new]
+> Clement *et al.* (in review), Character 240.
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline in terms of the relative size of the anterodorsal and anteroventral processes of the D2 basal plate. Character 240 is linked with characters 237 and 238."
 
@@ -1031,7 +1030,7 @@
 243. Anal fin [G&C112 polarity]: with a lobe (0), without a lobe (1)
 
 244. Anal fin basal plate: lacking processes (0), with processes (1)
-> [new]
+> Clement *et al.* (in review), Character 244.
 
 245. Anal fin basal plate [Ca49, Cb49]: single process (0), bifurcated process (1). Character 245 is linked with character 244.
 
@@ -1055,13 +1054,13 @@
 > - Clement *et al.* (in review): "
 
 251. Epichordal lobe of caudal fin [new]: starting posterior to mid-total length (0), starting anterior to mid-total length (1)
-> [new]
+> Clement *et al.* (in review), Character 251.
 
 
 252. Caudal fin supplementary lobe [Ca52, Cb52, Fa45 in part]: absent (0), present (1). Character 252 is linked with the triphycercal condition of Character 248.
 
 253. Caudal fin lepidotrichia: without denticules (0), with denticules (1)
-> [new]
+> Clement *et al.* (in review), Character 253.
 
 
 254. Caudal fin lepidotrichia [Ca53, Cb53, Fa47, Fb94, C94, F&C94, Y94, G94, W94, W&W94, Da94, Z94, GR94, WE94, CAa94, C&G94, A&S94, G&C94, Db94, CAb94, R&S94, T94]: more numerous than radials (0), equal in number with radials (1)
@@ -1071,7 +1070,7 @@
 256. Lepidotrichial segments [FR187]: without interlocking flanges (0), with interlocking flanges (1). The interlocking articulation pattern of lepidotrichial segments has been originally described for Miguashaia bureaui by Cloutier (1996, fig. 16)61.
 
 257. Vertebrae, alignment of: linear above abdominal cavity (0), strongly arched above abdominal cavity (1)
-> [new]
+> Clement *et al.* (in review), Character 257.
 
 
 258. Supraneural [FR125]: presence of “supraneurals” along most of the abdominal-thoracic region of the axial skeleton (0), presence of “supraneurals” limited to 1-5 vertebrae located anteriorly to the insertion of the epichordal lobe of the caudal fin (1), absence of “supraneurals” anteriorly to the insertion of the epichordal lobe of the caudal fin (2). According to Arratia et al. (2001)112, ''supraneurals'' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia et al. (2001)112 illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia et al., 2001, fig. 30)112 and Undina penicillata (Arratia et al., 2001, fig. 31)112. They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125)98 considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline.
@@ -1081,7 +1080,7 @@
 
 
 259. Neural spines [new]: abutting one another (0), not abutting (1)
-> [new]
+> Clement *et al.* (in review), Character 259.
 
 
 260. Cervical neural arches, shape of [Fa53, Fb91, C91, F&C91, Y91, G91, W91, W&W91, Da91, Z91, GR91, WE91, CAa91, C&G91, A&S91, G&C91, Db91, CAb91, R&S91, T91]: not expanded (0), expanded (1)
