@@ -33,16 +33,15 @@
 
 
 1. Snout bones : separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
-
+**the space here is not necessary**
 > Forey (1998), character 2; Friedman & Coates (2006),  character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
 
-> - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2)12. Subsequently, Cavin et al. (2017, char. 2)41 considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline.
+> - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin et al. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline."
 
-2.Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
-
+2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
 > Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part.
 
-> - The three character-states form a morphocline.
+> - Clement *et al.* (in review): "The three character-states form a morphocline."
 
 3. Rostral tubuli: present (0), absent (1)
 > Friedman (2007), character 136.
@@ -50,16 +49,14 @@
 4. Rostral organ pores : absent (0), present (1). 
 > Cloutier (1991a), Character 145; Friedman (2007), Character 145.
 
-> - Character 4 is linked to characters 5, 6 and 7.
+> - Clement *et al.* (in review): "Character 4 is linked to characters 5, 6 and 7."
 
-5. Anterior opening of rostral organ: within premaxilla (0), within separate rostral ossicles (1).
- 
+5. Anterior opening of rostral organ: within premaxilla (0), within separate rostral ossicles (1). 
 > Cloutier (1991b), Character55; Forey (1991), Character34; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 6.
 
 > - Clement *et al.* (in review): "Character 5 is linked to character 4."
 
 6. Posterior openings of rostral organ : widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2).
-
 > Forey (1991), Character 35.
 
 > - Burrow *et al.* (in review): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
@@ -70,19 +67,16 @@
 > - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
 
 8. Premaxillae : fragmented (0), paired (1), fused (2).
-
 > Cloutier (1991a), Cloutier (1991b), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 4.
 
 > - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
 9. Dorsal lamina of premaxillae : present (0), absent (1). 
-
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 5.
 
 > - Clement *et al.* (in review): "Forey (1998, char. 5) coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998) when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our character 10."
 
 10. Dorsal lamina of premaxilla, completeness of : complete (0), invaginated (1), reduced (2).
-
 > Forey (1991), character 10.
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline. Character 10 is linked with character 9."
@@ -93,38 +87,29 @@
 > - Clement *et al.* (in review): "Character 11 is linked to character 9."
 
 12. Premaxilla ventral margin, shape of : arched (0), not arched (1). 
-
 > Lu & Zhu (2009), character 19, modified.
 
 > - Clement *et al.* (in review): "Lu & Zhu (2009, char. 19) used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including *Diplocercides* and *Styloichthys*. *Diplocercides*, *Styloichthys* and *Psarolepis* were coded as having anteriorly arched premaxillae, whereas *Onychodus*, *Strunius* and *Bukkanodus* lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in *Diplocercides kayseri* and *D. heiligenstockiensis*. In *Styloichthys* the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved."
 
 13. Median rostral, number of : single median rostral or internasal (0), multiple median rostrals or internasals (1)
-> [Fb3, C3, F&C3, Y3, G3, W3, W&W3, Da3, Z3, GR3, WE3, CAa3, C&G3, A&S3, G&C3, Db3, Cab3, R&S3, CAc3, CAd3, T3]
->
-13. Median rostral, number of : single median rostral or internasal (0), multiple median rostrals or internasals (1)
-
 >Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 3.
 
 14. Median rostral: without teeth (0), with teeth (1). 
-
 > Friedman (2007), Character 3; Lu & Zhu (2009), Character 3.
 
 > - Clement *et al.* (in review): "Lu & Zhu (2009, char. 3) coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including *Diplocercides*. The condition of *Diplocercides* was coded as unknown, and solely *Psarolepis* was coded as having this condition."
 
 15. Parietal shield, profile of: convex (0), flat (1), concave (2). 
-
 > Cavin et al. (2019), Cavin et al. (2020), Character 52. 
 
 > - Clement *et al.* (in review): "Fragoso et al. (2018, p. 12) noticed a difference of profile for the parietal shield (their "frontoparietal shield") in terms of its curvature among species of *Axelrodichthys*. Cavin et al. (2020, char. 52) define a character as the dorsal outline of the ethmoid portion in lateral view. Two character-states were used by Cavin et al. (2020, char. 52): straight or convex (0) and concave (1). We divide the conditions into three character-states that form a morphocline."
 
 16. Preparietal, size of: parietal longer than posterior preparietal (0), parietal equal in length to posterior preparietal (1), parietal shorter than posterior preparietal (2). 
-
 > Cloutier (1991a), Cloutier (1991b), Character 12, in part; Forey (1991), Character 12, in part; Forey (1998), Clément (2005), rephrased; Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 2, rephrased.
 
 > - Clement *et al.* (in review): "Forey (1998, char. 7) coded for the presence of one pair (0) or two pairs (1) of parietals; however, in his matrix (and that of subsequent analyses by most authors they used the coding of one pair (1) or two pairs (2) omitting a coding of "0". In addition, Forey (1998, char. 8) coded for the relative size of the anterior and posterior parietals. Cloutier (1991a, char. 10) named the pair(s) of medial bones anterior to the parietals as the preparietals. Herein, we define the character-states in terms of the length of the posterior preparietals and parietals rather than the size. The three character-states form a morphocline relative to the size proportion between the parietal and preparietal. Morphometric character 9 provides the ratio of the median length of the posteriormost preparietal divided by the median parietal length; a ratio close to a value of one is considered as a condition where the parietal is equal in length to the posteriormost preparietal. In our analysis, the number of preparietals per row is taken into account in our meristic matrix."
 
 17. Supraorbital canal, course of: straight (0), lyre shaped (1).
-
 > Friedman (2007), Character 31.
 
 > - Clement *et al.* (in review): "Friedman (2007, char. 31) mentioned that the trajectory of the supraorbital canals resembles a lyre in dorsal view in *Styloichthys*, *Euporosteus*, *Latimeria* and numerous coelacanths and sarcopterygians. It is considered to be a derived condition shared by *Styloichthys*, Dipnomorpha and Tetrapodomorpha (Friedman, 2007). The lyre-shape is owing to a medial curvature followed by a lateral trajectory of the supraorbital canal at the most anterior level of the snout."
@@ -132,76 +117,62 @@
 > - This character was orginally defined in Zhu et al. (2002?), cross-check this character in early gnathostome phylogeny.
 
 18. Supraorbital sensory canals, trajectory of : passing through ossification centers (0), following sutural course (1)
-
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 19.
 
 19. Supraorbital sensory canals opening through bones, condition of : single large pores (0), bifurcating pores (1), many tiny pores (2), large and continuous groove crossed by pillars (3), large and continuous groove without pillars (4). 
-
 > Cloutier (1991a), Character 3, in part; Cloutier (1991a), Character 9, in part; Cloutier (1991b), Character 3; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), modified, Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), modified, Arratia & Schultze (2015), modified, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), modified, Renesto & Stockar (2018), modified, Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), modified, Character 23.
 
 > - Clement *et al.* (in review): "Forey (1998, char. 23) used a character to describe the condition of the pores of the supraorbital sensory canal. Three conditions were originally described: canals opening through bones as single large pores (0), bifurcating pores (1), and many tiny pores (2). These conditions refer to the relation between the main canals and the canaliculi linking the pores at the surface of the bone and the main canal. In a few species, a few pores are present at the surface of a supraorbital but since the relationship between the pore and the canal is simple it is coded as single large pores (e.g., Guizhoucoelacanthus). Dutel et al. (2012, char. 23) and Cavin et al. (2017, char. 23) added one additional character-state, respectively: a large, continuous groove crossed by pillars (3) and a large, continuous groove without pillars (4). Based on the onychodontiform outgroups, the plesiomorphic condition corresponds to the presence of many tiny pores."
 
 20. Lateral bones alongside postparietal, number of: one (0), two or more (1)
-
 > Friedman (2007), Character 8.
 
 21. Intertemporal: absent (0), present (1)
-
 > Cloutier (1991a), Cloutier (1991a), Character 17; Forey (1991), Character 15;  Forey (1998), Clément (2005), Friedman & Coates (2006), Character 12; Friedman (2007), Character 17; Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 12.
 
-
 22. Supratemporal: present (0), absent (1)
-
 > Cloutier (1991a), Cloutier (1991b), Character 18.
 
 23. Posterior margin of tabulars: anterior to posterior margin of postparietals (0), level with posterior margin of postparietals (1), extending beyond posterior margin of postparietals (2). 
-
 > Cloutier (1991b), Character 56; Lu & Zhu (2009), Character 9.
 
 > - The three character-states for a morphocline.
 
 24. Tabular descending process: absent (0), present (1).
-
 >  Cloutier (1991a), Cloutier (1991b), Character 19; Forey (1991), Character 17,homology; Forey (1998), rephrased, Clément (2005), rephrased, Friedman & Coates (2006), rephrased, Yabumoto (2008), rephrased, Geng *et al.* (2009), rephrased, Wendruff & Wilson (2012), rephrased, Dutel *et al.* (2012), rephrased, Zhu *et al.* (2012), rephrased, Graf (2012), rephrased, Wen *et al.* (2013), rephrased, Cavin *et al.* (2013), rephrased, Cavin & Grădinaru (2014), rephrased, Arratia & Schultze (2015), rephrased, Gess & Coates (2015), rephrased, Dutel *et al.* (2015), rephrased, Cavin *et al.* (2017), rephrased, Renesto & Stockar (2018), rephrased, Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), rephrased, Character 14.
 
 > - Clement *et al.* (in review): " As defined by Forey (1981, char. 8)105, the posterolateral margin of the tabular (his "supratemporal") may bear an external descending process. This process articulates against the prootic region of the braincase immediately in front of the hyomandibular facet (e.g., Coelacanthus granulatus, Laugia) (Cloutier, 1991a, char. 19)95."
 
 25. Otic canal: running through skull roof (0), following edge of skull roof (1)
-
 > Clement *et al.* (in review), Character 25.
 
-26. Otic canal, trajectory of: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2).
-    
+26. Otic canal, trajectory of: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2).    
 > Cloutier (1991a), Cloutier (1991b), Character 20; Lu & Zhu (2009), Character 30, in part.
 
 > - Clement *et al.* (in review): " Cloutier (1991a, char. 20)95 defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20)95. The three character-states form a morphocline."
 
 27. Medial branch of otic canal: absent (0), present (1)
-
 > Cloutier (1991a), Cloutier (1991b), Character 16; Forey (1991), Character 37; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Character 20; Lu & Zhu (2009), Character 30, in part;  Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 20.
 
-29. Otic canal joining supratemporal canal: in lateral extrascapular (0), in tabular (1) 
+**Where are Character 28?**
 
+29. Otic canal joining supratemporal canal: in lateral extrascapular (0), in tabular (1) 
 < Forey (1991), Character 36; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 21.
 
 31. Tabular and postparietal: separated (0), fused (1)
-
 > Cloutier (1991b), Character 57.
 
 30. Lateral process of parietal: absent (0), present (1). 
-
 > Cloutier (1991b), Character 58.
 
 > - Clement *et al.* (in review): "The lateral process of the parietal is formed from the posterolateral margin of the parietal and is directed ventrolaterally toward the dorsal part of the postorbital (Cloutier, 1991b, char. 58). The process could either be in contact with the postorbital (e.g., *Latimeria*), extends towards the postorbital (e.g., *Swenzia*) or be separated from the postorbital by a supraorbital (e.g., *Laugia, Macropoma, Yunnancoelacanthus*). This process has been coded as present in *Coelacanthus*, *Axelia*, *Wimania* and *Latimeria* by Cloutier (1991b, char. 58). The posterior lateral process of the parietal could carry a segment of the infraorbital canal that connects to the supraorbital canal (e.g., *Axelia* (Stensiö, 1921, fig. 25), *Coelacanthus* (Schaumberg, 1978, figs. 5, 6), *Wimania* (Stensiö, 1921, fig. 43))."
 
 31. Descending process of parietal: absent (0), present (1).
-
 > Cloutier (1991a), Cloutier (1991b), Character 11; Forey (1991), Character 13; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 11.
 
 > - Clement *et al.* (in review): " The descending process ("ventral process" of Forey (1998)) of the parietal articulates with the dorsal side of the ethmosphenoid (Cloutier, 1991a, char. 11)95. Forey (1981, char. 10) mentioned that this posteroventral process braces against the basisphenoid."
 
 32. Parietals and postparietals, ornament of: enamel capped ridges or tubercles (0), unornamented (1), marked by coarse tuberosities (2)
-
 > Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Character 27; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 13; Toriño *et al.* (2021), Character 27.
 
 33. Pineal foramen: present (0), absent (1) 
