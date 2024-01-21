@@ -189,7 +189,7 @@
 
 > - Clement *et al.* (in review): "Cavin et al. (2020, char. 51)101 defined a character to identify the number of supraorbitals articulating with the parietal (their "posterior parietal"). This multistate character forms a morphocline."
 
-37.Margin of dermal intracranial joint: straight (0), deeply notched (1), undulated (2). 
+37. Margin of dermal intracranial joint: straight (0), deeply notched (1), undulated (2). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), modified, Character 1; Friedman (2007), Character 147, in part; Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), modified, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin *et al.* (2019), modified, Cavin *et al.* (2020), modified, Toriño *et al.* (2021), modified, Character 1.
 
 > - Clement *et al.* (in review): "Forey (1998)12 defined the apomorphic state as "strongly interdigitate", while Friedman & Coates (2006)47 and subsequent authors defined the apomorphic state as "deeply notched". Arratia & Schultze (2015)15 used a second apomorphic character-state defined as "undulated or excavated"; only used for Atacamaia."
@@ -843,15 +843,20 @@
 191. Prominent ridge on prootic: present (0), absent (1). A prominent ridge on the prootic is also present in tetrapodomorphs (e.g., Gogonasus).
 > Clement *et al.* (in review), Character 191.
 
-192. Superficial ophthalmic branch of anterodorsal lateral line nerve [Fb83, C83, F&C83, Y83, G83, W83, W&W83, Da83, Z83, GR83, WE83, CAa83, C&G83, A&S83, G&C83, Db83, CAb83, R&S83, T83]: not piercing antotic process (0), piercing antotic process (1)
+192. Superficial ophthalmic branch of anterodorsal lateral line nerve: not piercing antotic process (0), piercing antotic process (1)
+> [Fb83, C83, F&C83, Y83, G83, W83, W&W83, Da83, Z83, GR83, WE83, CAa83, C&G83, A&S83, G&C83, Db83, CAb83, R&S83, T83]
 
-193. Process on braincase for articulation of infrapharyngobranchial 1 or epibranchial 1 [Fb84, C84, F&C84, Y84, G84, W84, W&W84, Da84, Z84, GR84, WE84, CAa84, C&G84, A&S84, G&C84, Db84, CAb84, R&S84, T84]: absent (0), present (1)
+193. Process on braincase for articulation of infrapharyngobranchial 1 or epibranchial 1: absent (0), present (1)
+> [Fb84, C84, F&C84, Y84, G84, W84, W&W84, Da84, Z84, GR84, WE84, CAa84, C&G84, A&S84, G&C84, Db84, CAb84, R&S84, T84]
 
-194. Lateral ethmoids [Fb85, C85, F&C85, Y85, G85, W85, W&W85, Da85, Z85, GR85, WE85, CAa85, C&G85, A&S85, G&C85, Db85, CAb85, R&S85, T85]: fused (0), separate (1)
+194. Lateral ethmoids: fused (0), separate (1)
+> [Fb85, C85, F&C85, Y85, G85, W85, W&W85, Da85, Z85, GR85, WE85, CAa85, C&G85, A&S85, G&C85, Db85, CAb85, R&S85, T85]
 
-195. Basioccipital [Fb86, C86, F&C86, Y86, G86, W86, W&W86, Da86, Z86, GR86, WE86, CAa86, C&G86, A&S86, G&C86, Db86, CAb86, R&S86, T86]: fused (0), separate (1)
+195. Basioccipital: fused (0), separate (1)
+> [Fb86, C86, F&C86, Y86, G86, W86, W&W86, Da86, Z86, GR86, WE86, CAa86, C&G86, A&S86, G&C86, Db86, CAb86, R&S86, T86]
 
-196. Dorsum sellae, size of [Fb87, C87, F&C87, Y87, G87, W87, W&W87, Da87, Z87, GR87, WE87, CAa87, C&G87, A&S87, G&C87, Db87, CAb87, R&S87, T87]: small (0), large and constricting entrance to cranial cavity anterior to intracranial joint (1)
+196. Dorsum sellae, size of: small (0), large and constricting entrance to cranial cavity anterior to intracranial joint (1)
+> [Fb87, C87, F&C87, Y87, G87, W87, W&W87, Da87, Z87, GR87, WE87, CAa87, C&G87, A&S87, G&C87, Db87, CAb87, R&S87, T87]
 
 197. Hypophysial fossa: with anterior lobe (0), without anterior lobe (1)
 > Clement *et al.* (in review), Character 197.
@@ -1149,139 +1154,274 @@
 279. Bone cell lacunae in body scale bases : present (0), absent (1).
 
 280. Main dentinous tissue forming fin spine /  osteodentine orthodentine,
-		13 Longitudinal scale alignment in fin webs : present (0), absent (1).
-		14 Differentiated lepidotrichia: absent (0), present (1).
-		15 Body scale growth pattern /  'comprising single odontode unit/generation ("monodontode")' 'comprising a complex of multipe odontode generations/units ("polyodontode")',
-		16 Body scale growth concentric: absent (0), present (1).
-		17 Generations of odontodes /  buried areally growing  resorbed,
-		18 'Body scales with peg-and-socket articulation' : absent (0), present (1).
-		19 Scale peg /  broad narrow,
-		20 Anterodorsal process on scale : absent (0), present (1).
-		21 Body scale profile /  'distinct crown and base demarcated by a constriction ("neck") ' flattened,
-		22 Profile of scales with constriction between crown and base /  neck similar in width to crown 'neck greatly constricted, resulting in anvil-like shape',
-		23 Body scales with bulging base : absent (0), present (1).
-		24 Body scales with flattened base : present (0), absent (1).
-		25 Basal pore in scales : absent (0), present (1).
-		26 Flank scale alignment /  vertical rows oblique rows or hexagonal rhombic packing disorganised,
-		27 'Scute-like ridge scales (basal fulcra)' : absent (0), present (1).
-		28 Sensory line canal /  perforates scales passes between scales 'C-shaped scales',
-		29 Dermal ornamentation /  smooth 'parallel, vermiform ridges' concentric ridges tuberculate,
-		30 Sensory line network /  'preserved as open grooves (sulci) in dermal bones ' 'sensory lines pass through canals in dermal bones (open as pores)',
-		31 'Sensory canals/grooves' /  contained within the thickness of dermal bones contained in prominent ridges on visceral surface of bone,
-		32 Jugal portion of infraorbital canal joins supramaxillary canal : present (0), absent (1).
-		33 Dermal skull roof /  includes large dermal plates consists of undifferentiated plates or tesserae,
-		34 Anterior pit line of dermal skull roof : absent (0), present (1).
-		35 Tessera morphology /  large interlocking polygonal plates 'microsquamose, not larger than body squamation',
-		36 Cranial spines /  absent 'present, multicuspid' 'present, monocuspid',
-		37 Extent of dermatocranial cover /  complete 'incomplete (limited to skull roof)',
-		38 Openings for endolymphatic ducts in dermal skull roof : present (0), absent (1).
-		39 Endolymphatic ducts with oblique course through dermal skull bones : absent (0), present (1).
-		40 'Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate)' /  within median bone 'on bones flanking the median bone (e.g. paranuchals)',
-		41 Pineal opening perforation in dermal skull roof : present (0), absent (1).
-		42 Dermal plate associated with pineal eminence or foramen /  contributes to orbital margin plate bordered laterally by skull roofing bones ,
-		43 Broad supraorbital vaults : absent (0), present (1).
-		44 Median commisure between supraorbital sensory lines : absent (0), present (1).
-		45 'Dermal cranial joint at level of sphenoid-otic junction' : absent (0), present (1).
-		46 Otic canal extends through postparietals : absent (0), present (1).
-		47 Number of bones of skull roof lateral to postparietals /  two one more than two,
-		48 'Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans)' /  straight sinusoidal,
-		49 Medial processes of paranuchal wrapping posterolateral corners of nuchal plate /  absent present paranuchals precluded from nuchal by centrals no median posterior skull roof bone,
-		50 Paired pits on ventral surface of nuchal plate : absent (0), present (1).
-		51 Sclerotic ring : absent (0), present (1).
-		52 Consolidated cheek plates : absent (0), present (1).
-		53 Cheek plate /  undivided 'divided (i.e., squamosal and preopercular)',
-		54 Subsquamosals in taxa with divided cheek : absent (0), present (1).
-		55 Preopercular shape /  rhombic 'bar-shaped',
-		56 'Vertical canal associated with preopercular/suborbital canal' : absent (0), present (1).
-		57 Enlarged postorbital tessera separate from orbital series : absent (0), present (1).
-		58 Extent of maxilla along cheek /  to posterior margin of cheek cheek bones exclude maxilla from posterior margin of cheek,
-		59 Dermal neck joint /  overlap ginglymoid,
-		60 'Sensory line scales/plates on head' /  unspecialized apposed growth paralleling canal 'semicylindrical C-shaped ring scales',
-		61 'Bony hyoidean gill-cover series (branchiostegals)' : absent (0), present (1).
-		62 Branchiostegal plate series along ventral margin of lower jaw : absent (0), present (1).
-		63 Branchiostegal ossifications /  'plate-like' 'narrow and ribbon-like' filamentous,
-		64 Branchiostegal ossifications /  ornamented unornamented,
-		65 Imbricated branchiostegal ossifications : absent (0), present (1).
-		66 Median gular : absent (0), present (1).
-		67 Lateral gular : absent (0), present (1).
-		68 'Opercular (submarginal) ossification' : absent (0), present (1).
-		69 'Shape of opercular (submarginal) ossification' /  broad plate that tapers towards its proximal end 'narrow, rod-shaped',
-		70 Size of lateral gular plates /  extending most of length of the lower jaw 'restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals)',
-		71 Gill arches /  largely restricted to region under braincase extend far posterior to braincase,
-		72 Basihyal : absent (0), present (1).
-		73 Interhyal : absent (0), present (1).
-		74 Hypohyal : absent (0), present (1).
-		75 Endoskeletal urohyal : absent (0), present (1).
-		76 Oral dermal tubercles borne on jaw cartilages or at margins of the mouth : absent (0), present (1).
-		77 'Oral dermal tubercles patterned in organised rows (teeth)' : absent (0), present (1).
-		78 'Enamel(oid) on teeth' : absent (0), present (1).
-		79 'Cap of enameloid restricted to upper part of teeth (acrodin)' : absent (0), present (1).
-		80 Tooth whorls : absent (0), present (1).
-		81 Bases of tooth whorls /  'single, continuous plate' some or all whorls consist of separate tooth units,
-		82 Distribution of tooth whorls /  entire length of tooth row restricted to symphysial region,
-		83 Distribution of tooth whorls /  upper and lower jaws lower jaws only upper jaws only,
-		84 Teeth ankylosed to dermal bones : absent (0), present (1).
-		85 Plicidentine : absent (0), present (1).
-		86 Dermal jaw plates on biting surface of jaw cartilages : absent (0), present (1).
-		87 Maxillary and dentary marginal bones of mouth : absent (0), present (1).
-		88 Premaxilla /  extends under orbit restricted anterior to orbit,
-		89 Maxilla shape /  'splint-shaped' 'cleaver-shaped',
-		90 'Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate' : absent (0), present (1).
-		91 Strong posterior flexion of dentary symphysis : absent (0), present (1).
-		92 Extent of infradentaries /  along much of ventral margin of dentary restricted to posterior half of dentary,
-		93 Coronoid fangs : absent (0), present (1).
-		94 'Position of upper mandibular arch cartilage (and associated cheek plate where present)' /  entirely suborbital with a postorbital extension,
-		95 Position of mandibular arch articulations /  terminal subterminal,
-		96 Autopalatine and quadrate /  comineralized separate mineralizations,
-		97 Large otic process of the palatoquadrate : absent (0), present (1).
-		98 Insertion area for jaw adductor muscles on palatoquadrate /  ventral or medial lateral,
-		99 Palatoquadrate relationship to dermal cheek bones /  articulation narrow and restricted broad articulation,
-		100 Palatoquadrate fused with neurocranium : absent (0), present (1).
-		101 Oblique ridge or groove along medial face of palatoquadrate : absent (0), present (1).
-		102 Fenestration of palatoquadrate at basipterygoid articulation : absent (0), present (1).
-		103 'Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate' : absent (0), present (1).
-		104 Pronounced dorsal process on Meckelian bone or cartilage : absent (0), present (1).
-		105 Number of coronoids /  four or more three or fewer,
-		106 Preglenoid process : absent (0), present (1).
-		107 Jaw articulation located on rearmost extremity of mandible : absent (0), present (1).
-		108 Precerebral fontanelle : absent (0), present (1).
-		109 'Median dermal bone of palate (parasphenoid)' : absent (0), present (1).
-		110 Parasphenoid /  'lozenge-shaped' 'splint-shaped' 'diamond-shaped' 'saddle-shaped',
-		111 Multifid anterior margin of parasphenoid denticle plate : absent (0), present (1).
-		112 Enlarged ascending processes of parasphenoid : absent (0), present (1).
-		113 Buccohypophysial canal in parasphenoid /  single paired,
-		114 'Nasal opening(s)' /  'dorsal, placed between orbits' ventral and anterior to orbit,
-		115 external opening of posterior nostril and orbit /  'separated by dermal bone(s)' confluent,
-		116 Olfactory tracts /  'short, with olfactory capsules situated close to telencephalon cavity' 'elongate and tubular (much longer than wide)',
-		117 'Prominent pre-orbital rostral expansion of the neurocranium' : present (0), absent (1).
-		118 'Pronounced sub-ethmoidal keel' : absent (0), present (1).
-		119 Internasal vacuities : absent (0), present (1).
-		120 Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal : absent (0), present (1).
-		121 Position of myodome for superior oblique eye muscles /  posterior and dorsal to foramen for nerve II anterior and dorsal to foramen,
-		122 Endoskeletal intracranial joint : absent (0), present (1).
-		123 Spiracular groove on basicranial surface : absent (0), present (1).
-		124 Transverse otic process  : present (0), absent (1).
-		125 Jugular canal /  'long (invested in otic region along length of skeletal labyrinth)' 'short (restricted to short portion of region of skeletal labyrinth, or anterior to it)' 'absent (jugular vein uninvested in otic region)',
-		126 Spiracular groove on lateral commissure : absent (0), present (1).
-		127 Subpituitary fenestra : absent (0), present (1).
-		128 Supraorbital shelf broad with convex lateral margin : absent (0), present (1).
-		129 'Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium' : present (0), absent (1).
-		130 Eyestalk attachment area : absent (0), present (1).
-		131 Postorbital process : absent (0), present (1).
-		132 Canal for jugular in postorbital process : absent (0), present (1).
-		133 Series of perforations for innervation of supraorbital sensory canal in supraorbital shelf : absent (0), present (1).
-		134 Extended prehypophysial portion of sphenoid : absent (0), present (1).
-		135 'Narrow interorbital septum, with outer walls in contact along midline forming a single sheet.' : absent (0), present (1).
-		136 'The main trunk of facial nerve (N. VII)' /  elongate and passes anterolaterally through orbital floor  'stout, divides within otic capsule at the level of the transverse otic wall',
-		137 'Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal' /  'traverses jugular canal, with separate exit in otic region' 'intersects jugular canal, with exit through posterior jugular foramen',
-		138 'Glossopharyngeal nerve (N. IX) exit' /  foramen situated posteroventral to otic capsule and anterior to metotic fissure through metotic fissure,
-		139 Relationship of cranial endocavity to basisphenoid /  endocavity occupies full depth of sphenoid enodcavity dorsally restricted,
-		140 Subcranial ridges : absent (0), present (1).
-		141 Ascending basisphenoid pillar pierced by common internal carotid : absent (0), present (1).
-		142 Canal for lateral dorsal aorta within basicranial cartilage : absent (0), present (1).
-		143 Entrance of internal carotids /  through separate openings flanking the hypophyseal opening or recess through a common opening at the central midline of the basicranium,
-		144 Canal for efferent pseudobranchial artery within basicranial cartilage : absent (0), present (1).
-		145 'Position of basal/basipterygoid articulation' /  same anteroposterior level as hypophysial opening  anterior to hypophysial opening posterior to hypophysial opening,
+
+281. Longitudinal scale alignment in fin webs : present (0), absent (1).
+
+282. Differentiated lepidotrichia: absent (0), present (1).
+
+283. Body scale growth pattern /  'comprising single odontode unit/generation ("monodontode")' 'comprising a complex of multipe odontode generations/units ("polyodontode")',
+
+284. Body scale growth concentric: absent (0), present (1).
+
+285. Generations of odontodes /  buried areally growing  resorbed,
+
+286. Body scales with peg-and-socket articulation: absent (0), present (1).
+
+287. Scale peg /  broad narrow,
+
+288. Anterodorsal process on scale : absent (0), present (1).
+
+289. Body scale profile /  'distinct crown and base demarcated by a constriction ("neck") ' flattened,
+
+290. Profile of scales with constriction between crown and base /  neck similar in width to crown 'neck greatly constricted, resulting in anvil-like shape',
+
+291. Body scales with bulging base : absent (0), present (1).
+
+292. Body scales with flattened base : present (0), absent (1).
+
+293. Basal pore in scales : absent (0), present (1).
+
+294. Flank scale alignment /  vertical rows oblique rows or hexagonal rhombic packing disorganised,
+
+295. Scute-like ridge scales (basal fulcra): absent (0), present (1).
+
+296. Sensory line canal /  perforates scales passes between scales 'C-shaped scales',
+
+297. Dermal ornamentation /  smooth 'parallel, vermiform ridges' concentric ridges tuberculate,
+
+298. Sensory line network /  'preserved as open grooves (sulci) in dermal bones ' 'sensory lines pass through canals in dermal bones (open as pores)',
+
+299. Sensory canals/grooves/  contained within the thickness of dermal bones contained in prominent ridges on visceral surface of bone,
+
+300. Jugal portion of infraorbital canal joins supramaxillary canal : present (0), absent (1).
+
+301. Dermal skull roof /  includes large dermal plates consists of undifferentiated plates or tesserae,
+
+302. Anterior pit line of dermal skull roof : absent (0), present (1).
+
+303. Tessera morphology /  large interlocking polygonal plates 'microsquamose, not larger than body squamation',
+
+304. Cranial spines /  absent 'present, multicuspid' 'present, monocuspid',
+
+305. Extent of dermatocranial cover /  complete 'incomplete (limited to skull roof)',
+
+306. Openings for endolymphatic ducts in dermal skull roof : present (0), absent (1).
+
+307. Endolymphatic ducts with oblique course through dermal skull bones : absent (0), present (1).
+
+308. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate) /  within median bone 'on bones flanking the median bone (e.g. paranuchals)',
+
+309. Pineal opening perforation in dermal skull roof : present (0), absent (1).
+
+310. Dermal plate associated with pineal eminence or foramen /  contributes to orbital margin plate bordered laterally by skull roofing bones ,
+
+311. Broad supraorbital vaults : absent (0), present (1).
+
+312. Median commisure between supraorbital sensory lines : absent (0), present (1).
+
+313. Dermal cranial joint at level of sphenoid-otic junction : absent (0), present (1).
+
+314. Otic canal extends through postparietals : absent (0), present (1).
+
+315. Number of bones of skull roof lateral to postparietals /  two one more than two,
+
+316. Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans) /  straight sinusoidal,
+
+317. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate /  absent present paranuchals precluded from nuchal by centrals no median posterior skull roof bone,
+
+318. Paired pits on ventral surface of nuchal plate : absent (0), present (1).
+
+319. Sclerotic ring : absent (0), present (1).
+
+320. Consolidated cheek plates : absent (0), present (1).
+
+321. Cheek plate /  undivided 'divided (i.e., squamosal and preopercular)',
+
+322. Subsquamosals in taxa with divided cheek : absent (0), present (1).
+
+323. Preopercular shape /  rhombic 'bar-shaped',
+
+324. Vertical canal associated with preopercular/suborbital canal : absent (0), present (1).
+
+325. Enlarged postorbital tessera separate from orbital series : absent (0), present (1).
+
+326. Extent of maxilla along cheek /  to posterior margin of cheek cheek bones exclude maxilla from posterior margin of cheek,
+
+327. Dermal neck joint /  overlap ginglymoid,
+
+328. Sensory line scales/plates on head/  unspecialized apposed growth paralleling canal 'semicylindrical C-shaped ring scales',
+
+329. Bony hyoidean gill-cover series (branchiostegals) : absent (0), present (1).
+
+330. Branchiostegal plate series along ventral margin of lower jaw : absent (0), present (1).
+
+331. Branchiostegal ossifications /  'plate-like' 'narrow and ribbon-like' filamentous,
+
+332. Branchiostegal ossifications /  ornamented unornamented,
+
+333. Imbricated branchiostegal ossifications : absent (0), present (1).
+
+334. Median gular : absent (0), present (1).
+
+335. Lateral gular : absent (0), present (1).
+
+336. Opercular (submarginal) ossification : absent (0), present (1).
+
+337. Shape of opercular (submarginal) ossification /  broad plate that tapers towards its proximal end 'narrow, rod-shaped',
+
+338. Size of lateral gular plates /  extending most of length of the lower jaw 'restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals)',
+
+339. Gill arches /  largely restricted to region under braincase extend far posterior to braincase
+
+340. Basihyal : absent (0), present (1).
+
+341. Interhyal : absent (0), present (1).
+
+342. Hypohyal : absent (0), present (1).
+
+343. Endoskeletal urohyal : absent (0), present (1).
+
+344. Oral dermal tubercles borne on jaw cartilages or at margins of the mouth : absent (0), present (1).
+
+345. Oral dermal tubercles patterned in organised rows (teeth): absent (0), present (1).
+
+346. Enamel(oid) on teeth: absent (0), present (1).
+
+347. Cap of enameloid restricted to upper part of teeth (acrodin): absent (0), present (1).
+
+348. Tooth whorls: absent (0), present (1).
+
+349. Bases of tooth whorls /  'single, continuous plate' some or all whorls consist of separate tooth units,
+
+350. Distribution of tooth whorls /  entire length of tooth row restricted to symphysial region,
+
+351. Distribution of tooth whorls /  upper and lower jaws lower jaws only upper jaws only,
+
+352. Teeth ankylosed to dermal bones : absent (0), present (1).
+
+353. Plicidentine : absent (0), present (1).
+
+354. Dermal jaw plates on biting surface of jaw cartilages : absent (0), present (1).
+
+355. Maxillary and dentary marginal bones of mouth : absent (0), present (1).
+
+356. Premaxilla /  extends under orbit restricted anterior to orbit,
+
+357. Maxilla shape /  'splint-shaped' 'cleaver-shaped',
+
+358. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate' : absent (0), present (1).
+
+359. Strong posterior flexion of dentary symphysis : absent (0), present (1).
+
+360. Extent of infradentaries /  along much of ventral margin of dentary restricted to posterior half of dentary,
+
+361. Coronoid fangs : absent (0), present (1).
+
+362. Position of upper mandibular arch cartilage (and associated cheek plate where present)/  entirely suborbital with a postorbital extension,
+
+363. Position of mandibular arch articulations /  terminal subterminal,
+
+364. Autopalatine and quadrate /  comineralized separate mineralizations,
+
+365. Large otic process of the palatoquadrate : absent (0), present (1).
+
+366. Insertion area for jaw adductor muscles on palatoquadrate /  ventral or medial lateral,
+
+367. Palatoquadrate relationship to dermal cheek bones /  articulation narrow and restricted broad articulation,
+
+368. Palatoquadrate fused with neurocranium : absent (0), present (1).
+
+369. Oblique ridge or groove along medial face of palatoquadrate : absent (0), present (1).
+
+370. Fenestration of palatoquadrate at basipterygoid articulation : absent (0), present (1).
+
+371. 'Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate' : absent (0), present (1).
+
+372. Pronounced dorsal process on Meckelian bone or cartilage : absent (0), present (1).
+
+373. Number of coronoids /  four or more three or fewer,
+
+374. Preglenoid process : absent (0), present (1).
+
+375. Jaw articulation located on rearmost extremity of mandible : absent (0), present (1).
+
+376. Precerebral fontanelle : absent (0), present (1).
+
+377. Median dermal bone of palate (parasphenoid): absent (0), present (1).
+
+378. Parasphenoid /  'lozenge-shaped' 'splint-shaped' 'diamond-shaped' 'saddle-shaped',
+
+379. Multifid anterior margin of parasphenoid denticle plate : absent (0), present (1).
+
+380. Enlarged ascending processes of parasphenoid : absent (0), present (1).
+
+381. Buccohypophysial canal in parasphenoid /  single paired,
+
+382. Nasal opening(s)/  'dorsal, placed between orbits' ventral and anterior to orbit,
+
+383. External opening of posterior nostril and orbit /  'separated by dermal bone(s)' confluent,
+
+384. Olfactory tracts /  'short, with olfactory capsules situated close to telencephalon cavity' 'elongate and tubular (much longer than wide)',
+
+385. Prominent pre-orbital rostral expansion of the neurocranium: present (0), absent (1).
+
+386. Pronounced sub-ethmoidal keel: absent (0), present (1).
+
+387. Internasal vacuities: absent (0), present (1).
+
+388. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal : absent (0), present (1).
+
+389. Position of myodome for superior oblique eye muscles /  posterior and dorsal to foramen for nerve II anterior and dorsal to foramen,
+
+390. Endoskeletal intracranial joint: absent (0), present (1).
+
+391. Spiracular groove on basicranial surface : absent (0), present (1).
+
+392. Transverse otic process  : present (0), absent (1).
+
+393. Jugular canal /  'long (invested in otic region along length of skeletal labyrinth)' 'short (restricted to short portion of region of skeletal labyrinth, or anterior to it)' 'absent (jugular vein uninvested in otic region)',
+
+394. Spiracular groove on lateral commissure : absent (0), present (1).
+
+395. Subpituitary fenestra : absent (0), present (1).
+
+396. Supraorbital shelf broad with convex lateral margin : absent (0), present (1).
+
+397. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: present (0), absent (1).
+
+398. Eyestalk attachment area : absent (0), present (1).
+
+399. Postorbital process : absent (0), present (1).
+
+400. Canal for jugular in postorbital process : absent (0), present (1).
+
+401. Series of perforations for innervation of supraorbital sensory canal in supraorbital shelf : absent (0), present (1).
+
+402. Extended prehypophysial portion of sphenoid : absent (0), present (1).
+
+403. Narrow interorbital septum, with outer walls in contact along midline forming a single sheet: absent (0), present (1).
+
+404. The main trunk of facial nerve (N. VII)/  elongate and passes anterolaterally through orbital floor  'stout, divides within otic capsule at the level of the transverse otic wall',
+
+405. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal/  'traverses jugular canal, with separate exit in otic region' 'intersects jugular canal, with exit through posterior jugular foramen',
+
+406. Glossopharyngeal nerve (N. IX) exit/  foramen situated posteroventral to otic capsule and anterior to metotic fissure through metotic fissure,
+
+407. Relationship of cranial endocavity to basisphenoid /  endocavity occupies full depth of sphenoid enodcavity dorsally restricted,
+
+408. Subcranial ridges : absent (0), present (1).
+
+409. Ascending basisphenoid pillar pierced by common internal carotid : absent (0), present (1).
+
+410. Canal for lateral dorsal aorta within basicranial cartilage : absent (0), present (1).
+
+411. Entrance of internal carotids /  through separate openings flanking the hypophyseal opening or recess through a common opening at the central midline of the basicranium,
+
+412. Canal for efferent pseudobranchial artery within basicranial cartilage : absent (0), present (1).
+
+413. Position of basal/basipterygoid articulation/  same anteroposterior level as hypophysial opening  anterior to hypophysial opening posterior to hypophysial opening,
+
+414. 
 		146 ' Articulation between neurocanium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation)' : absent (0), present (1).
 		147 Labyrinth cavity /  separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall skeletal capsular wall absent,
 		148 'Basipterygoid process (basal articulation) with vertically oriented component' : absent (0), present (1).
