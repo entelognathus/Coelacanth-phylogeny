@@ -427,7 +427,7 @@
 88. Postorbital, position of: lying wholly behind intracranial joint (0), spanning intracranial joint (1)
 > [Fb43, C43, F&C43, Y43, G43, W43, W&W43, Da43, Z43, GR43, WE43, CAa43, C&G43, A&S43, G&C43, Db43, CAb43, R&S43, CAc23, CAd23, T43]
 
-89. nfraorbital canal, trajectory of: within postorbital with simple pores opening directly from main canal (0), anterior and posterior branches within postorbital (1)
+89. Infraorbital canal, trajectory of: within postorbital with simple pores opening directly from main canal (0), anterior and posterior branches within postorbital (1)
 > [Fb44, C44, F&C44, Y44, G44, W44, W&W44, Da44, Z44, GR44, WE44, CAa44, C&G44, A&S44, G&C44, Db44, CAb44, R&S44, CAc24, CAd24, T44]
 
 90. Infraorbital canal, trajectory of: running through center of postorbital (0), running along anterior margin of postorbital (1)
@@ -1329,19 +1329,19 @@
 
 367. Palatoquadrate relationship to dermal cheek bones /  articulation narrow and restricted broad articulation,
 
-368. Palatoquadrate fused with neurocranium : absent (0), present (1).
+368. Palatoquadrate fused with neurocranium: absent (0), present (1).
 
 369. Oblique ridge or groove along medial face of palatoquadrate : absent (0), present (1).
 
 370. Fenestration of palatoquadrate at basipterygoid articulation : absent (0), present (1).
 
-371. 'Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate' : absent (0), present (1).
+371. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate: absent (0), present (1).
 
 372. Pronounced dorsal process on Meckelian bone or cartilage : absent (0), present (1).
 
 373. Number of coronoids /  four or more three or fewer,
 
-374. Preglenoid process : absent (0), present (1).
+374. Preglenoid process: absent (0), present (1).
 
 375. Jaw articulation located on rearmost extremity of mandible : absent (0), present (1).
 
@@ -1349,8 +1349,9 @@
 
 377. Median dermal bone of palate (parasphenoid): absent (0), present (1).
 
-378. Parasphenoid /  'lozenge-shaped' 'splint-shaped' 'diamond-shaped' 'saddle-shaped',
-
+378. Parasphenoid: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
+> - This character partly overlaps character 246 herein.
+> 
 379. Multifid anterior margin of parasphenoid denticle plate : absent (0), present (1).
 
 380. Enlarged ascending processes of parasphenoid : absent (0), present (1).
@@ -1377,13 +1378,13 @@
 
 391. Spiracular groove on basicranial surface : absent (0), present (1).
 
-392. Transverse otic process  : present (0), absent (1).
+392. Transverse otic process: present (0), absent (1).
 
 393. Jugular canal /  'long (invested in otic region along length of skeletal labyrinth)' 'short (restricted to short portion of region of skeletal labyrinth, or anterior to it)' 'absent (jugular vein uninvested in otic region)',
 
 394. Spiracular groove on lateral commissure : absent (0), present (1).
 
-395. Subpituitary fenestra : absent (0), present (1).
+395. Subpituitary fenestra: absent (0), present (1).
 
 396. Supraorbital shelf broad with convex lateral margin : absent (0), present (1).
 
@@ -1409,7 +1410,7 @@
 
 407. Relationship of cranial endocavity to basisphenoid /  endocavity occupies full depth of sphenoid enodcavity dorsally restricted,
 
-408. Subcranial ridges : absent (0), present (1).
+408. Subcranial ridges: absent (0), present (1).
 
 409. Ascending basisphenoid pillar pierced by common internal carotid : absent (0), present (1).
 
@@ -1431,9 +1432,9 @@
 
 418. External (horizontal) semicircular canal: absent (0), present (1).
 
-419. Sinus superior /  absent or indistinguishable from union of anterior and posterior canals with saccular chamber present,
+419. Sinus superior /  absent or indistinguishable from union of anterior and posterior semicircular canals with saccular chamber present,
 
-420. External (horizontal) semicircular canal' /  joins the vestibular region dorsal to posterior ampulla joins level with posterior ampulla,
+420. External (horizontal) semicircular canal /  joins the vestibular region dorsal to posterior ampulla joins level with posterior ampulla,
 
 421. Horizontal semicircular canal in dorsal view /  medial to path of jugular vein dorsal to jugular vein,
 
@@ -1673,7 +1674,7 @@
 
 539. Crus commune of anterior and posterior semicircular canals /  dorsal to endocranial roof ventral to endocranial roof,
 
-540. Horizontal semicircular canal /  obiquely oriented horizontally oriented,
+540. Horizontal  semicircular canal /  obiquely oriented horizontally oriented,
 
 541. Supraotic cavity /  absent  present,
 
