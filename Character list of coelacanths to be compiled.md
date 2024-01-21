@@ -301,8 +301,9 @@
 > - Clement *et al.* (in review): "The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013)23. It is a well-developed and well-defined process that extends towards the midline of the skull roof [see Axelrodichthys maiseyi, de Carvalho et al. (2013, fig. 3B)23]."
 
 
-62. Cheek bones, contact of: in contact or overlapping (0), separated (1). 
-> Cloutier (1991a), Character 5, in part; Cloutier (1991b), Character 23; Forey (1991), Character 22; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 29.
+62. Cheek bones, contact of: in contact or overlapping (0), separated (1).
+
+> Cloutier (1991a), Character 23, in part; Cloutier (1991b), Character 23; Forey (1991), Character 22; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 29.
 
 
 > - Clement *et al.* (in review): "Cloutier (1991a, b, char. 23)95,96 recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29)12 defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal."
