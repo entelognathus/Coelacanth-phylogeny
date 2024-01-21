@@ -953,7 +953,6 @@
 
 > - Clement *et al.* (in review): "Forey (1998, char. 99)12 described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., Laugia, Coccoderma, Holophagus, and Libys) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in Libys and Holophagus, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in Laugia and Coccoderma, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 222 takes into account solely the condition of the pectoral lepidotrichia."
 
-
 223. Pelvic lepidotrichia: not expanded (0), expanded (1). 
 > [Fb99 in part, C99 in part, F&C99 in part, Y99 in part, G99 in part, W99 in part, W&W99 in part, Da99 in part, Z99 in part, GR99 in part, WE99 in part, CAa99 in part, C&G99 in part, A&S99 in part, G&C99 in part, Db99 in part, CAb99 in part, R&S99 in part, T99 in part]
 
@@ -1007,7 +1006,7 @@
 
 236. D2 fin: without a lobe (0), with a lobe (1)
 > [G&C113]
->
+
 237. D2 basal plate, shape of: single anterior process (0), forked anteriorly (1) 
 > [Fb102, C102, F&C102, Y102, G102, W102, W&W102, Da102, Z102, GR102, WE102, CAa102, C&G102, A&S102, G&C102, Db102, CAb102, R&S102, T102]
 
@@ -1024,110 +1023,114 @@
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline in terms of the relative size of the anterodorsal and anteroventral processes of the D2 basal plate. Character 240 is linked with characters 237 and 238."
 
-241. Posteroventral process of D2 basal plate [Ca47, Cb47]: absent (0), present (1).
+241. Posteroventral process of D2 basal plate: absent (0), present (1).
+> [Ca47, Cb47]
 
-242. Posteroventral process of D2 basal plate [Ca48, Cb48]: poorly developed (0), well developed (1). Character 242 is linked with character 241.
+242. Posteroventral process of D2 basal plate: poorly developed (0), well developed (1). Character 242 is linked with character 241.
+> [Ca48, Cb48]
 
-243. Anal fin [G&C112 polarity]: with a lobe (0), without a lobe (1)
+243. Anal fin: with a lobe (0), without a lobe (1)
+> [G&C112 polarity]
 
 244. Anal fin basal plate: lacking processes (0), with processes (1)
 > Clement *et al.* (in review), Character 244.
 
-245. Anal fin basal plate [Ca49, Cb49]: single process (0), bifurcated process (1). Character 245 is linked with character 244.
+245. Anal fin basal plate: single process (0), bifurcated process (1). Character 245 is linked with character 244.
+> [Ca49, Cb49]
 
-246. Anterodorsal process of anal fin basal plate [Ca50, Cb50]: short and broad (0), long and narrow (1). Character 246 is linked with character 244.
+246. Anterodorsal process of anal fin basal plate: short and broad (0), long and narrow (1). Character 246 is linked with character 244.
+> [Ca50, Cb50]
 
-247. Median fin lepidotrichia [Cb75, Fa51, Fb103, C103, F&C103, Y103, G103, W103, W&W103, Da103, Z103, GR103, WE103, CAa103, C&G103, A&S103, G&C103, Db103, CAb103, R&S103, T103]: not expanded (0), expanded (1)
+247. Median fin lepidotrichia: not expanded (0), expanded (1)
+> [Cb75, Fa51, Fb103, C103, F&C103, Y103, G103, W103, W&W103, Da103, Z103, GR103, WE103, CAa103, C&G103, A&S103, G&C103, Db103, CAb103, R&S103, T103]
 
-248. Caudal fin [Ca51, Cb51, Fa45 in part, Fb93 in part, C93 in part, F&C93 in part, Y93 in part, G93, W93, W&W93, Da93 in part, Z93 in part, GR93 in part, WE93 in part, CAa93 in part, C&G93 in part, A&S93 in part, G&C93 in part, Db93 in part, CAb93 in part, R&S93 in part, T93 in part]: heterocercal (0), diphycercal (1), triphycercal (2)
->
+248. Caudal fin: heterocercal (0), diphycercal (1), triphycercal (2)
+> [Ca51, Cb51, Fa45 in part, Fb93 in part, C93 in part, F&C93 in part, Y93 in part, G93, W93, W&W93, Da93 in part, Z93 in part, GR93 in part, WE93 in part, CAa93 in part, C&G93 in part, A&S93 in part, G&C93 in part, Db93 in part, CAb93 in part, R&S93 in part, T93 in part]
 
-> - Clement *et al.* (in review): "
+249. Epichordal and hypochordal lobes of caudal fin: convex (0), concave (1), pointed (2). 
+> Clement *et al.* (in review), Character 249.
 
-249. Epichordal and hypochordal lobes of caudal fin [new]: convex (0), concave (1), pointed (2). The convex, concave and pointed conditions only apply to the diphycercal and triphycercal conditions of character 248. The posterior profile of the caudal fin of actinistians varies among taxa. Three character-states are defined based on the curvature provided by the distal extremities of epichordal and hypochordal lepidotrichia of the caudal fin excluding the supplementary lobe. The caudal fin could either be convex (i.e., rounded curvature outward; e.g., Latimeria, Caridosuctor, Diplurus), concave (i.e., rounded curvature inward; e.g., Rebellatrix) or pointed (e.g., Allenypterus, Holopterygius). This character does not apply for actinistians having an heterocercal caudal fin (e.g., Miguashaia, Gavinia). Character 249 is linked to character 248.
->
+> - Clement *et al.* (in review): "The convex, concave and pointed conditions only apply to the diphycercal and triphycercal conditions of character 248. The posterior profile of the caudal fin of actinistians varies among taxa. Three character-states are defined based on the curvature provided by the distal extremities of epichordal and hypochordal lepidotrichia of the caudal fin excluding the supplementary lobe. The caudal fin could either be convex (i.e., rounded curvature outward; e.g., Latimeria, Caridosuctor, Diplurus), concave (i.e., rounded curvature inward; e.g., Rebellatrix) or pointed (e.g., Allenypterus, Holopterygius). This character does not apply for actinistians having an heterocercal caudal fin (e.g., Miguashaia, Gavinia). Character 249 is linked to character 248.
 
-> - Clement *et al.* (in review): "
+250. Caudal lobes: symmetrical (0), asymmetrical (1). 
+> [Fa46, Fb97, C97, F&C97, Y97, G97, W97, W&W97, Da97, Z97, GR97, WE97, CAa97, C&G97, A&S97, G&C97, Db97, CAb97, R&S97, T97]
 
-250. Caudal lobes [Fa46, Fb97, C97, F&C97, Y97, G97, W97, W&W97, Da97, Z97, GR97, WE97, CAa97, C&G97, A&S97, G&C97, Db97, CAb97, R&S97, T97]: symmetrical (0), asymmetrical (1). The distinction between symmetrical and asymmetrical dorsal and ventral lobes of the caudal fin was not clarified by Forey (1998, char. 97)12. Generally, the ventral lobe bears 1 or 2 lepidotrichia less than the dorsal lobe. We considered a condition with a difference of up to two lepidotrichia as symmetrical.
->
+> - Clement *et al.* (in review): "The distinction between symmetrical and asymmetrical dorsal and ventral lobes of the caudal fin was not clarified by Forey (1998, char. 97)12. Generally, the ventral lobe bears 1 or 2 lepidotrichia less than the dorsal lobe. We considered a condition with a difference of up to two lepidotrichia as symmetrical."
 
-> - Clement *et al.* (in review): "
-
-251. Epichordal lobe of caudal fin [new]: starting posterior to mid-total length (0), starting anterior to mid-total length (1)
+251. Epichordal lobe of caudal fin: starting posterior to mid-total length (0), starting anterior to mid-total length (1)
 > Clement *et al.* (in review), Character 251.
 
+252. Caudal fin supplementary lobe: absent (0), present (1).
+> [Ca52, Cb52, Fa45 in part]
 
-252. Caudal fin supplementary lobe [Ca52, Cb52, Fa45 in part]: absent (0), present (1). Character 252 is linked with the triphycercal condition of Character 248.
+> - Clement *et al.* (in review): "Character 252 is linked with the triphycercal condition of Character 248." 
 
 253. Caudal fin lepidotrichia: without denticules (0), with denticules (1)
 > Clement *et al.* (in review), Character 253.
 
+254. Caudal fin lepidotrichia: more numerous than radials (0), equal in number with radials (1)
+> [Ca53, Cb53, Fa47, Fb94, C94, F&C94, Y94, G94, W94, W&W94, Da94, Z94, GR94, WE94, CAa94, C&G94, A&S94, G&C94, Db94, CAb94, R&S94, T94]
 
-254. Caudal fin lepidotrichia [Ca53, Cb53, Fa47, Fb94, C94, F&C94, Y94, G94, W94, W&W94, Da94, Z94, GR94, WE94, CAa94, C&G94, A&S94, G&C94, Db94, CAb94, R&S94, T94]: more numerous than radials (0), equal in number with radials (1)
+255. Lepidotrichia: branched (0), unbranched (1)
+> [Ca54, Cb54, Fa48, Fb95, C95, F&C95, Y95, G95, W95, W&W95, Da95, Z95, GR95, WE95, CAa95, C&G95, A&S95, G&C95, Db95, CAb95, R&S95, T95]
 
-255. Lepidotrichia [Ca54, Cb54, Fa48, Fb95, C95, F&C95, Y95, G95, W95, W&W95, Da95, Z95, GR95, WE95, CAa95, C&G95, A&S95, G&C95, Db95, CAb95, R&S95, T95]: branched (0), unbranched (1)
+256. Lepidotrichial segments: without interlocking flanges (0), with interlocking flanges (1). 
+> [FR187]
 
-256. Lepidotrichial segments [FR187]: without interlocking flanges (0), with interlocking flanges (1). The interlocking articulation pattern of lepidotrichial segments has been originally described for Miguashaia bureaui by Cloutier (1996, fig. 16)61.
+> - Clement *et al.* (in review): "The interlocking articulation pattern of lepidotrichial segments has been originally described for Miguashaia bureaui by Cloutier (1996, fig. 16)61."
 
 257. Vertebrae, alignment of: linear above abdominal cavity (0), strongly arched above abdominal cavity (1)
 > Clement *et al.* (in review), Character 257.
 
+258. Supraneural: presence of “supraneurals” along most of the abdominal-thoracic region of the axial skeleton (0), presence of “supraneurals” limited to 1-5 vertebrae located anteriorly to the insertion of the epichordal lobe of the caudal fin (1), absence of “supraneurals” anteriorly to the insertion of the epichordal lobe of the caudal fin (2). 
+> [FR125]
 
-258. Supraneural [FR125]: presence of “supraneurals” along most of the abdominal-thoracic region of the axial skeleton (0), presence of “supraneurals” limited to 1-5 vertebrae located anteriorly to the insertion of the epichordal lobe of the caudal fin (1), absence of “supraneurals” anteriorly to the insertion of the epichordal lobe of the caudal fin (2). According to Arratia et al. (2001)112, ''supraneurals'' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia et al. (2001)112 illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia et al., 2001, fig. 30)112 and Undina penicillata (Arratia et al., 2001, fig. 31)112. They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125)98 considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline.
->
-
-> - Clement *et al.* (in review): "
-
+> - Clement *et al.* (in review): "According to Arratia et al. (2001)112, ''supraneurals'' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia et al. (2001)112 illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia et al., 2001, fig. 30)112 and Undina penicillata (Arratia et al., 2001, fig. 31)112. They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125)98 considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline."
 
 259. Neural spines [new]: abutting one another (0), not abutting (1)
 > Clement *et al.* (in review), Character 259.
 
 
-260. Cervical neural arches, shape of [Fa53, Fb91, C91, F&C91, Y91, G91, W91, W&W91, Da91, Z91, GR91, WE91, CAa91, C&G91, A&S91, G&C91, Db91, CAb91, R&S91, T91]: not expanded (0), expanded (1)
+260. Cervical neural arches, shape of: not expanded (0), expanded (1)
+> [Fa53, Fb91, C91, F&C91, Y91, G91, W91, W&W91, Da91, Z91, GR91, WE91, CAa91, C&G91, A&S91, G&C91, Db91, CAb91, R&S91, T91]
 
-261. Haemal spines [Fb90, C90, F&C90, Y90, G90, W90, W&W90, Da90, Z90, GR90, WE90, CAa90, C&G90, A&S90, G&C90, Db90, CAb90, R&S90, T90]: abutting one another (0), not abutting (1). Forey (1998, char. 90)12 considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in Miguashaia and Diplocercides; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines.
->
+261. Haemal spines: abutting one another (0), not abutting (1). 
+> [Fb90, C90, F&C90, Y90, G90, W90, W&W90, Da90, Z90, GR90, WE90, CAa90, C&G90, A&S90, G&C90, Db90, CAb90, R&S90, T90]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Forey (1998, char. 90)12 considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in Miguashaia and Diplocercides; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines."
 
+262. Ossified ribs: absent (0), present (1). 
+> [Cb69, Fa52, Fb92, C92, F&C92, Y92, G92, W92, W&W92, Da92, Z92, GR92, WE92, CAa92, C&G92, A&S92, G&C92, Db92, CAb92, R&S92, CAc44, CAd44, T92]
 
-262. Ossified ribs [Cb69, Fa52, Fb92, C92, F&C92, Y92, G92, W92, W&W92, Da92, Z92, GR92, WE92, CAa92, C&G92, A&S92, G&C92, Db92, CAb92, R&S92, CAc44, CAd44, T92]: absent (0), present (1). Lambers (1992)31 mentioned that the presence of pleural ribs is rare in coelacanths. Since 1992, a few species with anatomical structures identified as ossified ribs are fairly common. Cloutier (1991b, char. 69)96 coded for the presence of pleural ribs, whereas Forey (1991, char. 52)97 coded for the presence of "long, ossified ribs". Lambers (1992, p. 43)31 suggested that this character should be coded as three character-states: absence of ossified ribs (0), presence of small, rudimentary ribs (1; as in Libys and Undina) and large ossified ribs (2; as in Diplurus).
->
+> - Clement *et al.* (in review): "Lambers (1992)31 mentioned that the presence of pleural ribs is rare in coelacanths. Since 1992, a few species with anatomical structures identified as ossified ribs are fairly common. Cloutier (1991b, char. 69)96 coded for the presence of pleural ribs, whereas Forey (1991, char. 52)97 coded for the presence of "long, ossified ribs". Lambers (1992, p. 43)31 suggested that this character should be coded as three character-states: absence of ossified ribs (0), presence of small, rudimentary ribs (1; as in Libys and Undina) and large ossified ribs (2; as in Diplurus)."
 
-> - Clement *et al.* (in review): "
+263. Scale ornament: not differentiated (0), differentiated (1). 
+> [Fa54, Fb104, C104, F&C104, Y104, G104, W104, W&W104, Da104, Z104, GR104, WE104, CAa104, C&G104, A&S104, G&C104, Db104, CAb104, R&S104, CAc44, CAd44, T104]
 
+> - Clement *et al.* (in review): "Forey (1991, char. 54)97 first defined this character. He mentioned that the plesiomorphic condition corresponds to a scale with a dense covering of uniform tubercles and/or ridges. The apomorphic condition (i.e., differentiated) as originally defined, corresponds to a scale where “the central tubercles are very much enlarged, hollow and surrounded by much smaller tubercles.” Mondéjar-Fernàndez et al. (2021)113 reviewed scale ornament for all coelacanth species."
 
-263. Scale ornament [Fa54, Fb104, C104, F&C104, Y104, G104, W104, W&W104, Da104, Z104, GR104, WE104, CAa104, C&G104, A&S104, G&C104, Db104, CAb104, R&S104, CAc44, CAd44, T104]: not differentiated (0), differentiated (1). Forey (1991, char. 54)97 first defined this character. He mentioned that the plesiomorphic condition corresponds to a scale with a dense covering of uniform tubercles and/or ridges. The apomorphic condition (i.e., differentiated) as originally defined, corresponds to a scale where “the central tubercles are very much enlarged, hollow and surrounded by much smaller tubercles.” Mondéjar-Fernàndez et al. (2021)113 reviewed scale ornament for all coelacanth species.
->
+264. Scale ornament: longitudinal ridges and tubercules (0), only longitudinal ridges (1), only tubercules (2).
+> [Fa56 in part, Fb106, C106, F&C106, Y106, G106, W106, W&W106, Da106, Z106, GR106, WE106, CAa106, C&G106, A&S106, G&C106, Db106, CAb106, R&S106, CAc45, CAd45, T106]
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Forey (1998, char. 106)12 defined two character-states to take into account the condition of scale ornament: ridges or tubercles (0) and rugose (1). Since most of the disparity among coelacanths comes from the presence or absence of ridges and tubercles, we used three character-states to describe these conditions. Only three taxa were coded as having rugose ornament (i.e., Mawsonia, Axelrodichthys, and Guizhoucoelacanthus) by Toriño et al. (2021, char. 106)14. Mondéjar-Fernàndez et al. (2021, table 1)113 summarized the type of ornament on the exposed area of the external surface of the scales for numerous coelacanth species."
 
+265. Scale inner surface: without bumps (0), with bumps (1). 
+> [new]
 
-264. Scale ornament [Fa56 in part, Fb106, C106, F&C106, Y106, G106, W106, W&W106, Da106, Z106, GR106, WE106, CAa106, C&G106, A&S106, G&C106, Db106, CAb106, R&S106, CAc45, CAd45, T106]: longitudinal ridges and tubercules (0), only longitudinal ridges (1), only tubercules (2). Forey (1998, char. 106)12 defined two character-states to take into account the condition of scale ornament: ridges or tubercles (0) and rugose (1). Since most of the disparity among coelacanths comes from the presence or absence of ridges and tubercles, we used three character-states to describe these conditions. Only three taxa were coded as having rugose ornament (i.e., Mawsonia, Axelrodichthys, and Guizhoucoelacanthus) by Toriño et al. (2021, char. 106)14. Mondéjar-Fernàndez et al. (2021, table 1)113 summarized the type of ornament on the exposed area of the external surface of the scales for numerous coelacanth species.
->
+> - Clement *et al.* (in review): "Cloutier (1996, fig. 17D)61 and Mondéjar-Fernàndez et al. (2021, fig. 2)113 figured and described the presence of small circular bumps on the inner surface of the scales of Miguashaia bureaui."
 
-> - Clement *et al.* (in review): "
+266. Lateral line pores per scale: single (0), multiple (1)
+> [Ca2, Cb2, Fa55 polarity, Fb105, C105, F&C105, Y105, G105, W105, W&W105, Da105, Z105, GR105, WE105, CAa105, C&G105, A&S105, G&C105, Db105, CAb105, R&S105, T105]
 
+267. Ventral keel scales: absent (0), present (1). 
+> [F&C109, G109, W109, W&W109, Da109, Z109, GR109, WE109, CAa109, C&G109, A&S109, G&C109, Db109, CAb109, R&S109, T109]
 
-265. Scale inner surface [new]: without bumps (0), with bumps (1). Cloutier (1996, fig. 17D)61 and Mondéjar-Fernàndez et al. (2021, fig. 2)113 figured and described the presence of small circular bumps on the inner surface of the scales of Miguashaia bureaui.
->
+> - Clement *et al.* (in review): "Friedman & Coates (2006, char. 109)47 used the absence or presence of ventral keel scales. They coded the presence of ventral keel scales in Allenypterus and Holopterygius; a polymorphic state was coded for the actinopterygian out-group."
 
-> - Clement *et al.* (in review): "
+268. Lung: not ossified (0), ossified (1). 
+> [Fb107, C107, F&C107, Y107, G107, W107, W&W107, Da107, Z107, GR107, WE107, CAa107, C&G107, A&S107, G&C107, Db107, CAb107, R&S107, CAc46, CAd46, T107]
 
-
-266. Lateral line pores per scale [Ca2, Cb2, Fa55 polarity, Fb105, C105, F&C105, Y105, G105, W105, W&W105, Da105, Z105, GR105, WE105, CAa105, C&G105, A&S105, G&C105, Db105, CAb105, R&S105, T105]: single (0), multiple (1)
-
-267. Ventral keel scales [F&C109, G109, W109, W&W109, Da109, Z109, GR109, WE109, CAa109, C&G109, A&S109, G&C109, Db109, CAb109, R&S109, T109]: absent (0), present (1). Friedman & Coates (2006, char. 109)47 used the absence or presence of ventral keel scales. They coded the presence of ventral keel scales in Allenypterus and Holopterygius; a polymorphic state was coded for the actinopterygian out-group.
->
-
-> - Clement *et al.* (in review): "
-
-
-268. Lung [Fb107, C107, F&C107, Y107, G107, W107, W&W107, Da107, Z107, GR107, WE107, CAa107, C&G107, A&S107, G&C107, Db107, CAb107, R&S107, CAc46, CAd46, T107]: not ossified (0), ossified (1). Forey (1998, char. 107)12 referred to the condition of the swimbladder rather than the condition of the lung (Cavin et al., 2019, char. 46)100. Brito et al. (2010)114 and Cupello et al. (2017)115 investigated the structure identified as the calcified lungs in actinistians and more specifically that of Axelrodichthys. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of Latimeria also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)116.
->
-
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "Forey (1998, char. 107)12 referred to the condition of the swimbladder rather than the condition of the lung (Cavin et al., 2019, char. 46)100. Brito et al. (2010)114 and Cupello et al. (2017)115 investigated the structure identified as the calcified lungs in actinistians and more specifically that of Axelrodichthys. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of Latimeria also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)116."
 
 ## Characters added from Lu et al. (2016) and Clement et al. (2018)
 
