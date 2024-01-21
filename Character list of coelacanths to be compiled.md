@@ -300,7 +300,6 @@
 
 > - Clement *et al.* (in review): "The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013)23. It is a well-developed and well-defined process that extends towards the midline of the skull roof [see Axelrodichthys maiseyi, de Carvalho et al. (2013, fig. 3B)23]."
 
-
 62. Cheek bones, contact of: in contact or overlapping (0), separated (1).
 
 > Cloutier (1991a), Character 23, in part; Cloutier (1991b), Character 23; Forey (1991), Character 22; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 29.
@@ -447,6 +446,7 @@
 
 94. Preopercular canal: preopercular canal ends at dorsal margin of preopercular (0), does not end at dorsal margin of preopercular (1). 
 >  [L&Z29]
+
 > - Clement *et al.* (in review): "Character 93 is linked with character 65."
 
 95. Maxilla: absent (0), present (1)
@@ -580,7 +580,6 @@
 
 > - Clement *et al.* (in review): "An enlarged posterior (principal) coronoid projecting considerably above the occlusal margin of the lower jaw has been recognized by many authors as an actinistian synapomorphy (Schaeffer, 1952; Lund & Lund, 1985; Cloutier, 1991a)13,35,95. Cloutier (1991a)95 recognized the coronoid IV oriented vertically as an actinistian synapomorphy; although we agree that the posteriormost is oriented vertically, the homology of this element with coronoid IV is questioned. The modified coronoid (char. 121) is frequently referred to as Coronoid IV."
 
-
 123. Principal coronoid: lying free (0), sutured to angular (1). 
 > [Cb68 in part, Fa31 in part, Fb66 in part, C66 in part, F&C66 in part, Y66 in part, G66, W66, W&W66, Da66 in part, Z66 in part, GR66 in part, WE66 in part, CAa66 in part, C&G66 in part, A&S66 in part, G&C66 in part, Db66 in part, CAb66 in part, R&S66 in part, CAc35, CAd35, T66 in part]
 
@@ -630,7 +629,6 @@
 > Clement *et al.* (in review), Character 134.
 
 > - Clement *et al.* (in review): "This character considers the general shape of the posterior margin of the splenial when looking at the lateral profile of the lateral surface of the splenial; this character is similar to Character 111 that is relative to the posterior margin of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the splenial is located ventrally (e.g., Allenypterus, Diplocercides, Garnbergia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Parnaibaia). In the pointed shape (or X bevel), the pointed part of the posterior margin of the splenial is approximately located at mid-height of the splenial (e.g., Coelacanthus, Holophagus), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Character 134 is linked to character 132."
-
 
 135. Prearticular and/or coronoid teeth: pointed and smooth (0), pointed and marked with fine striations (1), rounded and marked with fine striations (2). 
 > [Fa27 in part, Fb68, C68, F&C68, Y68, G68, W68, W&W68, Da68, Z68, GR68, WE68 modified, CAa68, C&G68, A&S68, G&C68, Db68, CAb68, R&S68, CAc37, CAd37, T68]
@@ -742,16 +740,11 @@
 163. Foramen for oculomotor nerve (III) relative, position of: dorsal and near the optic nerve (II) foramen (0), posterior and at the same height as the optic nerve (II) foramen (1)
 > Clement *et al.* (in review), Character 163.
 
-> - 
-
 164. Foramen for the facial nerve (VII) relative, position of: same level as the anterior tip of the processus connectens (0), dorsal to the anterior tip of the processus connectens (1)
 > Clement *et al.* (in review), Character 164.
 
-> - 
 165 Basipterygoid process: present (0), absent (1)
 > [Ca36, Cb36, Fb72 polarity, C72 polarity, F&C72 polarity, Y72 polarity, G72, W72, W&W72, Da72 polarity, Z72 polarity, GR72 polarity, WE72 polarity, CAa72, C&G72 polarity, A&S72 polarity, G&C72 polarity, Db72 polarity, CAb72 polarity, R&S72 polarity, T72 polarity]
-
-> - 
 
 166. Basipterygoid process, size of: small knob-like process (0), developed as a broad platform (1). 
 > [Fa2]
@@ -766,11 +759,8 @@
 168. Intracranial joint relative to cranial nerves, position of: through profundus foramen (0), through or behind trigeminal (V) foramen (1)
 > Clement *et al.* (in review), Character 168.
 
-> - 
 169. Vagus nerve (X): not bone enclosed (0), bone enclosed (1)
 > [Fa8]
-
-> - 
 
 170. Processus connectens, size of: knob like not well developed (0), long and well developed (1)
 > Clement *et al.* (in review), Character 170.
@@ -784,12 +774,8 @@
 172. Posttemporal fossae: absent (0), present (1)
 > [FR103]
 
-> -
-
 173. Orbitosphenoid and basisphenoid regions: coossified (0), separate (1)
 > [Fb69, C69, F&C69, Y69, G69, W69, W&W69, Da69, Z69, GR69, WE69, CAa69, C&G69, A&S69, G&C69, Db69, CAb69, R&S69, T69]
-
-> - 
 
 174. Basisphenoid: extending forward to enclose optic foramen (0), optic foramen lying within separate interorbital ossification or cartilage (1). 
 > [Fb70, C70, F&C70, Y70, G70, W70, W&W70, Da70, Z70, GR70, WE70, CAa70, C&G70, A&S70, G&C70, Db70, CAb70, R&S70, T70]
@@ -1000,7 +986,7 @@
 > [Cb72, Fa49, Fb98, C98, F&C98, Y98, G98, W98, W&W98, Da98, Z98, GR98, WE98, CAa98, C&G98, A&S98, G&C98, Db98, CAb98, R&S98, CAc43, CAd43, T98]
 
 235. D1 lepidotrichia: same width as the lepidotrichia of the second dorsal and anal fins (0), substantially stouter than the second dorsal and anal fins (1).
->
+> Clement *et al.* (in review), Character 235.
 
 > - Clement *et al.* (in review): "We considered a lepidotrichia to be substantially stouter when it is from two to three times broader than the lepidotrichia of the second dorsal and anal fins. Occasionally the caudal lepidotrichia could also be as stout as those of the first dorsal fin. This condition is clearly visible in Undina penicillata (see Arratia et al., 2001, fig. 31)112, Whiteia oishii (Yabumoto & Brito, 2016, fig. 2b)92, Ticinepomis peyeri (Cavin et al., 2013, fig. 4)87."
 
@@ -1087,9 +1073,8 @@
 
 > - Clement *et al.* (in review): "According to Arratia et al. (2001)112, ''supraneurals'' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia et al. (2001)112 illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia et al., 2001, fig. 30)112 and Undina penicillata (Arratia et al., 2001, fig. 31)112. They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125)98 considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline."
 
-259. Neural spines [new]: abutting one another (0), not abutting (1)
+259. Neural spines: abutting one another (0), not abutting (1)
 > Clement *et al.* (in review), Character 259.
-
 
 260. Cervical neural arches, shape of: not expanded (0), expanded (1)
 > [Fa53, Fb91, C91, F&C91, Y91, G91, W91, W&W91, Da91, Z91, GR91, WE91, CAa91, C&G91, A&S91, G&C91, Db91, CAb91, R&S91, T91]
@@ -1115,7 +1100,7 @@
 > - Clement *et al.* (in review): "Forey (1998, char. 106)12 defined two character-states to take into account the condition of scale ornament: ridges or tubercles (0) and rugose (1). Since most of the disparity among coelacanths comes from the presence or absence of ridges and tubercles, we used three character-states to describe these conditions. Only three taxa were coded as having rugose ornament (i.e., Mawsonia, Axelrodichthys, and Guizhoucoelacanthus) by Toriño et al. (2021, char. 106)14. Mondéjar-Fernàndez et al. (2021, table 1)113 summarized the type of ornament on the exposed area of the external surface of the scales for numerous coelacanth species."
 
 265. Scale inner surface: without bumps (0), with bumps (1). 
-> [new]
+> Clement *et al.* (in review), Character 265.
 
 > - Clement *et al.* (in review): "Cloutier (1996, fig. 17D)61 and Mondéjar-Fernàndez et al. (2021, fig. 2)113 figured and described the presence of small circular bumps on the inner surface of the scales of Miguashaia bureaui."
 
