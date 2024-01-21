@@ -1421,155 +1421,301 @@
 
 413. Position of basal/basipterygoid articulation/  same anteroposterior level as hypophysial opening  anterior to hypophysial opening posterior to hypophysial opening,
 
-414. 
-		146 ' Articulation between neurocanium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation)' : absent (0), present (1).
-		147 Labyrinth cavity /  separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall skeletal capsular wall absent,
-		148 'Basipterygoid process (basal articulation) with vertically oriented component' : absent (0), present (1).
-		149 Pituitary vein canal /  dorsal to level of basipterygoid process flanked posteriorly by basipterygoid process,
-		150 'External (horizontal) semicircular canal' : absent (0), present (1).
-		151 Sinus superior /  absent or indistinguishable from union of anterior and posterior canals with saccular chamber present,
-		152 'External (horizontal) semicircular canal' /  joins the vestibular region dorsal to posterior ampulla joins level with posterior ampulla,
-		153 Horizontal semicircular canal in dorsal view /  medial to path of jugular vein dorsal to jugular vein,
-		154 Lateral cranial canal : absent (0), present (1).
-		155 Posterior dorsal fontanelle : absent (0), present (1).
-		156 Shape of posterior dorsal fontanelle /  approximately as long as broad 'much longer than wide, slot-shaped',
-		157 Synotic tectum : absent (0), present (1).
-		158 Dorsal ridge : absent (0), present (1).
-		159 Shape of median dorsal ridge anterior to endolymphatic fossa /  'developed as a squared-off ridge or otherwise ungrooved' bears a midline groove,
-		160 Endolymphatic ducts in neurocranium /  posteriodorsally angled tubes tubes oriented vertically through median endolymphatic fossa,
-		161 Position of hyomandibula articulation on neurocranium /  'below or anterior to orbit, on ventrolateral angle of braincase' 'on otic capsule, posterior to orbit',
-		162 Position of hyomandibula articulation relative to structure of skeletal labyrinth /  anterior or lateral to skeletal labyrinth at level of posterior semicircular canal,
-		163 Hyoid arch articulation on braincase /  single double,
-		164 Branchial ridges /  present reduced to vagal process 'absent (articulation made with bare cranial wall)',
-		165 Craniospinal process : absent (0), present (1).
-		166 Ventral cranial fissure : absent (0), present (1).
-		167 Basicranial fenestra : absent (0), present (1).
-		168 'Metotic (otic-occipital) fissure' : absent (0), present (1).
-		169 Vestibular fontanelle : absent (0), present (1).
-		170 Occipital arch wedged in between otic capsules : absent (0), present (1).
-		171 'Spino-occipital nerve foramina' /  'two or more, aligned horizontally' 'one or two, dorsoventrally offset',
-		172 Ventral notch between parachordals /  present or entirely unfused absent,
-		173 Parachordal shape /  'forming a broad, flat surface as wide as the otic capsules' mediolaterally constricted relative to the otic capsules,
-		174 'Stalk-shaped parachordal/occipital region' : absent (0), present (1).
-		175 Paired occipital facets : absent (0), present (1).
-		176 Size of aperture to notochordal canal /  much smaller than foramen magnum 'as large, or larger, than foramen magnum',
-		177 Canal for median dorsal aorta within basicranium : absent (0), present (1).
-		178 'Hypotic lamina (and dorsally directed glossopharyngeal canal)' : absent (0), present (1).
-		179 Macromeric dermal shoulder girdle : present (0), absent (1).
-		180 Dermal shoulder girdle composition /  'ventral and dorsal (scapular) components' ventral components only,
-		181 'Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate)' /  spatulate pointed,
-		182 Dermal shoulder girdle forming a complete ring around the trunk : present (0), absent (1).
-		183 Pectoral fenestra completely encircled by dermal shoulder armour : present (0), absent (1).
-		184 Median dorsal plate : absent (0), present (1).
-		185 'Posterior dorsolateral (PDL) plate or equivalent' : absent (0), present (1).
-		186 'Pronounced internal median keel on dorsal  shoulder girdle (i.e., crista of median dorsal plate)' : absent (0), present (1).
-		187 Crista internalis of dermal shoulder girdle : absent (0), present (1).
-		188 Scapular infundibulum : absent (0), present (1).
-		189 Scapular process of shoulder endoskeleton : absent (0), present (1).
-		190 Ventral margin of separate scapular ossification /  horizontal deeply angled,
-		191 Cross sectional shape of scapular process /  flattened or strongly ovate subcircular,
-		192 Flange on trailing edge of scapulocoracoid : absent (0), present (1).
-		193 Scapular process with posterodorsal angle : absent (0), present (1).
-		194 Endoskeletal postbranchial lamina on scapular process : present (0), absent (1).
-		195 Mineralisation of internal surface of scapular blade /  mineralised all around 'unmineralised on internal face forming a hemicylindrical cross-section',
-		196 Coracoid process : absent (0), present (1).
-		197 Procoracoid mineralisation : absent (0), present (1).
-		198 Fin base articulation on scapulocoracoid /  'deeper than wide (stenobasal)' 'wider than deep (eurybasal)',
-		199 Pectoral fin articulation /  monobasal polybasal,
-		200 Number of basals in polybasal pectoral fins /  three or more two,
-		201 Branching radials in paired fins : absent (0), present (1).
-		202 Number of mesomeres in metapterygial axis /  five or fewer seven or more,
-		203 Biserial pectoral fin endoskeleton : absent (0), present (1).
-		204 Perforate propterygium : absent (0), present (1).
-		205 Filamentous extension of pectoral fin from axillary region : absent (0), present (1).
-		206 Pelvic fins : absent (0), present (1).
-		207 Pelvic claspers : absent (0), present (1).
-		208 Dermal pelvic clasper ossifications : absent (0), present (1).
-		209 Pectoral fins covered in macromeric dermal armour : absent (0), present (1).
-		210 'Pectoral fin base has large, hemispherical dermal component' : absent (0), present (1).
-		211 Dorsal fin spines : absent (0), present (1).
-		212 Anal fin spine : absent (0), present (1).
-		213 Paired fin spines : absent (0), present (1).
-		214 Median fin spine insertion /  'shallow, not greatly deeper than dermal bones/scales' deep,
-		215 Intermediate fin spines : absent (0), present (1).
-		216 'Fin spine cross-section' /  Round or horseshoe shaped 'Flat-sided, with rectangular profile',
-		217 Intermediate spines when present /  one pair  multiple pairs,
-		218 Prepectoral fin spines /  absent  present,
-		219 Fin spines with ridges : absent (0), present (1).
-		220 Fin spines with nodes : absent (0), present (1).
-		221 Fin spines with rows of large retrorse denticles : absent (0), present (1).
-		222 Expanded spine rib on leading edge of spine : absent (0), present (1).
-		223 Spine ridges /  converging at the distal apex of the spine converging on leading edge of spine,
-		224 Synarcual : absent (0), present (1).
-		225 Series of thoracic supraneurals : absent (0), present (1).
-		226 'Number of dorsal fins, if present' /  one two,
-		227 Posterior dorsal fin shape /  'base approximately as broad as tall, not broader than all of other median fins' 'base much longer than the height of the fin, substantially longer than any of the other dorsal fins',
-		228 Basal plate in dorsal fin : absent (0), present (1).
-		229 Branching radial structure articulating with dorsal fin basal plate : absent (0), present (1).
-		230 Anal fin : absent (0), present (1).
-		231 Basal plate in anal fin : absent (0), present (1).
-		232 Caudal radials /  extend beyond level of body wall and deep into hypochordal lobe radials restricted to axial lobe,
-		233 Supraneurals in axial lobe of caudal fin : absent (0), present (1).
-		234 Epichordal lepidotrichia in caudal fin : absent (0), present (1).
-		235 Enamel and pore canals /  enamel absent from inner surface of pores enamel lines portions of pore canal,
-		236 'Canal-bearing bone of skull roof extends far past posterior margin of parietals.' /  no yes,
-		237 'Pineal eminence (in taxa lacking pineal foramen)' : absent (0), present (1).
-		238 Position of anterior pitline /  on postparietal  on parietal ,
-		239 Opening in dermal skull roof for spiracular bounded by bones carrying otic canal : absent (0), present (1).
-		240 Median skull roof bone between postparietals : absent (0), present (1).
-		241 Westoll lines : absent (0), present (1).
-		242 Preoperculosubmandibular : absent (0), present (1).
-		243 Hyomandibula /  imperforate perforate,
-		244 Urohyal shape /  absent vertical plate,
-		245 'Maxilla (in taxa with marginal jaw bones)' : present (0), absent (1).
-		246 Length of dentary /  constitutes a majority of jaw length half the length of jaw or less,
-		247 Labial pit : absent (0), present (1).
-		248 Prearticular symphysis : absent (0), present (1).
-		249 Mandibular sensory canal /  extends through infradentaries extends through infradentaries and dentary,
-		250 Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series : absent (0), present (1).
-		251 Posterior coronoid /  similar to anterior coronoids forms expanded coronoid process,
-		252 Retroarticular process : absent (0), present (1).
-		253 Inturned medial process of premaxilla : absent (0), present (1).
-		254 Anteriorly directed adductor fossae between neurocranium and skull roof : absent (0), present (1).
-		255 Vomerine fangs : absent (0), present (1).
-		256 Number of dermopalatines /  multiple one,
-		257 Entopterygoids /  separated contact along midline,
-		258 Rostral tubuli : absent (0), present (1).
-		259 Position of anterior nostril /  facial at oral margin,
-		260 Posterior nostril /  facial at margin of oral cavity palatal,
-		261 'Three large pores (in addition to nostrils) associated with each side of ethmoid' : absent (0), present (1).
-		262 Ventral face of nasal capsule in taxa with mineralized ethmoid /  complete fenestra ventrolateralis entire floor unmineralized,
-		263 Size of profundus canal in postnasal wall /  small large,
-		264 Paired pineal and parapineal tracts : absent (0), present (1).
-		265 Posterior of parasphenoid /  restricted to ethmosphenoid region extends to otic region,
-		266 Endoskeletal spiracular canal /  open spiracular bar complete enclosure in canal,
-		267 Barbed lepidotrichial segments : absent (0), present (1).
-		268 'Relative position of jugular groove/canal and hyomandibular articulation ' /  hyomandibula dorsal  hmd ventral  hmd straddles,
-		269 Optic lobes /  narrower than cerebellum same width or wider than cerebellum,
-		270 Hypophyseal chamber /  projects posteroventrally projects ventrally or anteroventrally,
-		271 Crus commune of anterior and posterior semicircular canals /  dorsal to endocranial roof ventral to endocranial roof,
-		272 Horizontal semicircular canal /  obiquely oriented horizontally oriented,
-		273 Supraotic cavity /  absent  present,
-		274 Pelvic girdle with substantial dermal component : present (0), absent (1).
-		275 Pelvic fin spine : absent (0), present (1).
-		276 Pelvic fin /  monobasal polybasal,
-		277 'Postparietals/centrals' : absent (0), present (1).
-		278 'Condition of postparietals/centrals' /  do not meet in midline meet in midline single midline bone,
-		279 Parietals : absent (0), present (1).
-		280 Condition of parietals /  do not meet in midline meet in midline,
-		281 'Endoskeletal lamina (postnasal wall) separating posterior nostril and orbit' : absent (0), present (1).
-		282 Pituitary vein canal /  'discontinuous, enters the cranial cavity' 'discontinuous, enters hypophysial recess' continuous transverse vein,
-		283 Parietal portion of skull roof relative to postparietal portion in length /  parietal portion roughly as long as postparietal portion parietal portion much longer postparietal portion parietal portion much shorter than postparietal portion,
-		284 Postparietal narrowing posteriorly : absent (0), present (1).
-		285 'Length/width index of the postparietal' /  '<150' '150-300' '>300',
-		286 Posterior margin of tabulars /  anterior to posterior margin of postparietals level with posterior margin of postparietals,
-		287 Unconstricted cranial notochord : absent (0), present (1).
-		288 Processus connectens /  'knob-like,not well develped' 'long, well-developed',
-		289 Denticulated field of parasphenoid /  without spiracular groove with spiracular groove,
-		290 Enlarged anterior tooth on premaxilla /  absent  present,
-		291 Enamel ribs on parasymphysial tooth whorl : absent (0), present (1).
-		292 Mandibular sensory canal through the lowermost part of the infradentary series with many tubes : absent (0), present (1).
-		293 Hypophysial fossa /  ventrally extended anteroventrally extended ; 
+414. Articulation between neurocanium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): absent (0), present (1).
+
+415. Labyrinth cavity /  separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall skeletal capsular wall absent,
+
+416. Basipterygoid process (basal articulation) with vertically oriented component: absent (0), present (1).
+
+417. Pituitary vein canal /  dorsal to level of basipterygoid process flanked posteriorly by basipterygoid process,
+
+418. External (horizontal) semicircular canal: absent (0), present (1).
+
+419. Sinus superior /  absent or indistinguishable from union of anterior and posterior canals with saccular chamber present,
+
+420. External (horizontal) semicircular canal' /  joins the vestibular region dorsal to posterior ampulla joins level with posterior ampulla,
+
+421. Horizontal semicircular canal in dorsal view /  medial to path of jugular vein dorsal to jugular vein,
+
+422. Lateral cranial canal : absent (0), present (1).
+
+423. Posterior dorsal fontanelle : absent (0), present (1).
+
+424. Shape of posterior dorsal fontanelle /  approximately as long as broad 'much longer than wide, slot-shaped',
+
+425. Synotic tectum : absent (0), present (1).
+
+426. Dorsal ridge : absent (0), present (1).
+
+427. Shape of median dorsal ridge anterior to endolymphatic fossa /  'developed as a squared-off ridge or otherwise ungrooved' bears a midline groove,
+
+428. Endolymphatic ducts in neurocranium /  posteriodorsally angled tubes tubes oriented vertically through median endolymphatic fossa,
+
+429. Position of hyomandibula articulation on neurocranium /  'below or anterior to orbit, on ventrolateral angle of braincase' 'on otic capsule, posterior to orbit',
+
+430. Position of hyomandibula articulation relative to structure of skeletal labyrinth /  anterior or lateral to skeletal labyrinth at level of posterior semicircular canal,
+
+431. Hyoid arch articulation on braincase /  single double,
+
+432. Branchial ridges /  present reduced to vagal process 'absent (articulation made with bare cranial wall)',
+
+433. Craniospinal process : absent (0), present (1).
+
+434. Ventral cranial fissure : absent (0), present (1).
+
+435. Basicranial fenestra : absent (0), present (1).
+
+436. Metotic (otic-occipital) fissure: absent (0), present (1).
+
+437. Vestibular fontanelle : absent (0), present (1).
+
+438. Occipital arch wedged in between otic capsules : absent (0), present (1).
+
+439. Spino-occipital nerve foramina/  'two or more, aligned horizontally' 'one or two, dorsoventrally offset',
+
+440. Ventral notch between parachordals /  present or entirely unfused absent,
+
+441. Parachordal shape /  'forming a broad, flat surface as wide as the otic capsules' mediolaterally constricted relative to the otic capsules,
+
+442. Stalk-shaped parachordal/occipital region: absent (0), present (1).
+
+443. Paired occipital facets : absent (0), present (1).
+
+444. Size of aperture to notochordal canal /  much smaller than foramen magnum 'as large, or larger, than foramen magnum',
+
+445. Canal for median dorsal aorta within basicranium : absent (0), present (1).
+
+446. Hypotic lamina (and dorsally directed glossopharyngeal canal): absent (0), present (1).
+
+447. Macromeric dermal shoulder girdle : present (0), absent (1).
+
+448. Dermal shoulder girdle composition /  'ventral and dorsal (scapular) components' ventral components only,
+
+449. Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate)/  spatulate pointed,
+
+450. Dermal shoulder girdle forming a complete ring around the trunk : present (0), absent (1).
+
+451. Pectoral fenestra completely encircled by dermal shoulder armour : present (0), absent (1).
+
+452. Median dorsal plate : absent (0), present (1).
+
+453. Posterior dorsolateral (PDL) plate or equivalent: absent (0), present (1).
+
+454. Pronounced internal median keel on dorsal  shoulder girdle (i.e., crista of median dorsal plate): absent (0), present (1).
+
+455. Crista internalis of dermal shoulder girdle : absent (0), present (1).
+
+456. Scapular infundibulum : absent (0), present (1).
+
+457. Scapular process of shoulder endoskeleton : absent (0), present (1).
+
+458. Ventral margin of separate scapular ossification /  horizontal deeply angled,
+
+459. Cross sectional shape of scapular process /  flattened or strongly ovate subcircular,
+
+460. Flange on trailing edge of scapulocoracoid : absent (0), present (1).
+
+461. Scapular process with posterodorsal angle : absent (0), present (1).
+
+462. Endoskeletal postbranchial lamina on scapular process : present (0), absent (1).
+
+463. Mineralisation of internal surface of scapular blade /  mineralised all around 'unmineralised on internal face forming a hemicylindrical cross-section',
+
+464. Coracoid process : absent (0), present (1).
+
+465. Procoracoid mineralisation : absent (0), present (1).
+
+466. Fin base articulation on scapulocoracoid /  'deeper than wide (stenobasal)' 'wider than deep (eurybasal)',
+
+467. Pectoral fin articulation /  monobasal polybasal,
+
+468. Number of basals in polybasal pectoral fins /  three or more two,
+
+469. Branching radials in paired fins : absent (0), present (1).
+
+470. Number of mesomeres in metapterygial axis /  five or fewer seven or more,
+
+471. Biserial pectoral fin endoskeleton : absent (0), present (1).
+
+472. Perforate propterygium : absent (0), present (1).
+
+473. Filamentous extension of pectoral fin from axillary region : absent (0), present (1).
+
+474. Pelvic fins : absent (0), present (1).
+
+475. Pelvic claspers : absent (0), present (1).
+
+476. Dermal pelvic clasper ossifications : absent (0), present (1).
+
+477. Pectoral fins covered in macromeric dermal armour : absent (0), present (1).
+
+478. Pectoral fin base has large, hemispherical dermal component: absent (0), present (1).
+
+479. Dorsal fin spines : absent (0), present (1).
+
+480. Anal fin spine : absent (0), present (1).
+
+481. Paired fin spines : absent (0), present (1).
+
+482. Median fin spine insertion /  'shallow, not greatly deeper than dermal bones/scales' deep,
+
+483. Intermediate fin spines : absent (0), present (1).
+
+484. Fin spine cross-section/  Round or horseshoe shaped 'Flat-sided, with rectangular profile',
+
+485. Intermediate spines when present /  one pair  multiple pairs,
+
+486. Prepectoral fin spines /  absent  present,
+
+487. Fin spines with ridges : absent (0), present (1).
+
+488. Fin spines with nodes : absent (0), present (1).
+
+489. Fin spines with rows of large retrorse denticles : absent (0), present (1).
+
+490. Expanded spine rib on leading edge of spine : absent (0), present (1).
+
+491. Spine ridges /  converging at the distal apex of the spine converging on leading edge of spine,
+
+492. Synarcual : absent (0), present (1).
+
+493. Series of thoracic supraneurals : absent (0), present (1).
+
+494. Number of dorsal fins, if present/  one two,
+
+495. Posterior dorsal fin shape /  'base approximately as broad as tall, not broader than all of other median fins' 'base much longer than the height of the fin, substantially longer than any of the other dorsal fins',
+
+496. Basal plate in dorsal fin : absent (0), present (1).
+
+497. Branching radial structure articulating with dorsal fin basal plate : absent (0), present (1).
+
+498. Anal fin : absent (0), present (1).
+
+499. Basal plate in anal fin : absent (0), present (1).
+
+500. Caudal radials /  extend beyond level of body wall and deep into hypochordal lobe radials restricted to axial lobe,
+
+501. Supraneurals in axial lobe of caudal fin : absent (0), present (1).
+
+502. Epichordal lepidotrichia in caudal fin : absent (0), present (1).
+
+503. Enamel and pore canals /  enamel absent from inner surface of pores enamel lines portions of pore canal,
+
+504. Canal-bearing bone of skull roof extends far past posterior margin of parietals/  no yes,
+
+505. Pineal eminence (in taxa lacking pineal foramen) : absent (0), present (1).
+
+506. Position of anterior pitline /  on postparietal  on parietal
+
+507. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal : absent (0), present (1).
+
+508. Median skull roof bone between postparietals : absent (0), present (1).
+
+509. Westoll lines : absent (0), present (1).
+
+510. Preoperculosubmandibular : absent (0), present (1).
+
+511. Hyomandibula /  imperforate perforate,
+
+512. Urohyal shape /  absent vertical plate,
+
+513. Maxilla (in taxa with marginal jaw bones): present (0), absent (1).
+
+514. Length of dentary /  constitutes a majority of jaw length half the length of jaw or less,
+
+515. Labial pit : absent (0), present (1).
+
+516. Prearticular symphysis : absent (0), present (1).
+
+517. Mandibular sensory canal /  extends through infradentaries extends through infradentaries and dentary,
+
+518. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series : absent (0), present (1).
+
+519. Posterior coronoid /  similar to anterior coronoids forms expanded coronoid process,
+
+520. Retroarticular process : absent (0), present (1).
+
+521. Inturned medial process of premaxilla : absent (0), present (1).
+
+522. Anteriorly directed adductor fossae between neurocranium and skull roof : absent (0), present (1).
+
+523. Vomerine fangs : absent (0), present (1).
+
+524. Number of dermopalatines /  multiple one,
+
+525. Entopterygoids /  separated contact along midline,
+
+526. Rostral tubuli : absent (0), present (1).
+
+527. Position of anterior nostril /  facial at oral margin,
+
+528. Posterior nostril /  facial at margin of oral cavity palatal,
+
+529. Three large pores (in addition to nostrils) associated with each side of ethmoid: absent (0), present (1).
+
+530. Ventral face of nasal capsule in taxa with mineralized ethmoid /  complete fenestra ventrolateralis entire floor unmineralized,
+
+531. Size of profundus canal in postnasal wall /  small large,
+
+532. Paired pineal and parapineal tracts : absent (0), present (1).
+
+533. Posterior of parasphenoid /  restricted to ethmosphenoid region extends to otic region,
+
+534. Endoskeletal spiracular canal /  open spiracular bar complete enclosure in canal,
+
+535. Barbed lepidotrichial segments : absent (0), present (1).
+
+536. Relative position of jugular groove/canal and hyomandibular articulation ' /  hyomandibula dorsal  hmd ventral  hmd straddles,
+
+537. Optic lobes /  narrower than cerebellum same width or wider than cerebellum,
+
+538. Hypophyseal chamber /  projects posteroventrally projects ventrally or anteroventrally,
+
+539. Crus commune of anterior and posterior semicircular canals /  dorsal to endocranial roof ventral to endocranial roof,
+
+540. Horizontal semicircular canal /  obiquely oriented horizontally oriented,
+
+541. Supraotic cavity /  absent  present,
+
+542. Pelvic girdle with substantial dermal component : present (0), absent (1).
+
+543. Pelvic fin spine : absent (0), present (1).
+
+544. Pelvic fin /  monobasal polybasal,
+
+545. Postparietals/centrals: absent (0), present (1).
+
+546. Condition of postparietals/centrals/  do not meet in midline meet in midline single midline bone,
+
+547. Parietals : absent (0), present (1).
+
+548. Condition of parietals /  do not meet in midline meet in midline,
+
+549. Endoskeletal lamina (postnasal wall) separating posterior nostril and orbit: absent (0), present (1).
+
+550. Pituitary vein canal /  'discontinuous, enters the cranial cavity' 'discontinuous, enters hypophysial recess' continuous transverse vein,
+
+551. Parietal portion of skull roof relative to postparietal portion in length /  parietal portion roughly as long as postparietal portion parietal portion much longer postparietal portion parietal portion much shorter than postparietal portion,
+
+552. Postparietal narrowing posteriorly : absent (0), present (1).
+
+553. Length/width index of the postparietal' /  '<150' '150-300' '>300',
+
+554. Posterior margin of tabulars /  anterior to posterior margin of postparietals level with posterior margin of postparietals,
+
+555. Unconstricted cranial notochord : absent (0), present (1).
+
+556. Processus connectens /  'knob-like,not well develped' 'long, well-developed',
+
+557. Denticulated field of parasphenoid /  without spiracular groove with spiracular groove,
+
+558. Enlarged anterior tooth on premaxilla /  absent  present,
+
+559. Enamel ribs on parasymphysial tooth whorl : absent (0), present (1).
+
+560. Mandibular sensory canal through the lowermost part of the infradentary series with many tubes : absent (0), present (1).
+
+561. Hypophysial fossa /  ventrally extended anteroventrally extended ; 
 
 
 1 Renesto, S. & Stockar, R. First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Rivista Italiana di Paleontologia e Stratigrafia 124, 639-653, doi:10.13130/2039-4942/10771 (2018).
