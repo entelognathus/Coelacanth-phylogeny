@@ -33,18 +33,21 @@
 
 
 1. Snout bones : separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
-**the space here is not necessary**
 > Forey (1998), character 2; Friedman & Coates (2006),  character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
 
 > - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin et al. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline."
+> - Zjy Onychodont: ?
 
 2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
 > Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part.
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline."
+> - Zjy Onychodont: 2
 
 3. Rostral tubuli: present (0), absent (1)
 > Friedman (2007), character 136.
+>
+> - Zjy Onychodont: 0
 
 4. Rostral organ pores : absent (0), present (1). 
 > Cloutier (1991a), Character 145; Friedman (2007), Character 145.
