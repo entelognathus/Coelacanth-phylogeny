@@ -1345,39 +1345,39 @@
 309. Pineal opening perforation in dermal skull roof: present (0), absent (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 128 in 'early gnathostome phylogeny dataset'.
 
-310. Dermal plate associated with pineal eminence or foramen /  contributes to orbital margin plate bordered laterally by skull roofing bones ,
+310. Dermal plate associated with pineal eminence or foramen: contributes to orbital margin plate (0), bordered laterally by skull roofing bones (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 132 in 'early gnathostome phylogeny dataset'.
 
-311. Broad supraorbital vaults : absent (0), present (1).
+311. Broad supraorbital vaults: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 133 in 'early gnathostome phylogeny dataset'.
 
-312. Median commisure between supraorbital sensory lines : absent (0), present (1).
+312. Median commissure between supraorbital sensory lines: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character XX in 'early gnathostome phylogeny dataset'. **median transverse canal?**
 
 313. Dermal cranial joint at level of sphenoid-otic junction : absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 109 in 'early gnathostome phylogeny dataset'.
 
-314. Otic canal extends through postparietals : absent (0), present (1).
+314. Otic canal extends through postparietals: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 180 in 'early gnathostome phylogeny dataset'.
 
-315. Number of bones of skull roof lateral to postparietals /  two one more than two,
+315. Number of bones of skull roof lateral to postparietals: two (0), one (1), more than two (2)
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 149 in 'early gnathostome phylogeny dataset'.
 
-316. Suture between paired skull roofing bones (centrals of placoderms postparietals of osteichthyans) /  straight sinusoidal,
+316. Suture between paired skull roofing bones (centrals of placoderms, postparietals of osteichthyans): straight (0), sinusoidal (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
