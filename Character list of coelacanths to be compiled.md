@@ -1115,13 +1115,12 @@
 264. Scale ornament: longitudinal ridges and tubercules (0), only longitudinal ridges (1), only tubercules (2).
 > Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 106; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 45.
 
-
-> - Clement *et al.* (in review): "Forey (1998, char. 106)12 defined two character-states to take into account the condition of scale ornament: ridges or tubercles (0) and rugose (1). Since most of the disparity among coelacanths comes from the presence or absence of ridges and tubercles, we used three character-states to describe these conditions. Only three taxa were coded as having rugose ornament (i.e., Mawsonia, Axelrodichthys, and Guizhoucoelacanthus) by Toriño *et al.* (2021, char. 106)14. Mondéjar-Fernàndez *et al.* (2021, table 1)113 summarized the type of ornament on the exposed area of the external surface of the scales for numerous coelacanth species."
+> - Clement *et al.* (in review): "Forey (1998, char. 106) defined two character-states to take into account the condition of scale ornament: ridges or tubercles (0) and rugose (1). Since most of the disparity among coelacanths comes from the presence or absence of ridges and tubercles, we used three character-states to describe these conditions. Only three taxa were coded as having rugose ornament (i.e., *Mawsonia*, *Axelrodichthys*, and *Guizhoucoelacanthus*) by Toriño *et al.* (2021, char. 106). Mondéjar-Fernàndez *et al.* (2021, table 1) summarized the type of ornament on the exposed area of the external surface of the scales for numerous coelacanth species."
 
 265. Scale inner surface: without bumps (0), with bumps (1). 
 > Clement *et al.* (in review), Character 265.
 
-> - Clement *et al.* (in review): "Cloutier (1996, fig. 17D)61 and Mondéjar-Fernàndez *et al.* (2021, fig. 2)113 figured and described the presence of small circular bumps on the inner surface of the scales of Miguashaia bureaui."
+> - Clement *et al.* (in review): "Cloutier (1996, fig. 17D) and Mondéjar-Fernàndez *et al.* (2021, fig. 2) figured and described the presence of small circular bumps on the inner surface of the scales of *Miguashaia bureaui*."
 
 266. Lateral line pores per scale: single (0), multiple (1)
 > Cloutier (1991a), Cloutier (1991b), Character 2; Forey (1991), Character 55, polarity; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 105.
@@ -1134,14 +1133,13 @@
 268. Lung: not ossified (0), ossified (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 107; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 46.
 
-
-> - Clement *et al.* (in review): "Forey (1998, char. 107)12 referred to the condition of the swimbladder rather than the condition of the lung (Cavin *et al.*, 2019, char. 46)100. Brito *et al.* (2010)114 and Cupello *et al.* (2017)115 investigated the structure identified as the calcified lungs in actinistians and more specifically that of Axelrodichthys. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of Latimeria also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)116."
-
+> - Clement *et al.* (in review): "Forey (1998, char. 107) referred to the condition of the swimbladder rather than the condition of the lung (Cavin *et al.*, 2019, char. 46). Brito *et al.* (2010) and Cupello *et al.* (2017) investigated the structure identified as the calcified lungs in actinistians and more specifically that of Axelrodichthys. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of Latimeria also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)."
 
 ## Characters added from Lu et al. (2016) and Clement et al. (2018)
 
 **(Find which characters overlapp the above. Mark them.)**
-
+**抓紧找出下面与上面重复的特征，将其标注出来。然后合并两个矩阵**
+**sarcopterygian phylogeny datase也是从Lu et al. 2016. 两边可以相互补充。**
 269. Tessellate prismatic calcified cartilage: absent (0), present (1).
 > Lu *et al.* (2016), character 1; Clement et al. (2018), character 1.
 
