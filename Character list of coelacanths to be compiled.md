@@ -1145,42 +1145,62 @@
 269. Tessellate prismatic calcified cartilage: absent (0), present (1).
 > Lu *et al.* (2016), character 1; Clement et al. (2018), character 1.
 
-> - Look at 'early gnathostome phylogeny' for details of this character background.
+> - Character 1 in 'early gnathostome phylogeny dataset'.
 
 270. Prismatic calcified cartilage: single layered (0), multi-layered (1).
 > Lu *et al.* (2016), character 2; Clement et al. (2018), character 2.
 
+> - Character 2 in 'early gnathostome phylogeny dataset'.
 
 271.  Perichondral bone: present (0), absent (1).
 > Lu *et al.* (2016), character 3; Clement et al. (2018), character 3.
 
+> - Character 4 in 'early gnathostome phylogeny dataset'.
 
 272. Extensive endochondral ossification: absent (0), present (1).
 > Lu *et al.* (2016), character 4; Clement et al. (2018), character 4.
 
+> - Character 5 in 'early gnathostome phylogeny dataset'.
+
 273. Enamel(oid) present on dermal bones and scales: absent (0), present (1).
 > Lu *et al.* (2016), character 5; Clement et al. (2018), character 5.
+
+> - Character 13 in 'early gnathostome phylogeny dataset'.
 
 274. Enamel /  'single-layered' 'multi-layered',
 > Lu *et al.* (2016), character 6; Clement et al. (2018), character 6.
 
+> - Character 14 in 'early gnathostome phylogeny dataset'.
+
 275. Enamel layers /  'applied directly to one another (ganoine)' separated by layers of dentine,
 > Lu *et al.* (2016), character 7; Clement et al. (2018), character 7.
+
+> - Character 15 in 'early gnathostome phylogeny dataset'.
 
 276.  Pore canal network (sensu Zhu et al. 2010): absent (0), present (1).
 > Lu *et al.* (2016), character 8; Clement et al. (2018), character 8.
 
+> - Character 19 in 'early gnathostome phylogeny dataset'.
+
 277. Dentinous tissue: absent (0), present (1).
 > Lu *et al.* (2016), character 9; Clement et al. (2018), character 9.
 
+> - Character 10 in 'early gnathostome phylogeny dataset'.
+
 278.  Dentine kind /  mesodentine semidentine orthodentine,
 > Lu *et al.* (2016), character 10; Clement et al. (2018), character 10.
+
+> - Character 11 in 'early gnathostome phylogeny dataset'.
 		
 279. Bone cell lacunae in body scale bases : present (0), absent (1).
 > Lu *et al.* (2016), character 11; Clement et al. (2018), character 11.
 
+> - Character 25 in 'early gnathostome phylogeny dataset'.
+
 280. Main dentinous tissue forming fin spine /  osteodentine orthodentine,
 > Lu *et al.* (2016), character 12; Clement et al. (2018), character 12
+
+> - Character 26 in 'early gnathostome phylogeny dataset'.
 
 281. Longitudinal scale alignment in fin webs : present (0), absent (1).
 > Lu *et al.* (2016), character 13; Clement et al. (2018), character 13.
