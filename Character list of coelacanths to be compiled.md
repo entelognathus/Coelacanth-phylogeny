@@ -2359,6 +2359,9 @@
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 512. Urohyal shape /  absent vertical plate,
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 513. Maxilla (in taxa with marginal jaw bones): present (0), absent (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
