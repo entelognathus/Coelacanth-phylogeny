@@ -1080,7 +1080,7 @@
 256. Lepidotrichial segments: without interlocking flanges (0), with interlocking flanges (1). 
 > Friedman (2007), Character 187.
 
-> - Clement *et al.* (in review): "The interlocking articulation pattern of lepidotrichial segments has been originally described for Miguashaia bureaui by Cloutier (1996, fig. 16)61."
+> - Clement *et al.* (in review): "The interlocking articulation pattern of lepidotrichial segments has been originally described for *Miguashaia bureaui* by Cloutier (1996, fig. 16)61."
 
 257. Vertebrae, alignment of: linear above abdominal cavity (0), strongly arched above abdominal cavity (1)
 > Clement *et al.* (in review), Character 257.
@@ -1202,147 +1202,147 @@
 
 > - Character 26 in 'early gnathostome phylogeny dataset'.
 
-281. Longitudinal scale alignment in fin webs : present (0), absent (1).
+281. Longitudinal scale alignment in fin webs: present (0), absent (1).
 > Lu *et al.* (2016), character 13; Clement et al. (2018), character 13.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 27 in 'early gnathostome phylogeny dataset'.
 
 282. Differentiated lepidotrichia: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 28 in 'early gnathostome phylogeny dataset'.
 
-283. Body scale growth pattern /  'comprising single odontode unit/generation ("monodontode")' 'comprising a complex of multipe odontode generations/units ("polyodontode")',
+283. Body scale growth pattern: comprising single odontode unit/generation ("monodontode") (0), comprising a complex of multipe odontode generations/units ("polyodontode")(1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 34 in 'early gnathostome phylogeny dataset'.
 
 284. Body scale growth concentric: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 35 in 'early gnathostome phylogeny dataset'.
 
-285. Generations of odontodes /  buried areally growing  resorbed,
+285. Generations of odontodes: buried (0), areally growing (1), resorbed (2)
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 21 in 'early gnathostome phylogeny dataset' in part.
 
 286. Body scales with peg-and-socket articulation: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 36 in 'early gnathostome phylogeny dataset'.
 
-287. Scale peg /  broad narrow,
+287. Scale peg: broad (0), narrow (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 37 in 'early gnathostome phylogeny dataset' (reverse).
 
 288. Anterodorsal process on scale : absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 49 in 'early gnathostome phylogeny dataset'.
 
-289. Body scale profile /  'distinct crown and base demarcated by a constriction ("neck") ' flattened,
+289. Body scale profile: distinct crown and base demarcated by a constriction ("neck") (0), flattened (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 38 in 'early gnathostome phylogeny dataset'.
 
-290. Profile of scales with constriction between crown and base /  neck similar in width to crown 'neck greatly constricted, resulting in anvil-like shape',
+290. Profile of scales with constriction between crown and base: neck similar in width to crown (0), neck greatly constricted, resulting in anvil-like shape (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 42 in 'early gnathostome phylogeny dataset'.
 
-291. Body scales with bulging base : absent (0), present (1).
+291. Body scales with bulging base: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 39 in 'early gnathostome phylogeny dataset'.
 
-292. Body scales with flattened base : present (0), absent (1).
+292. Body scales with flattened base: present (0), absent (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 40 in 'early gnathostome phylogeny dataset'.
 
-293. Basal pore in scales : absent (0), present (1).
+293. Basal pore in scales: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 43 in 'early gnathostome phylogeny dataset'.
 
-294. Flank scale alignment /  vertical rows oblique rows or hexagonal rhombic packing disorganised,
+294. Flank scale alignment: vertical rows (0), oblique rows or hexagonal rhombic packing (1), disorganised (2).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 33 in 'early gnathostome phylogeny dataset'.
 
 295. Scute-like ridge scales (basal fulcra): absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 32 in 'early gnathostome phylogeny dataset'.
 
-296. Sensory line canal /  perforates scales passes between scales 'C-shaped scales',
+296. Sensory line canal: perforates scales (0), passes between scales (1), C-shaped scales (2).
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character XX in 'early gnathostome phylogeny dataset'. **check**
+
+297. Dermal ornamentation：smooth (0), parallel, vermiform ridges (1), concentric ridges (2), tuberculate (3).
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character 54 in 'early gnathostome phylogeny dataset'.
+
+298. Sensory line network: preserved as open grooves (sulci) in dermal bones (0), sensory lines pass through canals in dermal bones (open as pores)(1).
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character 55 in 'early gnathostome phylogeny dataset'.
+
+299. Sensory canals/grooves: contained within the thickness of dermal bones (0), contained in prominent ridges on visceral surface of bone (1).
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character 56 in 'early gnathostome phylogeny dataset'.
+
+300. Jugal portion of infraorbital canal joins supramaxillary canal: present (0), absent (1).
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character 181 in 'early gnathostome phylogeny dataset'.
+
+301. Dermal skull roof: includes large dermal plates (0), consists of undifferentiated plates or tesserae (1).
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character 57 in 'early gnathostome phylogeny dataset'.
+
+302. Anterior pit line of dermal skull roof: absent (0), present (1).
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character 159 in 'early gnathostome phylogeny dataset'.
+
+303. Tessera morphology: large interlocking polygonal plates (0), microsquamose, not larger than body squamation (1).
+> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+
+> - Character 58 in 'early gnathostome phylogeny dataset'.
+
+304. Cranial spines: absent (0), present, multicuspid (1), present, monocuspid (2).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-297. Dermal ornamentation /  smooth 'parallel, vermiform ridges' concentric ridges tuberculate,
+305. Extent of dermatocranial cover: complete (0), incomplete (limited to skull roof)(1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 59 in 'early gnathostome phylogeny dataset'. **check character definition**
 
-298. Sensory line network /  'preserved as open grooves (sulci) in dermal bones ' 'sensory lines pass through canals in dermal bones (open as pores)',
+306. Openings for endolymphatic ducts in dermal skull roof: present (0), absent (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
-299. Sensory canals/grooves/  contained within the thickness of dermal bones contained in prominent ridges on visceral surface of bone,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
-
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
-300. Jugal portion of infraorbital canal joins supramaxillary canal : present (0), absent (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
-
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
-301. Dermal skull roof /  includes large dermal plates consists of undifferentiated plates or tesserae,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
-
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
-302. Anterior pit line of dermal skull roof : absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
-
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
-303. Tessera morphology /  large interlocking polygonal plates 'microsquamose, not larger than body squamation',
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
-
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
-304. Cranial spines /  absent 'present, multicuspid' 'present, monocuspid',
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
-
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
-305. Extent of dermatocranial cover /  complete 'incomplete (limited to skull roof)',
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
-
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
-306. Openings for endolymphatic ducts in dermal skull roof : present (0), absent (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
-
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 199 in 'early gnathostome phylogeny dataset'.
 
 307. Endolymphatic ducts with oblique course through dermal skull bones : absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 201 in 'early gnathostome phylogeny dataset'.
 
-308. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate) /  within median bone 'on bones flanking the median bone (e.g. paranuchals)',
+308. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): within median bone (0), on bones flanking the median bone (e.g. paranuchals)(1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 202 in 'early gnathostome phylogeny dataset'.
 
-309. Pineal opening perforation in dermal skull roof : present (0), absent (1).
+309. Pineal opening perforation in dermal skull roof: present (0), absent (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -1437,7 +1437,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-328. Sensory line scales/plates on head/  unspecialized apposed growth paralleling canal 'semicylindrical C-shaped ring scales',
+328. Sensory line scales/plates on head/  unspecialized apposed growth paralleling canal 'semicylindrical  ring scales',
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -2308,10 +2308,10 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-502. Epichordal lepidotrichia in caudal fin : absent (0), present (1).
+502. Epichordal lepidotrichia in caudal fin: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 29 in 'early gnathostome phylogeny dataset'.
 
 503. Enamel and pore canals /  enamel absent from inner surface of pores enamel lines portions of pore canal,
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
@@ -2476,7 +2476,7 @@
 535. Barbed lepidotrichial segments : absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 30 in 'early gnathostome phylogeny dataset'.
 
 536. Relative position of jugular groove/canal and hyomandibular articulation ' /  hyomandibula dorsal  hmd ventral  hmd straddles,
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
