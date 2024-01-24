@@ -1147,31 +1147,43 @@
 
 > - Look at 'early gnathostome phylogeny' for details of this character background.
 
-270. Prismatic calcified cartilage: single layered (0), 'multi-layered' (1).
->
+270. Prismatic calcified cartilage: single layered (0), multi-layered (1).
+> Lu *et al.* (2016), character 2; Clement et al. (2018), character 2.
+
 
 271.  Perichondral bone: present (0), absent (1).
->
+> Lu *et al.* (2016), character 3; Clement et al. (2018), character 3.
+
 
 272. Extensive endochondral ossification: absent (0), present (1).
+> Lu *et al.* (2016), character 4; Clement et al. (2018), character 4.
 
 273. Enamel(oid) present on dermal bones and scales: absent (0), present (1).
+> Lu *et al.* (2016), character 5; Clement et al. (2018), character 5.
 
 274. Enamel /  'single-layered' 'multi-layered',
+> Lu *et al.* (2016), character 6; Clement et al. (2018), character 6.
 
 275. Enamel layers /  'applied directly to one another (ganoine)' separated by layers of dentine,
+> Lu *et al.* (2016), character 7; Clement et al. (2018), character 7.
 
 276.  Pore canal network (sensu Zhu et al. 2010): absent (0), present (1).
+> Lu *et al.* (2016), character 8; Clement et al. (2018), character 8.
 
 277. Dentinous tissue: absent (0), present (1).
+> Lu *et al.* (2016), character 9; Clement et al. (2018), character 9.
 
 278.  Dentine kind /  mesodentine semidentine orthodentine,
+> Lu *et al.* (2016), character 10; Clement et al. (2018), character 10.
 		
 279. Bone cell lacunae in body scale bases : present (0), absent (1).
+> Lu *et al.* (2016), character 11; Clement et al. (2018), character 11.
 
 280. Main dentinous tissue forming fin spine /  osteodentine orthodentine,
+> Lu *et al.* (2016), character 12; Clement et al. (2018), character 12
 
 281. Longitudinal scale alignment in fin webs : present (0), absent (1).
+> Lu *et al.* (2016), character 13; Clement et al. (2018), character 13.
 
 282. Differentiated lepidotrichia: absent (0), present (1).
 
