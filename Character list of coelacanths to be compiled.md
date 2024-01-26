@@ -1817,7 +1817,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-404. The main trunk of facial nerve (N. VII)/  elongate and passes anterolaterally through orbital floor  'stout, divides within otic capsule at the level of the transverse otic wall',
+404. The main trunk of facial nerve (N. VII): elongate and passes anterolaterally through orbital floor (0), stout, divides within otic capsule at the level of the transverse otic wall (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -1832,7 +1832,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-407. Relationship of cranial endocavity to basisphenoid /  endocavity occupies full depth of sphenoid enodcavity dorsally restricted,
+407. Relationship of cranial endocavity to basisphenoid: endocavity occupies full depth of sphenoid enodcavity (0), dorsally restricted (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
