@@ -2650,6 +2650,48 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
+# charaters 601-640 are continuous characters from Clement et al. in review. A total of 88 landmarks are used to define 59 linear measurements to evaluate 40 continuous (morphometric) variables.#
+601. Total length (Body size): [landmak 1, landmark 2]
+602. Standard length: [1, 8]
+603. Skull length / total body length: [1, 3] / [1, 2]
+604. Skull height / skull length (HL/HD): [19, 55] / [1, 3]
+605. Ethmoid shield length / otico-occipital shield length: [1, 17] / [18, 19]
+606. Ethmoid shield width / ethmoid shield length: [78, 79] / [1, 17]
+607. Otico-occipital shield width / otico-occipital shield length: [80, 81] / [18, 19]
+608. Orbit diameter / ethmoid shield length: [12, 13] / [1, 17]
+609. Posteriormost preparietal length / parietal length: [15, 16] / [16, 17]
+610. Parietal length / postparietal length: [16, 17] / [18, 19]
+611. Postparietal width / postparietal length: [64, 65] / [18, 19]
+612. Lateral extrascapular width / median extrascapular width: [69, 70] / [67, 68]
+613. Median extrascapular width / median extrascapular length: [67, 68] / [19, 66]
+614. Lateral extrascapular width / lateral extrascapular length: [69, 70] / [71, 72]
+615. Preorbital length / postorbital length: [1, 12] / [13, 14]
+616. Lacrimojugal height (at mid-length) / lacrimojugal length: [82, 83] / [20, 21]
+617. Postorbital height / postorbital length: [22, 23] / [24, 25]
+618. Squamosal height / squamosal length: [28, 29] / [26, 27]
+619. Preoperculum height / preoperculum length: [32, 33] / [30, 31]
+620. Operculum height / operculum length: [35, 36] / [34, 3]
+621. Suboperculum height / suboperculum length: [62, 63] / [76, 77]
+622. Urohyal shaft length / urohyal posterior branches length: [86, 88] / [87, 88]
+623. Parasphenoid denticulated / Parasphenoid length: [7, 84] / [7, 85]
+624. Splenial length / dentary length: [47, 48] / [41, 53]
+625. Dentary length / lower jaw length: [41, 53] / [41, 42]
+626. Splenial length / lower jaw length: [47, 48] / [41, 42]
+627. Angular length / lower jaw length: [43, 44] / [41, 42]
+628. Dentary height / dentary length: [51, 52] / [41, 53]
+629. Splenial height / splenial length: [49, 50] / [47, 48]
+630. Angular height / angular length: [45, 46] / [43, 44]
+631. Cleithrum height / extracleithrum height: [37, 38] / [39, 40]
+632. Pectoral fin height / body height: [9, 58] / [54, 58]
+633. Pectoral fin length / pelvic fin length: [56, 73] / [74, 75]
+634. Position 1st dorsal fin / body length: [1, 4] / [1, 2]
+635. D1 plate height / D1 plate length: [61, 57] / [59, 60]
+636. Position 2nd dorsal fin / body length: [1, 5] / [1, 2]
+637. Position of pelvic fin / body length: [1, 10] / [1, 2]
+638. Position of anal fin / body length: [1, 11] / [1, 2]
+639. Caudal fin length / pre-caudal length: [6, 2] / [1, 6]
+640. Supplementary lobe length / caudal fin length: [8, 2] / [6, 2]
+
 
 1 Renesto, S. & Stockar, R. First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Rivista Italiana di Paleontologia e Stratigrafia 124, 639-653, doi:10.13130/2039-4942/10771 (2018).
 
