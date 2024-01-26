@@ -1135,6 +1135,49 @@
 
 > - Clement *et al.* (in review): "Forey (1998, char. 107) referred to the condition of the swimbladder rather than the condition of the lung (Cavin *et al.*, 2019, char. 46). Brito *et al.* (2010) and Cupello *et al.* (2017) investigated the structure identified as the calcified lungs in actinistians and more specifically that of Axelrodichthys. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of Latimeria also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)."
 
+# charaters 269-281 are meristic characters.#
+269. Number of premaxillae.
+> [Ca4 in part, Cb4 in part, Fb4 in part, C4 in part, F&C4 in part, Y4 in part, G4 in part, W4 in part, W&W4 in part, Da4 in part, Z4 in part, GR4 in part, WE4 in part, CAa4 in part, C&G4 in part, A&S4 in part, G&C4 in part, Db4 in part, CAb4 in part, R&S4 in part, CAc4 in part, CAd4 in part, T4 in part]Clement *et al.* (in review), merestic character 1.
+
+270. Number of extrascapulars.
+>  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (in review), merestic character 2.
+
+271. Number of supraorbitals.
+> [Fa14 in part, Fb9 in part, C9 in part, F&C9 in part, Y9 in part, G9 in part, W9 in part, W&W9 in part, Da9 in part, Z9 in part, GR9 in part, WE9 in part, CAa9 in part, C&G9 in part, A&S9 in part, G&C9 in part, Db9 in part, CAb9 in part, R&S9 in part, CAc6 in part, Cad6 in part, T9 in part]Clement *et al.* (in review), merestic character 3.
+
+272. Number of preparietals per row.
+>  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (in review), merestic character 4.
+
+273. Number of anterior coronoids.
+> [Fb55, C55, F&C55 modified, Y55, G55, W55, W&W55, Da55 modified, Z55 modified, GR55 modified, WE55 modified, CAa55, C&G55 modified, A&S55 modified, G&C55 modified, Db55 modified, CAb55 modified, R&S55 modified, T17 modified]Clement *et al.* (in review), merestic character 5.
+
+274. Number of neural arches.
+> Clement *et al.* (in review), merestic character 6.
+
+275. Number of pectoral fin lepidotrichia.
+> [Cb70 in part]Clement *et al.* (in review), merestic character 7.
+
+276. Number of pelvic fin lepidotrichia.
+> Clement *et al.* (in review), merestic character 8.
+
+277. Number of D1 fin lepidotrichia.
+> [Ca44 in part, Cb44 in part, Fb96 in part, C96 in part, F&C96 in part, Y96 in part, G96 in part, W96 in part, W&W96 in part, Da96 in part, Z96 in part, GR96 in part, WE96 in part, CAa96 in part, C&G96 in part, A&S96 in part, G&C96 in part, Db96 in part, CAb96 in part, R&S96 in part, CAc42, Cad42, T96 in part]Clement *et al.* (in review), merestic character 9.
+
+278. Number of D2 fin lepidotrichia.
+> [Cb74 in part]Clement *et al.* (in review), merestic character 10.
+
+279. Number of anal fin lepidotrichia.
+> Clement *et al.* (in review), merestic character 11.
+
+280. Number of lepidotrichia in epichordal lobe of caudal fin.
+> Clement *et al.* (in review), merestic character 12.
+
+281. Number of triphycercal fin rays.
+> Clement *et al.* (in review), merestic character 13.
+
+282. Number of scale rows from D1 to lateral line.
+> Clement *et al.* (in review), merestic character 14.
+
 ## Characters added from Lu et al. (2016) and Clement et al. (2018)
 
 **(Find which characters overlapp the above. Mark them.)**
