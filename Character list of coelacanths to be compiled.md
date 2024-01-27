@@ -2,6 +2,8 @@
 ## Characters 1-268 are from Clement et al. (in review). 269-+++ are newly added (Lu et al., 2016, Clement et al. 2018). (To be edited)
 > Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201).
 
+> Multistate characters that formed clear morphoclines (characters 1, 2, 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, and 258) were treated as ordered; others were treated as unordered. (from Clement *et al*. in review, Bayesian tip-dated inference)
+
 > Ca, Cloutier (1991a),
 > Cb, Cloutier (1991b),
 > Fa, Forey (1991),
