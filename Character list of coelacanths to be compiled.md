@@ -34,13 +34,13 @@
 ## Skeletal tissues
 
 
-1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
+1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2). (ordered)
 > Forey (1998), character 2; Friedman & Coates (2006),  character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
 
 > - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin et al. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline."
 > - Zjy Onychodont: ?
 
-2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
+2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2). (ordered)
 > Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part.
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline."
@@ -61,7 +61,7 @@
 
 > - Clement *et al.* (in review): "Character 5 is linked to character 4."
 
-6. Posterior openings of rostral organ: widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2).
+6. Posterior openings of rostral organ: widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2). (ordered)
 > Forey (1991), Character 35.
 
 > - Burrow *et al.* (in review): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
@@ -71,7 +71,7 @@
 
 > - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
 
-8. Premaxillae: fragmented (0), paired (1), fused (2).
+8. Premaxillae: fragmented (0), paired (1), fused (2). (ordered)
 > Cloutier (1991a), Cloutier (1991b), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 4.
 
 > - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
@@ -81,7 +81,7 @@
 
 > - Clement *et al.* (in review): "Forey (1998, char. 5) coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998) when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our character 10."
 
-10. Dorsal lamina of premaxilla, completeness of: complete (0), invaginated (1), reduced (2).
+10. Dorsal lamina of premaxilla, completeness of: complete (0), invaginated (1), reduced (2). (ordered)
 > Forey (1991), character 10.
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline. Character 10 is linked with character 9."
@@ -104,12 +104,12 @@
 
 > - Clement *et al.* (in review): "Lu & Zhu (2009, char. 3) coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including *Diplocercides*. The condition of *Diplocercides* was coded as unknown, and solely *Psarolepis* was coded as having this condition."
 
-15. Parietal shield, profile of: convex (0), flat (1), concave (2). 
+15. Parietal shield, profile of: convex (0), flat (1), concave (2). (ordered)
 > Cavin et al. (2019), Cavin et al. (2020), Character 52. 
 
 > - Clement *et al.* (in review): "Fragoso et al. (2018, p. 12) noticed a difference of profile for the parietal shield (their "frontoparietal shield") in terms of its curvature among species of *Axelrodichthys*. Cavin et al. (2020, char. 52) define a character as the dorsal outline of the ethmoid portion in lateral view. Two character-states were used by Cavin et al. (2020, char. 52): straight or convex (0) and concave (1). We divide the conditions into three character-states that form a morphocline."
 
-16. Preparietal, size of: parietal longer than posterior preparietal (0), parietal equal in length to posterior preparietal (1), parietal shorter than posterior preparietal (2). 
+16. Preparietal, size of: parietal longer than posterior preparietal (0), parietal equal in length to posterior preparietal (1), parietal shorter than posterior preparietal (2). (ordered) 
 > Cloutier (1991a), Cloutier (1991b), Character 12, in part; Forey (1991), Character 12, in part; Forey (1998), Clément (2005), rephrased; Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 2, rephrased.
 
 > - Clement *et al.* (in review): "Forey (1998, char. 7) coded for the presence of one pair (0) or two pairs (1) of parietals; however, in his matrix (and that of subsequent analyses by most authors they used the coding of one pair (1) or two pairs (2) omitting a coding of "0". In addition, Forey (1998, char. 8) coded for the relative size of the anterior and posterior parietals. Cloutier (1991a, char. 10) named the pair(s) of medial bones anterior to the parietals as the preparietals. Herein, we define the character-states in terms of the length of the posterior preparietals and parietals rather than the size. The three character-states form a morphocline relative to the size proportion between the parietal and preparietal. Morphometric character 9 provides the ratio of the median length of the posteriormost preparietal divided by the median parietal length; a ratio close to a value of one is considered as a condition where the parietal is equal in length to the posteriormost preparietal. In our analysis, the number of preparietals per row is taken into account in our meristic matrix."
@@ -138,7 +138,7 @@
 22. Supratemporal: present (0), absent (1)
 > Cloutier (1991a), Cloutier (1991b), Character 18.
 
-23. Posterior margin of tabulars: anterior to posterior margin of postparietals (0), level with posterior margin of postparietals (1), extending beyond posterior margin of postparietals (2). 
+23. Posterior margin of tabulars: anterior to posterior margin of postparietals (0), level with posterior margin of postparietals (1), extending beyond posterior margin of postparietals (2). (ordered)
 > Cloutier (1991b), Character 56; Lu & Zhu (2009), Character 9.
 
 > - Clement *et al.* (in review): "The three character-states for a morphocline."
@@ -151,7 +151,7 @@
 25. Otic canal: running through skull roof (0), following edge of skull roof (1)
 > Clement *et al.* (in review), Character 25.
 
-26. Otic canal, trajectory of: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2).    
+26. Otic canal, trajectory of: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2). (ordered)    
 > Cloutier (1991a), Cloutier (1991b), Character 20; Lu & Zhu (2009), Character 30, in part.
 
 > - Clement *et al.* (in review): " Cloutier (1991a, char. 20)95 defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20)95. The three character-states form a morphocline."
