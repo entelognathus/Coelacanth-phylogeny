@@ -1167,6 +1167,8 @@ The list of 14 meristic characters provides the reference to character numbers u
 273. Number of anterior coronoids.
 > [Fb55, C55, F&C55 modified, Y55, G55, W55, W&W55, Da55 modified, Z55 modified, GR55 modified, WE55 modified, CAa55, C&G55 modified, A&S55 modified, G&C55 modified, Db55 modified, CAb55 modified, R&S55 modified, T17 modified]Clement *et al.* (in review), merestic character 5.
 
+> - Zhu et al. (2012): Character 55, Number of coronoids at anterior end of jaw: zero (0), one (1), two (2), three (3), four (4).
+
 274. Number of neural arches.
 > Clement *et al.* (in review), merestic character 6.
 
