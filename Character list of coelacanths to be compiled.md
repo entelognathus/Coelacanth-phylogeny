@@ -1156,8 +1156,13 @@ The list of 14 meristic characters provides the reference to character numbers u
 271. Number of supraorbitals.
 > [Fa14 in part, Fb9 in part, C9 in part, F&C9 in part, Y9 in part, G9 in part, W9 in part, W&W9 in part, Da9 in part, Z9 in part, GR9 in part, WE9 in part, CAa9 in part, C&G9 in part, A&S9 in part, G&C9 in part, Db9 in part, CAb9 in part, R&S9 in part, CAc6 in part, Cad6 in part, T9 in part]Clement *et al.* (in review), merestic character 3.
 
+> - Forey (1998): Number of supraorbitals or tectals; fewer than eight (0), more than 10 (1).
+
 272. Number of preparietals per row.
->  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (in review), merestic character 4.
+>  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part] Clement *et al.* (in review), merestic character 4.
+> - Note typo errors above (copied from merestic character 2).
+
+> - Cloutier (1991a, 1991b): Character 8, Preparietals, number: 0 = more than five preparietals per row; 1= two preparietals per row; 2 = three preparietals per row; 3 = four preparietals per row; 4 = five preparietals per row; 5 = one preparietal per row.
 
 273. Number of anterior coronoids.
 > [Fb55, C55, F&C55 modified, Y55, G55, W55, W&W55, Da55 modified, Z55 modified, GR55 modified, WE55 modified, CAa55, C&G55 modified, A&S55 modified, G&C55 modified, Db55 modified, CAb55 modified, R&S55 modified, T17 modified]Clement *et al.* (in review), merestic character 5.
