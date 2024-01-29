@@ -59,7 +59,7 @@
 5. Anterior opening of rostral organ: within premaxilla (0), within separate rostral ossicles (1). 
 > Cloutier (1991b), Character55; Forey (1991), Character34; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 6.
 
-> - Clement *et al.* (in review): "Character 5 is linked to character 4."
+> - Clement *et al.* (in review): "Character 5 is linked to character 4." 
 
 6. Posterior openings of rostral organ: widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2). (ordered)
 > Forey (1991), Character 35.
@@ -71,10 +71,14 @@
 
 > - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
 
-8. Premaxillae: fragmented (0), paired (1), fused (2). (ordered)
+8. Premaxillae: fragmented (0), paired (1), fused (2).
 > Cloutier (1991a), Cloutier (1991b), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 4.
 
 > - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
+
+> - This character was assigned ‘ordered’ in Clement *et al.* (in review)。
+
+> - Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered.  
 
 9. Dorsal lamina of premaxillae: present (0), absent (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 5.
@@ -612,7 +616,6 @@
 128. Subopercular branch of mandibular sensory canal: absent (0), present (1)
 > Forey (1991), Character 41; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 60; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 33.
 
-
 129. Mandibular canal, trajectory of: not passing through most posterior infradentary (0), passing through most posterior infradentary (1). 
 > Friedman (2007),Character 68; Lu & Zhu (2009), Character 31.
 
@@ -838,7 +841,6 @@
 187. Vestibular fontanelle accessory fenestration of otic capsule, size of: small (0), large (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), homology, Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), homology, Arratia & Schultze (2015), homology, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), homology, Toriño *et al.* (2021), Character 77; Friedman (2007), Character 181; Lu & Zhu (2009), Character 14.
 
-
 > - Clement *et al.* (in review): " Forey (1998, char. 77)12 and subsequent analyses [up to Toriño *et al.* (2021, char. 80)14] coded for the presence or absence of the vestibular fontanelle. Herein, we are redefining the vestibular fontanelle character in terms of its size. We considered a vestibular fontanelle to be large if it occupies 33% or more of the length of the otico-occipital region of the neurocranium; this condition is found in Macropoma precursor (Forey, 1998, fig. 6.10)12. A vestibular fontanelle is considered to be small if it occupies less than 25% of the length of the otico-occipital region of the neurocranium; this condition is seen in Laugia groenlandica (Forey, 1998, fig. 6.7)12 and Sassenia groenlandica (Forey, 1998, fig. 6.8)12."
 
 188. Suprapterygoid process: absent (0), present (1)
@@ -1052,7 +1054,6 @@
 248. Caudal fin: heterocercal (0), diphycercal (1), triphycercal (2)
 > Cloutier (1991a), Cloutier (1991b), Character 51; Forey (1991), Character 45, in part; Forey (1998), in part, Clément (2005), in part, Friedman & Coates (2006), in part, Yabumoto (2008), in part, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), in part, Zhu *et al.* (2012), in part, Graf (2012), in part, Wen *et al.* (2013), in part, Cavin *et al.* (2013), in part, Cavin & Grădinaru (2014), in part, Arratia & Schultze (2015), in part, Gess & Coates (2015), in part, Dutel *et al.* (2015), in part, Cavin *et al.* (2017), in part, Renesto & Stockar (2018), in part, Toriño *et al.* (2021), in part, Character 93.
 
-
 249. Epichordal and hypochordal lobes of caudal fin: convex (0), concave (1), pointed (2). 
 > Clement *et al.* (in review), Character 249.
 
@@ -1140,6 +1141,8 @@
 # charaters 269-281 are meristic characters.#
 269. Number of premaxillae.
 > [Ca4 in part, Cb4 in part, Fb4 in part, C4 in part, F&C4 in part, Y4 in part, G4 in part, W4 in part, W&W4 in part, Da4 in part, Z4 in part, GR4 in part, WE4 in part, CAa4 in part, C&G4 in part, A&S4 in part, G&C4 in part, Db4 in part, CAb4 in part, R&S4 in part, CAc4 in part, CAd4 in part, T4 in part]Clement *et al.* (in review), merestic character 1.
+
+> - This character is linked with Character 8. Potentially Redundant.
 
 270. Number of extrascapulars.
 >  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (in review), merestic character 2.
