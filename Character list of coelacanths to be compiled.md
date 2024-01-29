@@ -1142,10 +1142,14 @@
 269. Number of premaxillae.
 > [Ca4 in part, Cb4 in part, Fb4 in part, C4 in part, F&C4 in part, Y4 in part, G4 in part, W4 in part, W&W4 in part, Da4 in part, Z4 in part, GR4 in part, WE4 in part, CAa4 in part, C&G4 in part, A&S4 in part, G&C4 in part, Db4 in part, CAb4 in part, R&S4 in part, CAc4 in part, CAd4 in part, T4 in part]Clement *et al.* (in review), merestic character 1.
 
-> - This character is linked with Character 8. Potentially Redundant.
+> - This character is linked with Character 8 herein. Potentially Redundant.
 
 270. Number of extrascapulars.
 >  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (in review), merestic character 2.
+
+> - Cloutier (1991b): 0 = three extrascapulars; 1 = five extrascapulars; 2 = seven extrascapulars (Forey 1981; his Character 18); 3 = more than seven extrascapulars.
+> - Cloutier (1991b): 0 = three extrascapulars; 1 = five extrascapulars; 2 = seven extrascapulars (Forey 1981; his Character 18); 3 = more than seven extrascapulars; 4 = two extrascapulars; 5 = four extrascapulars.
+> - States 4 and 5 in Cloutier (1991b) are linked to character 52 herein.
 
 271. Number of supraorbitals.
 > [Fa14 in part, Fb9 in part, C9 in part, F&C9 in part, Y9 in part, G9 in part, W9 in part, W&W9 in part, Da9 in part, Z9 in part, GR9 in part, WE9 in part, CAa9 in part, C&G9 in part, A&S9 in part, G&C9 in part, Db9 in part, CAb9 in part, R&S9 in part, CAc6 in part, Cad6 in part, T9 in part]Clement *et al.* (in review), merestic character 3.
