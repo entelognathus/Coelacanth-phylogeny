@@ -915,7 +915,7 @@
 211. Anocleithrum, shape of: ovoid (0), sigmoid (1), forked (2), broad plate like (3), triangular (4). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 89.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 89)12 and subsequent analyses [up to Toriño *et al.* (2021, char. 89)14 used solely two shapes [simple (0) and forked (1)] to describe the disparity of the shape of the anocleithrum. We are defining the plesiomorphic shape as ovoid as could be observed in the outgroup Onychodus jandemarrai (Andrews *et al.*, 2006, figs. 5b, 21c-e)4 and Miguashaia bureaui (Cloutier, 1996, figs. 13A-B, 14C)61. Three apomorphic states are used to cover the disparity of anocleithral shape among coelacanths: sigmoid (1; e.g., Allenypterus montanus, Hadronector donbairdi), forked (2; e.g., Caridosuctor populosum), broad plate-like (3; e.g., Rhabdoderma elegans), and triangular (4; e.g., Coccoderma suevicum)."
+> - Clement *et al.* (in review): "Forey (1998, char. 89) and subsequent analyses [up to Toriño *et al.* (2021, char. 89) used solely two shapes (simple (0) and forked (1)) to describe the disparity of the shape of the anocleithrum. We are defining the plesiomorphic shape as ovoid as could be observed in the outgroup *Onychodus jandemarrai* (Andrews *et al.*, 2006, figs. 5b, 21c-e) and *Miguashaia bureaui* (Cloutier, 1996, figs. 13A-B, 14C). Three apomorphic states are used to cover the disparity of anocleithral shape among coelacanths: sigmoid (1; e.g., *Allenypterus montanus*, *Hadronector donbairdi*), forked (2; e.g., *Caridosuctor populosum*), broad plate-like (3; e.g., *Rhabdoderma elegans*), and triangular (4; e.g., *Coccoderma suevicum*)."
 
 212. Anocleithrum, position of: at dorsal end of cleithrum (0), at midpoint of cleithrum (1)
 > Clement *et al.* (in review), Character 212.
@@ -926,20 +926,21 @@
 214. Dorsal end of cleithrum, shape of: pointed (0), broad and rounded (1)
 > Friedman (2007), Character 107.
 
-215. Cleithrum, articulation of: cleithrum articulates externally with extracleithrum only (0), cleithrum articulates externally with extracleithrum and clavicle (1). Character 215 is linked with character 
+215. Cleithrum, articulation of: cleithrum articulates externally with extracleithrum only (0), cleithrum articulates externally with extracleithrum and clavicle (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 39.
+
+> - Clement *et al.* (in review): "Character 215 is linked with character 216.“
 
 216. Extracleithrum: absent (0), present (1)
 > Cloutier (1991a), Cloutier (1991b), Character 40; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 88.
 
-
 217. Extracleithrum: without anteroventral canal (0), with anteroventral canal (1). Character 217 is linked with character 216.
 > Clement *et al.* (in review), Character 217.
 
-218.Extracleithrum and clavicle, dorsal extent of: extracleithrum extends more dorsally than clavicle (0), extracleithrum and clavicle extend dorsally approximately at the same level (1), clavicle extends more dorsally than the extracleithrum (2).  (ordered)This character is not polarized based on out-group comparison because the out-groups do not have an extracleithrum. However, in basal actinistians both elements extend approximately at the same level (e.g., Miguashaia bureaui) or the clavicle extends slightly more dorsally than the extracleithrum (e.g., Miguashaia grossi). The three character-states form a morphocline. Character 218 is linked with character 216.
+218.Extracleithrum and clavicle, dorsal extent of: extracleithrum extends more dorsally than clavicle (0), extracleithrum and clavicle extend dorsally approximately at the same level (1), clavicle extends more dorsally than the extracleithrum (2).  (ordered)
 > Clement *et al.* (in review), Character 218.
 
-> - Clement *et al.* (in review): "
+> - Clement *et al.* (in review): "This character is not polarized based on out-group comparison because the out-groups do not have an extracleithrum. However, in basal actinistians both elements extend approximately at the same level (e.g., *Miguashaia bureaui*) or the clavicle extends slightly more dorsally than the extracleithrum (e.g., *Miguashaia grossi*). The three character-states form a morphocline. Character 218 is linked with character 216.“
 
 219. Cleithrum and clavicle: not forming a prominent postbranchial lamina (0), forming a prominent postbranchial lamina (1)
 > Clement *et al.* (in review), Character 219.
@@ -953,18 +954,17 @@
 222. Pectoral lepidotrichia: not expanded (0), expanded (1). 
 > Forey (1998), in part, Clément (2005), in part, Friedman & Coates (2006), in part, Yabumoto (2008), in part, Geng *et al.* (2009), in part, Wendruff (2011), in part, Wendruff & Wilson (2012), in part, Dutel *et al.* (2012), in part, Zhu *et al.* (2012), in part, Graf (2012), in part, Wen *et al.* (2013), in part, Cavin *et al.* (2013), in part, Cavin & Grădinaru (2014), in part, Arratia & Schultze (2015), in part, Gess & Coates (2015), in part, Dutel *et al.* (2015), in part, Cavin *et al.* (2017), in part, Renesto & Stockar (2018), in part, Toriño *et al.* (2021), in part, Character 99.
 
-
-> - Clement *et al.* (in review): "Forey (1998, char. 99)12 described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., Laugia, Coccoderma, Holophagus, and Libys) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in Libys and Holophagus, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in Laugia and Coccoderma, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 222 takes into account solely the condition of the pectoral lepidotrichia."
+> - Clement *et al.* (in review): "Forey (1998, char. 99) described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., *Laugia*, *Coccoderma*, *Holophagus*, and *Libys*) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in *Libys* and *Holophagus*, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in *Laugia* and *Coccoderma*, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 222 takes into account solely the condition of the pectoral lepidotrichia."
 
 223. Pelvic lepidotrichia: not expanded (0), expanded (1). 
 > Forey (1998), in part, Clément (2005), in part, Friedman & Coates (2006), in part, Yabumoto (2008), in part, Geng *et al.* (2009), in part, Wendruff (2011), in part, Wendruff & Wilson (2012), in part, Dutel *et al.* (2012), in part, Zhu *et al.* (2012), in part, Graf (2012), in part, Wen *et al.* (2013), in part, Cavin *et al.* (2013), in part, Cavin & Grădinaru (2014), in part, Arratia & Schultze (2015), in part, Gess & Coates (2015), in part, Dutel *et al.* (2015), in part, Cavin *et al.* (2017), in part, Renesto & Stockar (2018), in part, Toriño *et al.* (2021), in part, Character 99.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 99)12 described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., Laugia, Coccoderma, Holophagus, and Libys) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in Libys and Holophagus, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in Laugia and Coccoderma, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 223 takes into account solely the condition of the pelvic lepidotrichia."
+> - Clement *et al.* (in review): "Forey (1998, char. 99) described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., *Laugia*, *Coccoderma*, *Holophagus*, and *Liby*s) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in *Libys* and *Holophagus*, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in *Laugia* and *Coccoderma*, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 223 takes into account solely the condition of the pelvic lepidotrichia."
 
 224. Pelvic fins, position of: anterior to level of D1 (0), between level of D1 and D2 (1), posterior to level of D2 (2). (ordered)
 > Cloutier (1991a), Cloutier (1991b), Character 43 and Character 71;  Forey (1991), Character 51; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 100.
 
-> - Clement *et al.* (in review): "The three character-states form a morphocline. The order of character-states has been changed from the original description of the character (Cloutier, 1991a,b, char. 4395,96; Forey, 1991, char. 5197; Forey, 1998, char. 10012).
+> - Clement *et al.* (in review): "The three character-states form a morphocline. The order of character-states has been changed from the original description of the character (Cloutier, 1991a,b, char. 43; Forey, 1991, char. 51; Forey, 1998, char. 100).
 
 225. Pelvic bones on each side separate (0), fused in midline (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 108.
@@ -972,7 +972,7 @@
 226. Anterior process(es) of pelvic plate: single (0), forked (1). 
 > Clement *et al.* (in review), Character 226.
 
-> - Clement *et al.* (in review): "Schaeffer (1941)111 revised morphology of the pelvic plates in seven coelacanth taxa. The morphology of the pelvic plate was described in terms of three components of the pelvic plates: the anterior division, the posterior division and the medial process. We considered that the "anterior division" is composed between one to three processes: the anteromedial, the anterolateral and the lateral processes. The "posterior division" includes the posterior process; occasionally the lateral process seems to be coalescent with the posterior process. The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes. If a single anterior process is present (e.g., Changxingia, Libys) it is assumed that it corresponds generally to the anteromedial process. The forked condition corresponds to the clear presence of an anterior bifurcation, most likely corresponding to the presence of both the anteromedial and anterolateral processes."
+> - Clement *et al.* (in review): "Schaeffer (1941) revised morphology of the pelvic plates in seven coelacanth taxa. The morphology of the pelvic plate was described in terms of three components of the pelvic plates: the anterior division, the posterior division and the medial process. We considered that the "anterior division" is composed between one to three processes: the anteromedial, the anterolateral and the lateral processes. The "posterior division" includes the posterior process; occasionally the lateral process seems to be coalescent with the posterior process. The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes. If a single anterior process is present (e.g., Changxingia, Libys) it is assumed that it corresponds generally to the anteromedial process. The forked condition corresponds to the clear presence of an anterior bifurcation, most likely corresponding to the presence of both the anteromedial and anterolateral processes."
 
 227. Anterior processes of pelvic plate relative, length of: anteromedial process longer than anterolateral process (0), anteromedial and anterolateral processes approximately the same length (1), anteromedial process shorter than anterolateral process (2). (ordered)
 > Clement *et al.* (in review), Character 227.
@@ -1020,6 +1020,7 @@
 
 239. Anterodorsal process of D2 basal plate: narrow on all the length of the process (0), expanded by a dorsal flange on most of the length of the process (1).
 > Clement *et al.* (in review), Character 239.
+
 > - Clement *et al.* (in review): " Character 239 is linked with character 238."
 
 240. Anterodorsal process of D2 basal plate, relative size of: short and stubbier than the anteroventral process of D2 basal plate (0), similar in length and height to anteroventral process of D2 basal plate (1), longer than anteroventral process of D2 basal plate (2). (ordered) 
@@ -1055,7 +1056,7 @@
 249. Epichordal and hypochordal lobes of caudal fin: convex (0), concave (1), pointed (2). 
 > Clement *et al.* (in review), Character 249.
 
-> - Clement *et al.* (in review): "The convex, concave and pointed conditions only apply to the diphycercal and triphycercal conditions of character 248. The posterior profile of the caudal fin of actinistians varies among taxa. Three character-states are defined based on the curvature provided by the distal extremities of epichordal and hypochordal lepidotrichia of the caudal fin excluding the supplementary lobe. The caudal fin could either be convex (i.e., rounded curvature outward; e.g., Latimeria, Caridosuctor, Diplurus), concave (i.e., rounded curvature inward; e.g., Rebellatrix) or pointed (e.g., Allenypterus, Holopterygius). This character does not apply for actinistians having an heterocercal caudal fin (e.g., Miguashaia, Gavinia). Character 249 is linked to character 248.
+> - Clement *et al.* (in review): "The convex, concave and pointed conditions only apply to the diphycercal and triphycercal conditions of character 248. The posterior profile of the caudal fin of actinistians varies among taxa. Three character-states are defined based on the curvature provided by the distal extremities of epichordal and hypochordal lepidotrichia of the caudal fin excluding the supplementary lobe. The caudal fin could either be convex (i.e., rounded curvature outward; e.g., *Latimeria*, *Caridosuctor*, *Diplurus*), concave (i.e., rounded curvature inward; e.g., *Rebellatrix*) or pointed (e.g., *Allenypterus*, *Holopterygius*). This character does not apply for actinistians having an heterocercal caudal fin (e.g., *Miguashaia*, *Gavinia*). Character 249 is linked to character 248.
 
 250. Caudal lobes: symmetrical (0), asymmetrical (1). 
 > Forey (1991), Character 46; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 97.
@@ -1070,13 +1071,13 @@
 
 > - Clement *et al.* (in review): "Character 252 is linked with the triphycercal condition of Character 248." 
 
-253. Caudal fin lepidotrichia: without denticules (0), with denticules (1)
+253. Caudal fin lepidotrichia: without denticules (0), with denticules (1).
 > Clement *et al.* (in review), Character 253.
 
-254. Caudal fin lepidotrichia: more numerous than radials (0), equal in number with radials (1)
+254. Caudal fin lepidotrichia: more numerous than radials (0), equal in number with radials (1).
 > Cloutier (1991a), Cloutier (1991b), Character 53; Forey (1991), Character 47; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 94.
 
-255. Lepidotrichia: branched (0), unbranched (1)
+255. Lepidotrichia: branched (0), unbranched (1).
 > Cloutier (1991a), Cloutier (1991b), Character 54; Forey (1991), Character 48; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 95.
 
 256. Lepidotrichial segments: without interlocking flanges (0), with interlocking flanges (1). 
@@ -1084,7 +1085,7 @@
 
 > - Clement *et al.* (in review): "The interlocking articulation pattern of lepidotrichial segments has been originally described for *Miguashaia bureaui* by Cloutier (1996, fig. 16)61."
 
-257. Vertebrae, alignment of: linear above abdominal cavity (0), strongly arched above abdominal cavity (1)
+257. Vertebrae, alignment of: linear above abdominal cavity (0), strongly arched above abdominal cavity (1).
 > Clement *et al.* (in review), Character 257.
 
 258. Supraneural: presence of “supraneurals” along most of the abdominal-thoracic region of the axial skeleton (0), presence of “supraneurals” limited to 1-5 vertebrae located anteriorly to the insertion of the epichordal lobe of the caudal fin (1), absence of “supraneurals” anteriorly to the insertion of the epichordal lobe of the caudal fin (2). (ordered)
@@ -1092,7 +1093,7 @@
 
 > - Clement *et al.* (in review): "According to Arratia *et al.* (2001)112, ''supraneurals'' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia *et al.* (2001)112 illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia *et al.*, 2001, fig. 30)112 and Undina penicillata (Arratia *et al.*, 2001, fig. 31)112. They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125)98 considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline."
 
-259. Neural spines: abutting one another (0), not abutting (1)
+259. Neural spines: abutting one another (0), not abutting (1).
 > Clement *et al.* (in review), Character 259.
 
 260. Cervical neural arches, shape of: not expanded (0), expanded (1)
@@ -1101,18 +1102,17 @@
 261. Haemal spines: abutting one another (0), not abutting (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 90.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 90)12 considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in Miguashaia and Diplocercides; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines."
+> - Clement *et al.* (in review): "Forey (1998, char. 90) considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in Miguashaia and Diplocercides; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines."
 
 262. Ossified ribs: absent (0), present (1). 
 > Cloutier (1991b), Character 69; Forey (1991), Character 52; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 92; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 44.
-
 
 > - Clement *et al.* (in review): "Lambers (1992)31 mentioned that the presence of pleural ribs is rare in coelacanths. Since 1992, a few species with anatomical structures identified as ossified ribs are fairly common. Cloutier (1991b, char. 69)96 coded for the presence of pleural ribs, whereas Forey (1991, char. 52)97 coded for the presence of "long, ossified ribs". Lambers (1992, p. 43)31 suggested that this character should be coded as three character-states: absence of ossified ribs (0), presence of small, rudimentary ribs (1; as in Libys and Undina) and large ossified ribs (2; as in Diplurus)."
 
 263. Scale ornament: not differentiated (0), differentiated (1). 
 > Forey (1991), Character 54; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 104; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 44.
 
-> - Clement *et al.* (in review): "Forey (1991, char. 54)97 first defined this character. He mentioned that the plesiomorphic condition corresponds to a scale with a dense covering of uniform tubercles and/or ridges. The apomorphic condition (i.e., differentiated) as originally defined, corresponds to a scale where “the central tubercles are very much enlarged, hollow and surrounded by much smaller tubercles.” Mondéjar-Fernàndez *et al.* (2021)113 reviewed scale ornament for all coelacanth species."
+> - Clement *et al.* (in review): "Forey (1991, char. 54) first defined this character. He mentioned that the plesiomorphic condition corresponds to a scale with a dense covering of uniform tubercles and/or ridges. The apomorphic condition (i.e., differentiated) as originally defined, corresponds to a scale where “the central tubercles are very much enlarged, hollow and surrounded by much smaller tubercles.” Mondéjar-Fernàndez *et al.* (2021) reviewed scale ornament for all coelacanth species."
 
 264. Scale ornament: longitudinal ridges and tubercules (0), only longitudinal ridges (1), only tubercules (2).
 > Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 106; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 45.
