@@ -1167,13 +1167,16 @@ The list of 14 meristic characters provides the reference to character numbers u
 273. Number of anterior coronoids.
 > [Fb55, C55, F&C55 modified, Y55, G55, W55, W&W55, Da55 modified, Z55 modified, GR55 modified, WE55 modified, CAa55, C&G55 modified, A&S55 modified, G&C55 modified, Db55 modified, CAb55 modified, R&S55 modified, T17 modified]Clement *et al.* (in review), merestic character 5.
 
-> - Zhu et al. (2012): Character 55, Number of coronoids at anterior end of jaw: zero (0), one (1), two (2), three (3), four (4).
+> - Friedman and Coates (2006), Zhu et al. (2012): Character 55, Number of coronoids at anterior end of jaw: zero (0), one (1), two (2), three (3), four (4).
+> - Forey (1998), Clément (2005), Character 55 is a different character. Meckelian bone or cartilage exposed anteriorly (0), not exposed (1).
 
 274. Number of neural arches.
 > Clement *et al.* (in review), merestic character 6.
 
 275. Number of pectoral fin lepidotrichia.
-> [Cb70 in part]Clement *et al.* (in review), merestic character 7.
+> Cloutier (1991b), character 70, in part; Clement *et al.* (in review), merestic character 7.
+
+> - Cloutier (1991b), character 70. Number of lepidotrichia on pectoral fin: 0 = fifty or more lepidotrichia; 1 = between 30 and 49 lepidotrichia; 2 = between 20 and 29 lepidotrichia; 3 = between ten and 19 lepidotrichia; 4 = less than ten lepidotrichia.
 
 276. Number of pelvic fin lepidotrichia.
 > Clement *et al.* (in review), merestic character 8.
@@ -1182,7 +1185,9 @@ The list of 14 meristic characters provides the reference to character numbers u
 > [Ca44 in part, Cb44 in part, Fb96 in part, C96 in part, F&C96 in part, Y96 in part, G96 in part, W96 in part, W&W96 in part, Da96 in part, Z96 in part, GR96 in part, WE96 in part, CAa96 in part, C&G96 in part, A&S96 in part, G&C96 in part, Db96 in part, CAb96 in part, R&S96 in part, CAc42, Cad42, T96 in part]Clement *et al.* (in review), merestic character 9.
 
 278. Number of D2 fin lepidotrichia.
-> [Cb74 in part]Clement *et al.* (in review), merestic character 10.
+> Cloutier (1991b), character 74, in part; Clement *et al.* (in review), merestic character 10.
+
+> - Cloutier (1991b), character 74. Number of lepidotrichia on second dorsal fin: 0 = more than 25 lepidotrichia; 1 = between 20 and 25 lepidotrichia; 2 = between 15 and 19 lepidotrichia; 3 = between ten and 14 lepidotrichia; 4 = less than ten lepidotrichia.
 
 279. Number of anal fin lepidotrichia.
 > Clement *et al.* (in review), merestic character 11.
