@@ -1519,19 +1519,19 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > - Character 220 in 'early gnathostome phylogeny dataset'.
 
 330. Branchiostegal plate series along ventral margin of lower jaw: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 63; Clement et al. (2018), character 63.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 221 in 'early gnathostome phylogeny dataset'.
 
 331. Branchiostegal ossifications /  'plate-like' 'narrow and ribbon-like' filamentous,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 64; Clement et al. (2018), character 64.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 222 in 'early gnathostome phylogeny dataset'.
 
 332. Branchiostegal ossifications: ornamented (0), unornamented (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 65; Clement et al. (2018), character 65.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 223 in 'early gnathostome phylogeny dataset'.
 
 333. Imbricated branchiostegal ossifications: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
