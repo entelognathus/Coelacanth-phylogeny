@@ -1539,19 +1539,19 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > - Character 223 in 'early gnathostome phylogeny dataset'.
 
 333. Imbricated branchiostegal ossifications: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 66; Clement et al. (2018), character 66.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 224 in 'early gnathostome phylogeny dataset'.
 
 334. Median gular: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 67; Clement et al. (2018), character 67.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 235 in 'early gnathostome phylogeny dataset'.
 
 335. Lateral gular: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 68; Clement et al. (2018), character 68.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 233 in 'early gnathostome phylogeny dataset'.
 
 336. Opercular (submarginal) ossification: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
