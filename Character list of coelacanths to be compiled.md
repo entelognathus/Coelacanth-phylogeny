@@ -1416,7 +1416,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 207 in 'early gnathostome phylogeny dataset'.
 
-322. Cheek plate /  undivided 'divided (i.e., squamosal and preopercular)',
+322. Cheek plate: undivided (0), divided (i.e., squamosal and preopercular)(1).
 > Lu *et al.* (2016), character 54; Clement et al. (2018), character 54.
 
 > - Character 214 in 'early gnathostome phylogeny dataset'.
@@ -1441,19 +1441,18 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 219 in 'early gnathostome phylogeny dataset'.
 
-327. Extent of maxilla along cheek /  to posterior margin of cheek cheek bones exclude maxilla from posterior margin of cheek,
+327. Extent of maxilla along cheek: to posterior margin of cheek (0), cheek bones exclude maxilla from posterior margin of cheek (1).
 > Lu *et al.* (2016), character 59; Clement et al. (2018), character 59.
 
-> - Character 267 in 'early gnathostome phylogeny dataset'.
-> - Contribution_by_maxilla_to_posterior_margin_of_cheek /  present absent in 'early gnathostome phylogeny dataset'.
+> - Character 267 in 'early gnathostome phylogeny dataset', 'contribution by maxilla to posterior margin of cheek: (0) present; (1) absent.'
 
 328. Dermal neck joint: overlap (0), ginglymoid (1).
 > Lu *et al.* (2016), character 60; Clement et al. (2018), character 60.
 
-> - Character 554 in 'early gnathostome phylogeny dataset'.
-> - 'Dermal neck-joint between paired main-lateral-line-bearing bones of skull and shoulder girdle' /  absent present in 'early gnathostome phylogeny dataset'.
+> - Characters 554-559 in 'early gnathostome phylogeny dataset'.
+> - The character herein is a simplifed treatment. The 'overlap' equals with the 'sliding joint'. 
 
-329. Sensory line scales/plates on head/  unspecialized apposed growth paralleling canal 'semicylindrical  ring scales',
+329. Sensory line scales or plates on head: unspecialized (0), apposed growth (1), paralleling canal (2), semicylindrical C-shaped ring scales (3).
 > Lu *et al.* (2016), character 61; Clement et al. (2018), character 61.
 
 > - Character 53 in 'early gnathostome phylogeny dataset'.
@@ -1468,7 +1467,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 221 in 'early gnathostome phylogeny dataset'.
 
-331. Branchiostegal ossifications /  'plate-like' 'narrow and ribbon-like' filamentous,
+331. Branchiostegal ossifications: plate-like (0), narrow and ribbon-like (1), filamentous (2).
 > Lu *et al.* (2016), character 64; Clement et al. (2018), character 64.
 
 > - Character 222 in 'early gnathostome phylogeny dataset'.
