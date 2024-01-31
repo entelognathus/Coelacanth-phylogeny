@@ -1372,8 +1372,9 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 313. Median commissure between supraorbital sensory lines: absent (0), present (1).
 > Lu *et al.* (2016), character 45; Clement et al. (2018), character 45.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
-> - The supraorbital sensory canal has a union between the orbits and is a characteristic of Placodem, e.g. absent in *Brindabellaspis* (King *et al.* 2018)but present in *Lunaspis* and *Macropetalichthys* (Valen, 1963).
+> - Character 175? in 'early gnathostome phylogeny dataset' (posteriorly converging supraorbital canals).
+> - Check the definition of this character. The ethmoid commissure should be another character.
+> - The supraorbital sensory canals have a union between the orbits and are a characteristic of placoderms, e.g. absent in *Brindabellaspis* (King *et al*., 2018) but present in *Lunaspis* and *Macropetalichthys* (Van Valen, 1963).
 
 314. Dermal cranial joint at level of sphenoid-otic junction: absent (0), present (1).
 > Lu *et al.* (2016), character 46; Clement et al. (2018), character 46.
