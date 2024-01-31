@@ -1322,8 +1322,10 @@
 
 304. Cranial spines: absent (0), present, multicuspid (1), present, monocuspid (2).
 > Lu *et al.* (2016), character 36; Clement et al. (2018), character 36.
+> Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Brazeau *et al*. (2023), Character 211.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 702 in 'early gnathostome phylogeny dataset'.
+> - This character can subdivided into two characters: absent vs present; multicupid vs monocuspid. The three character states don't form a clear morphocline. 
 
 305. Extent of dermatocranial cover: complete (0), incomplete (scale-free and elsewhere)(1).
 > Lu *et al.* (2016), character 37; Clement et al. (2018), character 37.
