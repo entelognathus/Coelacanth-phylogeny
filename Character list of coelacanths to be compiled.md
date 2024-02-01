@@ -1495,17 +1495,17 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 336. Opercular (submarginal) ossification: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 226 in 'early gnathostome phylogeny dataset'.
 
-337. Shape of opercular (submarginal) ossification /  broad plate that tapers towards its proximal end 'narrow, rod-shaped',
+337. Shape of opercular (submarginal) ossification: broad plate that tapers towards its proximal end (0), narrow, rod-shaped (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 227 in 'early gnathostome phylogeny dataset'.
 
-338. Size of lateral gular plates /  extending most of length of the lower jaw 'restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals)',
+338. Size of lateral gular plates: extending most of length of the lower jaw (0), restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals)(1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 234 in 'early gnathostome phylogeny dataset'.
 
 339. Gill arches /  largely restricted to region under braincase extend far posterior to braincase
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
