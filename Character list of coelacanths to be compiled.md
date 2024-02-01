@@ -1533,273 +1533,273 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 344. Oral dermal tubercles borne on jaw cartilages or at margins of the mouth: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 77; Clement et al. (2018), character 77.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 345. Oral dermal tubercles patterned in organised rows (teeth): absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 78; Clement et al. (2018), character 78.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 237 in 'early gnathostome phylogeny dataset'.
 
 346. Enamel(oid) on teeth: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 79; Clement et al. (2018), character 79.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 16 in 'early gnathostome phylogeny dataset'.
 
 347. Cap of enameloid restricted to upper part of teeth (acrodin): absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 80; Clement et al. (2018), character 80.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 17 in 'early gnathostome phylogeny dataset'.
 
 348. Tooth whorls: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 81; Clement et al. (2018), character 81.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 307 in 'early gnathostome phylogeny dataset'.
 
 349. Bases of tooth whorls /  'single, continuous plate' some or all whorls consist of separate tooth units,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 82; Clement et al. (2018), character 82.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 309 in 'early gnathostome phylogeny dataset'.
 
 350. Distribution of tooth whorls /  entire length of tooth row restricted to symphysial region,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 83; Clement et al. (2018), character 83.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 351. Distribution of tooth whorls /  upper and lower jaws lower jaws only upper jaws only,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 84; Clement et al. (2018), character 84.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 308 in 'early gnathostome phylogeny dataset'.
 
 352. Teeth ankylosed to dermal bones: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 85; Clement et al. (2018), character 85.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 238 in 'early gnathostome phylogeny dataset'.
 
 353. Plicidentine: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 86; Clement et al. (2018), character 86.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 354. Dermal jaw plates on biting surface of jaw cartilages: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 87; Clement et al. (2018), character 87.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 239 in 'early gnathostome phylogeny dataset'.
 
 355. Maxillary and dentary marginal bones of mouth: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 88; Clement et al. (2018), character 88.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 356. Premaxilla: extends under orbit (0), restricted anterior to orbit (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 89; Clement et al. (2018), character 89.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 263 in 'early gnathostome phylogeny dataset'.
 
 357. Maxilla shape /  'splint-shaped' 'cleaver-shaped',
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 90; Clement et al. (2018), character 90.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 358. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate': absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 91; Clement et al. (2018), character 91.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 270 in 'early gnathostome phylogeny dataset'.
 
 359. Strong posterior flexion of dentary symphysis: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 92; Clement et al. (2018), character 92.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 360. Extent of infradentaries /  along much of ventral margin of dentary restricted to posterior half of dentary,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 93; Clement et al. (2018), character 93.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 292 in 'early gnathostome phylogeny dataset'.
 
 361. Coronoid fangs: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 94; Clement et al. (2018), character 94.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 362. Position of upper mandibular arch cartilage (and associated cheek plate where present)/  entirely suborbital with a postorbital extension,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 95; Clement et al. (2018), character 95.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 335 in 'early gnathostome phylogeny dataset'.
 
 363. Position of mandibular arch articulations /  terminal subterminal,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 96; Clement et al. (2018), character 96.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 364. Autopalatine and quadrate /  comineralized separate mineralizations,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 97; Clement et al. (2018), character 97.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 332 in 'early gnathostome phylogeny dataset'.
 
 365. Large otic process of the palatoquadrate: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 98; Clement et al. (2018), character 98.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 325 in 'early gnathostome phylogeny dataset'.
 
 366. Insertion area for jaw adductor muscles on palatoquadrate /  ventral or medial lateral,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 99; Clement et al. (2018), character 99.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 327 in 'early gnathostome phylogeny dataset'.
 
 367. Palatoquadrate relationship to dermal cheek bones /  articulation narrow and restricted broad articulation,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 100; Clement et al. (2018), character 100.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 322 in 'early gnathostome phylogeny dataset'.
 
 368. Palatoquadrate fused with neurocranium: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 101; Clement et al. (2018), character 101.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 333 in 'early gnathostome phylogeny dataset'.
 
 369. Oblique ridge or groove along medial face of palatoquadrate: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 102; Clement et al. (2018), character 102.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 328 in 'early gnathostome phylogeny dataset'.
 
 370. Fenestration of palatoquadrate at basipterygoid articulation: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 103; Clement et al. (2018), character 103.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 329 in 'early gnathostome phylogeny dataset'.
 
 371. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 104; Clement et al. (2018), character 104.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 330 in 'early gnathostome phylogeny dataset'.
 
 372. Pronounced dorsal process on Meckelian bone or cartilage: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 105; Clement et al. (2018), character 105.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 338 in 'early gnathostome phylogeny dataset'.
 
 373. Number of coronoids /  four or more three or fewer,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 106; Clement et al. (2018), character 106.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 287 in 'early gnathostome phylogeny dataset'.
 
 374. Preglenoid process: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 107; Clement et al. (2018), character 107.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 340 in 'early gnathostome phylogeny dataset'.
 
 375. Jaw articulation located on rearmost extremity of mandible: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 108; Clement et al. (2018), character 108.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 342 in 'early gnathostome phylogeny dataset'.
 
 376. Precerebral fontanelle: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 109; Clement et al. (2018), character 109.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 380 in 'early gnathostome phylogeny dataset'.
 
 377. Median dermal bone of palate (parasphenoid): absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 110; Clement et al. (2018), character 110.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 275 in 'early gnathostome phylogeny dataset'.
 
 378. Parasphenoid: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 111; Clement et al. (2018), character 111.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 > - This character partly overlaps character 246 herein.
 > 
 379. Multifid anterior margin of parasphenoid denticle plate: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 112; Clement et al. (2018), character 112.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 380. Enlarged ascending processes of parasphenoid: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 113; Clement et al. (2018), character 113.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 381. Buccohypophysial canal in parasphenoid /  single paired,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 114; Clement et al. (2018), character 114.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 276 in 'early gnathostome phylogeny dataset'.
 
 382. Nasal opening(s)/  'dorsal, placed between orbits' ventral and anterior to orbit,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 115; Clement et al. (2018), character 115.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 372 in 'early gnathostome phylogeny dataset'.
 
 383. External opening of posterior nostril and orbit /  'separated by dermal bone(s)' confluent,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 116; Clement et al. (2018), character 116.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 384. Olfactory tracts /  'short, with olfactory capsules situated close to telencephalon cavity' 'elongate and tubular (much longer than wide)',
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 117; Clement et al. (2018), character 117.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 381 in 'early gnathostome phylogeny dataset'.
 
 385. Prominent pre-orbital rostral expansion of the neurocranium: present (0), absent (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 118; Clement et al. (2018), character 118.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 383 in 'early gnathostome phylogeny dataset'.
 
 386. Pronounced sub-ethmoidal keel: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 119; Clement et al. (2018), character 119.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 397 in 'early gnathostome phylogeny dataset'.
 
 387. Internasal vacuities: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 120; Clement et al. (2018), character 120.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 386 in 'early gnathostome phylogeny dataset'.
 
 388. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 121; Clement et al. (2018), character 121.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 368 in 'early gnathostome phylogeny dataset'.
 
 389. Position of myodome for superior oblique eye muscles /  posterior and dorsal to foramen for nerve II anterior and dorsal to foramen,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 122; Clement et al. (2018), character 122.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 400 in 'early gnathostome phylogeny dataset'.
 
 390. Endoskeletal intracranial joint: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 123; Clement et al. (2018), character 123.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 391. Spiracular groove on basicranial surface: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 124; Clement et al. (2018), character 124.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 424 in 'early gnathostome phylogeny dataset'.
 
 392. Transverse otic process: present (0), absent (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 125; Clement et al. (2018), character 125.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 494 in 'early gnathostome phylogeny dataset'.
 
 393. Jugular canal /  'long (invested in otic region along length of skeletal labyrinth)' 'short (restricted to short portion of region of skeletal labyrinth, or anterior to it)' 'absent (jugular vein uninvested in otic region)',
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 126; Clement et al. (2018), character 126.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 419 in 'early gnathostome phylogeny dataset'.
 
 394. Spiracular groove on lateral commissure: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 127; Clement et al. (2018), character 127.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 425 in 'early gnathostome phylogeny dataset'.
 
 395. Subpituitary fenestra: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 128; Clement et al. (2018), character 128.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 426 in 'early gnathostome phylogeny dataset'.
 
 396. Supraorbital shelf broad with convex lateral margin: absent (0), present (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 129; Clement et al. (2018), character 129.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 427 in 'early gnathostome phylogeny dataset'.
 
 397. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: present (0), absent (1).
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+> Lu *et al.* (2016), character 130; Clement et al. (2018), character 130.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
