@@ -1507,35 +1507,35 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 234 in 'early gnathostome phylogeny dataset'.
 
-339. Gill arches /  largely restricted to region under braincase extend far posterior to braincase
+339. Gill arches: largely restricted to region under braincase (0), extend far posterior to braincase (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 359 in 'early gnathostome phylogeny dataset'.
 
 340. Basihyal: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 353 in 'early gnathostome phylogeny dataset'.
 
 341. Interhyal: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 344 in 'early gnathostome phylogeny dataset'.
 
 342. Hypohyal: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 345 in 'early gnathostome phylogeny dataset'.
 
 343. Endoskeletal urohyal: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 351 in 'early gnathostome phylogeny dataset'.
 
 344. Oral dermal tubercles borne on jaw cartilages or at margins of the mouth: absent (0), present (1).
 > Lu *et al.* (2016), character 77; Clement et al. (2018), character 77.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 236 in 'early gnathostome phylogeny dataset'.
 
 345. Oral dermal tubercles patterned in organised rows (teeth): absent (0), present (1).
 > Lu *et al.* (2016), character 78; Clement et al. (2018), character 78.
@@ -1557,17 +1557,17 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 307 in 'early gnathostome phylogeny dataset'.
 
-349. Bases of tooth whorls /  'single, continuous plate' some or all whorls consist of separate tooth units,
+349. Bases of tooth whorls: single, continuous plate (0), some or all whorls consist of separate tooth units (1).
 > Lu *et al.* (2016), character 82; Clement et al. (2018), character 82.
 
 > - Character 309 in 'early gnathostome phylogeny dataset'.
 
-350. Distribution of tooth whorls /  entire length of tooth row restricted to symphysial region,
+350. Distribution of tooth whorls: entire length of tooth row (0), restricted to symphysial region (1).
 > Lu *et al.* (2016), character 83; Clement et al. (2018), character 83.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 311 (reversed) in 'early gnathostome phylogeny dataset'.
 
-351. Distribution of tooth whorls /  upper and lower jaws lower jaws only upper jaws only,
+351. Distribution of tooth whorls: upper and lower jaws (0), lower jaws only (1),  upper jaws only (2).
 > Lu *et al.* (2016), character 84; Clement et al. (2018), character 84.
 
 > - Character 308 in 'early gnathostome phylogeny dataset'.
@@ -1580,7 +1580,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 353. Plicidentine: absent (0), present (1).
 > Lu *et al.* (2016), character 86; Clement et al. (2018), character 86.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 12 in 'early gnathostome phylogeny dataset'.
 
 354. Dermal jaw plates on biting surface of jaw cartilages: absent (0), present (1).
 > Lu *et al.* (2016), character 87; Clement et al. (2018), character 87.
@@ -1590,17 +1590,18 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 355. Maxillary and dentary marginal bones of mouth: absent (0), present (1).
 > Lu *et al.* (2016), character 88; Clement et al. (2018), character 88.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - This character can be subdivided. 
+> - Characters 258, 259, 268 in 'early gnathostome phylogeny dataset'. 
 
 356. Premaxilla: extends under orbit (0), restricted anterior to orbit (1).
 > Lu *et al.* (2016), character 89; Clement et al. (2018), character 89.
 
 > - Character 263 in 'early gnathostome phylogeny dataset'.
 
-357. Maxilla shape /  'splint-shaped' 'cleaver-shaped',
+357. Maxilla shape: splint-shaped (0), cleaver-shaped (1).
 > Lu *et al.* (2016), character 90; Clement et al. (2018), character 90.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 266 in 'early gnathostome phylogeny dataset'.
 
 358. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate': absent (0), present (1).
 > Lu *et al.* (2016), character 91; Clement et al. (2018), character 91.
