@@ -2248,12 +2248,12 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 486. Prepectoral fin spines: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 671 in 'early gnathostome phylogeny dataset'.
 
 487. Fin spines with ridges: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 677 in 'early gnathostome phylogeny dataset'.
 
 488. Fin spines with nodes: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
@@ -2288,132 +2288,132 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 494. Number of dorsal fins, if present: one (0), two (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 646 in 'early gnathostome phylogeny dataset'.
 
-495. Posterior dorsal fin shape /  'base approximately as broad as tall, not broader than all of other median fins' 'base much longer than the height of the fin, substantially longer than any of the other dorsal fins',
+495. Posterior dorsal fin shape: base approximately as broad as tall, not broader than all of other median fins (0), base much longer than the height of the fin, substantially longer than any of the other dorsal fins (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 647 in 'early gnathostome phylogeny dataset'.
 
 496. Basal plate in dorsal fin: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 648 in 'early gnathostome phylogeny dataset'.
 
 497. Branching radial structure articulating with dorsal fin basal plate: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 649 in 'early gnathostome phylogeny dataset'.
 
 498. Anal fin: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 653 in 'early gnathostome phylogeny dataset'.
 
 499. Basal plate in anal fin: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 654 in 'early gnathostome phylogeny dataset'.
 
-500. Caudal radials /  extend beyond level of body wall and deep into hypochordal lobe radials restricted to axial lobe,
+500. Caudal radials: extend beyond level of body wall and deep into hypochordal lobe (0), radials restricted to axial lobe (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 656 in 'early gnathostome phylogeny dataset'.
 
 501. Supraneurals in axial lobe of caudal fin: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 658 in 'early gnathostome phylogeny dataset'.
 
 502. Epichordal lepidotrichia in caudal fin: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character 29 in 'early gnathostome phylogeny dataset'.
 
-503. Enamel and pore canals /  enamel absent from inner surface of pores enamel lines portions of pore canal,
+503. Enamel and pore canals: enamel absent from inner surface of pores (0), enamel lines portions of pore canal (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 22 in 'early gnathostome phylogeny dataset'.
 
-504. Canal-bearing bone of skull roof extends far past posterior margin of parietals/  no yes,
-> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+504. Canal-bearing bone of skull roof extends far past posterior margin of parietals: no (0), yes (1).
+> Lu *et al.* (2016), character 156; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 156 in 'early gnathostome phylogeny dataset'.
 
 505. Pineal eminence (in taxa lacking pineal foramen): absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 129 in 'early gnathostome phylogeny dataset'.
 
-506. Position of anterior pitline /  on postparietal  on parietal
+506. Position of anterior pit-line: on postparietal (0), on parietal (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 160 in 'early gnathostome phylogeny dataset'. The formulation in EGD is better.
 
 507. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 131 in 'early gnathostome phylogeny dataset'.
 
 508. Median skull roof bone between postparietals: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 79 in 'early gnathostome phylogeny dataset'. The different formulation in EGD.
 
-509. Westoll lines: absent (0), present (1).
+509. Westoll-lines: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 157 in 'early gnathostome phylogeny dataset'.
 
 510. Preoperculosubmandibular: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 217 in 'early gnathostome phylogeny dataset'.
 
-511. Hyomandibula /  imperforate perforate,
+511. Hyomandibula: imperforate (0), perforate (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 343 in 'early gnathostome phylogeny dataset'.
 
-512. Urohyal shape /  absent vertical plate,
+512. Urohyal shape: absent (0), vertical plate (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 352 in 'early gnathostome phylogeny dataset'.
 
 513. Maxilla (in taxa with marginal jaw bones): present (0), absent (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 259 in 'early gnathostome phylogeny dataset'.
 
-514. Length of dentary /  constitutes a majority of jaw length half the length of jaw or less,
+514. Length of dentary: constitutes a majority of jaw length (0),  half the length of jaw or less (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 316 in 'early gnathostome phylogeny dataset'.
 
 515. Labial pit: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 317 in 'early gnathostome phylogeny dataset'.
 
 516. Prearticular symphysis: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 318 in 'early gnathostome phylogeny dataset'.
 
-517. Mandibular sensory canal /  extends through infradentaries extends through infradentaries and dentary,
+517. Mandibular sensory canal: extends through infradentaries (0), extends through infradentaries and dentary (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 303 in 'early gnathostome phylogeny dataset'.
 
 518. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 295 in 'early gnathostome phylogeny dataset'.
 
-519. Posterior coronoid /  similar to anterior coronoids forms expanded coronoid process,
+519. Posterior coronoid: similar to anterior coronoids (0), forms expanded coronoid process (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 290 in 'early gnathostome phylogeny dataset'.
 
 520. Retroarticular process: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
