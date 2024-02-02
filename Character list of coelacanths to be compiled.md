@@ -1612,7 +1612,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 359. Strong posterior flexion of dentary symphysis: absent (0), present (1).
 > Lu *et al.* (2016), character 92; Clement et al. (2018), character 92.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Not in 'early gnathostome phylogeny dataset'. **To be included after check in EGD.**
 
 360. Extent of infradentaries /  along much of ventral margin of dentary restricted to posterior half of dentary,
 > Lu *et al.* (2016), character 93; Clement et al. (2018), character 93.
@@ -1632,7 +1632,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 363. Position of mandibular arch articulations /  terminal subterminal,
 > Lu *et al.* (2016), character 96; Clement et al. (2018), character 96.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 321 in 'early gnathostome phylogeny dataset'.
 
 364. Autopalatine and quadrate /  comineralized separate mineralizations,
 > Lu *et al.* (2016), character 97; Clement et al. (2018), character 97.
@@ -1707,7 +1707,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 378. Parasphenoid: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
 > Lu *et al.* (2016), character 111; Clement et al. (2018), character 111.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 278 in 'early gnathostome phylogeny dataset'. **more states here. To be modified in EGD**
 > - This character partly overlaps character 246 herein.
 > 
 379. Multifid anterior margin of parasphenoid denticle plate: absent (0), present (1).
@@ -1720,22 +1720,22 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-381. Buccohypophysial canal in parasphenoid /  single paired,
+381. Buccohypophysial canal in parasphenoid: single (0), paired (1).
 > Lu *et al.* (2016), character 114; Clement et al. (2018), character 114.
 
 > - Character 276 in 'early gnathostome phylogeny dataset'.
 
-382. Nasal opening(s)/  'dorsal, placed between orbits' ventral and anterior to orbit,
+382. Nasal opening(s): dorsal, placed between orbits (0), ventral and anterior to orbit (1).
 > Lu *et al.* (2016), character 115; Clement et al. (2018), character 115.
 
 > - Character 372 in 'early gnathostome phylogeny dataset'.
 
-383. External opening of posterior nostril and orbit /  'separated by dermal bone(s)' confluent,
+383. External opening of posterior nostril and orbit: separated by dermal bone(s)(0), confluent (1).
 > Lu *et al.* (2016), character 116; Clement et al. (2018), character 116.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 110 in 'early gnathostome phylogeny dataset'.
 
-384. Olfactory tracts /  'short, with olfactory capsules situated close to telencephalon cavity' 'elongate and tubular (much longer than wide)',
+384. Olfactory tracts: short, with olfactory capsules situated close to telencephalon cavity (0), elongate and tubular (much longer than wide)(1).
 > Lu *et al.* (2016), character 117; Clement et al. (2018), character 117.
 
 > - Character 381 in 'early gnathostome phylogeny dataset'.
@@ -1768,7 +1768,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 390. Endoskeletal intracranial joint: absent (0), present (1).
 > Lu *et al.* (2016), character 123; Clement et al. (2018), character 123.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 367 in 'early gnathostome phylogeny dataset'.
 
 391. Spiracular groove on basicranial surface: absent (0), present (1).
 > Lu *et al.* (2016), character 124; Clement et al. (2018), character 124.
@@ -1780,7 +1780,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 494 in 'early gnathostome phylogeny dataset'.
 
-393. Jugular canal /  'long (invested in otic region along length of skeletal labyrinth)' 'short (restricted to short portion of region of skeletal labyrinth, or anterior to it)' 'absent (jugular vein uninvested in otic region)',
+393. Jugular canal: long (invested in otic region along length of skeletal labyrinth)(0), short (restricted to short portion of region of skeletal labyrinth, or anterior to it)(1), absent (jugular vein uninvested in otic region)(2).
 > Lu *et al.* (2016), character 126; Clement et al. (2018), character 126.
 
 > - Character 419 in 'early gnathostome phylogeny dataset'.
@@ -1803,12 +1803,12 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 397. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: present (0), absent (1).
 > Lu *et al.* (2016), character 130; Clement et al. (2018), character 130.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 401 in 'early gnathostome phylogeny dataset'.
 
 398. Eyestalk attachment area: absent (0), present (1).
 > Lu *et al.* (2016), character 131; Clement et al. (2018), character 131.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 398 in 'early gnathostome phylogeny dataset'.
 
 399. Postorbital process: absent (0), present (1).
 > Lu *et al.* (2016), character 132; Clement et al. (2018), character 132.
@@ -1833,7 +1833,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 403. Narrow interorbital septum, with outer walls in contact along midline forming a single sheet: absent (0), present (1).
 > Lu *et al.* (2016), character 136; Clement et al. (2018), character 136.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 389 in 'early gnathostome phylogeny dataset'.
 
 404. The main trunk of facial nerve (N. VII): elongate and passes anterolaterally through orbital floor (0), stout, divides within otic capsule at the level of the transverse otic wall (1).
 > Lu *et al.* (2016), character 137; Clement et al. (2018), character 137.
@@ -1868,9 +1868,9 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 410. Canal for lateral dorsal aorta within basicranial cartilage: absent (0), present (1).
 > Lu *et al.* (2016), character 143; Clement et al. (2018), character 143.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 492 in 'early gnathostome phylogeny dataset', polarity.
 
-411. Entrance of internal carotids /  through separate openings flanking the hypophyseal opening or recess through a common opening at the central midline of the basicranium,
+411. Entrance of internal carotids: through separate openings flanking the hypophyseal opening or recess (0), through a common opening at the central midline of the basicranium (1).
 > Lu *et al.* (2016), character 144; Clement et al. (2018), character 144.
 
 > - Character 411 in 'early gnathostome phylogeny dataset'.
@@ -1890,7 +1890,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 323 in 'early gnathostome phylogeny dataset'.
 
-415. Labyrinth cavity /  separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall skeletal capsular wall absent,
+415. Labyrinth cavity: separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall (0), skeletal capsular wall absent (1).
 > Lu *et al.* (2016), character 148; Clement et al. (2018), character 148.
 
 > - Character 453 in 'early gnathostome phylogeny dataset'.
@@ -1955,10 +1955,10 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 497 in 'early gnathostome phylogeny dataset'.
 
-428. Endolymphatic ducts in neurocranium /  posteriodorsally angled tubes tubes oriented vertically through median endolymphatic fossa,
+428. Endolymphatic ducts in neurocranium: posteriodorsally angled tubes tubes (0), oriented vertically through median endolymphatic fossa (1).
 > Lu *et al.* (2016), character 162; Clement et al. (2018), character 162.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 467 in 'early gnathostome phylogeny dataset'.
 
 429. Position of hyomandibula articulation on neurocranium /  'below or anterior to orbit, on ventrolateral angle of braincase' 'on otic capsule, posterior to orbit',
 > Lu *et al.* (2016), character 163; Clement et al. (2018), character 163.
@@ -1970,12 +1970,12 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 445 in 'early gnathostome phylogeny dataset'.
 
-431. Hyoid arch articulation on braincase /  single double,
+431. Hyoid arch articulation on braincase: single (0), double (1).
 > Lu *et al.* (2016), character 165; Clement et al. (2018), character 165.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 444 in 'early gnathostome phylogeny dataset'.
 
-432. Branchial ridges /  present reduced to vagal process 'absent (articulation made with bare cranial wall)',
+432. Branchial ridges: present (0), reduced to vagal process (1), absent (articulation made with bare cranial wall)(1).
 > Lu *et al.* (2016), character 166; Clement et al. (2018), character 166.
 
 > - Character 530 in 'early gnathostome phylogeny dataset'.
@@ -2008,7 +2008,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 438. Occipital arch wedged in between otic capsules: absent (0), present (1).
 > Lu *et al.* (2016), character 172; Clement et al. (2018), character 172.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 543 in 'early gnathostome phylogeny dataset'.
 
 439. Spino-occipital nerve foramina/  'two or more, aligned horizontally' 'one or two, dorsoventrally offset',
 > Lu *et al.* (2016), character 173; Clement et al. (2018), character 173.
@@ -2020,10 +2020,10 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 547 in 'early gnathostome phylogeny dataset'.
 
-441. Parachordal shape /  'forming a broad, flat surface as wide as the otic capsules' mediolaterally constricted relative to the otic capsules,
+441. Parachordal shape: forming a broad, flat surface as wide as the otic capsules (0), mediolaterally constricted relative to the otic capsules (1).
 > Lu *et al.* (2016), character 175; Clement et al. (2018), character 175.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 546 in 'early gnathostome phylogeny dataset'.
 
 442. Stalk-shaped parachordal/occipital region: absent (0), present (1).
 > Lu *et al.* (2016), character 176; Clement et al. (2018), character 176.
@@ -2033,7 +2033,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 443. Paired occipital facets: absent (0), present (1).
 > Lu *et al.* (2016), character 177; Clement et al. (2018), character 177.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 552 in 'early gnathostome phylogeny dataset'.
 
 444. Size of aperture to notochordal canal /  much smaller than foramen magnum 'as large, or larger, than foramen magnum',
 > Lu *et al.* (2016), character 178; Clement et al. (2018), character 178.
@@ -2043,7 +2043,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 445. Canal for median dorsal aorta within basicranium: absent (0), present (1).
 > Lu *et al.* (2016), character 179; Clement et al. (2018), character 179.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 492 (in part) in 'early gnathostome phylogeny dataset'.
 
 446. Hypotic lamina (and dorsally directed glossopharyngeal canal): absent (0), present (1).
 > Lu *et al.* (2016), character 180; Clement et al. (2018), character 180.
@@ -2105,12 +2105,12 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 613 in 'early gnathostome phylogeny dataset'.
 
-458. Ventral margin of separate scapular ossification /  horizontal deeply angled,
+458. Ventral margin of separate scapular ossification: horizontal (0), deeply angled (1).
 > Lu *et al.* (2016), character 192; Clement et al. (2018), character 192.
 
 > - Character 616 in 'early gnathostome phylogeny dataset'.
 
-459. Cross sectional shape of scapular process /  flattened or strongly ovate subcircular,
+459. Cross sectional shape of scapular process: flattened or strongly ovate (0), subcircular (1).
 > Lu *et al.* (2016), character 193; Clement et al. (2018), character 193.
 
 > - Character 617 in 'early gnathostome phylogeny dataset'.
@@ -2150,22 +2150,22 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 627 in 'early gnathostome phylogeny dataset'.
 
-467. Pectoral fin articulation /  monobasal polybasal,
+467. Pectoral fin articulation: monobasal (0), polybasal (1).
 > Lu *et al.* (2016), character 201; Clement et al. (2018), character 201.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 626 (in part) in 'early gnathostome phylogeny dataset'.
 
-468. Number of basals in polybasal pectoral fins /  three or more two,
+468. Number of basals in polybasal pectoral fins: three or more (0), two (1).
 > Lu *et al.* (2016), character 202; Clement et al. (2018), character 202.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 626 (in part) in 'early gnathostome phylogeny dataset'.
 
 469. Branching radials in paired fins: absent (0), present (1).
 > Lu *et al.* (2016), character 203; Clement et al. (2018), character 203.
 
 > - Character 650 in 'early gnathostome phylogeny dataset'.
 
-470. Number of mesomeres in metapterygial axis /  five or fewer seven or more,
+470. Number of mesomeres in metapterygial axis: five or fewer (0), seven or more (1).
 > Lu *et al.* (2016), character 204; Clement et al. (2018), character 204.
 
 > - Character 628 in 'early gnathostome phylogeny dataset'.
@@ -2193,7 +2193,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 475. Pelvic claspers: absent (0), present (1).
 > Lu *et al.* (2016), character 209; Clement et al. (2018), character 209.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Not in 'early gnathostome phylogeny dataset'. **check**
 
 476. Dermal pelvic clasper ossifications: absent (0), present (1).
 > Lu *et al.* (2016), character 210; Clement et al. (2018), character 210.
@@ -2203,49 +2203,49 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 477. Pectoral fins covered in macromeric dermal armour: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 623 in 'early gnathostome phylogeny dataset'.
 
 478. Pectoral fin base has large, hemispherical dermal component: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 625 in 'early gnathostome phylogeny dataset'.
 
 479. Dorsal fin spines: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 665 in 'early gnathostome phylogeny dataset'.
 
 480. Anal fin spine: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 667 in 'early gnathostome phylogeny dataset'.
 
 481. Paired fin spines: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Characters 668-669 in 'early gnathostome phylogeny dataset'.
 
-482. Median fin spine insertion /  'shallow, not greatly deeper than dermal bones/scales' deep,
+482. Median fin spine insertion: shallow, not greatly deeper than dermal bones/scales (0), deep (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 670 in 'early gnathostome phylogeny dataset'.
 
 483. Intermediate fin spines: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 671 in 'early gnathostome phylogeny dataset'.
 
-484. Fin spine cross-section/  Round or horseshoe shaped 'Flat-sided, with rectangular profile',
+484. Fin spine cross-section: Round or horseshoe shaped (0), Flat-sided, with rectangular profile (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 681 in 'early gnathostome phylogeny dataset'.
 
-485. Intermediate spines when present /  one pair  multiple pairs,
+485. Intermediate spines when present: one pair (0), multiple pairs (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 672 in 'early gnathostome phylogeny dataset'.
 
-486. Prepectoral fin spines /  absent  present,
+486. Prepectoral fin spines: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -2258,34 +2258,34 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 488. Fin spines with nodes: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 678 in 'early gnathostome phylogeny dataset'.
 
 489. Fin spines with rows of large retrorse denticles: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 679 in 'early gnathostome phylogeny dataset'.
 
 490. Expanded spine rib on leading edge of spine: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 682 in 'early gnathostome phylogeny dataset'.
 
-491. Spine ridges /  converging at the distal apex of the spine converging on leading edge of spine,
+491. Spine ridges: converging at the distal apex of the spine (0), converging on leading edge of spine (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 683 in 'early gnathostome phylogeny dataset'.
 
 492. Synarcual: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 660 in 'early gnathostome phylogeny dataset'.
 
 493. Series of thoracic supraneurals: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 657 in 'early gnathostome phylogeny dataset'.
 
-494. Number of dorsal fins, if present/  one two,
+494. Number of dorsal fins, if present: one (0), two (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
