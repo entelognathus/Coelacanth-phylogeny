@@ -2418,72 +2418,72 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 520. Retroarticular process: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 319 in 'early gnathostome phylogeny dataset'.
 
 521. Inturned medial process of premaxilla: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 261 in 'early gnathostome phylogeny dataset'.
 
 522. Anteriorly directed adductor fossae between neurocranium and skull roof: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 158 in 'early gnathostome phylogeny dataset'.
 
 523. Vomerine fangs: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 272 in 'early gnathostome phylogeny dataset'.
 
-524. Number of dermopalatines /  multiple one,
+524. Number of dermopalatines: multiple (0), one (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 300 (polarity) in 'early gnathostome phylogeny dataset'.
 
-525. Entopterygoids /  separated contact along midline,
+525. Entopterygoids: separated (0), contact along midline (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 301 in 'early gnathostome phylogeny dataset'.
 
 526. Rostral tubuli: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 24 in 'early gnathostome phylogeny dataset'.
 
-527. Position of anterior nostril /  facial at oral margin,
+527. Position of anterior nostril: facial (0), at oral margin (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 116 in 'early gnathostome phylogeny dataset'.
 
-528. Posterior nostril /  facial at margin of oral cavity palatal,
+528. Posterior nostril: facial (0), at margin of oral cavity (1),  palatal (2).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Characters 111-112 in 'early gnathostome phylogeny dataset'.
 
 529. Three large pores (in addition to nostrils) associated with each side of ethmoid: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 377 in 'early gnathostome phylogeny dataset'.
 
 530. Ventral face of nasal capsule in taxa with mineralized ethmoid /  complete fenestra ventrolateralis entire floor unmineralized,
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 378 in 'early gnathostome phylogeny dataset'.
 
-531. Size of profundus canal in postnasal wall /  small large,
+531. Size of profundus canal in postnasal wall: small (0), large (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 376 in 'early gnathostome phylogeny dataset'.
 
 532. Paired pineal and parapineal tracts: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 403 in 'early gnathostome phylogeny dataset'.
 
-533. Posterior of parasphenoid /  restricted to ethmosphenoid region extends to otic region,
+533. Posterior of parasphenoid: restricted to ethmosphenoid region (0), extends to otic region (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 281 in 'early gnathostome phylogeny dataset'.
 
 534. Endoskeletal spiracular canal /  open spiracular bar complete enclosure in canal,
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
@@ -2571,11 +2571,11 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 551. Parietal portion of skull roof relative to postparietal portion in length /  parietal portion roughly as long as postparietal portion parietal portion much longer postparietal portion parietal portion much shorter than postparietal portion,
-
-5> Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
+Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
-52. Postparietal narrowing posteriorly: absent (0), present (1).
+
+552> Postparietal narrowing posteriorly: absent (0), present (1).
 > Lu *et al.* (2016), character XX; Clement et al. (2018), character XX.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
