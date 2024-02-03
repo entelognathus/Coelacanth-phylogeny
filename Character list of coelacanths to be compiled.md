@@ -2465,7 +2465,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 377 in 'early gnathostome phylogeny dataset'.
 
-530. Ventral face of nasal capsule in taxa with mineralized ethmoid /  complete fenestra ventrolateralis entire floor unmineralized,
+530. Ventral face of nasal capsule in taxa with mineralized ethmoid: complete fenestra ventrolateralis (0), entire floor unmineralized (1).
 > Lu *et al.* (2016), character 264; Clement et al. (2018), character 262.
 
 > - Character 378 in 'early gnathostome phylogeny dataset'.
@@ -2485,7 +2485,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 281 in 'early gnathostome phylogeny dataset'.
 
-534. Endoskeletal spiracular canal /  open spiracular bar complete enclosure in canal,
+534. Endoskeletal spiracular canal: open (0), spiracular bar complete enclosure in canal (1).
 > Lu *et al.* (2016), character 268; Clement et al. (2018), character 266.
 
 > - Character 404 in 'early gnathostome phylogeny dataset'.
@@ -2496,81 +2496,81 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > - Character 30 in 'early gnathostome phylogeny dataset'.
 
 536. Relative position of jugular groove/canal and hyomandibular articulation ' /  hyomandibula dorsal  hmd ventral  hmd straddles,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 268.
+> Clement et al. (2018), character 268.
 
 > - Character 448 in 'early gnathostome phylogeny dataset'.
 
 537. Optic lobes /  narrower than cerebellum same width or wider than cerebellum,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 269.
+> Clement et al. (2018), character 269.
 
 > - Character 390 in 'early gnathostome phylogeny dataset'.
 
-538. Hypophyseal chamber /  projects posteroventrally projects ventrally or anteroventrally,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 270.
+538. Hypophyseal chamber: projects posteroventrally (0), projects ventrally or anteroventrally (1).
+> Clement et al. (2018), character 270.
 
 > - Character 450 in 'early gnathostome phylogeny dataset'.
 
-539. Crus commune of anterior and posterior semicircular canals /  dorsal to endocranial roof ventral to endocranial roof,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 271.
+539. Crus commune of anterior and posterior semicircular canals: dorsal to endocranial roof (0), ventral to endocranial roof (1).
+> Clement et al. (2018), character 271.
 
 > - Character 457 in 'early gnathostome phylogeny dataset'.
 
-540. Horizontal semicircular canal /  obiquely oriented horizontally oriented,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 272.
+540. Horizontal semicircular canal: obliquely oriented (0), horizontally oriented (1).
+> Clement et al. (2018), character 272.
 
-> - Character 456 in 'early gnathostome phylogeny dataset'. "Horizontal semicircular canal in dorsal view/  medial to path of jugular vein dorsal to jugular vein" in'early gnathostome phylogeny dataset'.
+> - Character 456 in 'early gnathostome phylogeny dataset'. "Horizontal semicircular canal in dorsal view: medial to path of jugular vein (0), dorsal to jugular vein (1)" in 'early gnathostome phylogeny dataset'.
 
-541. Supraotic cavity /  absent  present,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 273.
+541. Supraotic cavity: absent (0), present (1).
+> Clement et al. (2018), character 273.
 
 > - Character 463 in 'early gnathostome phylogeny dataset'.
 
 542. Pelvic girdle with substantial dermal component: present (0), absent (1).
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 274.
+> Clement et al. (2018), character 274.
 
 > - Character 637 in 'early gnathostome phylogeny dataset'.
 
 543. Pelvic fin spine: absent (0), present (1).
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 275.
+> Clement et al. (2018), character 275.
 
 > - Character 669 in 'early gnathostome phylogeny dataset'.
 
-544. Pelvic fin /  monobasal polybasal,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 276.
+544. Pelvic fin: monobasal (0), polybasal (1).
+> Clement et al. (2018), character 276.
 
 > - Character 639 in 'early gnathostome phylogeny dataset'.
 
 545. Postparietals/centrals: absent (0), present (1).
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 277.
+> Clement et al. (2018), character 277.
 
 > - Character 137 in 'early gnathostome phylogeny dataset'.
 
-546. Condition of postparietals/centrals/  do not meet in midline meet in midline single midline bone,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 278.
+546. Condition of postparietals/centrals: do not meet in midline (0), meet in midline single midline bone (1).
+> Clement et al. (2018), character 278.
 
 > - Character 138 in 'early gnathostome phylogeny dataset'.
 
 547. Parietals: absent (0), present (1).
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 279.
+> Clement et al. (2018), character 279.
 
 > - Character 134 in 'early gnathostome phylogeny dataset'.
 
-548. Condition of parietals /  do not meet in midline meet in midline,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 280.
+548. Condition of parietals: do not meet in midline (0), meet in midline (1).
+> Clement et al. (2018), character 280.
 
 > - Character 135 in 'early gnathostome phylogeny dataset'.
 
 549. Endoskeletal lamina (postnasal wall) separating posterior nostril and orbit: absent (0), present (1).
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 281.
+> Clement et al. (2018), character 281.
 
 > - Character 374 in 'early gnathostome phylogeny dataset'.
 
-550. Pituitary vein canal /  'discontinuous, enters the cranial cavity' 'discontinuous, enters hypophysial recess' continuous transverse vein,
-> Not in Lu *et al.* (2016); Clement et al. (2018), character 282.
+550. Pituitary vein canal: discontinuous, enters the cranial cavity (0), discontinuous, enters hypophysial recess (1), continuous transverse vein (1).
+> Clement et al. (2018), character 282.
 
-> - Character 439 in 'early gnathostome phylogeny dataset'.
+> - Character 439 in 'early gnathostome phylogeny dataset'. 
 
-551. Parietal portion of skull roof relative to postparietal portion in length /  parietal portion roughly as long as postparietal portion parietal portion much longer postparietal portion parietal portion much shorter than postparietal portion,
+551. Parietal portion of skull roof relative to postparietal portion in length: parietal portion roughly as long as postparietal portion (0), parietal portion much longer postparietal portion (1), parietal portion much shorter than postparietal portion (2).
 > Mondéjar-Fernánde (2020), character 26.
 
 > - Not in 'early gnathostome phylogeny dataset'.
@@ -2580,12 +2580,12 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Not in 'early gnathostome phylogeny dataset'.
 
-553. Length/width index of the postparietal' /  '<150' '150-300' '>300',
+553. Length/width index of the postparietal: <150 (0), 150-300 (1), >300 (2).
 > Mondéjar-Fernánde (2020), character 28.
 
 > - Not in 'early gnathostome phylogeny dataset'.
 
-554. Posterior margin of tabulars /  anterior to posterior margin of postparietals level with posterior margin of postparietals,
+554. Posterior margin of tabulars: anterior to posterior margin of postparietals (0), level with posterior margin of postparietals (1).
 > Mondéjar-Fernánde (2020), character 45.
 
 > - Not in 'early gnathostome phylogeny dataset'.
@@ -2595,17 +2595,17 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 406 in 'early gnathostome phylogeny dataset'.
 
-556. Processus connectens /  'knob-like,not well develped' 'long, well-developed',
+556. Processus connectens: knob-like,not well develped (0), long, well-developed (1).
 > Mondéjar-Fernánde (2020), character 66.
 
 > - Not in 'early gnathostome phylogeny dataset'.
 
-557. Denticulated field of parasphenoid /  without spiracular groove with spiracular groove,
+557. Denticulated field of parasphenoid: without spiracular groove (0), with spiracular groove (1).
 > Mondéjar-Fernánde (2020), character 104.
 
 > - Character 282 in 'early gnathostome phylogeny dataset'.
 
-558. Enlarged anterior tooth on premaxilla /  absent  present,
+558. Enlarged anterior tooth on premaxilla: absent (0),  present (1).
 > Mondéjar-Fernánde (2020), character 121.
 
 > - Character 247 in 'early gnathostome phylogeny dataset'.
@@ -2620,7 +2620,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Not in 'early gnathostome phylogeny dataset'.
 
-561. Hypophysial fossa /  ventrally extended anteroventrally extended.
+561. Hypophysial fossa: ventrally extended (0), anteroventrally extended (1).
 > Mondéjar-Fernánde (2020), character 236.
 
 > - Character 518 in 'early gnathostome phylogeny dataset'.
