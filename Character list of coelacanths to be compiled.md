@@ -875,71 +875,99 @@
 144. Vomers, contact of: not meeting in midline (0), meeting medially (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), modified, Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 81; Friedman (2007), Character 77.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 145. Vomerine fangs: absent (0), present (1)
 > Friedman (2007), Character 78.
+
+> - Character 272 in 'early gnathostome phylogeny dataset'.
 
 146. Parasphenoid, shape of: small lozenge shaped (0), broad splint shaped (1)
 > Lu & Zhu (2009), Character 91.
 
+> - Character 278 in 'early gnathostome phylogeny dataset'. **The states are slightly different.**
+
 147.Parasphenoid, shape of: margin close to parallel or subparallel (0), flared anteriorly (1). 
 > Clement *et al.* (in review), Character 147.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 147 reflects the broadening of the anterior part of the parasphenoid as spatulate lateral expansion."
 
 148. Parasphenoid denticle field: denticule field not expanding anterolaterally (0), denticule field expanding anterolaterally (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 34; Friedman (2007), Character 169, modified.
 
+> - Character 283 in 'early gnathostome phylogeny dataset'. **Check the states.**
 > - Clement *et al.* (in review): "Friedman (2007, char. 169)98 defined a character as the absence or presence of “denticle field of parasphenoid with anteriorly divergent lateral margins.” This character reflects if the denticles covered the anterolateral margins of the parasphenoid that flare anteriorly (character 147)."
 
 149. Parasphenoid denticle field: ending at or anterior to level of foramina for internal carotid arteries (0), extending posterior to internal carotid foramina (1)
 > Clement *et al.* (in review), Character 149.
 
+> - Character 284 in 'early gnathostome phylogeny dataset'.
+
 150. Parasphenoid: without ascending laminae anteriorly (0), with ascending laminae anteriorly (1). 
 > Forey (1991), Character 3; Forey (1998), Character 61; Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 79; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 39.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The anterolateral ascending laminae of the parasphenoid are known in Macropoma and Latimeria (Forey, 1998)12. They also have been referred to as the "prominent lateral wing" (Forey, 1998)."
 
 151. Buccohypophysial canal: open (0), close (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 35; Forey (1991), Character 4, polarity; Forey (1998), Character 78, polarity; Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 78.
 
+> - Character 276 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Khonsari *et al.* (2013)107 addressed specifically the evolution of the buccohypophysial foramen with a special interest to coelacanths."
 
 152. Entopterygoid, shape of: elongated (0), triangular (1)
 > Clement *et al.* (in review), Character 152.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 153. Ventral swelling of palatoquadrate: absent (0), present (1). 
 > Dutel *et al.* (2012), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 110; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 47.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Dutel *et al.* (2012, fig. 20) illustrated the ventral swelling of the palatoquadrate (their character 110) as a process located on the ventrolateral margin of the entopterygoid seen in Latimeria. According to Dutel *et al.* (2012), the swelling is only observed in Holophagus, Latimeria, Libys, Macropoma, Megalocoelacanthus, and Undina. Toriño *et al.* (2021, p. 14 SI) discussed various codings that have been used in Fragoso’s (2014)108 analysis, and maintained Dutel *et al.*`s coding."
 
 154. Linear subparallel ridges of remodeled denticles on dermal bones lining the oral cavity: absent (0), present (1). 
 > Friedman (2007), Character 161.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Friedman (2007, char. 161)98 recognized that a shagreen of denticles is the plesiomorphic conditions in osteichthyans, whereas actinistians share denticles remodeled into long ridges on the oral surface of dermal bones (including the entopterygoids)."
 
 155. Nasal capsule, shape of: round or triangular shaped (0), deep and elongate (1)
 > Clement *et al.* (in review), Character 155.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 156. Olfactory tracts: short diverging at the level or anterior to the ethmoid process (0), long diverging posterior to the level of the ethmoid process (closer to the optic foramen) (1)
 > Clement *et al.* (in review), Character 156.
+
+> - Character 381 in 'early gnathostome phylogeny dataset'.
 
 157. Hypophysial fossa: extending posterior to the orbit (0), extending at the level of the orbit or anterior to the orbit (1)
 > Clement *et al.* (in review), Character 157.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 158. Hypophysial fossa posterior lobe: absent (0), present (1)
 > Clement *et al.* (in review), Character 158.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 159. Fenestra ventralis: absent (0), present (1).
 > Friedman (2007), Character 93, in part; Lu & Zhu (2009), Character 11.
 
+> - Character 379 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Zhu & Yu (2002, char. 107)84 and Friedman (2007, char. 93)98 used the presence of the fenestra ventralis (or ventrolateralis) as well as the common ventral fenestra for anterior and posterior nostrils to investigate sarcopterygian interrelationships."
 
 160. Tectum orbitale, size of: narrow (0), extensive (1)
 > Clement *et al.* (in review), Character 160.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 161. Ethmoid articulation for palatoquadrate: placed on postnasal wall (0), majority of facet located anterior to postnasal wall (1). 
 > Friedman (2007), Character 172.
 
+> - Character 385 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Friedman (2007, char. 172) originally used this character by including two apomorphic states. Herein, we are solely using one of the two character-states that is relevant with the taxa analyzed. Actinistians are characterized by greatly expanded depressions marking the ethmoid articulation between the palatoquadrate and the neurocranium (Friedman, 2007)."
 
 162. Eye stalk or unfinished area for similar structure: present (0), absent (1). 
