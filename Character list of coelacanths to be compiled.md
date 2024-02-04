@@ -254,69 +254,88 @@
 36. Parietal and supraorbitals, contact of: parietal contacts more than three supraorbitals (0), parietal contacts three supraorbitals (1), parietal contacts two supraorbitals (2). (ordered)
 > Cavin *et al.* (2019), Cavin *et al.* (2020), Character 51.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+> - **This character maybe relative to Character 124. Check it.**
 > - Clement *et al.* (in review): "Cavin et al. (2020, char. 51)101 defined a character to identify the number of supraorbitals articulating with the parietal (their "posterior parietal"). This multistate character forms a morphocline."
 
 37. Margin of dermal intracranial joint: straight (0), deeply notched (1), undulated (2). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), modified, Character 1; Friedman (2007), Character 147, in part; Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), modified, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin *et al.* (2019), modified, Cavin *et al.* (2020), modified, Toriño *et al.* (2021), modified, Character 1.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998)12 defined the apomorphic state as "strongly interdigitate", while Friedman & Coates (2006)47 and subsequent authors defined the apomorphic state as "deeply notched". Arratia & Schultze (2015)15 used a second apomorphic character-state defined as "undulated or excavated"; only used for Atacamaia."
 
 38. Postparietal descending process: absent (0), present (1). 
 > Cloutier (1991a), Cloutier (1991b), Forey (1991), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 13.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The descending process of the postparietal is located on the posteroventral surface of the postparietal articulating with the oticoccipital part of the neurocranium."
 
 39. Postparietal, shape of: L shaped (0), rectangular (1), inverted L shaped (2).
 > Cloutier (1991a), Cloutier (1991b), Character 12.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " The shape of the postparietal takes into consideration the dorsal view of the element. In the inverted L shape, the small process forms the anterolateral component of the postparietal. The numbering of character-states has been modified from Cloutier (1991a, char. 12)."
 
 40. Postparietal: not narrowing posteriorly (0), narrowing posteriorly (1).
 > Lu & Zhu (2009), Character 7.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Lu and Zhu (2009, char. 7) defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in Onychodus, Qingmenodus and Grossius. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal [char. 39(2)]."
 
 41. Postparietal postorbital, contact of: absent (0), present (1).
 > Cloutier (1991a), Cloutier (1991b), Character 14.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The absence of contact between the anterolateral part of the postparietal and the postorbital could be owing either to the presence of intertemporal and/or supratemporal (e.g., Miguashaia), the presence of a gap between the elements (e.g., Allenypterus) or the presence of an elongated posterolateral process of the parietal (e.g., Coelacanthus)."
 
 42. Postparietal and lateral extrascapular, contact of: present (0), absent (1)
 > Cloutier (1991a), Cloutier (1991b), Character 15.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 43. Pit lines on postparietals: marking postparietals (0), not marking postparietals (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 26.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 44. Anterior pit line: absent (0), present (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 24.
 
+> - Character 159 in 'early gnathostome phylogeny dataset'.
 
 45. Anterior pit line, position of: on postparietal (0), on parietal (1). 
 > Friedman (2007), Character 36.
 
+> - Character 160 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 45 is linked to character 44."
 
 46. Middle pit line: in line with tabular pit line (0), not in line with tabular pit line (1). 
 > Lu & Zhu (2009), Character 28.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 46 is linked to character 43."
 
 47. Middle and posterior pit lines, position of: within posterior half of postparietals (0), within anterior third of postparietals (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Lu & Zhu (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 25.
 
+> - Character 161 in 'early gnathostome phylogeny dataset'. **The states are slightly different**
 > - Clement *et al.* (in review): "Character 47 is linked to characters 43 and 46."
 
 48. Complete fusion of postparietal shield: no (0), yes (1)
 > Clement *et al.* (in review), Character 48.
 
+> - Character 138 in 'early gnathostome phylogeny dataset'. **The states are different**
+
 49. Extratemporal: absent (0), present (1)
 > Friedman (2007), Character 16; Lu & Zhu (2009), Character 10.
+
+**Character D16 in 'early gnathostome phylogeny dataset'.**
 
 50. Extrascapulars, sutures of: sutured with postparietals-parietals (0), free (1).
 
 > Forey (1991), Character 19; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 15; Cavin et al. (2019), Cavin et al. (2020), Character 8.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 50 is in part link with character 42."
 
 > - The Character 19 of Forey (1991): Extrascapular contact. An extrascapular may be sutured (0) to the parietal shield or may lie free (1): the former condition is regarded as plesiomorphic. 
