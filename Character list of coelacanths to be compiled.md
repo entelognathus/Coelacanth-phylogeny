@@ -41,7 +41,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - > - Zjy Onychodont: ?
+> - Zjy Onychodont: ?
 
 2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2). (ordered)
 > Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part.
