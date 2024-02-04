@@ -973,112 +973,162 @@
 162. Eye stalk or unfinished area for similar structure: present (0), absent (1). 
 > Friedman (2007), Character 95, polarity.
 
+> - Character 398 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Zhu & Yu (2002, char. 109)84 and Friedman (2007, char. 95)98 used this character with a different polarity."
 
 163. Foramen for oculomotor nerve (III) relative, position of: dorsal and near the optic nerve (II) foramen (0), posterior and at the same height as the optic nerve (II) foramen (1)
 > Clement *et al.* (in review), Character 163.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 164. Foramen for the facial nerve (VII) relative, position of: same level as the anterior tip of the processus connectens (0), dorsal to the anterior tip of the processus connectens (1)
 > Clement *et al.* (in review), Character 164.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 165 Basipterygoid process: present (0), absent (1)
 > Cloutier (1991a), Cloutier (1991b), Character 36; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 72.
 
+> - Character 437 in 'early gnathostome phylogeny dataset'. **The states are inverse**
+
 166. Basipterygoid process, size of: small knob-like process (0), developed as a broad platform (1). 
 > Forey (1991), Character 2.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 166 is linked with character 165."
 
 167. Basipterygoid process articular facet: facing posteriorly (0), facing anteriorly (1). 
 > Clement *et al.* (in review), Character 167.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 167 is linked with character 165."
 
 168. Intracranial joint relative to cranial nerves, position of: through profundus foramen (0), through or behind trigeminal (V) foramen (1)
 > Clement *et al.* (in review), Character 168.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 169. Vagus nerve (X): not bone enclosed (0), bone enclosed (1)
 > Forey (1991), Character 8.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 170. Processus connectens, size of: knob like not well developed (0), long and well developed (1)
 > Clement *et al.* (in review), Character 170.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 171. Vestibular fontanelle: absent (0), present (1). 
 > Friedman (2007), Character 180.
 
+> - Character 489 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The vestibular fontanelle is a large basicranial fenestra located ventrally to the notochord and that opens into the saccular region of the inner ear. The fenestra ovalis present in tetrapods is derived from the vestibular fontanelle (Clack, 1994)."
 
 172. Posttemporal fossae: absent (0), present (1)
 > Friedman (2007), Character 103.
 
+> - Character 509 in 'early gnathostome phylogeny dataset'.
+
 173. Orbitosphenoid and basisphenoid regions: coossified (0), separate (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 69.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 174. Basisphenoid: extending forward to enclose optic foramen (0), optic foramen lying within separate interorbital ossification or cartilage (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 70.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, char. 70) defined a character as the basisphenoid extending forward to enclose the optic foramen (0) or the optic foramen lying within separate interorbital ossification or cartilage (1). Toriño *et al.* (2021, char. 70) rather used the character relative to the optic foramen which is either enclosed by the basisphenoid extending forward (0) or lying within separate interorbital ossification or cartilage (1). Herein, the character concerns two conditions for the basisphenoid: extending forward to enclose the optic foramen (0) and optic foramen lying within separate interorbital ossification or cartilage (1)."
 
 175. Basisphenoid base of the lateral wings: broad (0), constricted (1)
 > Clement *et al.* (in review), Character 175.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 176. Processus connectens: not meeting the parasphenoid (0), meeting the parasphenoid (1).
 > Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 71.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, char. 71) considered the processus connectens meeting the parasphenoid as the plesiomorphic state, whereas a processus connectens failing to meet the parasphenoid as the apomorphic state. Cavin & Grădinaru (2014, char. 71) and Toriño *et al.* (2021, char. 71) mentioned that the original formulation given by Forey (1998, char. 71)12 is opposite to the character coding observed in Forey’s matrix. Cavin & Grădinaru (2014) inverted the original character-states. Therefore, we are using the character-states."
 
 177. Antotic process: absent (0), present (1)
 > Clement *et al.* (in review), Character 177.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 178. Antotic process: not covered by parietal descending process (0), covered by parietal descending process (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 73.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Character 178 is linked with character 177 (antotic process) and character 31 (descending process of parietal)."
 
 179. Temporal excavation: lined with bone (0), not lined with bone (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 74; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 38.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The prootic presents two roughened areas: an anterior one, the prefacial eminence, that is sutured on the inner side with the postparietal descending (ventral) process, and a posterior one suturing with the tabular descending (ventral) process. The temporal excavation is located between these two areas. Forey (1998, char. 74) defined two character-states for the condition of the temporal excavation (or temporal fossa): lined with bone and not lined with bone. In his list of characters, Forey (1998, p. 192) coded this temporal excavation as lined with bone (1) and not lined with bone (0). Toriño *et al.* (2021, char. 74) used "0" for lined with bone and "1" for not lined."
 
 180. Otic region: mainly ossified (0), mainly cartilaginous (1)
 > Clement *et al.* (in review), Character 180.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 181. Well-developed posterolateral otic process: absent (0), present (1)
 > Clement *et al.* (in review), Character 181.
+
+> - Character 494 in 'early gnathostome phylogeny dataset'. **Not sure.**
 
 182. Jugular process: absent (0), present (1)
 > Clement *et al.* (in review), Character 182.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 183. Accessory jugular processes: absent (0), present (1)
 > Clement *et al.* (in review), Character 183.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 184. Otico-occipital: solid (0), separated to prootic and opisthotic (1)
 > Forey (1991), Character 5; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 75.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 185. Otico-occipital: not hypertrophied (0), hypertrophied (1). 
 > Clement *et al.* (in review), Character 185.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Cavin *et al.* (2017) mentioned that the condition of the otico-occipital in Foreyia was hypertrophied in comparison to the generalized coelacanth Bauplan. It is suggested that in Foreyia that the postparietal, supratemporal (or tabular) and extrascapulars are all fused together. Not only the otico-occipital part of the skull roof forms a single ossified component, but this component is larger than in other coelacanths."
 
 186. Supraoccipital: absent (0), present (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 76.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 187. Vestibular fontanelle accessory fenestration of otic capsule, size of: small (0), large (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), homology, Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), homology, Arratia & Schultze (2015), homology, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), homology, Toriño *et al.* (2021), Character 77; Friedman (2007), Character 181; Lu & Zhu (2009), Character 14.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Forey (1998, char. 77) and subsequent analyses (up to Toriño *et al.* (2021, char. 80)) coded for the presence or absence of the vestibular fontanelle. Herein, we are redefining the vestibular fontanelle character in terms of its size. We considered a vestibular fontanelle to be large if it occupies 33% or more of the length of the otico-occipital region of the neurocranium; this condition is found in Macropoma precursor (Forey, 1998, fig. 6.10). A vestibular fontanelle is considered to be small if it occupies less than 25% of the length of the otico-occipital region of the neurocranium; this condition is seen in Laugia groenlandica (Forey, 1998, fig. 6.7)12 and Sassenia groenlandica (Forey, 1998, fig. 6.8)."
 
 188. Suprapterygoid process: absent (0), present (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 80.
 
+> - Character 512 in 'early gnathostome phylogeny dataset'.
+
 189. Prominent groove for the jugular vein on the prootic: present (0), absent (1)
 > Clement *et al.* (in review), Character 189.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 190. Prootic: without complex suture with basioccipital region (0), with complex suture with basioccipital region (1)
 > Forey (1991), Character 6; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 82.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 191. Prominent ridge on prootic: present (0), absent (1). A prominent ridge on the prootic is also present in tetrapodomorphs (e.g., Gogonasus).
 > Clement *et al.* (in review), Character 191.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 192. Superficial ophthalmic branch of anterodorsal lateral line nerve: not piercing antotic process (0), piercing antotic process (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 83.
