@@ -38,41 +38,57 @@
 > Forey (1998), character 2; Friedman & Coates (2006),  character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
 
 > - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin et al. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline."
-> - Zjy Onychodont: ?
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
+> - > - Zjy Onychodont: ?
 
 2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2). (ordered)
 > Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part.
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline."
+
+> - Character 166 in 'early gnathostome phylogeny dataset'.
 > - Zjy Onychodont: 2
 
 3. Rostral tubuli: present (0), absent (1)
 > Friedman (2007), character 136.
->
+
+> - Character 24 in 'early gnathostome phylogeny dataset'.
+
 > - Zjy Onychodont: 0
 
 4. Rostral organ pores: absent (0), present (1). 
 > Cloutier (1991a), Character 145; Friedman (2007), Character 145.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 4 is linked to characters 5, 6 and 7."
 
 5. Anterior opening of rostral organ: within premaxilla (0), within separate rostral ossicles (1). 
 > Cloutier (1991b), Character55; Forey (1991), Character34; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 6.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "Character 5 is linked to character 4." 
 
 6. Posterior openings of rostral organ: widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2). (ordered)
 > Forey (1991), Character 35.
 
-> - Burrow *et al.* (in review): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
+> - Clement *et al.* (in review): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
 
 7. Posterior openings of rostral organ: anterior and posterior pores aligned horizontally (0), posterior pore offset posterodorsally to anterior pore (1). 
 > Clement *et al.* (in review), Character 7.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
 
 8. Premaxillae: fragmented (0), paired (1), fused (2).
 > Cloutier (1991a), Cloutier (1991b), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 4.
+
+> - Not in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
@@ -83,21 +99,25 @@
 9. Dorsal lamina of premaxillae: present (0), absent (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 5.
 
+> - Not in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, char. 5) coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998) when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our character 10."
 
 10. Dorsal lamina of premaxilla, completeness of: complete (0), invaginated (1), reduced (2). (ordered)
 > Forey (1991), character 10.
 
+> - Not in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The three character-states form a morphocline. Character 10 is linked with character 9."
 
 11. Dorsal lamina of premaxilla, perforation of: perforated by ethmoid commissure (0), not perforated by ethmoid commissure (1). 
 > Cloutier (1991a), Cloutier (1991b), character 6.
 
+> - Not in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 11 is linked to character 9."
 
 12. Premaxilla ventral margin, shape of: arched (0), not arched (1). 
 > Lu & Zhu (2009), character 19, modified.
 
+> - Not in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Lu & Zhu (2009, char. 19) used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including *Diplocercides* and *Styloichthys*. *Diplocercides*, *Styloichthys* and *Psarolepis* were coded as having anteriorly arched premaxillae, whereas *Onychodus*, *Strunius* and *Bukkanodus* lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in *Diplocercides kayseri* and *D. heiligenstockiensis*. In *Styloichthys* the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved."
 
 13. Median rostral, number of: single median rostral or internasal (0), multiple median rostrals or internasals (1)
@@ -105,6 +125,8 @@
 
 14. Median rostral: without teeth (0), with teeth (1). 
 > Friedman (2007), Character 3; Lu & Zhu (2009), Character 3.
+
+> - Character 260 in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "Lu & Zhu (2009, char. 3) coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including *Diplocercides*. The condition of *Diplocercides* was coded as unknown, and solely *Psarolepis* was coded as having this condition."
 
@@ -121,6 +143,7 @@
 17. Supraorbital canal, course of: straight (0), lyre shaped (1).
 > Friedman (2007), Character 31.
 
+> - Character 173 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Friedman (2007, char. 31) mentioned that the trajectory of the supraorbital canals resembles a lyre in dorsal view in *Styloichthys*, *Euporosteus*, *Latimeria* and numerous coelacanths and sarcopterygians. It is considered to be a derived condition shared by *Styloichthys*, Dipnomorpha and Tetrapodomorpha (Friedman, 2007). The lyre-shape is owing to a medial curvature followed by a lateral trajectory of the supraorbital canal at the most anterior level of the snout."
 
 > - This character was orginally defined in Zhu et al. (2002?), cross-check this character in early gnathostome phylogeny.
@@ -778,7 +801,6 @@
 170. Processus connectens, size of: knob like not well developed (0), long and well developed (1)
 > Clement *et al.* (in review), Character 170.
 
-> - 
 171. Vestibular fontanelle: absent (0), present (1). 
 > Friedman (2007), Character 180.
 
@@ -2448,7 +2470,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 526. Rostral tubuli: absent (0), present (1).
 > Lu *et al.* (2016), character 260; Clement et al. (2018), character 258.
 
-> - Character 24 in 'early gnathostome phylogeny dataset'.
+> - Character 24 in 'early gnathostome phylogeny dataset'. **Redundant, to be combined。**
 
 527. Position of anterior nostril: facial (0), at oral margin (1).
 > Lu *et al.* (2016), character 261; Clement et al. (2018), character 259.
