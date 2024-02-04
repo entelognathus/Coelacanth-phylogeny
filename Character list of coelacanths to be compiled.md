@@ -707,114 +707,146 @@
 114. Dentary, ornament of: with ornament (0), without ornament (1).
 > Forey (1991), Character 32, in part; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 63.
 
- > - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Character 114 is linked to character 132."
 
 115. Dentary teeth: present (0), absent (1). 
 > Clement *et al.* (in review), Character 115.
 
-
+> - Character 268 in 'early gnathostome phylogeny dataset'. **The states are inverse.**
 > - Clement *et al.* (in review): "Friedman & Coates (2006, char. 54)47 coded Allenypterus as "?" because of its edentulous condition. We used a separate character to take into account the present or absent of teeth on the mandible."
 
 116. Dentary teeth: attached to dentary (0), on separate tooth plates (1). 
 > Forey (1991), Character 26; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 54.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The presence of dentary teeth fused to the dentary or separate from the dentary was used by Forey (1998, char. 54). Forey (1998) mentioned that the apomorphic condition takes into account both a condition in which teeth are present on separate tooth plates and the edentulous condition (Character 115). Character 116 is linked with character 115."
 
 117. Dentary sensory pore: absent (0), present (1). 
 > Forey (1991), Character 42; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 61.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The dentary sensory pore is generally a single large pore associated with the trigeminal nerve; Mawsonia soba differs by the presence of four pores rather than one large pore (Brito *et al.*, 2018). As defined by Forey (1998, char. 61), this pore is located near the suture between the dentary and the splenial, above the mandibular canal."
 
 118. Parasymphysial plate: present (0), absent (1)
 > Clement *et al.* (in review), Character 118.
 
+> - Character 297 in 'early gnathostome phylogeny dataset'. **The states are parts of those of Character 297 in 'early gnathostome phylogeny dataset'.**
+
 119. Parasymphysial plate: detachable tooth whorl (0), long sutured to coronoid (1), short not sutured to coronoid (2).
 > Clement *et al.* (in review), Character 119.
 
+> - Character 297 in 'early gnathostome phylogeny dataset'. **The states are parts of those of Character 297 in 'early gnathostome phylogeny dataset'.**
 > - Clement *et al.* (in review): "Character 119 is linked with character 118."
 
 120. Parasymphysial tusk: present (0), absent (1).
 > Friedman (2007), Character 52, in part.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 120 is linked with character 118."
 
 121. Coronoid opposite posterior end of dentary: not modified (0), modified (1). 
 > Forey (1991), Character 28, in part; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 56; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 30.
  
-
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, char. 56)12 described that the fourth coronoid of the anterior series of coronoids is modified in some actinistians. This coronoid is closely associated with the posterior end of the dentary and is modified to bear enlarged tooth/teeth (e.g., Spermatodus (Forey, 1998, fig. 5.8A)12; Undina penicillata (Forey, 1998, fig. 5.12C)) and the lateral edge rolled over (e.g., Sassenia; see Forey (1998, fig. 5.8B)). This coronoid is located anterior to the principal coronoid (char. 122)."
 
 122. Principal coronoid: present (0), absent (1). 
 > Clement *et al.* (in review), Character 122.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "An enlarged posterior (principal) coronoid projecting considerably above the occlusal margin of the lower jaw has been recognized by many authors as an actinistian synapomorphy (Schaeffer, 1952; Lund & Lund, 1985; Cloutier, 1991a)13,35,95. Cloutier (1991a)95 recognized the coronoid IV oriented vertically as an actinistian synapomorphy; although we agree that the posteriormost is oriented vertically, the homology of this element with coronoid IV is questioned. The modified coronoid (char. 121) is frequently referred to as Coronoid IV."
 
 123. Principal coronoid: lying free (0), sutured to angular (1). 
 > Cloutier (1991b), Character 68, in part; Forey (1991), Character 31, in part; Forey (1998), in part, Clément (2005), in part, Friedman & Coates (2006), in part, Yabumoto (2008), in part, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), in part, Zhu *et al.* (2012), in part, Graf (2012), in part, Wen *et al.* (2013), in part, Cavin *et al.* (2013), in part, Cavin & Grădinaru (2014), in part, Arratia & Schultze (2015), in part, Gess & Coates (2015), in part, Dutel *et al.* (2015), in part, Cavin *et al.* (2017), in part, Renesto & Stockar (2018), in part, Toriño *et al.* (2021), in part, Character 66; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 35.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Cloutier (1991b)96 mentioned that in most actinistians, the principal coronoid (his "Coronoid IV") abuts the mesial side of the prearticular. Forey (1998, char. 66)12 proposed two character-states for the condition of the principal coronoid: lying free (0) and sutured to the angular (1). Forey (1998, p. 163)12 and Clément (1999, p. 238)68 mentioned that the principal coronoid does not sutured to the angular in most actinistians with the exception of Axelrodichthys and Mawsonia. Character 123 is linked with character 122."
 
 124. Principal coronoid, shape of: subtriangular (0), subquadrilateral (1), saddle-shaped (2), boomerang-shaped (3). 
 > Cloutier (1991a), Cloutier (1991b), Character 38, in part.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1981, 1998) mentioned the difference in the shape of the principal coronoid, but did not defined a character. Cloutier (1991a, char. 38)95 recognized two shapes relative to the lateral view of the principal coronoid (his "coronoid IV") visible above the angular: subtriangular and subquadrilateral. In addition, Cloutier (1991a) mentioned that these two character-states did not apply to the shape of Axelrodichthys araripensis. Yabumoto & Uyeno (2005)20 used the shape of the principal coronoid as distinctive for Mawsonia (M. lavocati (Yabumoto & Uyeno, 2005, figs. 6, 7) and M. brasiliensis). Dutel *et al.* (2015, fig. 1) described the principal coronoid of Trachymetopon liassicum as saddle-shape. Fragoso *et al.* (2018) qualified the principal coronoid of Mawsonia/Axelrodichthys complex as saddle shaped displaying a cranial and a caudal process. We added a second apomorphic state to consider this shape. A third apomorphic state, the boomerang-shape, was defined to take into account the curved shape of the principal coronoid of Macropoma lewesiensis (Forey, 1998, fig. 5.13). Character 124 is linked with character 122."
 
 125. Coronoid fangs: absent (0), present (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 67; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 36.
 
+> - Character 288 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, char. 67)12 considered the presence of enlarged teeth lying alongside a replacement socket upon at least some of the anterior coronoids as the apomorphic condition. However, based on outgroup comparison with onychodontiforms, the presence would rather correspond to the plesiomorphic condition."
 
 126. Oral pit line: short confined to angular (0), long reaching forward to dentary and or splenial (1)
 > Forey (1991), Character 43; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 58.
 
-127. Oral pit line, position of: located at center of ossification of angular (0), removed from the center of ossification (1). Character 127 is in part linked with character 126.
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
+127. Oral pit line, position of: located at center of ossification of angular (0), removed from the center of ossification (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 59; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 32.
+
+>- Character 127 is in part linked with character 126.
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 128. Subopercular branch of mandibular sensory canal: absent (0), present (1)
 > Forey (1991), Character 41; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 60; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 33.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 129. Mandibular canal, trajectory of: not passing through most posterior infradentary (0), passing through most posterior infradentary (1). 
 > Friedman (2007),Character 68; Lu & Zhu (2009), Character 31.
 
-> - Clement *et al.* (in review): "Zhu & Yu (2002, char. 80), Zhu & Yu (2004)106 and Friedman (2007, char. 68) used the trajectory of the mandibular canal in relation to the posteriormost infradentary to address the phylogenetic position among sarcopterygians as well as basal forms of actinistians such as Styloichthys."
+> - Character 707 in 'early gnathostome phylogeny dataset'.
+> - Clement *et al.* (in review): "Zhu & Yu (2002, char. 80), Zhu & Yu (2004)106 and Friedman (2007, char. 68) used the trajectory of the mandibular canal in relation to the posteriormost infradentary to address the phylogenetic position among sarcopterygians as well as basal forms of actinistians such as *Styloichthys*."
 
 130. Mandibular canal, trajectory of: not passing through the lowermost part of the infradentary series with many tubes (0), passing through the lowermost part of the infradentary series with many tubes (1)
 > Lu & Zhu (2009), Character 32.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 131. Lower jaw, ornament of: ridged (0), tubercular (1), unornamented (2). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 62.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "Forey (1998, char. 62) recognized two character-states to describe the ornamentation of the lower jaw: ridged (0) and granular (1) ornament. We recognize an additional character-state to consider the complete disparity of the lower jaw ornament: unornamented (2). Character 131 is partly linked with characters 133 and 114."
 
 132. Splenial: present (0), absent (1)
 > Clement *et al.* (in review), Character 132.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 133. Splenial, ornament of: with ornament (0), without ornament (1). 
 > Forey (1991), Character 32, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 64.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 133 is linked to character 132."
 
 134. Posterior margin of splenial: relatively at right angle with dorsal margin (0), dorsally beveled (1), ventrally believed (2), pointed (X bevel) (3), V-grooved (4). 
 > Clement *et al.* (in review), Character 134.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "This character considers the general shape of the posterior margin of the splenial when looking at the lateral profile of the lateral surface of the splenial; this character is similar to Character 111 that is relative to the posterior margin of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the splenial is located ventrally (e.g., Allenypterus, Diplocercides, Garnbergia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Parnaibaia). In the pointed shape (or X bevel), the pointed part of the posterior margin of the splenial is approximately located at mid-height of the splenial (e.g., Coelacanthus, Holophagus), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Character 134 is linked to character 132."
 
 135. Prearticular and/or coronoid teeth: pointed and smooth (0), pointed and marked with fine striations (1), rounded and marked with fine striations (2). (ordered)
 > Forey (1991), Character 27, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), modified, Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 68; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 37.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The definition and order of character-states have been changed from previous uses of this character ((Forey (1991, char. 27 in part)97; Forey (1998, char. 68)). Wen *et al.* (2013, char. 68)54 added an additional apomorphic character-states (pointed and marked with fine striations). The order of the two apomorphic states are changed to obtain three character-states forming a morphocline."
 
 136. Extensive dorsal expansion of angular: absent (0), present (1)
 > Cloutier (1991a).
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 137. Angular, depth of: posterior half deeper than anterior half of angular (0), deepest at approximately at midway along the length of the angular (1), anterior half deeper than posterior half of angular (2). (ordered) 
 > Clement *et al.* (in review), Character 137.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Cavin *et al.* (2020, char. 56) defined a character identifying the deepest point of the angular. Two character-states were originally used: approximately midway along length of the bone (0) and near the anterior margin of the bone (1). Since the character-states were primarily defined in order to reflect a difference among derived coelacanths (mainly Mawsonia and Axelrodichthys), we used another state as "posterior half deeper than anterior half of angular" which is herein considered as the plesiomorphic state because it is observed among basal coelacanths. The three character-states form a morphocline. Character 137 is linked to character 136."
 
 138. Angular with dentary and splenial, contact of: linear (0), broad V-shaped (1), fine tapering (2), W-shaped (3), interdigitate (4). 
 > Clement *et al.* (in review), Character 138.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 138 is linked to characters 111 and 132."
 
 139. Surangular: present (0), absent (1)
@@ -823,14 +855,22 @@
 140. Retroarticular and articular: coossified (0), separated (1)
 > Forey (1991), Character 25; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), modified, Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 53.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 141. Jaw articulation: anterior to anterior level of operculum (0), posterior to anterior level of operculum (1)
 > Clement *et al.* (in review), Character 141.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 142. Submandibulars: absent (0), present (1)
 > Cloutier (1991a); Friedman (2007), Character 71.
 
+> - Character **D14** in 'early gnathostome phylogeny dataset'.
+
 143. Internasal pits: absent (0), one large pit (1), shallow pits with midline ridge (2), deep pear-shaped pits (3)
 > Friedman (2007), Character 91.
+
+> - Characters 386 and 387 in 'early gnathostome phylogeny dataset'.
 
 144. Vomers, contact of: not meeting in midline (0), meeting medially (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), modified, Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 81; Friedman (2007), Character 77.
