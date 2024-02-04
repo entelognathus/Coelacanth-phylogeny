@@ -343,52 +343,68 @@
 51. Extrascapulars, position of: behind level of neurocranium (0), part of skull roof (1)
 > Cloutier (1991b), Character 59; Forey (1991), Character 19; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 16; Cavin et al. (2019), Cavin et al. (2020), Character 9.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 52. Median extrascapular: present (0), absent (1) 
 > Clement *et al.* (in review), Character 52.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 53. Lateral extrascapulars, size of: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2).  (ordered)
 > Clement *et al.* (in review), Character 53.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "In species coded for lateral extrascapulars being less than the width of median extrascapular, the median extrascapular could reach up to twice the width of the lateral extrascapular (e.g., *Miguashaia bureaui*). On the other hand, species coded as having lateral extrascapular more than the width of median extrascapular, the lateral extrascapular could reach up to twice the width of the median extrascapular (e.g., *Hadronector donbairdi*). Morphometric character 13 provides the ratio between the lateral extrascapular width and the median extrascapular width. For those species allowing us to measure the ratio, the plesiomorphic condition corresponds to a ratio smaller than 0.9, whereas apomorphic state 2 corresponds to a ratio greater than 1.1. Meristic character 2 provides the number of extrascapulars. Character 53 is linked with the presence of a median extrascapular (Char. 52). The three character-states form a morphocline."
 
 54. Posterior margin of skull roof: straight (0), embayed (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 18.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Forey (1998, char. 18) defined a character concerning the posterior margin of the skull roof as either straight or embayed. Forey (1998, p. 58) mentioned that the posterior margin of the tabulars (his "supratemporals") with the postparietals is straight in *Diplocercides* thus not taking into account the posterior limit of the lateral and median extrascapulars. In contrast, Forey (1998, p. 91) mentioned that the fusion of the lateral extrascapular with the tabular (his "extratemporal") results in the posterior profile of the skull roof being embayed with the remaining extrascapulars lying in between in *Coelacanthus*. We considered the posterior margin of the skull roof to be interpreted as the posterior margin of the tabulars and postparietals even in species in which lateral and median extrascapulars are present and attached the postparietals and tabulars. Character 54 is in part link with the condition in which the posterior margin of the tabular extends posteriorly to the posterior margin of the postparietal (char. 23.2)."
 
 55. Anterior branches of occipital commissure: absent (0), present (1). 
 > Cloutier (1991b), Character 60; Forey (1991), Character 40; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 22; Cavin et al. (2019), Cavin et al. (2020), Character 11.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Occipital commissure (= "supratemporal commissural canal" of Schaeffer (1952)35; "supratemporal commissure" of Forey (1981)). Anterior branches (ramifications) of the occipital commissure extending to the anterior part of the extrascapulars and/or the posterior part of the postparietals are found in some actinistian species (Cloutier, 1991b)96."
 
 56. Sensory pores, size of: pores on ethmosphenoid shield similar to parietal shield pores (0), pores on ethmosphenoid shield larger than parietal shield pores (1)
 > Forey (1991), Character 38.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 57. Preorbital: present (0), absent (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 22; Forey (1991), Character 20; Forey (1991), Character 19; Forey (1998), Clément (2005), Friedman & Coates (2006), Friedman (2007), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 10.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The preorbital is a bone forming part of the anterior margin of the orbit in basal coelacanths. A posterior tectal occupies a similar position in onychodontiforms and some tetrapodomorphs. Forey (1998, char. 10) used the opposite polarity of the character-states. We coded the preorbital present in onychodontiforms although this element is referred to as the posterior tectal. This character is linked with characters 6 and 7."
 
 58. Lateral rostral: without ventral process (0), with ventral process (1). 
 > Cloutier (1991a).
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The ventral process of the lateral rostral is located anteriorly, it could be relatively broad and shallow (e.g., Rhabdoderma elegans) or narrow and longer (e.g., Macropoma lewesiensis)."
 
 59. Lateral rostral: forming part of orbit (0), not forming part of orbit (1)
 > Lu & Zhu (2009), Character 4.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2).  (ordered)
 > Clement *et al.* (in review), Character 60.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The shape of the lateral rostral is defined in terms of a ratio between the length of the element and the height (without taking into consideration the extend of the anterodorsal, anteroventral, and posterodorsal processes). Most coelacanths (more than 15 species out of 38 species including the outgroup Onychodus) have a length/height ratio of the lateral rostral around 3. The extreme values for our sample vary between 1.3 (*Onychodus jandemarrai*) and 10.7 (*Axelrodichthys araripensis*). The three character-states are defined in terms of the length/height ratio: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), and highly elongated (length/height ratio greater than 5) (2). The three character-states have been ordered to form a morphocline."
 
 61. Posterodorsal process of lateral rostral: absent (0), present (1). 
 > Lu & Zhu (2009), Character 5.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013). It is a well-developed and well-defined process that extends towards the midline of the skull roof (see *Axelrodichthys maiseyi*, de Carvalho et al. (2013, fig. 3B))."
 
 62. Cheek bones, contact of: in contact or overlapping (0), separated (1).
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > Cloutier (1991a), Character 23, in part; Cloutier (1991b), Character 23; Forey (1991), Character 22; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 29.
 
 > - Clement *et al.* (in review): "Cloutier (1991a, b, char. 23) recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29) defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal."
@@ -396,243 +412,307 @@
 63. Contact between lacrimojugal and preorbital and/or supraorbital series: present (0), absent (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 51.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Character 63 is in part linked with character 57."
 
 64. Spiracular: present (0), absent (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 24; Forey (1991), Character 21; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 30; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 15.
 
+> - Character 131 in 'early gnathostome phylogeny dataset'. **Not sure**
 > - Clement *et al.* (in review): "Schaeffer (1952) (=postspiracular of Lund & Lund (1985))."
 
 65. Preoperculum: present (0), absent (1)
 > Forey (1991), Character 23; Forey (1998), polarity, Clément (2005), modified, Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), Graf (2012), polarity, Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 31.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 66. Preoperculum, size of: large bone (0), reduced to narrow tube (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 38; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 18.
 
+> - Character 216 in 'early gnathostome phylogeny dataset'. **The states are different**
 > - Clement *et al.* (in review): "Character 66 is linked to character 65."
 
 67. Preoperculum: undifferentiated (0), developed as a posterior tube-like canal-bearing portion and an anterior blade-like portion (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 39.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 67 is linked to character 65."
 
 68. Squamosal: present (0), absent (1)
 > Lu & Zhu (2009), Character 22.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 69. Squamosal, position of: limited to the midlevel of the cheek (0), extending behind the postorbital to reach skull roof (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 34.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 69 is linked with character 68."
 
 70. Squamosal, position of: posterior to postorbital (0), ventral to postorbital (1).
 > Clement *et al.* (in review), Character 70.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Character 70 is linked with character 68."
 
 71. Squamosal, position of: forming part of upper jaw margin (0), not forming part of upper jaw margin (1). 
 > Clement *et al.* (in review), Character 71.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 71 is linked with character 68, and partly linked with character 69."
 
 72. Squamosal, size of: large bone (0), reduced to a narrow tube (1). 
 > Cloutier (1991b), Character 25, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 37.
 
-
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 72 is linked with character 68."
 
 73. Squamosal, shape of: pentagonal (0), quadrilateral (1), triangular (2), irregular (3).
 > Cloutier (1991a), Character 25.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Character 73 is linked with character 68."
 
 74. Lacrimal: not fused with jugal (0), fused with jugal (1), fused with jugal and squamosal (2).  (ordered)
 > Clement *et al.* (in review), Character 74.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "The three character-states form a morphocline."
 
 75. Stud shaped ossicles near lacrimojugal: absent (0), present (1). 
 > Clement *et al.* (in review), Character 75.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, p. 307)12 wrote in the diagnosis of Coelacanthus that the lacrimojugal is associated with small stud-shaped ossicles which must have lain free in the skin, a condition similar to those of Spermatodus."
 
 76. Lacrimojugal, shape of: tapering anteriorly (0), not expanded anteriorly (1), expanded anteriorly (2). (ordered)
 > Cloutier (1991b), Character 65; Forey (1998), rephrased, Clément (2005), rephrased, Friedman & Coates (2006), rephrased, Yabumoto (2008), rephrased, Geng *et al.* (2009), rephrased, Wendruff (2011), rephrased, Wendruff & Wilson (2012), rephrased, Dutel *et al.* (2012), rephrased, Zhu *et al.* (2012), rephrased, Graf (2012), rephrased, Wen *et al.* (2013), rephrased, Cavin *et al.* (2013), rephrased, Cavin & Grădinaru (2014), rephrased, Arratia & Schultze (2015), rephrased, Gess & Coates (2015), rephrased, Dutel *et al.* (2015), rephrased, Cavin *et al.* (2017), rephrased, Renesto & Stockar (2018), rephrased, Toriño *et al.* (2021), rephrased, Character 35.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Forey (1998, char 35) recognized two conditions dealing with the anterior shape of the lacrimojugal: not expanded anteriorly (0) and expanded anteriorly (1). He associated the anterior expansion solely to the loss of the preorbital. Herein, we recognized an additional apomorphic condition of the anterior shape of the lacrimojugal which is "tapering anteriorly". The lacrimojugal expands anteriorly in genera such as *Axelrodichthys*, *Chinlea*, *Libys*, and *Macropoma*, it tapers anteriorly in *Atacamaia*, *Coelacanthus*, *Luopingcoelacanthus* and *Wimania*, while it is not expanded anteriorly in *Hadronector*, *Polyosteorhynchus*, *Ticinepomis*, and *Yunnancoelacanthus*. The three character-states form a morphocline. Character 76 is linked with character 74."
 
 77. Lacrimojugal, sensory pores of: relatively small size pores through the length of the lacrimojugal (0), anterior pore(s) expanded or forming a groove (1).
 > Clement *et al.* (in review), Character 77.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Character 77 is linked with character 74."
 
 78. Lacrimojugal, shape of: not angled anteriorly (0), angled anteriorly (1).
 > Forey (1998), rephrased, Clément (2005), rephrased, Friedman & Coates (2006), rephrased, Yabumoto (2008), rephrased, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), rephrased, Zhu *et al.* (2012), rephrased, Graf (2012), rephrased, Wen *et al.* (2013), rephrased, Cavin *et al.* (2013), Cavin & Grădinaru (2014), rephrased, Arratia & Schultze (2015), rephrased, Gess & Coates (2015), rephrased, Dutel *et al.* (2015), rephrased, Cavin *et al.* (2017), rephrased, Renesto & Stockar (2018), rephrased, Toriño *et al.* (2021), rephrased, Character 36. Cavin *et al.* (2019), modified, Cavin *et al.* (2020), modified, Character 17.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Forey (1998, char. 36) reported that the lacrimojugal ends anteriorly without or with an anterior angle. This downward angle is present in some species (e.g., Whiteia woodwardi, Atacamaia solitaria, Coelacanthus granulatus) in which the lacrimojugal extends more anteriorly than the anterior limit of the orbit. This angle is distinct from the angle that could be observed at mid-length of the ventral margin of the lacrimojugal (e.g., Diplocercides, Ticinepomis). Character 78 is linked with character 74."
 
 79. Lacrimojugal ventral margin: without a posteroventral extension (0), with a posteroventral extension (1). 
 > Gess & Coates (2015), modified, Character 110.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Gess & Coates (2015, char. 110) defined the shape of the lacrimojugal as elbow-like with a ventral extension. They coded this condition as present in Serenichthys and Diplocercides among the 28 actinistian taxa they coded for. Character 79 is linked with character 74."
 
 80. Lacrimojugal ventral margin: linear (0), V-shaped (1), curvilinear (2), sinusoidal (3).
 > Gess & Coates (2015), modified, Character 110, in part.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Cavin *et al.* (2020, char. 48) defined a lacrimojugal character to reflect differences among derived coelacanths. The lacrimojugal was considered either as being curved (0) or straight (1) in its mid-region. We redefine this character in terms of the ventral margin of the lacrimojugal to consider the disparity of all coelacanths. We are using four character-states to describe the shape of the ventral margin of the lacrimojugal: linear (0) (e.g., Miguashaia bureaui), V-shaped (1) (e.g., Diplocercides kayseri, Foreyia maxkuhni), curvilinear (2) (e.g., Caridosuctor populosum, Coccoderma suevicum), and sinusoidal (3) (e.g., Hadronector donbairdi). The V-shaped condition of the ventral margin of the lacrimojugal is in part associated with the presence of the posteroventral expansion of the margin (Character 79). Character 80 is linked with character 74."
 
 81. Lacrimojugal, position of: extending only to anterior of orbit (0), extending to snout (1).
 > Cloutier (1991b), Character 64.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Cloutier (1991b, char. 64) defined a character to reflect the anterior extent of the lacrimojugal which was suggested to be characteristic of advanced coelacanths by Stensiö (1921)16. However, Cloutier (1991b)96 only coded Mawsonia gigas as having a lacrimojugal extending to the anterior part of the snout. We redefined the apomorphic condition as extending to the snout, rather than the anterior part of the snout. Character 81 is linked with character 74."
 
 82. Lacrimojugal postorbital limb: absent (0), present (1). 
 > Clement *et al.* (in review), Character 82.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 82 takes into account the condition of the lacrimojugal. Therefore, the outgroups are coded as "-". Nevertheless, in Grossius aragonensis, Onychodus jandemarrai and Strunius walteri, the jugal lacks a postorbital limb. Character 82 is linked to character 74.
 
 83. Lacrimojugal postorbital limb, extent of: above midorbit level or at midorbit level (0), below midorbit level (1). Character 83 is linked with characters 74 and 82.
 > new
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "
 
 84. Preopercular and lacrimojugal (jugal), contact of: separated (0), abutting (1)
 > Gess & Coates (2015), Character 114.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 85. Anterodorsal excavation in postorbital: absent (0), present (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 40; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 20.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, char. 40)12 considered the presence of an anterodorsal excavation in the postorbital to be an apomorphic condition. As described in Latimeria chalumnae, this excavation receives a tough ligamentous connection with the posteriormost supraorbitals (Forey, 1998, p. 98, fig. 4.1)."
 
 86. Postorbital: without anterior process (0), with anterior process (1).
 > Cloutier (1991b), Character 62; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 41; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 21.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Cloutier (1991b, char. 62)96 defined this anterior process of the postorbital as the anteroventral corner of the postorbital that extends anteriorly beyond the posteroventral margin of the orbit as seen in Mawsonia (e.g., Mawsonia brasiliensis (Yabumoto, 2002, fig. 4)."
 
 87. Postorbital, size of: large bone (0), reduced to narrow tube (1)
 > Cloutier (1991b), Character 63; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 42; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 22.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 88. Postorbital, position of: lying wholly behind intracranial joint (0), spanning intracranial joint (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 43; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 23.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 89. Infraorbital canal, trajectory of: within postorbital with simple pores opening directly from main canal (0), anterior and posterior branches within postorbital (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 44; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 24.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 90. Infraorbital canal, trajectory of: running through center of postorbital (0), running along anterior margin of postorbital (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 45; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 25.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 91. Jugal canal: simple (0), prominent branches (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 46; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 26.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, char. 46)12 described the apomorphic condition in which large pores are lying separate from the main trajectory canal of the jugal canal in the squamosal (e.g., Rhabdoderma, Latimeria)."
 
 92. Jugal canal, trajectory of: running through center of bone (0), running along ventral margin of squamosal (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 47; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 27.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 93. Pit lines: marking cheek bones (0), not marking cheek bones (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 48.
 
-94. Preopercular canal: preopercular canal ends at dorsal margin of preopercular (0), does not end at dorsal margin of preopercular (1). 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
+94. Preopercular canal: preopercular canal ends at dorsal margin of preopercular (0), does not end at dorsal margin of preopercular (1). 
 > Lu & Zhu (2009), Character 29.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "Character 93 is linked with character 65."
 
 95. Maxilla: absent (0), present (1)
 > Friedman (2007), Character 38.
 
+> - Character 259 in 'early gnathostome phylogeny dataset'. 
+
 96. Ventral margin of maxilla: straight (0), curved (1). Character 96 is linked to character 95.
 > Lu & Zhu (2009), Character 21.
+
+> - Character 265 in 'early gnathostome phylogeny dataset'. 
 
 97. Posterior expansion of the maxilla: absent (0), small expansion (posterodorsal process) (1), large expansion (cleaver-shaped) (2). (ordered)
 > Friedman (2007), Character 39; Lu & Zhu (2009), Character 20, polarity.
 
+> - Character 266 in 'early gnathostome phylogeny dataset'. **The states are different**
 > - Clement *et al.* (in review): "The three character-states form a morphocline. Character 97 is linked to character 95."
 
 98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
 > Clement *et al.* (in review), Character 98.
 
+> - Character 267 in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 98 is linked to character 95."
 
 99. Cheek bones, ornament of: absent or with very fine tuberculation (0), tubercular (1), represented as a coarse superficial rugosity (2), ridged (3).
 > Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 49; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 28.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): " Forey (1998, char. 49) considered three character-states to describe the cheek bone ornamentation: tubercular (1), absent (0), and with coarse superficial rugosity (2); in his character description (p. 128), the numbering of these character-states has been mislabeled where only state 1 and 2 have been written. In order to take into account the disparity of the cheek bone ornamentation in coelacanths, we used four character-states that better represent the disparity. In addition, some taxa are coded as a polymorphic condition to include both the tubercular and ridged ornamentation. We are limiting the coding of the cheek bones ornamentation to the condition observed on the postorbital, squamosal, preoperculum, and spiracular; in contrast to some previous papers, we are not taking into consideration the ornamentation of the operculum. Some of the polymorphic conditions correspond to different conditions observed on the preoperculum (frequently with ridges) and the remaining cheek bones (frequently tubercular) of a species."
 
 100. Openings for infraorbital jugal and preopercular sensory canals: many small pores (0), few large pores (1), large and continuous grooves crossed by pillars (2). (ordered)
 > Forey (1998), modified, Clément (2005), modified, Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), modified, Zhu *et al.* (2012), Graf (2012), modified, Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), modified, Arratia & Schultze (2015), modified, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), modified, Renesto & Stockar (2018), modified, Toriño *et al.* (2021), modified, Character 50; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 29.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "Forey (1998, char. 50) described two character-states for the sensory openings for the infraorbital, jugal and preopercular canals: many tiny pores (0) and a few large pores (1). Dutel *et al.* (2012, char. 50)60 added a third character-states taking into account a condition in which there is a large continuous groove crossed by pillars. The three character-states form a morphocline."
 
 101. Squamosal and preopercular: unfused (0), fused (1). 
 > Cloutier (1991a), Character 26, in part; Cloutier (1991b), Character 26.
+
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "Character 101 is linked to character 65."
 
 102. Foramina similar to infradentary foramina on cheek bones: absent (0), present (1).
 > Lu & Zhu (2009), Character 16.
 
-> - Clement *et al.* (in review): "Among actinistians, Friedman (2007, char. 47; fig. 4C)98 and Lu & Zhu (2009, char. 16)8 reported the presence of large foramina distinct from the sensory line pores and pit lines on the cheek solely in Styloichthys."
+> - Character 208 in 'early gnathostome phylogeny dataset'. 
+> - Clement *et al.* (in review): "Among actinistians, Friedman (2007, char. 47; fig. 4C)98 and Lu & Zhu (2009, char. 16)8 reported the presence of large foramina distinct from the sensory line pores and pit lines on the cheek solely in *Styloichthys*."
 
 103. Suboperculum: present (0), absent (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 29; Forey (1991), Character 24; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 32; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 16.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Forey (1998) defined his character 32 as follows: (0) suboperculum absent, (1) suboperculum present. 
 > - Clement *et al.* (in review): "By out-group comparison (including actinopterygians, onychodontiforms, dipnomorphs and tetrapodomorphs), the presence of a suboperculum is the plesiomorphic condition. Thus, most of the coding that we are using differs from what has been provided by Forey (1998, char. 32)12 and subsequent analyses (up to Toriño *et al.*, 2021, char. 32) because of the different polarity of the character."
 >
 104. Suboperculum, position of: suturing with both the preoperculum and operculum (0), suturing only with preoperculum (1), suturing only with operculum (2), isolated (3). 
 > Cloutier (1991a), Cloutier (1991b), Character 30.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "Character 104 is linked to characters 65 and 103."
 
 105. Suboperculum, size of: longer than deep (0), deeper than long (1).
 > Cloutier (1991a), Cloutier (1991b), Character 31.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): " Character 105 is linked to character 103."
 
 106. Suboperculum, shape of: quadrilateral (0), triangular (1), ovoid (2). 
 > Cloutier (1991a), Cloutier (1991b), Character 32.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "Character 106 is linked to character 103."
 
 107. Operculum: without sensory pores (0), with sensory pores (1)
 > Clement *et al.* (in review), Character 107.
 
+> - Character 228 in 'early gnathostome phylogeny dataset'. **Not sure**
+
 108. Operculum, shape of: quadrilateral (0), triangular (1), ovoid (2). 
 > Cloutier (1991a), Cloutier (1991b), Character 28.
 
+> - Character 227 in 'early gnathostome phylogeny dataset'. **The states are different**
 > - Clement *et al.* (in review): "Cloutier (1991a, char 28) defined a character to describe the shape of the operculum among Palaeozoic coelacanths, either as quadrilateral (including rectangular, square and trapezoidal) (e.g., Miguashaia, Hadronector) and triangular (e.g., Coelacanthus, Rhabdoderma). Cloutier (1991b, p. 406)96 mentioned that the distinction between the two shapes was generally clear with the exception of species having operculum with strongly asymetrical, diamond-shape (e.g., Diplocercides jaekeli). Instead of coding for the global shape of the operculum, Cavin *et al.* (2020, char. 55) characterized the posteroventral edge of the operculum: marks an angle (or posterior margin rounded) (0) (e.g., Macropoma, Latimeria), straight (1) (e.g., Trachymetopon, Mawsonia), and regularly curved (2) (e.g., Axelrodichthys, Chinlea). We redefine the shape of the operculum using three character-states; we add the ovoid shape in contrast to the original description of Cloutier (1991a, b, char. 28). The ovoid shape takes into account some of the species that could have been coded as a regularly curved margin by Cavin *et al.* (2020, char. 55)."
 
 109. Dentary, shape of: absence of hook-shape process posteriorly oriented on the dentary (0), presence of hook-shape process posteriorly oriented on the dentary (1).
 > Cloutier (1991b), Character 66; Forey (1991), Character 30; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 57; Cavin *et al.* (2019), modified, Cavin *et al.* (2020), modified, Character 31.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): " Cloutier (1991b, char. 66) described this character as absence (0) or presence (1) of posterodorsal hook on the dentary. Forey (1998, char. 57) used a character to describe the shape of the dentary as simple (0) and hook-shaped (1). Forey (1998) associated this feature with the elaboration of the muscular lip fold as present in Latimeria chalumnae. This hook-shape is present in a few derived actinistians such as Chinlea, Heptanema, Foreyia, Luopingcoelacanthus, Macropoma, Macropomoides, Undina, Swenzia and Whiteia."
 
 110. Dentary relative, size of: dentary much bigger than the splenial (0), dentary approximately the same size as the splenial (1), dentary much smaller than the splenial (2). (ordered)
 > Clement *et al.* (in review), Character 110.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "The relative size of the dentary and splenial considers the general surface of these bones in lateral view. The three character-states form a morphocline. Character 110 is linked with character 133."
 
 111. Posterior margin of dentary: relatively at right angle with the dorsal margin (0), dorsally beveled (1), ventrally beveled (2), pointed (X bevel) (3), V-grooved (4). 
 > Clement *et al.* (in review), Character 111.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "This character takes into account the general shape of the posterior margin of the dentary when looking at the lateral profile of the lateral surface of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the dentary is located ventrally (e.g., Gavinia, Laugia), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., Libys, Tachymetopon). In the pointed shape (or X bevel), the pointed part of the posterior margin of the dentary is approximately located at mid-height of the dentary (e.g., Coelacanthus, Parnaibaia), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., Foreyia). Most coelacanths having a dorsal hook-shape posteriorly oriented on the dentary (Char. 108) have a V-grooved posterior margin. This character does not apply for the out-groups in which a long dentary is known."
 
 112. Dentary, orientation of: horizontally straight (0), slightly dipping (1), sharply downturned (2). (ordered)
 > Cloutier (1991a), Cloutier (1991b), Character 37.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "Lund and Lund (1985)13 proposed the lack of a distinct angular diastema in the orientation of the dentary (which thus has a relatively continuous occlusal line with the angular) to be the plesiomorphic condition. Cloutier (1991a, b, char. 37) suggested that the apomorphic condition corresponds to the presence of a dentary oriented diagonally with the angular. Because of the large disparity of inclination of the dentary we divided the original apomorphic condition into two character-states (slightly dipping and sharply inclined). The three character-states forms a morphocline on the anterior inclination of the dentary. The horizontally straight condition corresponds to the plesiomorphic condition where the dentary is nearly parallel to the main orientation of the lower jaw (e.g., Miguashaia, Caridosuctor, Coelacanthus). In a few species, the dentary is slightly dipping or inclined anteroventrally; the angle of inclination could vary between 10 (e.g., Serenichthys) and 40 degrees (e.g., Diplocercides). The sharply downturned orientation of the dentary corresponds to the condition where the main orientation of the dentary is approximately to a right angle with the main orientation of the lower jaw (e.g., Allenypterus, Diplurus, Foreyia). The three character-states form a morphocline."
 
 113. Dentary: without prominent lateral swelling (0), with prominent lateral swelling (1). 
 > Forey (1991), Character 29; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 65; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 34.
 
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "Forey (1998, p. 153; char. 65) described the presence a prominent lateral swelling on the dentary of Mawsonia, Axelrodichthys and Lualabaea, located in front of the depression for the deep pseudomaxillary fold. This protuberance is a smooth dome-shaped protuberance (see Forey, 1998, char. 5.10A, B)."
 
 114. Dentary, ornament of: with ornament (0), without ornament (1).
 > Forey (1991), Character 32, in part; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 63.
- 
+
+ > - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): " Character 114 is linked to character 132."
 
 115. Dentary teeth: present (0), absent (1). 
 > Clement *et al.* (in review), Character 115.
+
 
 > - Clement *et al.* (in review): "Friedman & Coates (2006, char. 54)47 coded Allenypterus as "?" because of its edentulous condition. We used a separate character to take into account the present or absent of teeth on the mandible."
 
