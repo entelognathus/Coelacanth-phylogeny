@@ -34,35 +34,39 @@
 ## Skeletal tissues
 
 
-1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2). (ordered)
+1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
 > Forey (1998), character 2; Friedman & Coates (2006),  character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
-
-> - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin et al. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones. The three character-states form a morphocline."
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Zjy Onychodont: ?
+> - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin *et al*. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones." Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it 'unordered'. Alternatively, this character can be splited into two characters: condition of snout bones (separate from one another vs consolidated); condition of consolidated snout bones (edentulous vs toothed).
 
-2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2). (ordered)
+> - The coding of *Dianodus* is ?.
+
+2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
 > Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part.
 
-> - Clement *et al.* (in review): "The three character-states form a morphocline."
+> - Character 166 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
 
-> - Character 166 in 'early gnathostome phylogeny dataset'.
-> - Zjy Onychodont: 2
+> - Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it 'unordered'.
+
+> - The coding of *Dianodus* is 2.
 
 3. Rostral tubuli: present (0), absent (1)
-> Friedman (2007), character 136.
+> Friedman (2007), character 136. **Note the polarity difference in various datasets.**
 
-> - Character 24 in 'early gnathostome phylogeny dataset'.
+> - Character 24 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71.
 
-> - Zjy Onychodont: 0
+> - The coding of *Dianodus* is 0. [presence of rostral tubuli in *Dianodus*?]
 
 4. Rostral organ pores: absent (0), present (1). 
 > Cloutier (1991a), Character 145; Friedman (2007), Character 145.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
+
 > - Clement *et al.* (in review): "Character 4 is linked to characters 5, 6 and 7."
+
+> - The coding of *Dianodus* is XX.
 
 5. Anterior opening of rostral organ: within premaxilla (0), within separate rostral ossicles (1). 
 > Cloutier (1991b), Character55; Forey (1991), Character34; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 6.
@@ -71,19 +75,24 @@
 
 > - Clement *et al.* (in review): "Character 5 is linked to character 4." 
 
+> - The coding of *Dianodus* is XX.
+
 6. Posterior openings of rostral organ: widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2). (ordered)
 > Forey (1991), Character 35.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (in review): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 7. Posterior openings of rostral organ: anterior and posterior pores aligned horizontally (0), posterior pore offset posterodorsally to anterior pore (1). 
+
 > Clement *et al.* (in review), Character 7.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
+
+> - The coding of *Dianodus* is XX.
 
 8. Premaxillae: fragmented (0), paired (1), fused (2).
 > Cloutier (1991a), Cloutier (1991b), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 4.
@@ -92,9 +101,9 @@
 
 > - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
-> - This character was assigned ‘ordered’ in Clement *et al.* (in review)。
+> - Clement *et al.* (in review) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered.  
 
-> - Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered.  
+> - The coding of *Dianodus* is XX.
 
 9. Dorsal lamina of premaxillae: present (0), absent (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 5.
