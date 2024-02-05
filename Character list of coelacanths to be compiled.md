@@ -568,9 +568,10 @@
 64. Spiracular: present (0), absent (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 24; Forey (1991), Character 21; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 30; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 15.
 
-> - Character 131 in 'early gnathostome phylogeny dataset'. **Not sure**
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "Schaeffer (1952) (=postspiracular of Lund & Lund (1985))."
+> - Forey (1998): "spiracular (postpiracular) absent (0), present (1)." Suprasquamosal of Moy-Thomas, 1935 and Nielsen, 1936, Stensio (1937), prespiracular of Schaeffer (1952), Lund and Lund (1985).
 
 65. Preoperculum: present (0), absent (1)
 > Forey (1991), Character 23; Forey (1998), polarity, Clément (2005), modified, Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), Graf (2012), polarity, Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 31.
