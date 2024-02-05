@@ -1133,49 +1133,78 @@
 192. Superficial ophthalmic branch of anterodorsal lateral line nerve: not piercing antotic process (0), piercing antotic process (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 83.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 193. Process on braincase for articulation of infrapharyngobranchial 1 or epibranchial 1: absent (0), present (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 84.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 194. Lateral ethmoids: fused (0), separate (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 85.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 195. Basioccipital: fused (0), separate (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 86.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 196. Dorsum sellae, size of: small (0), large and constricting entrance to cranial cavity anterior to intracranial joint (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 87.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 197. Hypophysial fossa: with anterior lobe (0), without anterior lobe (1)
 > Clement *et al.* (in review), Character 197.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 198. Endolymphatic ducts: open posteriorly (0), open dorsally (1)
 > Clement *et al.* (in review), Character 198.
 
+> - Character 467 in 'early gnathostome phylogeny dataset'. **The states are different.**
+
 199. Hyomandibular: ossified (0), cartilaginous (1)
 > Clement *et al.* (in review), Character 199.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 200. Hyomandibular, orientation of: almost horizontal (0), almost vertical (1)
 > Clement *et al.* (in review), Character 200.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 201. Hyomandibular proximal articular facet: single headed (0), double headed (1)
 > Friedman (2007), Character 84; Lu & Zhu (2009), Character 13.
+
+> - Character 444 in 'early gnathostome phylogeny dataset'.
 
 202. Ceratohyal, size of: short and stubby (0), long and narrow (1)
 > Clement *et al.* (in review), Character 202.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 203. Anterior end of urohyal: unifid (0), bifid (1). 
 > Clement *et al.* (in review), Character 203.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Romano *et al.* (2016) compared the evolutionary morphology of the urohyal among coelacanths. We based our two urohyal characters (characters 203 and 204) on the general trends reflected by this comparison (Romano *et al.*, 2006, fig. 9)."
 
 204. Urohyal, shaft of: narrow (0), broad (1)
 > Clement *et al.* (in review), Character 204.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 205. Basibranchial anterior one, shape of: pointed lateral margins (0), parallel lateral margins (1)
 > Clement *et al.* (in review), Character 205.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 206. Basibranchial, number of: two (0), one (1)
 > Clement *et al.* (in review), Character 206.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 207. Ceratobranchials, shape of: straight to weakly curved (0), strongly curved (1)
 > Clement *et al.* (in review), Character 207.
@@ -1183,40 +1212,59 @@
 208. Ceratobranchials, shape of: expanded distally (0), same width along length (1), expanded proximally (2). The three character-states form a morphocline. (ordered)
 > Clement *et al.* (in review), Character 208.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 209. Epibranchials, shape of: elongate and rod like (0), short and flat (1)
 > Clement *et al.* (in review), Character 209.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 210. Anocleithrum: subdermal (0), dermal (1)
 > Clement *et al.* (in review), Character 210.
 
+> - Character 594 in 'early gnathostome phylogeny dataset'. **The states are inverse.**
+
 211. Anocleithrum, shape of: ovoid (0), sigmoid (1), forked (2), broad plate like (3), triangular (4). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 89.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Forey (1998, char. 89) and subsequent analyses (up to Toriño *et al.* (2021, char. 89) used solely two shapes (simple (0) and forked (1)) to describe the disparity of the shape of the anocleithrum. We are defining the plesiomorphic shape as ovoid as could be observed in the outgroup *Onychodus jandemarrai* (Andrews *et al.*, 2006, figs. 5b, 21c-e) and *Miguashaia bureaui* (Cloutier, 1996, figs. 13A-B, 14C). Three apomorphic states are used to cover the disparity of anocleithral shape among coelacanths: sigmoid (1; e.g., *Allenypterus montanus*, *Hadronector donbairdi*), forked (2; e.g., *Caridosuctor populosum*), broad plate-like (3; e.g., *Rhabdoderma elegans*), and triangular (4; e.g., *Coccoderma suevicum*)."
 
 212. Anocleithrum, position of: at dorsal end of cleithrum (0), at midpoint of cleithrum (1)
 > Clement *et al.* (in review), Character 212.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 213. Cleithrum: not covered anteriorly by operculum (0), covered anteriorly by operculum (1)
 > Clement *et al.* (in review), Character 213.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 214. Dorsal end of cleithrum, shape of: pointed (0), broad and rounded (1)
 > Friedman (2007), Character 107.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
+
 215. Cleithrum, articulation of: cleithrum articulates externally with extracleithrum only (0), cleithrum articulates externally with extracleithrum and clavicle (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 39.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "Character 215 is linked with character 216.“
 
 216. Extracleithrum: absent (0), present (1)
 > Cloutier (1991a), Cloutier (1991b), Character 40; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 88.
 
+> - Character 596 in 'early gnathostome phylogeny dataset'.
+
 217. Extracleithrum: without anteroventral canal (0), with anteroventral canal (1). Character 217 is linked with character 216.
 > Clement *et al.* (in review), Character 217.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 218.Extracleithrum and clavicle, dorsal extent of: extracleithrum extends more dorsally than clavicle (0), extracleithrum and clavicle extend dorsally approximately at the same level (1), clavicle extends more dorsally than the extracleithrum (2).  (ordered)
 > Clement *et al.* (in review), Character 218.
 
+> - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (in review): "This character is not polarized based on out-group comparison because the out-groups do not have an extracleithrum. However, in basal actinistians both elements extend approximately at the same level (e.g., *Miguashaia bureaui*) or the clavicle extends slightly more dorsally than the extracleithrum (e.g., *Miguashaia grossi*). The three character-states form a morphocline. Character 218 is linked with character 216.“
 
 219. Cleithrum and clavicle: not forming a prominent postbranchial lamina (0), forming a prominent postbranchial lamina (1)
