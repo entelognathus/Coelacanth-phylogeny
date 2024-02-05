@@ -2375,7 +2375,7 @@
 ~~302. Anterior pit line of dermal skull roof: absent (0), present (1).~~
 > Lu *et al.* (2016), character 34; Clement et al. (2018), character 34.
 
-> - Character 159 in 'early gnathostome phylogeny dataset'.**Repeated with Character 44**
+> - Character 159 in 'early gnathostome phylogeny dataset'.**Repetition of Character 44**
 
 303. Tessera morphology: large interlocking polygonal plates (0), microsquamose, not larger than body squamation (1).
 > Lu *et al.* (2016), character 35; Clement et al. (2018), character 35.
@@ -2418,7 +2418,7 @@
 ~~309. Pineal opening perforation in dermal skull roof: present (0), absent (1).~~
 > Lu *et al.* (2016), character 41; Clement et al. (2018), character 41.
 
-> - Character 128 in 'early gnathostome phylogeny dataset'. **Repeated with Character 33.**
+> - Character 128 in 'early gnathostome phylogeny dataset'. **Repetition of Character 33.**
 
 310. Dermal plate associated with pineal eminence or foramen: contributes to orbital margin plate (0), bordered laterally by skull roofing bones (1).
 > Lu *et al.* (2016), character 42; Clement et al. (2018), character 42.
@@ -2455,12 +2455,12 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 315. Otic canal extends through postparietals: absent (0), present (1).
 > Lu *et al.* (2016), character 47; Clement et al. (2018), character 46.
 
-> - Character 180 in 'early gnathostome phylogeny dataset'.**Repeated with character 26, but the steates are different. Need more check.**
+> - Character 180 in 'early gnathostome phylogeny dataset'.**Repetition of character 26, but the steates are different. Need more check.**
 
 316. Number of bones of skull roof lateral to postparietals: two (0), one (1), more than two (2)
 > Lu *et al.* (2016), character 48; Clement et al. (2018), character 47.
 
-> - Character 149 in 'early gnathostome phylogeny dataset'. **Repeated with character 26, but the steates are different. Need more check.**
+> - Character 149 in 'early gnathostome phylogeny dataset'. **Repetition of character 26, but the steates are different. Need more check.**
 
 317. Suture between paired skull roofing bones (centrals of placoderms, postparietals of osteichthyans): straight (0), sinusoidal (1).
 > Lu *et al.* (2016), character 49; Clement et al. (2018), character 48.
