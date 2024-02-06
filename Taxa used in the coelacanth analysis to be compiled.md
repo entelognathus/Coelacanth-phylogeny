@@ -2,14 +2,12 @@
 
 New taxa and references added along with the research.
 
-*Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis *et al*., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
-
 *Onychodus jandemarrai* 
 > Upper Devonian (early Frasnian), 382.7, 379.2
 
 > - Gogo Fm, Western Australia, Australia
 
-> - [References].4	
+> - Andrews *et al*. (2006).	
 
 *Strunius rolandi* 	
 > Upper Devonian (earliest Frasnian), 382.7, 379.2
@@ -46,60 +44,82 @@ New taxa and references added along with the research.
 
 > - [References]. 10-12
 
-Allenypterus montanus13,14	> Lower Carboniferous (Serpukhovian) 			330.9	323.2
-> Heath Fm, Bear Gulch Limestone Mbr, Montana, USA	
+*Allenypterus montanus*	
+> Lower Carboniferous (Serpukhovian), 330.9, 323.2
 
-> - [References]. 
+> - Heath Fm, Bear Gulch Limestone Mbr, Montana, USA	
 
-Atacamaia solitaria15	> Lower Jurassic (lower-to-middle Sinemurian) 		199.3	193.63
-> Vaquillas Altas, Atacama Desert, Chile	
+> - [References]. 13,14
 
-> - [References]. 
+*Atacamaia solitaria*	
+> Lower Jurassic (lower-to-middle Sinemurian), 199.3, 193.63
 
-Axelia robusta16,17	> Lower Triassic [Olenekian (Smithian)] 			251.2	249.2
-> Sticky Keep Fm (Lusitaniadalen Mbr), West Spitsbergen	
+> - Vaquillas Altas, Atacama Desert, Chile	
 
-> - [References]. 
+> - [References]. 15
 
-Axelrodichthys araripensis18,19	> Lower Cretaceous (late Aptian) 				117	113
-> Santana Gr, Romualdo Fm, Chapada do Araripe, Ceara, Brazil
+*Axelia robusta*	
+> Lower Triassic (Olenekian (Smithian)), 251.2. 249.2
 
-> - [References]. 
+> - Sticky Keep Fm (Lusitaniadalen Mbr), West Spitsbergen	
 
-Axelrodichthys lavocati20-22	> Upper Cretaceous (early-middle Cenomanian) 		100.5	96.1
-> Kem-Kem Beds, Morocco
+> - [References]. 16,17
 
-> - [References]. 
+*Axelrodichthys araripensis*	
+> Lower Cretaceous (late Aptian), 117, 113
 
-Axelrodichthys maiseyi23 	> Lower Cretaceous (middle-late Albian) 			108.83	100.5
-> Codó Fm, Grajaú Basin, Northeastern Brazil
+> - Santana Gr, Romualdo Fm, Chapada do Araripe, Ceara, Brazil
 
-> - [References]. 
+> - [References]. 18,19
 
-Axelrodichthys megadromos24	> Upper Cretaceous (lower Campanian) 			83.6	79.77
-> Valdonian-Fuvelian local stages, Bouches-du-Rhône, France
+*Axelrodichthys lavocati*	
+> Upper Cretaceous (early-middle Cenomanian), 100.5, 96.1
 
-> - [References]. 
+> - Kem-Kem Beds, Morocco
 
-Belemnocerca prolata25	> Lower Triassic (early Olenekian) 			251.2	249.87
-> Sulphur Mountain Fm, Wapiti Lake, British Columbia, Canada
+> - [References]. 20-22
 
-> - [References]. 
+Axelrodichthys maiseyi 	
+> Lower Cretaceous (middle-late Albian), 108.83, 100.5
 
-Caridosuctor populosum13,14	> Lower Carboniferous (Serpukhovian) 			330.9	323.2
-> Heath Fm, Bear Gulch Limestone Mbr, Montana, USA
+> -Codó Fm, Grajaú Basin, Northeastern Brazil
 
-> - [References]. 
+> - [References]. 23
 
-Changxingia aspratilis26,27	> Upper Permian (Changhsingian) 				254.14	252.28
-> Changhsing Fm, Meishan Mbr, Zhejiang, China
+Axelrodichthys megadromos	
+> Upper Cretaceous (lower Campanian), 83.6, 79.77
 
-> - [References]. 
+> - Valdonian-Fuvelian local stages, Bouches-du-Rhône, France
 
-Changxingia weii27,28	> Upper Permian (Changhsingian) 				254.14	252.28
-> Changhsing Fm, Meishan Mbr, Zhejiang, China
+> - [References]. 24
 
-> - [References]. 
+Belemnocerca prolata	
+> Lower Triassic (early Olenekian), 251.2, 249.87
+
+> - Sulphur Mountain Fm, Wapiti Lake, British Columbia, Canada
+
+> - [References]. 25
+
+Caridosuctor populosum	
+> Lower Carboniferous (Serpukhovian), 330.9, 323.2
+
+> - Heath Fm, Bear Gulch Limestone Mbr, Montana, USA
+
+> - [References]. 13,14
+
+Changxingia aspratilis	
+> Upper Permian (Changhsingian), 254.14, 252.28
+
+> - Changhsing Fm, Meishan Mbr, Zhejiang, China
+
+> - [References]. 26,27
+
+Changxingia weii	
+> Upper Permian (Changhsingian), 254.14, 252.28
+
+> - Changhsing Fm, Meishan Mbr, Zhejiang, China
+
+> - [References]. 27,28
 
 Chaohuichthys majiashanensis29	> Lower Triassic (Olenekian) 				251.2	247.2
 > Helongshan Fm, Anhui Province, Chaohu, China
