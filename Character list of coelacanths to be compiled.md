@@ -1724,10 +1724,12 @@
 
 > - The coding of *Dianodus* is XX.
 
-208. Ceratobranchials, shape of: expanded distally (0), same width along length (1), expanded proximally (2). The three character-states form a morphocline. (ordered)
+208. Ceratobranchials, shape of: expanded distally (0), same width along length (1), expanded proximally (2). (ordered)
 > Clement *et al.* (in review), Character 208.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
+
+> - Clement *et al.* (in review): "The three character-states form a morphocline.“
 
 > - The coding of *Dianodus* is XX.
 
@@ -1741,7 +1743,7 @@
 210. Anocleithrum: subdermal (0), dermal (1)
 > Clement *et al.* (in review), Character 210.
 
-> - Character 594 in 'early gnathostome phylogeny dataset'. **The states are inverse.**
+> - Character 594 in 'early gnathostome phylogeny dataset', polarity. King *et al*. (2017), Character 446; Castiello (2018), Character 435; Zhu Y. *et al*. (2022), Character 600; Brazeau *et al*. (2023), Character 451.
 
 > - The coding of *Dianodus* is XX.
 
@@ -1814,13 +1816,14 @@
 
 > - The coding of *Dianodus* is XX.
 
-220. Clavicle [new]: not hypertrophied (0), hypertrophied (1). The clavicle is considered to be hypertrophied to take into account the condition in Foreyia maxkuhni (Cavin *et al.*, 2017, figs. 1A-C, 2A-B)41. With the exception of the postparietal shield, the clavicle is the largest element in Foreyia; it is approximately twice the size of the operculum, and represents approximately a fourth of the size of the head.
+220. Clavicle: not hypertrophied (0), hypertrophied (1). 
 > Clement *et al.* (in review), Character 220.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - The coding of *Dianodus* is XX.
+> - Clement *et al.* (in review): "The clavicle is considered to be hypertrophied to take into account the condition in *Foreyia maxkuhni* (Cavin *et al.*, 2017, figs. 1A-C, 2A-B). With the exception of the postparietal shield, the clavicle is the largest element in *Foreyia*; it is approximately twice the size of the operculum, and represents approximately a fourth of the size of the head."
 
+> - The coding of *Dianodus* is XX.
 
 221. Facet posterior to glenoid: absent (0), present (1)
 > Clement *et al.* (in review), Character 221.
@@ -1868,7 +1871,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Schaeffer (1941) revised morphology of the pelvic plates in seven coelacanth taxa. The morphology of the pelvic plate was described in terms of three components of the pelvic plates: the anterior division, the posterior division and the medial process. We considered that the "anterior division" is composed between one to three processes: the anteromedial, the anterolateral and the lateral processes. The "posterior division" includes the posterior process; occasionally the lateral process seems to be coalescent with the posterior process. The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes. If a single anterior process is present (e.g., Changxingia, Libys) it is assumed that it corresponds generally to the anteromedial process. The forked condition corresponds to the clear presence of an anterior bifurcation, most likely corresponding to the presence of both the anteromedial and anterolateral processes."
+> - Clement *et al.* (in review): "Schaeffer (1941) revised morphology of the pelvic plates in seven coelacanth taxa. The morphology of the pelvic plate was described in terms of three components of the pelvic plates: the anterior division, the posterior division and the medial process. We considered that the "anterior division" is composed between one to three processes: the anteromedial, the anterolateral and the lateral processes. The "posterior division" includes the posterior process; occasionally the lateral process seems to be coalescent with the posterior process. The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes. If a single anterior process is present (e.g., *Changxingia*, *Libys*) it is assumed that it corresponds generally to the anteromedial process. The forked condition corresponds to the clear presence of an anterior bifurcation, most likely corresponding to the presence of both the anteromedial and anterolateral processes."
 
 > - The coding of *Dianodus* is XX.
 
@@ -1883,7 +1886,6 @@
 
 228. Medial process of pelvic plate: absent (or cartilaginous) (0), present (1)
 > Clement *et al.* (in review), Character 228.
-
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1903,11 +1905,10 @@
 
 > - The coding of *Dianodus* is XX.
 
-
 231. Distal radials of basal plates: present (0), absent (1) 
 > Cloutier (1991a).
 
-> - Character 649 in 'early gnathostome phylogeny dataset'.**Not sure.**
+> - Character 649 in 'early gnathostome phylogeny dataset'. **Not sure.**
 
 232. D1 basal plate, ventral margin of: smooth (0), emarginated and accommodating the tips of adjacent neural spines (1)
 > Cloutier (1991a), Cloutier (1991b), Character 45; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 101.
@@ -1935,7 +1936,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "We considered a lepidotrichia to be substantially stouter when it is from two to three times broader than the lepidotrichia of the second dorsal and anal fins. Occasionally the caudal lepidotrichia could also be as stout as those of the first dorsal fin. This condition is clearly visible in Undina penicillata (see Arratia *et al.*, 2001, fig. 31), Whiteia oishii (Yabumoto & Brito, 2016, fig. 2b), Ticinepomis peyeri (Cavin *et al.*, 2013, fig. 4)."
+> - Clement *et al.* (in review): "We considered a lepidotrichia to be substantially stouter when it is from two to three times broader than the lepidotrichia of the second dorsal and anal fins. Occasionally the caudal lepidotrichia could also be as stout as those of the first dorsal fin. This condition is clearly visible in *Undina penicillata* (see Arratia *et al.*, 2001, fig. 31), *Whiteia oishii* (Yabumoto & Brito, 2016, fig. 2b), *Ticinepomis peyeri* (Cavin *et al.*, 2013, fig. 4)."
 
 > - The coding of *Dianodus* is XX.
 
@@ -1967,7 +1968,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Character 239 is linked with character 238."
+> - Clement *et al.* (in review): "Character 239 is linked with character 238."
 
 > - The coding of *Dianodus* is XX.
 
@@ -2071,11 +2072,9 @@
 253. Caudal fin lepidotrichia: without denticules (0), with denticules (1).
 > Clement *et al.* (in review), Character 253.
 
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Dianodus* is XX.
-
 
 254. Caudal fin lepidotrichia: more numerous than radials (0), equal in number with radials (1).
 > Cloutier (1991a), Cloutier (1991b), Character 53; Forey (1991), Character 47; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 94.
@@ -2096,7 +2095,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The interlocking articulation pattern of lepidotrichial segments has been originally described for *Miguashaia bureaui* by Cloutier (1996, fig. 16)61."
+> - Clement *et al.* (in review): "The interlocking articulation pattern of lepidotrichial segments has been originally described for *Miguashaia bureaui* by Cloutier (1996, fig. 16)."
 
 > - The coding of *Dianodus* is XX.
 
@@ -2135,7 +2134,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 90) considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in Miguashaia and Diplocercides; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines."
+> - Clement *et al.* (in review): "Forey (1998, char. 90) considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in *Miguashaia* and *Diplocercides*; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines."
 
 > - The coding of *Dianodus* is XX.
 
@@ -2144,7 +2143,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Lambers (1992) mentioned that the presence of pleural ribs is rare in coelacanths. Since 1992, a few species with anatomical structures identified as ossified ribs are fairly common. Cloutier (1991b, char. 69) coded for the presence of pleural ribs, whereas Forey (1991, char. 52)97 coded for the presence of "long, ossified ribs". Lambers (1992, p. 43) suggested that this character should be coded as three character-states: absence of ossified ribs (0), presence of small, rudimentary ribs (1; as in Libys and Undina) and large ossified ribs (2; as in Diplurus)."
+> - Clement *et al.* (in review): "Lambers (1992) mentioned that the presence of pleural ribs is rare in coelacanths. Since 1992, a few species with anatomical structures identified as ossified ribs are fairly common. Cloutier (1991b, char. 69) coded for the presence of pleural ribs, whereas Forey (1991, char. 52) coded for the presence of "long, ossified ribs". Lambers (1992, p. 43) suggested that this character should be coded as three character-states: absence of ossified ribs (0), presence of small, rudimentary ribs (1; as in Libys and Undina) and large ossified ribs (2; as in *Diplurus*)."
 
 > - The coding of *Dianodus* is XX.
 
@@ -2185,7 +2184,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Friedman & Coates (2006, char. 109)47 used the absence or presence of ventral keel scales. They coded the presence of ventral keel scales in Allenypterus and Holopterygius; a polymorphic state was coded for the actinopterygian out-group."
+> - Clement *et al.* (in review): "Friedman & Coates (2006, char. 109) used the absence or presence of ventral keel scales. They coded the presence of ventral keel scales in *Allenypterus* and *Holopterygius*; a polymorphic state was coded for the actinopterygian out-group."
 
 > - The coding of *Dianodus* is XX.
 
@@ -2194,7 +2193,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 107) referred to the condition of the swimbladder rather than the condition of the lung (Cavin *et al.*, 2019, char. 46). Brito *et al.* (2010) and Cupello *et al.* (2017) investigated the structure identified as the calcified lungs in actinistians and more specifically that of Axelrodichthys. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of Latimeria also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)."
+> - Clement *et al.* (in review): "Forey (1998, char. 107) referred to the condition of the swimbladder rather than the condition of the lung (Cavin *et al.*, 2019, char. 46). Brito *et al.* (2010) and Cupello *et al.* (2017) investigated the structure identified as the calcified lungs in actinistians and more specifically that of *Axelrodichthys*. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of *Latimeria* also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)."
 
 > - The coding of *Dianodus* is XX.
 
