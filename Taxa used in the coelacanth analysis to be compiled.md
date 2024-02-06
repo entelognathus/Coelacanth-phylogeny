@@ -30,7 +30,7 @@ New taxa and references added along with the research.
 
 > - [References]. 8
 
-*Grossius aragonensis* 	
+*Grossius aragonensis* https://deepbone.cn/public/#/explor?s_id=60448&functionId=Deepbone_header_searchResultOpen	
 > Middle Devonian (middle Eifelian), 91.43, 389.57
 
 > - Moyuela Fm, Spain
