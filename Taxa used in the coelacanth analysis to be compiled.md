@@ -2,7 +2,7 @@
 
 New taxa and references added along with the research.
 
-*Onychodus jandemarrai* https://deepbone.cn/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen
+[*Onychodus jandemarrai*](https://deepbone.cn/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen)
 > Upper Devonian (early Frasnian), 382.7, 379.2
 
 > - Gogo Fm, Western Australia, Australia
@@ -30,7 +30,7 @@ New taxa and references added along with the research.
 
 > - [References]. 8
 
-*Grossius aragonensis* https://deepbone.cn/public/#/explor?s_id=60448&functionId=Deepbone_header_searchResultOpen	
+[*Grossius aragonensis*](https://deepbone.cn/public/#/explor?s_id=60448&functionId=Deepbone_header_searchResultOpen)	
 > Middle Devonian (middle Eifelian), 91.43, 389.57
 
 > - Moyuela Fm, Spain
@@ -343,7 +343,7 @@ New taxa and references added along with the research.
 
 > - [References]. 59,60
 
-*Miguashaia bureaui*	
+[*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen)
 > Upper Devonian (middle Frasnian), 379.2, 375.7
 > - Escuminac Fm, Quebec, Canada
 
