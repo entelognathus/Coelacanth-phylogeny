@@ -7,7 +7,9 @@ New taxa and references added along with the research.
 
 > - Gogo Fm, Western Australia, Australia
 
-> - Andrews *et al*. (2006).	
+> - Andrews *et al*. (2006).
+
+> - To Xuemei, data of this genus and species in Deepbone should be complemented.	
 
 [*Strunius rolandi*](https://deepbone.cn/public/#/explor?s_id=4250&functionId=Deepbone_header_searchResultOpen)	
 > Upper Devonian (earliest Frasnian), 382.7, 379.2
