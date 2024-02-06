@@ -259,209 +259,288 @@ Latimeria menadoensis
 
 > - [References]. 51
 
-Laugia groenlandica12,52,53	> Lower Triassic (Griesbachian) 				251.55	251.2
+Laugia groenlandica12,52,53	
+> Lower Triassic (Griesbachian), 251.55, 251.2
 > Wordie Creek Gr (Kap Stosch Fm), Kap Stosch, East Greenland
 
 > - [References]. 
 
-Libys polypterus12,31,33	> Upper Jurassic (early Tithonian) 				152.1	149.73
+Libys polypterus12,31,33	
+> Upper Jurassic (early Tithonian), 152.1, 149.73
 > Solnhofen, Bavaria, Germany
 
 > - [References]. 
 
-Lochmocercus aciculodontus13,14	> Lower Carboniferous (Serpukhovian) 			330.9	323.2
+Lochmocercus aciculodontus13,14	
+> Lower Carboniferous (Serpukhovian), 330.9, 323.2
 > Heath Fm, Bear Gulch Limestone Mbr, Montana, USA
 
 > - [References]. 
 
-Lualabaea lerichei12,14	> Upper Jurassic (?Kimmeridgian) 			157.3	152.1
+Lualabaea lerichei12,14	
+> Upper Jurassic (?Kimmeridgian), 157.3, 152.1
 > Lualabaea Series, Maosaosa, Republic of Zaire
 
 > - [References]. 
 
-Luopingcoelacanthus eurylacrimalis54	> Middle Triassic (late Pelsonian, middle–late Anisian) 	245.47	242
+Luopingcoelacanthus eurylacrimalis	
+> Middle Triassic (late Pelsonian, middle–late Anisian), 245.47, 242
 > Nicoraella kockeli Zone, Guanling Fm, Mbr II, China
 
-> - [References]. 
+> - [References]. 54
 
-Macropoma lewesiensis12	> Upper Cretaceous (Cenomanian) 			100.5	93.9
+Macropoma lewesiensis	
+> Upper Cretaceous (Cenomanian), 100.5, 93.9
 > Sussex, England, UK
 
-> - [References]. 
+> - [References]. 12
 
-Macropoma precursor12	> Upper Cretaceous (Cenomanian) 			100.5	93.9
+Macropoma precursor	
+> Upper Cretaceous (Cenomanian), 100.5, 93.9
 > Kent, England, UK
 
-Macropoma willemoesii31,33	> Upper Jurassic (early Tithonian) 				152.1	149.73
+> - [References]. 12
+
+Macropoma willemoesii	
+> Upper Jurassic (early Tithonian), 152.1, 149.73
 > Solnhofen, Bavaria, Germany
 
-> - [References]. 
+> - [References]. 31,33
 
-Macropomoides orientalis12	> Upper Cretaceous (middle Cenomanian) 			98.3	96.1
+Macropomoides orientalis	
+> Upper Cretaceous (middle Cenomanian), 98.3, 96.1
 > Hajula, Lebanon
 
-> - [References]. 
+> - [References]. 12
 
-Mawsonia brasiliensis19,55	> Lower Cretaceous (late Aptian) 				117	113
+Mawsonia brasiliensis	
+> Lower Cretaceous (late Aptian), 117, 113
 > Santana Gr, Romualdo Fm, Chapada do Araripe, Ceara, Brazil
 
-> - [References]. 
+> - [References]. 19,55
 
-Mawsonia gigas14,18	> Upper Jurassic-Lower Cretaceous (Kimmeridgian-Cenomanian)
- 	157.3	93.9
+Mawsonia gigas	
+> Upper Jurassic-Lower Cretaceous (Kimmeridgian-Cenomanian), 157.3, 93.9
 > Marfim and Tacuarembo Fms, Brazil, Uruguay, Democratic Republic of Congo
 
-> - [References]. 
+> - [References]. 14,18
 
-Mawsonia soba14,56	> Lower Cretaceous (Barriasian-Barremian) 			145	125
+Mawsonia soba	
+> Lower Cretaceous (Barriasian-Barremian), 145, 125
 > Babouri Figuil Basin, Northern Cameroon
 
-> - [References]. 
+> - [References]. 14,56
 
-Mawsonia tegamensis57,58 	> Lower Cretaceous (limit Aptian-Albian) 			117	108.83
+Mawsonia tegamensis	
+> Lower Cretaceous (limit Aptian-Albian), 117, 108.83
 > Tégama Series, Elrhaz Fm, Gadoufaoua, Niger
 
-> - [References]. 
+> - [References]. 57,58 
 
-Megalocoelacanthus dobiei59,60	> Upper Cretaceous (late Santonian - early Maastrichian) 	84.5	70.07
+Megalocoelacanthus dobiei	
+> Upper Cretaceous (late Santonian - early Maastrichian), 84.5, 70.07
 > Eutaw and Blufftown Fms, New Jersey, Alabama, Mississippi, Kansas and Georgia, USA
 
-> - [References]. 
+> - [References]. 59,60
 
-Miguashaia bureaui61,62	> Upper Devonian (middle Frasnian) 			379.2	375.7
+Miguashaia bureaui	
+> Upper Devonian (middle Frasnian), 379.2, 375.7
 > Escuminac Fm, Quebec, Canada
 
-> - [References]. 
+> - [References]. 61,62
 
-Miguashaia grossi63	> Middle Devonian (late Givetian) 				384.37	382.7
+Miguashaia grossi	
+> Middle Devonian (late Givetian), 384.37, 382.7
 > Gauja and Lode Fms, Latvia
 
-> - [References]. 
+> - [References]. 63
 
-Moenkopia wellesi64 	> Middle Triassic (late Anisian) 				243.73	242
+Moenkopia wellesi	
+> Middle Triassic (late Anisian), 243.73, 242
 > Moenkopi Fm, Holbrook Mbr, Arizona, USA
 
-> - [References]. 
+> - [References]. 64 
 
-Namugawi wirngarri65	> Upper Devonian (early Frasnian) 			382.7	379.2
+Namugawi wirngarri	
+> Upper Devonian (early Frasnian), 382.7, 379.2
 > Gogo Fm, Western Australia, Australia
 
-> - [References]. 
+> - [References]. 65
 
-Parnaibaia maranhaoensis66,67	> Late Jurassic (Oxfordian to Kimmeridgian) 		163.5	152.1
+Parnaibaia maranhaoensis	
+> Late Jurassic (Oxfordian to Kimmeridgian), 163.5, 152.1
 > Pastos Bons Fm, Maranhão, Brazil
 
-> - [References]. 
-Piveteauia madagascariensis12,68,69	> Lower Triassic (Induan) 				251.90	251.2
+> - [References]. 66,67
+
+Piveteauia madagascariensis
+> Lower Triassic (Induan), 251.90, 251.2
 > Middle Sakamena Gr, Ambilote, northwestern Madagascar 
 
-> - [References]. 
-Polyosteorhynchus simplex13,14	> Lower Carboniferous (Serpukhovian) 			330.9	323.2
+> - [References]. 12,68,69
+
+Polyosteorhynchus simplex	
+> Lower Carboniferous (Serpukhovian), 330.9, 323.2
 > Heath Fm, Bear Gulch Limestone Mbr, Montana, USA
 
-> - [References]. 
-Rebellatrix divaricerca70	> Lower Triassic (late Induan-early Olenekian) 		251.43	249.87
+> - [References]. 13,14
+
+Rebellatrix divaricerca	
+> Lower Triassic (late Induan-early Olenekian), 251.43	249.87
 > Sulphur Mountain Fm, Vega-Phroso Mbr, British Columbia, Canada 
 
-> - [References]. 
-Reidus hilli71	> Lower Cretaceous (Albian) 				113	100.5
+> - [References]. 70
+
+Reidus hilli	
+> Lower Cretaceous (Albian), 113, 100.5
 > Duck Creek Fm, Texas, USA
 
-> - [References]. 
-Rhabdoderma elegans12,72,73	> Upper Carboniferous (Namurian A - Westphalian D) 	330.9	303.7
+> - [References]. 71
+
+Rhabdoderma elegans	
+> Upper Carboniferous (Namurian A - Westphalian D), 330.9, 303.7
 > wide distribution
 
-> - [References]. 
-Rhabdoderma exiguum74	> Upper Carboniferous (upper part of the Moscovian) 		311	306
+> - [References]. 12,72,73
+
+Rhabdoderma exiguum	
+> Upper Carboniferous (upper part of the Moscovian), 311, 306
 > Francis Creek Shale, Mazon Creek, Illinois, USA
 
-> - [References]. 
-Rhabdoderma (?) newelli75,76	> Upper Carboniferous (Stephanian B; Kasimovian) 		307	303.7
+> - [References]. 74
+
+Rhabdoderma (?) newelli	
+> Upper Carboniferous (Stephanian B; Kasimovian), 307, 303.7
 > Stanton Fm, Rock Lake Shale Mbr, Garnett, Kansas, USA
 
-> - [References]. 
-Sassenia groenlandica12,52,53	> Lower Triassic (Griesbachian) 				251.55	251.2
+> - [References]. 75,76
+
+Sassenia groenlandica	
+> Lower Triassic (Griesbachian), 251.55, 251.2
 > Wordie Creek Gr (Kap Stosch Fm), Kap Stosch, East Greenland
 
-> - [References]. 
-Sassenia tuberculata16,77	> Lower Triassic [Olenekian (Smithian)] 			251.2	249.2
+> - [References]. 12,52,53
+
+Sassenia tuberculata	
+> Lower Triassic (Olenekian (Smithian)), 251.2, 249.2
 > Sticky Keep Fm, Lusitaniadalen Mbr, West Spitsbergen
 
-> - [References]. 
-Serenichthys kowiensis78	> Upper Devonian (Late Famennian) 			363.33	358.9
+> - [References]. 16,77
+
+Serenichthys kowiensis	
+> Upper Devonian (Late Famennian), 363.33, 358.9
 > Witpoort Fm, South Africa
 
-> - [References]. 
-Shoshonia arctopteryx79	> Mid–Late Devonian (Givetian-Frasnian) 			387.7	372.2
+> - [References]. 78
+
+Shoshonia arctopteryx	
+> Mid–Late Devonian (Givetian-Frasnian), 387.7, 372.2
 > Jefferson Fm, Wyoming, USA
 
-> - [References]. 
-Sinocoelacanthus fengshanensis80-82	> Lower Triassic (Spathian) 				249.2	246.83
+> - [References]. 79
+
+Sinocoelacanthus fengshanensis	
+> Lower Triassic (Spathian), 249.2, 246.83
 > Luolou Gr, Kwangsi Province, China
 
-> - [References]. 
-Spermatodus pustulosus12,83	> Lower Permian (Artinskian; ?Kazanian) 			290.1	283.5
+> - [References]. 80-82
+
+Spermatodus pustulosus	
+> Lower Permian (Artinskian; ?Kazanian), 290.1, 283.5
 > Wichita Gr, ?Admiral Fm, Texas, USA
 
-> - [References]. 
-Styloichthys changae79,84,85	> Lower Devonian (late Lochkovian) 			413.6	410.8
+> - [References]. 12,83
+
+Styloichthys changae	
+> Lower Devonian (late Lochkovian), 413.6, 410.8
 > Xitun Fm, Qujing, East Yunnan, China
 
-> - [References]. 
-Swenzia latimerae12,86	> Lower Upper Jurassic (late Oxfordian)		 	159.37	157.3
+> - [References]. 79,84,85
+
+Swenzia latimerae	
+> Lower Upper Jurassic (late Oxfordian), 159.37, 157.3
 > Charnay Commune, Burgundy, France
 
-> - [References]. 
-Ticinepomis peyeri87,88	> Middle Triassic (Ladinian) 				242	237
+> - [References]. 12,86
+
+Ticinepomis peyeri	
+> Middle Triassic (Ladinian), 242, 237
 > Grenzbitumen Horizon, Monte San Giorgo, Kanton Tessin, Switzerland
 
-> - [References]. 
-Trachymetopon liassicum88,89	> Lower Jurassic (Lower Toarcian) 			182.7	179.83
+> - [References]. 87,88
+
+Trachymetopon liassicum	
+> Lower Jurassic (Lower Toarcian), 182.7, 179.83
 > Ohmden, Baden-Wuttemberg, Germany
 
-> - [References]. 
-Undina penicillata31,33	> Upper Jurassic (late Kimmeridgian-early Tithonian) 	153.83	149.73
+> - [References]. 88,89
+
+Undina penicillata	
+> Upper Jurassic (late Kimmeridgian-early Tithonian), 153.83, 149.73
 > Solnhofen, Wattendorf and Nusplingen (W of Solnhofen), Bavaria and Baden-Württemberg, Germany
 
-> - [References]. 
-Undina cirinensis90	> Upper Jurassic (late Kimmeridgian) 			153.83	152.1
+> - [References]. 31,33
+
+Undina cirinensis	
+> Upper Jurassic (late Kimmeridgian), 153.83, 152.1
 > Cerin, Ain, France
 
-> - [References]. 
-Whitea durabilis91	> Lower Triassic (early Olenekian) 			251.2	249.87
+> - [References]. 90
+
+Whitea durabilis	
+> Lower Triassic (early Olenekian), 251.2, 249.87
 > Sulphur Mountain Fm, Wapiti Lake, British Columbia, Canada
 
-> - [References]. 
-Whitea lepta91	> Lower Triassic (early Olenekian) 			251.2	249.87
+> - [References]. 91
+
+Whitea lepta	
+> Lower Triassic (early Olenekian), 251.2, 249.87
 > Sulphur Mountain Fm, Wapiti Lake, British Columbia, Canada
 
-> - [References]. 
-Whiteia nielseni12,52,53	> Lower Triassic (Griesbachian) 				251.55	251.2
+> - [References]. 91
+
+Whiteia nielseni	
+> Lower Triassic (Griesbachian), 251.55, 251.2
 > Wordie Creek Gr, Kap Stosch Fm, Kap Stosch, East Greenland
 
-> - [References]. 
-Whiteia oishoii92	> Upper Triassic (earliest Carnian to late Norian) 		237	208.5
+> - [References]. 12,52,53
+
+Whiteia oishoii	
+> Upper Triassic (earliest Carnian to late Norian), 237, 208.5
 > Noe Bihati, West Timor, Indonesia
 
-> - [References]. 
-Whiteia uyenoteruya12,68,69,93	> Lower Triassic (Induan) 				251.90	251.2
+> - [References]. 92
+
+Whiteia uyenoteruya
+> Lower Triassic (Induan), 251.90, 251.2
 > Middle Sakamena Gr, Ambilote, northwestern Madagascar 
 
-> - [References]. 
-Whiteia woodwardi12,68,69,93	> Lower Triassic (Induan) 	251.90	251.2
-	> Middle Sakamena Gr, Ambilote, northwestern Madagascar 	
+> - [References]. 12,68,69,93	
 
-> - [References]. 
-Wimania sinuosa16,77	> Lower Triassic [Olenekian (Smithian)]	251.2	249.2
-	> Sticky Keep Fm, Lusitaniadalen Mb, West Spitsbergen	
+Whiteia woodwardi	
+> Lower Triassic (Induan), 251.90, 251.2
+> Middle Sakamena Gr, Ambilote, northwestern Madagascar 	
 
-> - [References]. 
-Youngichthys xinghuainsis26,27	> Upper Permian (Changhsingian) 	254.14	252.28
-	> Changhsing Fm, Meishan Mbr, Zhejiang, China
+> - [References]. 12,68,69,93
 
-> - [References]. 
-Yunnancoelacanthus acrotuberculatus54	> Middle Triassic (late Pelsonian, middle–late Anisian)	245.47	242
-	> Guanling Fm, Mbr II, Yunnan, China
+Wimania sinuosa	
+> Lower Triassic (Olenekian (Smithian)), 251.2, 249.2
+> Sticky Keep Fm, Lusitaniadalen Mb, West Spitsbergen	
+
+> - [References]. 16,77
+
+Youngichthys xinghuainsis	
+> Upper Permian (Changhsingian), 254.14, 252.28
+> - Changhsing Fm, Meishan Mbr, Zhejiang, China
+
+> - [References]. 26,27
+
+Yunnancoelacanthus acrotuberculatus	
+> Middle Triassic (late Pelsonian, middle–late Anisian), 245.47, 242
+> - Guanling Fm, Mbr II, Yunnan, China
+
+> - [References].54
+
 
 **References**
 1. Renesto, S. & Stockar, R. First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Rivista Italiana di Paleontologia e Stratigrafia 124, 639-653, doi:10.13130/2039-4942/10771 (2018).
