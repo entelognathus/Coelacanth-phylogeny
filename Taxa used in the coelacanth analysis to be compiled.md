@@ -9,7 +9,7 @@ New taxa and references added along with the research.
 
 > - Andrews *et al*. (2006).	
 
-*Strunius rolandi* 	
+[*Strunius rolandi*](https://deepbone.cn/public/#/explor?s_id=4250&functionId=Deepbone_header_searchResultOpen)	
 > Upper Devonian (earliest Frasnian), 382.7, 379.2
 
 > - Upper Plattenkalk, Heiligenstock quarry, Bergisch-Gladbach, Nordrhein-Westfalen, Germany
