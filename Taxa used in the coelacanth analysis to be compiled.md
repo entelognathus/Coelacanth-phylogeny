@@ -1,8 +1,8 @@
-**List of taxa, geological range (Ma), and references used in the analysis**
+**List of taxa, geological range (Ma), horizon and locality, and references used in the analysis**
 
 New taxa and references added along with the research.
 
-*Onychodus jandemarrai* 
+*Onychodus jandemarrai* https://deepbone.cn/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen
 > Upper Devonian (early Frasnian), 382.7, 379.2
 
 > - Gogo Fm, Western Australia, Australia
