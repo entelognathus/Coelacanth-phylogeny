@@ -26,7 +26,7 @@ New taxa and references added along with the research.
 *Qingmenodus yui*	
 > Lower Devonian (late Pragian), 408.67, 407.6
 
-> -Posongchong Fm, Yunnan, China
+> - Posongchong Fm, Yunnan, China
 
 > - [References]. 8
 
@@ -40,7 +40,7 @@ New taxa and references added along with the research.
 *Alcoveria brevis*	
 > Middle Triassic (Ladinian), 242, 237
 
-> -Tarragona Province, Spain	
+> - Tarragona Province, Spain	
 
 > - [References]. 10-12
 
@@ -121,120 +121,143 @@ Changxingia weii
 
 > - [References]. 27,28
 
-Chaohuichthys majiashanensis29	> Lower Triassic (Olenekian) 				251.2	247.2
-> Helongshan Fm, Anhui Province, Chaohu, China
+Chaohuichthys majiashanensis	
+> Lower Triassic (Olenekian), 251.2, 247.2
+> - Helongshan Fm, Anhui Province, Chaohu, China
 
-> - [References]. 
+> - [References]. 29
 
-Chinlea sorenseni12,14,30	> Upper Triassic (Carnian) 				237	227
-> Chinle Fm, Little Valley, Utah, USA; Colorado, New Mexico and Texas
+Chinlea sorenseni	
+> Upper Triassic (Carnian), 237, 227
+> - Chinle Fm, Little Valley, Utah, USA; Colorado, New Mexico and Texas
 
-> - [References]. 
+> - [References]. 12,14,30
 
-Coccoderma suevicum31-33	> Upper Jurassic (late Kimmeridgian-early Tithonian) 		153.83	149.73
-> Solnhofen and Nusplingen (W of Solnhofen) Baden-Württemberg, Bavaria, Germany
+Coccoderma suevicum	
+> Upper Jurassic (late Kimmeridgian-early Tithonian), 153.83, 149.73
+> - Solnhofen and Nusplingen (W of Solnhofen) Baden-Württemberg, Bavaria, Germany
 
-> - [References]. 
+> - [References]. 31-33
 
-Coelacanthus granulatus12,34	> Upper Permian (Guadaloupian) 				272.95	259.1
-> Marl Slate, Durham and Northumberland, England, UK; Kuperschiefer, Germany
+Coelacanthus granulatus	
+> Upper Permian (Guadaloupian), 272.95, 259.1
+> - Marl Slate, Durham and Northumberland, England, UK; Kuperschiefer, Germany
 
-> - [References]. 
+> - [References]. 12,34
 
-Diplocercides heiligenstockiensis6,7	> Upper Devonian (earliest Frasnian) 			382.7	379.2
-> Upper Plattenkalk, Heiligenstock quarry, Bergisch-Gladbach, Nordrhein-Westfalen, Germany
+Diplocercides heiligenstockiensis	
+> Upper Devonian (earliest Frasnian), 382.7, 379.2
+> - Upper Plattenkalk, Heiligenstock quarry, Bergisch-Gladbach, Nordrhein-Westfalen, Germany
 
-> - [References]. 
+> - [References]. 6,7
 
-Diplocercides kayseri6	> Upper Devonian (late Frasnian) 				375.7	372.2
-> Bad Wildungen, Germany
+Diplocercides kayseri	
+> Upper Devonian (late Frasnian, 375.7, 372.2
+> - Bad Wildungen, Germany
 
-> - [References]. 
+> - [References]. 6
 
-Diplurus newarki12,35,36	> Lower Jurassic (Sinemurian) 				199.3	190.8
-> New Jersey, USA
+Diplurus newarki	
+> Lower Jurassic (Sinemurian), 199.3, 190.8
+> - New Jersey, USA
 
-> - [References]. 
+> - [References]. 12,35,36
 
-Dobrogeria aegyssensis37	> Lower Triassic (early Spathian; =late Olenekian) 		248.53	247.2
-> Tulcea Veche Limestone, North Dobrogea, Romania
+Dobrogeria aegyssensis	
+> Lower Triassic (early Spathian; =late Olenekian), 248.53, 247.2
+> - Tulcea Veche Limestone, North Dobrogea, Romania
 
-> - [References]. 
+> - [References]. 37
 
-Eoactinistia foreyi38	> Lower Devonian (mid-Late Pragian) 			409.73	407.6
-> Fairy Fm, Buchan, Victoria, Australia
+Eoactinistia foreyi	
+> Lower Devonian (mid-Late Pragian), 409.73, 407.6
+> - Fairy Fm, Buchan, Victoria, Australia
 
-> - [References]. 
+> - [References]. 38
 
-Euporosteus eifeliensis6,39	> Middle Devonian (late Givetian) 				384.37	382.7
-> Gerolstein, Germany
+Euporosteus eifeliensis	
+> Middle Devonian (late Givetian), 384.37, 382.7
+> - Gerolstein, Germany
 
-> - [References]. 
+> - [References]. 6,39
 
-Euporosteus yunnanensis40	> Lower Devonian (late Pragian) 				408.67	407.6
-> Posongchong Fm, Zhaotong, Yunnan Province, China
+Euporosteus yunnanensis	
+> Lower Devonian (late Pragian), 408.67, 407.6
+> - Posongchong Fm, Zhaotong, Yunnan Province, China
 
-> - [References]. 
+> - [References]. 40
 
-Foreyia maxkuhni41,42 	> Middle Triassic (early Ladinian) 				242	240.33
-> Prosanto Fm, Switzerland
+Foreyia maxkuhni 	
+> Middle Triassic (early Ladinian), 242, 240.33
+> - Prosanto Fm, Switzerland
 
-> - [References]. 
+> - [References]. 41,42
 
-Garnbergia ommata42,43	> Middle Triassic (late Anisian) 				243.73	242
-> Baden-Württemberg, Germany
+Garnbergia ommata	
+> Middle Triassic (late Anisian), 243.73, 242
+> - Baden-Württemberg, Germany
 
-> - [References]. 
+> - [References]. 42,43
 
-Gavinia syntrips44	> Middle Devonian (uppermost Givetian) 			384.37	382.7
-> Avon River Gr, Mount Howitt, Victoria, Australia
+Gavinia syntrips	
+> Middle Devonian (uppermost Givetian), 384.37, 382.7
+> - Avon River Gr, Mount Howitt, Victoria, Australia
 
-> - [References]. 
+> - [References]. 44
 
-Guizhoucoelacanthus guanlingensis45	> Mid-Upper Triassic (Ladinian-Carnian) 			242	227
-> Falang Fm, Wayao and Zhuganpo Mbrs, Guizhou and Yunnan provinces, China
+Guizhoucoelacanthus guanlingensis	
+> Mid-Upper Triassic (Ladinian-Carnian), 242, 227
+> - Falang Fm, Wayao and Zhuganpo Mbrs, Guizhou and Yunnan provinces, China
 
-> - [References]. 
+> - [References]. 45
 
-Hadronector donbairdi13,14	> Lower Carboniferous (Serpukhovian) 			330.9	323.2
-> Heath Fm, Bear Gulch Limestone Mbr, Montana, USA
+Hadronector donbairdi	
+> Lower Carboniferous (Serpukhovian), 330.9, 323.2
+> - Heath Fm, Bear Gulch Limestone Mbr, Montana, USA
 
-> - [References]. 
+> - [References]. 13,14
 
-Hainbergia granulata42,46	> Middle Triassic (late Anisian) 				243.73	242
-> Upper Muschelkalk, Gottingem, Germany
+Hainbergia granulata	
+> Middle Triassic (late Anisian), 243.73, 242
+> - Upper Muschelkalk, Gottingem, Germany
 
-> - [References]. 
+> - [References]. 42,46
 
-Heptanema paradoxum1	> Middle Triassic (Ladinian) 				242	239.51
-> Meride and Besano Fms, Monte San Giorgio, Canton Ticino, Switzerland
+Heptanema paradoxum	
+> Middle Triassic (Ladinian), 242, 239.51
+> - Meride and Besano Fms, Monte San Giorgio, Canton Ticino, Switzerland
 
-> - [References]. 
+> - [References]. 1
 
-Holophagus gulo12	> Lower Jurassic (Sinemurian) 				199.3	190.8
-> Dorset, England, UK
+Holophagus gulo	
+> Lower Jurassic (Sinemurian), 199.3, 190.8
+> - Dorset, England, UK
 
-> - [References]. 
+> - [References]. 12
 
-Holopterygius nudus47,48	> Upper Devonian (early Frasnian) 			382.7	379.2
-> Upper Plattenkalk, Heiligenstock quarry, Bergisch-Gladbach, Nordrhein-Westfalen, Germany
+Holopterygius nudus	
+> Upper Devonian (early Frasnian), 382.7, 379.2
+> - Upper Plattenkalk, Heiligenstock quarry, Bergisch-Gladbach, Nordrhein-Westfalen, Germany
 
-> - [References]. 
+> - [References]. 47,48
 
-Indocoelacanthus robustus49,50	> Lower Jurassic (Toarcian) 				182.7	174.1
-Kota Fm, Kota, India 	
+Indocoelacanthus robustus	
+> Lower Jurassic (Toarcian), 182.7, 174.1
+> - Kota Fm, Kota, India 	
 
-> - [References]. 
+> - [References]. 49,50
 
-Latimeria chalumnae51	> extant						13	0
-	> Comoros Islands, Mozambique Channel, South Africa
+Latimeria chalumnae	
+> extant, 13, 0
+> - Comoros Islands, Mozambique Channel, South Africa
 
-> - [References]. 
+> - [References]. 51
 
-Latimeria menadoensis51	> extant						13	0
-	> Manado, Sulawesi
+Latimeria menadoensis	
+> extant, 13, 0
+> - Manado, Sulawesi
 
-> - [References]. 
+> - [References]. 51
 
 Laugia groenlandica12,52,53	> Lower Triassic (Griesbachian) 				251.55	251.2
 > Wordie Creek Gr (Kap Stosch Fm), Kap Stosch, East Greenland
