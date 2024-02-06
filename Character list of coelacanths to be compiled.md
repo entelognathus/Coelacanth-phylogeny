@@ -2446,6 +2446,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > - Character 175? in 'early gnathostome phylogeny dataset' (posteriorly converging supraorbital canals).
 > - Check the definition of this character. The ethmoid commissure should be another character.
 > - The supraorbital sensory canals have a union between the orbits and are a characteristic of placoderms, e.g. absent in *Brindabellaspis* (King *et al*., 2018) but present in *Lunaspis* and *Macropetalichthys* (Van Valen, 1963).
+> -**Checked**. In Lu *et al.*(2016), *Austroptyctodus*, *Campbellodus*, *Lunaspis*, *Macropetalichthys*, *Rhamphodopsis* are coded as "1"(present). So, it is a placoderm character.
 
 314. Dermal cranial joint at level of sphenoid-otic junction: absent (0), present (1).
 > Lu *et al.* (2016), character 46; Clement et al. (2018), character 45.
@@ -2500,7 +2501,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 324. Preopercular shape: rhombic (0), bar-shaped (1).
 > Lu *et al.* (2016), character 56; Clement et al. (2018), character 55.
 
-> - Character 216 in 'early gnathostome phylogeny dataset'.
+> - Character 216 in 'early gnathostome phylogeny dataset'. **Repetition of character 66, rephrased.**
 
 325. Vertical canal associated with preopercular/suborbital canal: absent (0), present (1).
 > Lu *et al.* (2016), character 57; Clement et al. (2018), character 56.
@@ -2511,11 +2512,13 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > Lu *et al.* (2016), character 58; Clement et al. (2018), character 57.
 
 > - Character 219 in 'early gnathostome phylogeny dataset'.
+> - It is a chondrichthyan character.
 
 327. Extent of maxilla along cheek: to posterior margin of cheek (0), cheek bones exclude maxilla from posterior margin of cheek (1).
 > Lu *et al.* (2016), character 59; Clement et al. (2018), character 58.
 
 > - Character 267 in 'early gnathostome phylogeny dataset', 'contribution by maxilla to posterior margin of cheek: (0) present; (1) absent.'
+> - **Repetition of Character 98, rephrased.**
 
 328. Dermal neck joint: overlap (0), ginglymoid (1).
 > Lu *et al.* (2016), character 60; Clement et al. (2018), character 59.
@@ -3349,6 +3352,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > Lu *et al.* (2016), character 226; Clement et al. (2018), character 224.
 
 > - Character 660 in 'early gnathostome phylogeny dataset'.
+> - Zerina Johanson *et al.* (2012,  Zoomorphology): "The synarcual is a structure incorporating the anterior vertebrae of the axial skeleton and occurs in vertebrate taxa such as the fossil group Placodermi and the Chondrichthyes (Holocephali, Batoidea)."
 
 493. Series of thoracic supraneurals: absent (0), present (1).
 > Lu *et al.* (2016), character 227; Clement et al. (2018), character 225.
@@ -3373,12 +3377,13 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 497. Branching radial structure articulating with dorsal fin basal plate: absent (0), present (1).
 > Lu *et al.* (2016), character 231; Clement et al. (2018), character 229.
 
-> - Character 649 in 'early gnathostome phylogeny dataset'.
+> - Character 649 in 'early gnathostome phylogeny dataset'.**Related to character 231.**
 
 498. Anal fin: absent (0), present (1).
 > Lu *et al.* (2016), character 232; Clement et al. (2018), character 230
 
 > - Character 653 in 'early gnathostome phylogeny dataset'.
+> - > - Osteichthyans are coded as "1";
 
 499. Basal plate in anal fin: absent (0), present (1).
 > Lu *et al.* (2016), character 233; Clement et al. (2018), character 231.
@@ -3389,6 +3394,8 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > Lu *et al.* (2016), character 234; Clement et al. (2018), character 232.
 
 > - Character 656 in 'early gnathostome phylogeny dataset'.
+> - Osteichthyans are coded as "1"; Chondrichthyans are coded as "0".
+
 
 501. Supraneurals in axial lobe of caudal fin: absent (0), present (1).
 > Lu *et al.* (2016), character 235; Clement et al. (2018), character 233.
@@ -3399,6 +3406,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > Lu *et al.* (2016), character 236; Clement et al. (2018), character 234.
 
 > - Character 29 in 'early gnathostome phylogeny dataset'.
+> - Sarcopterygians are coded as "1"; Some actinopterygians are coded as "1".
 
 503. Enamel and pore canals: enamel absent from inner surface of pores (0), enamel lines portions of pore canal (1).
 > Lu *et al.* (2016), character 237; Clement et al. (2018), character 235.
@@ -3409,6 +3417,7 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > Lu *et al.* (2016), character 238; Clement et al. (2018), character 236.
 
 > - Character 156 in 'early gnathostome phylogeny dataset'.
+> - Actinopterygians are coded as "0" except *Dialipina* and *Ligulalepis*; Sarcopterygians are coded as "0".
 
 505. Pineal eminence (in taxa lacking pineal foramen): absent (0), present (1).
 > Lu *et al.* (2016), character 239; Clement et al. (2018), character 237.
@@ -3418,27 +3427,31 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 506. Position of anterior pit-line: on postparietal (0), on parietal (1).
 > Lu *et al.* (2016), character 240; Clement et al. (2018), character 238.
 
-> - Character 160 in 'early gnathostome phylogeny dataset'. The formulation in EGD is better.
+> - Character 160 in 'early gnathostome phylogeny dataset'. The formulation in EGD is better. **Repetition of character 45**
+> - Actinopterygians are coded as "0"; Sarcopterygians are coded as "1" except *Diplocercides*.
 
 507. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: absent (0), present (1).
 > Lu *et al.* (2016), character 241; Clement et al. (2018), character 239.
 
 > - Character 131 in 'early gnathostome phylogeny dataset'.
+> - Only some actinopterygians are coded as "1"
 
 508. Median skull roof bone between postparietals: absent (0), present (1).
 > Lu *et al.* (2016), character 242; Clement et al. (2018), character 240.
 
-> - Character 79 in 'early gnathostome phylogeny dataset'. The different formulation in EGD.
+> - Character 79 in 'early gnathostome phylogeny dataset'. The different formulation in EGD.**?**
 
 509. Westoll-lines: absent (0), present (1).
 > Lu *et al.* (2016), character 243; Clement et al. (2018), character 241.
 
 > - Character 157 in 'early gnathostome phylogeny dataset'.
+> - It is a dipnoan character.
 
 510. Preoperculosubmandibular: absent (0), present (1).
 > Lu *et al.* (2016), character 244; Clement et al. (2018), character 242.
 
 > - Character 217 in 'early gnathostome phylogeny dataset'.
+> - It is a porolepiform character.
 
 511. Hyomandibula: imperforate (0), perforate (1).
 > Lu *et al.* (2016), character 245; Clement et al. (2018), character 243.
@@ -3448,12 +3461,12 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 512. Urohyal shape: absent (0), vertical plate (1).
 > Lu *et al.* (2016), character 246; Clement et al. (2018), character 244.
 
-> - Character 352 in 'early gnathostome phylogeny dataset'.
+> - Character 352 in 'early gnathostome phylogeny dataset'. **The states are different.**
 
 513. Maxilla (in taxa with marginal jaw bones): present (0), absent (1).
 > Lu *et al.* (2016), character 247; Clement et al. (2018), character 245.
 
-> - Character 259 in 'early gnathostome phylogeny dataset'.
+> - Character 259 in 'early gnathostome phylogeny dataset'. **Repetition of character 95, the states are inversed!!!**
 
 514. Length of dentary: constitutes a majority of jaw length (0),  half the length of jaw or less (1).
 > Lu *et al.* (2016), character 248; Clement et al. (2018), character 246.
@@ -3464,16 +3477,19 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 > Lu *et al.* (2016), character 249; Clement et al. (2018), character 247.
 
 > - Character 317 in 'early gnathostome phylogeny dataset'.
+> - It is a dipnoan character.
 
 516. Prearticular symphysis: absent (0), present (1).
 > Lu *et al.* (2016), character 250; Clement et al. (2018), character 248.
 
 > - Character 318 in 'early gnathostome phylogeny dataset'.
+> - It is a dipnoan character.
 
 517. Mandibular sensory canal: extends through infradentaries (0), extends through infradentaries and dentary (1).
 > Lu *et al.* (2016), character 251; Clement et al. (2018), character 249.
 
-> - Character 303 in 'early gnathostome phylogeny dataset'.
+> - Character 303 in 'early gnathostome phylogeny dataset'.**The states are inverse!!!**
+> - In actinopterygians is (1), e.g., *Cheirolepis* and *Moythomasia*.
 
 518. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: absent (0), present (1).
 > Lu *et al.* (2016), character 252; Clement et al. (2018), character 250.
@@ -3515,10 +3531,10 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 
 > - Character 301 in 'early gnathostome phylogeny dataset'.
 
-526. Rostral tubuli: absent (0), present (1).
+~~526. Rostral tubuli: absent (0), present (1).~~
 > Lu *et al.* (2016), character 260; Clement et al. (2018), character 258.
 
-> - Character 24 in 'early gnathostome phylogeny dataset'. **Redundant, to be combined。**
+> - Character 24 in 'early gnathostome phylogeny dataset'. **Repetition of character 3, but the states are inverse.**
 
 527. Position of anterior nostril: facial (0), at oral margin (1).
 > Lu *et al.* (2016), character 261; Clement et al. (2018), character 259.
