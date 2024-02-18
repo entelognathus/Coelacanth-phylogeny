@@ -404,6 +404,7 @@
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 24.
 
 > - Character 159 in 'early gnathostome phylogeny dataset'.
+
 > - Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 307.
 
 > - The coding of *Dianodus* is XX.
@@ -2109,7 +2110,7 @@
 258. Supraneural: presence of “supraneurals” along most of the abdominal-thoracic region of the axial skeleton (0), presence of “supraneurals” limited to 1-5 vertebrae located anteriorly to the insertion of the epichordal lobe of the caudal fin (1), absence of “supraneurals” anteriorly to the insertion of the epichordal lobe of the caudal fin (2). (ordered)
 > Friedman (2007), Character 125.
 
-> - **Characters 657 and 658 in 'early gnathostome phylogeny dataset' are relative to this character.**
+> - Characters 657 and 658 in 'early gnathostome phylogeny dataset' are relative to this character.
 
 > - Clement *et al.* (in review): "According to Arratia *et al.* (2001), 'supraneurals' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia *et al.* (2001) illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia *et al.*, 2001, fig. 30) and Undina penicillata (Arratia *et al.*, 2001, fig. 31). They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125) considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline."
 
@@ -2203,21 +2204,15 @@
 
 > - Character 1 in 'early gnathostome phylogeny dataset'.
 
-> - This is a chondrichthyan character.
-
 270. Prismatic calcified cartilage: single layered (0), multi-layered (1).
 > Lu *et al.* (2016), character 2; Clement et al. (2018), character 2.
 
 > - Character 2 in 'early gnathostome phylogeny dataset'.
 
-> - This is a chondrichthyan character.
-
 271.  Perichondral bone: present (0), absent (1).
 > Lu *et al.* (2016), character 3; Clement et al. (2018), character 3.
 
 > - Character 4 in 'early gnathostome phylogeny dataset'.
-
-> - This is a chondrichthyan character.
 
 272. Extensive endochondral ossification: absent (0), present (1).
 > Lu *et al.* (2016), character 4; Clement et al. (2018), character 4.
@@ -2239,7 +2234,7 @@
 
 > - Character 15 in 'early gnathostome phylogeny dataset'.
 
-276.  Pore canal network (sensu Zhu et al. 2010): absent (0), present (1).
+276.  Pore canal network (sensu Zhu *et al*. 2010): absent (0), present (1).
 > Lu *et al.* (2016), character 8; Clement et al. (2018), character 8.
 
 > - Character 19 in 'early gnathostome phylogeny dataset'.
@@ -2374,7 +2369,7 @@
 ~~302. Anterior pit line of dermal skull roof: absent (0), present (1).~~
 > Lu *et al.* (2016), character 34; Clement et al. (2018), character 34.
 
-> - Character 159 in 'early gnathostome phylogeny dataset'.**Repetition of Character 44**
+> - Character 159 in 'early gnathostome phylogeny dataset'. Repetition of Character 44 herein.
 
 303. Tessera morphology: large interlocking polygonal plates (0), microsquamose, not larger than body squamation (1).
 > Lu *et al.* (2016), character 35; Clement et al. (2018), character 35.
@@ -2406,32 +2401,25 @@
 
 > - Character 201 in 'early gnathostome phylogeny dataset'.
 
-> - **It is a placoderm character. Not sure**
-
 308. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): within median bone (0), on bones flanking the median bone (e.g. paranuchals)(1).
 > Lu *et al.* (2016), character 40; Clement et al. (2018), character 40.
 
 > - Character 202 in 'early gnathostome phylogeny dataset'.
-> - **It is a placoderm character.**
 
 ~~309. Pineal opening perforation in dermal skull roof: present (0), absent (1).~~
 > Lu *et al.* (2016), character 41; Clement et al. (2018), character 41.
 
-> - Character 128 in 'early gnathostome phylogeny dataset'. **Repetition of Character 33.**
+> - Character 128 in 'early gnathostome phylogeny dataset'. Repetition of Character 33.
 
 310. Dermal plate associated with pineal eminence or foramen: contributes to orbital margin plate (0), bordered laterally by skull roofing bones (1).
 > Lu *et al.* (2016), character 42; Clement et al. (2018), character 42.
 
 > - Character 132 in 'early gnathostome phylogeny dataset'.
 
-> - All osteichthyans code as 1.
-
-311. Series of paired median skull roofing bones that meet at the dorsal midline of the 
-skull (rectilinear skull roof pattern): absent (0), present (1).
+311. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): absent (0), present (1).
 > Lu *et al.* (2016), character 43; no in Clement et al. (2018).
 
 > - Character 700 in 'early gnathostome phylogeny dataset'.
-> - All osteichthyans code as 1.  
 
 312. Broad supraorbital vaults: absent (0), present (1).
 > Lu *et al.* (2016), character 44; Clement et al. (2018), character 43.
@@ -2442,10 +2430,10 @@ skull (rectilinear skull roof pattern): absent (0), present (1).
 313. Median commissure between supraorbital sensory lines: absent (0), present (1).
 > Lu *et al.* (2016), character 45; Clement et al. (2018), character 44.
 
-> - Character 175? in 'early gnathostome phylogeny dataset' (posteriorly converging supraorbital canals).
-> - Check the definition of this character. The ethmoid commissure should be another character.
+> - Character 175 in 'early gnathostome phylogeny dataset' (posteriorly converging supraorbital canals).
+
 > - The supraorbital sensory canals have a union between the orbits and are a characteristic of placoderms, e.g. absent in *Brindabellaspis* (King *et al*., 2018) but present in *Lunaspis* and *Macropetalichthys* (Van Valen, 1963).
-> -**Checked**. In Lu *et al.*(2016), *Austroptyctodus*, *Campbellodus*, *Lunaspis*, *Macropetalichthys*, *Rhamphodopsis* are coded as "1"(present). So, it is a placoderm character.
+> - In Lu *et al.*(2016), *Austroptyctodus*, *Campbellodus*, *Lunaspis*, *Macropetalichthys*, *Rhamphodopsis* are coded as "1" (present).
 
 314. Dermal cranial joint at level of sphenoid-otic junction: absent (0), present (1).
 > Lu *et al.* (2016), character 46; Clement et al. (2018), character 45.
