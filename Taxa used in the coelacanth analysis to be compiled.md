@@ -3,7 +3,7 @@
 New taxa and references added along with the research.
 
 [*Onychodus jandemarrai*](https://deepbone.cn/public/#/explor?s_id=3050&functionId=Deepbone_header_searchResultOpen)
-> Upper Devonian (early Frasnian), 382.7, 379.2
+> Upper Devonian (early Frasnian), 382.7, 377.5
 
 > - Gogo Fm, Western Australia, Australia
 
@@ -12,14 +12,14 @@ New taxa and references added along with the research.
 > - To Xuemei, data of this genus and species in Deepbone should be complemented.	
 
 [*Strunius rolandi*](https://deepbone.cn/public/#/explor?s_id=4250&functionId=Deepbone_header_searchResultOpen)	
-> Upper Devonian (earliest Frasnian), 382.7, 379.2
+> Upper Devonian (earliest Frasnian), 382.7, 377.5
 
 > - Upper Plattenkalk, Heiligenstock quarry, Bergisch-Gladbach, Nordrhein-Westfalen, Germany
 
 > - [References].5-7
 
 *Strunius walteri* 
-> Upper Devonian (earliest Frasnian), 382.7, 379.2
+> Upper Devonian (earliest Frasnian), 382.7, 377.5
 
 > - Upper Plattenkalk, Heiligenstock quarry, Bergisch-Gladbach, Nordrhein-Westfalen, Germany
 
@@ -148,13 +148,13 @@ New taxa and references added along with the research.
 > - [References]. 12,34
 
 *Diplocercides heiligenstockiensis*	
-> Upper Devonian (earliest Frasnian), 382.7, 379.2
+> Upper Devonian (earliest Frasnian), 382.7, 377.5
 > - Upper Plattenkalk, Heiligenstock quarry, Bergisch-Gladbach, Nordrhein-Westfalen, Germany
 
 > - [References]. 6,7
 
 *Diplocercides kayseri*	
-> Upper Devonian (late Frasnian, 375.7, 372.2
+> Upper Devonian (late Frasnian, 377.5, 372.2
 > - Bad Wildungen, Germany
 
 > - [References]. 6
