@@ -26,7 +26,7 @@ New taxa and references added along with the research.
 > - [References].5-7	
 
 *Qingmenodus yui*	
-> Lower Devonian (late Pragian), 408.67, 407.6
+> Lower Devonian (late Pragian), 409.2, 407.6
 
 > - Posongchong Fm, Yunnan, China
 
