@@ -1384,12 +1384,12 @@
 > - The coding of *Qujingodus* is 0.
 
 156. Olfactory tracts: short diverging at the level or anterior to the ethmoid process (0), long diverging posterior to the level of the ethmoid process (closer to the optic foramen) (1)
-> Clement *et al.* (in review), Character 156.
+> Lu *et al.* (2016), character 117; Clement et al. (2018), character 116; Clement *et al.* (in review), Character 156. 
 
 > - Character 381 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
-> - **uncertain: similar with character 384 here. Looks not.**
+> - **same as character 384 here. The state formulation here is more definitive.**
 
 157. Hypophysial fossa: extending posterior to the orbit (0), extending at the level of the orbit or anterior to the orbit (1)
 > Clement *et al.* (in review), Character 157.
@@ -1432,14 +1432,14 @@
 > - The coding of *Qujingodus* is ?.
 
 162. Eye stalk or unfinished area for similar structure: present (0), absent (1). 
-> Friedman (2007), Character 95, polarity.
+> Friedman (2007), Character 95, polarity; Lu *et al.* (2016), character 131; Clement et al. (2018), character 130.
 
 > - Character 398 in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "Zhu & Yu (2002, char. 109) and Friedman (2007, char. 95) used this character with a different polarity."
 
 > - The coding of *Qujingodus* is ?.
-> - **similar with clement *et al*. (2018), Character 43 (character 398 here). Not sure.**
+> - **Clement *et al*. (2018), Character 130 (character 398 here).**
 
 163. Foramen for oculomotor nerve (III) relative, position of: dorsal and near the optic nerve (II) foramen (0), posterior and at the same height as the optic nerve (II) foramen (1)
 > Clement *et al.* (in review), Character 163.
@@ -1457,12 +1457,12 @@
 
 165 Basipterygoid process: present (0), absent (1)
 > Cloutier (1991a), Cloutier (1991b), Character 36; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 72.
-
+Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 > - Character 437 in 'early gnathostome phylogeny dataset'. **The states are inverse**
 
 > - The coding of *Qujingodus* is ?.
 > - **similar with clement *et al*. (2018), Character 148 (character 416 here). The states are inverse.**
-
+> - **check codings. Are they really same?***
 
 166. Basipterygoid process, size of: small knob-like process (0), developed as a broad platform (1). 
 > Forey (1991), Character 2.
@@ -1497,23 +1497,22 @@
 > - The coding of *Qujingodus* is ?. 
 
 170. Processus connectens, size of: knob like not well developed (0), long and well developed (1)
-> Clement *et al.* (in review), Character 170.
+> Mondéjar-Fernánde (2020), character 66; Clement *et al.* (in review), Character 170.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
-> - **similar with character 556 here.**
-
+> - **similar to character 556 here.**
 
 171. Vestibular fontanelle: absent (0), present (1). 
-> Friedman (2007), Character 180.
+> Friedman (2007), Character 180; Lu *et al.* (2016), character 171; Clement et al. (2018), character 169.
 
 > - Character 489 in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "The vestibular fontanelle is a large basicranial fenestra located ventrally to the notochord and that opens into the saccular region of the inner ear. The fenestra ovalis present in tetrapods is derived from the vestibular fontanelle (Clack, 1994)."
 
 > - The coding of *Qujingodus* is XX.
-> - **similar with clement *et al*. (2018), Character 169 (character 437 here).**
+> - **similar to Clement *et al*. (2018), Character 169 (character 437 here).**
 
 172. Posttemporal fossae: absent (0), present (1)
 > Friedman (2007), Character 103.
@@ -1825,12 +1824,12 @@
 > - The coding of *Qujingodus* is ?.
 
 214. Dorsal end of cleithrum, shape of: pointed (0), broad and rounded (1)
-> Friedman (2007), Character 107.
+> Friedman (2007), Character 107; Lu *et al.* (2016), character 183; Clement et al. (2018), character 181.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 579 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
-> - **similar with clement *et al*. (2018), Character 181 (character 449 here).**. **补全Character 449.**
+> - **similar to clement *et al*. (2018), Character 181 (character 449 here).**. **补全Character 449.**
 
 215. Cleithrum, articulation of: cleithrum articulates externally with extracleithrum only (0), cleithrum articulates externally with extracleithrum and clavicle (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 39.
@@ -2862,7 +2861,7 @@
 
 > - Character 110 in 'early gnathostome phylogeny dataset'.
 
-384. Olfactory tracts: short, with olfactory capsules situated close to telencephalon cavity (0), elongate and tubular (much longer than wide)(1).
+~~384. Olfactory tracts: short, with olfactory capsules situated close to telencephalon cavity (0), elongate and tubular (much longer than wide)(1).~~
 > Lu *et al.* (2016), character 117; Clement et al. (2018), character 116.
 
 > - Character 381 in 'early gnathostome phylogeny dataset'.
@@ -2933,16 +2932,15 @@
 
 > - Character 401 in 'early gnathostome phylogeny dataset'.
 
-398. Eyestalk attachment area: absent (0), present (1).
+~~398. Eyestalk attachment area: absent (0), present (1).~~
 > Lu *et al.* (2016), character 131; Clement et al. (2018), character 130.
 
 > - Character 398 in 'early gnathostome phylogeny dataset'.
 
-~~399. Postorbital process: absent (0), present (1).~~
+399. Postorbital process: absent (0), present (1).
 > Lu *et al.* (2016), character 132; Clement et al. (2018), character 131.
 
 > - Character 412 in 'early gnathostome phylogeny dataset'.
-> - **Repetition of Character 86.**
 
 400. Canal for jugular in postorbital process: absent (0), present (1).
 > Lu *et al.* (2016), character 133; Clement et al. (2018), character 132.
@@ -3191,7 +3189,7 @@
 
 > - Character 560 in 'early gnathostome phylogeny dataset'.
 
-**449. Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate)/  spatulate pointed,**.**这里明显不全啊**
+~~449. Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate)/  spatulate pointed,.~~
 > Lu *et al.* (2016), character 183; Clement et al. (2018), character 181.
 
 > - Character 579 in 'early gnathostome phylogeny dataset'.
