@@ -1331,15 +1331,16 @@
 > - The coding of *Qujingodus* is 0.
 
 150. Parasphenoid: without ascending laminae anteriorly (0), with ascending laminae anteriorly (1). 
-> Forey (1991), Character 3; Forey (1998), Character 61; Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 79; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 39.
+> Forey (1991), Character 3; Forey (1998), Character 61; Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015); Lu *et al.* (2016), character 113; Cavin *et al.* (2017);  Clement et al. (2018), character 112; Renesto & Stockar (2018); Cavin *et al.* (2019), Cavin *et al.* (2020), Character 39; Toriño *et al.* (2021), Character 79.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "The anterolateral ascending laminae of the parasphenoid are known in *Macropoma* and *Latimeria* (Forey, 1998). They also have been referred to as the "prominent lateral wing" (Forey, 1998)."
 
 > - The coding of *Qujingodus* is 0.
-> - **uncertain: similar with clement *et al*. (2018), Character 112 (character 380 here). May be not.**
 
+> - **uncertain: similar to Clement *et al*. (2018), Character 112 (character 380 here). May be not.**
+> - **I think they are same. Check codings.**
 
 151. Buccohypophysial canal: open (0), close (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 35; Forey (1991), Character 4, polarity; Forey (1998), Character 78, polarity; Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 78.
@@ -2830,7 +2831,7 @@
 
 > - Character 275 in 'early gnathostome phylogeny dataset'.
 
-378. Parasphenoid: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
+~~378. Parasphenoid: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).~~
 > Lu *et al.* (2016), character 111; Clement et al. (2018), character 110.
 
 > - Character 278 in 'early gnathostome phylogeny dataset'. **more states here. To be modified in EGD**
@@ -2841,7 +2842,7 @@
 
 > - Character 279 in 'early gnathostome phylogeny dataset'.
 
-380. Enlarged ascending processes of parasphenoid: absent (0), present (1).
+~~380. Enlarged ascending processes of parasphenoid: absent (0), present (1).~~
 > Lu *et al.* (2016), character 113; Clement et al. (2018), character 112.
 
 > - Character 277 in 'early gnathostome phylogeny dataset'.
