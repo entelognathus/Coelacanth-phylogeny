@@ -43,9 +43,7 @@
 > - The coding of *Qujingodus* is 1.
 
 2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
-> Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part.
-
-> - Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
+> Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part; Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
 
 > - Character 166 in 'early gnathostome phylogeny dataset'. 
 
@@ -54,9 +52,7 @@
 > - The coding of *Qujingodus* is 2.
 
 3. Rostral tubuli: absent (0) , present (1).
-> Friedman (2007), character 136.
-
-> - Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Lu *et al.* (2016), character 260; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Clement et al. (2018), character 258; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71.
+> Friedman (2007), Character 136; Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Lu *et al.* (2016), Character 260; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Clement *et al*. (2018), Character 258; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71.
 
 > - Character 24 in 'early gnathostome phylogeny dataset'. 
 > 
