@@ -179,9 +179,9 @@
 > - The coding of *Qujingodus* is -.
 
 17. Supraorbital canal, course of: straight (0), lyre shaped (1).
-> Friedman (2007), Character 31.
+> Friedman (2007), Character 31; Zhu  *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
 
-> - Character 173 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
+> - Character 173 in 'early gnathostome phylogeny dataset'. 
 
 > - Clement *et al.* (in review): "Friedman (2007, char. 31) mentioned that the trajectory of the supraorbital canals resembles a lyre in dorsal view in *Styloichthys*, *Euporosteus*, *Latimeria* and numerous coelacanths and sarcopterygians. It is considered to be a derived condition shared by *Styloichthys*, Dipnomorpha and Tetrapodomorpha (Friedman, 2007). The lyre-shape is owing to a medial curvature followed by a lateral trajectory of the supraorbital canal at the most anterior level of the snout."
 
@@ -234,6 +234,7 @@
 > - Clement *et al.* (in review): "The three character-states for a morphocline."
 
 > - The coding of *Qujingodus* is 1.
+
 > - **Mondéjar-Fernánde (2020), character 45 (character 554 here), but the character here has one more state (state 2).**
 
 24. Tabular descending process: absent (0), present (1).
@@ -246,9 +247,9 @@
 > - The coding of *Qujingodus* is 0.
 
 25. Otic canal: running through skull roof (0), following edge of skull roof (1)
-> Clement *et al.* (in review), Character 25.
+>  Zhu  *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300; Clement *et al.* (in review), Character 25.
 
-> - Character 179 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300.
+> - Character 179 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is 0.
 
@@ -410,15 +411,18 @@
 > - Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 307.
 
 > - The coding of *Qujingodus* is 1.
+
 > - **Same as clement *et al*. (2018), Character 34 (character 302 here).**
 
 45. Anterior pit line, position of: on postparietal (0), on parietal (1). 
 > Friedman (2007), Character 36; Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Lu *et al.* (2016), character 34; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Clement et al. (2018), character 34; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
 
 > - Character 160 in 'early gnathostome phylogeny dataset'. 
+
 > - Clement *et al.* (in review): "Character 45 is linked to character 44."
 
 > - The coding of *Qujingodus* is 1.
+
 > - **Same as clement *et al*. (2018), Character 238 (character 506 here).**
 
 46. Middle pit line: in line with tabular pit line (0), not in line with tabular pit line (1). 
@@ -431,9 +435,9 @@
 > - The coding of *Qujingodus* is ?.
 
 47. Middle and posterior pit lines, position of: within posterior half of postparietals (0), within anterior third of postparietals (1). 
-> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Lu & Zhu (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 25.
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Lu & Zhu (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 25. Zhu  *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293.
 
-> - Character 161 in 'early gnathostome phylogeny dataset'. Rephrased. Zhu  *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293.
+> - Character 161 in 'early gnathostome phylogeny dataset', Rephrased. 
 
 > - Clement *et al.* (in review): "Character 47 is linked to characters 43 and 46."
 
@@ -447,9 +451,9 @@
 > - The coding of *Qujingodus* is 0.
 
 49. Extratemporal: absent (0), present (1)
-> Friedman (2007), Character 16; Lu & Zhu (2009), Character 10.
+> Friedman (2007), Character 16; Lu & Zhu (2009), Character 10; King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Characters 100,145 and 160; Brazeau *et al*. (2023), Character 268.
 
-> - Character 98 in 'early gnathostome phylogeny dataset', in part. King *et al*. (2017), Character 263; Castiello (2018), Character 260; Zhu *et al*. (2016), Character 346; Zhu Y. *et al*. (2021), Character 313; Zhu Y. *et al*. (2022), Characters 100,145 and 160; Brazeau *et al*. (2023), Character 268.
+> - Character 98 in 'early gnathostome phylogeny dataset', in part. 
 
 > - The coding of *Qujingodus* is ?.
 
