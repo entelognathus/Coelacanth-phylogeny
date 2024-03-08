@@ -210,7 +210,7 @@
 
 > - The coding of *Qujingodus* is 1.
 
-> - ** Clement *et al*. (2018), Character 47 (character 315 here) used 3 states: two (0) , one (1), more than two (2). We keep using two states.**
+> - **Clement *et al*. (2018), Character 47 (character 316 here) used 3 states: two (0) , one (1), more than two (2). We keep using two states.**
 
 21. Intertemporal: absent (0), present (1)
 > Cloutier (1991a), Cloutier (1991a), Character 17; Forey (1991), Character 15;  Forey (1998), Clément (2005), Friedman & Coates (2006), Character 12; Friedman (2007), Character 17; Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 12.
