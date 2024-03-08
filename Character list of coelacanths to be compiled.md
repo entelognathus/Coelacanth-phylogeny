@@ -204,13 +204,13 @@
 > - The coding of *Qujingodus* is 2.
 
 20. Lateral bones alongside postparietal, number of: one (0), two or more (1)
-> Friedman (2007), Character 8; Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
+> Friedman (2007), Character 8; Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Lu et al. (2016), character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Clement et al. (2018), character 47; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
 
 > - Character 149 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is 1.
 
-> - **This character is similar with Clement *et al*. (2018), Character 47 (character 315 here). However, the states in Clement *et al*. (2018) are more conplete with 3 states, two (0) , one (1), more than two (2).**
+> - ** Clement *et al*. (2018), Character 47 (character 315 here) used 3 states: two (0) , one (1), more than two (2). We keep using two states.**
 
 21. Intertemporal: absent (0), present (1)
 > Cloutier (1991a), Cloutier (1991a), Character 17; Forey (1991), Character 15;  Forey (1998), Clément (2005), Friedman & Coates (2006), Character 12; Friedman (2007), Character 17; Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 12.
