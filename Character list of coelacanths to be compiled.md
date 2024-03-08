@@ -569,7 +569,9 @@
 > - Clement *et al.* (in review): "Cloutier (1991a, b, char. 23) recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29) defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal."
 
 > - The coding of *Qujingodus* is ?.
-> - **Similar with clement *et al*. (2018), Character 53 (character 322 here).**
+
+> - **Similar to Clement *et al*. (2018), Character 53 (character 322 here).**
+> - **To Cui, not the same character. Check codings.**
 
 63. Contact between lacrimojugal and preorbital and/or supraorbital series: present (0), absent (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 51.
@@ -605,7 +607,9 @@
 > - Clement *et al.* (in review): "Character 66 is linked to character 65."
 
 > - The coding of *Qujingodus* is ?.
-> - **Looks like similar with clement *et al*. (2018), Character 55 (character 324 here). PLease check it.**
+
+> - **Looks like similar to Clement *et al*. (2018), Character 55 (character 324 here). PLease check it.**
+> - **To Cui, not the same character. Check codings.**
 
 67. Preoperculum: undifferentiated (0), developed as a posterior tube-like canal-bearing portion and an anterior blade-like portion (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 39.
@@ -782,8 +786,9 @@
 > - Clement *et al.* (in review): " Cloutier (1991b, char. 62) defined this anterior process of the postorbital as the anteroventral corner of the postorbital that extends anteriorly beyond the posteroventral margin of the orbit as seen in Mawsonia (e.g., *Mawsonia brasiliensis* (Yabumoto, 2002, fig. 4)."
 
 > - The coding of *Qujingodus* is ?.
-> - **Similar with clement *et al*. (2018), Character 131 (character 399 here).**
 
+> - **Similar to Clement *et al*. (2018), Character 131 (character 399 here).**
+> - **To Cui, not the same character.  Clement et al. 2o18 for endocranial postorbital process, here for the postorbital bone.**
 
 87. Postorbital, size of: large bone (0), reduced to narrow tube (1)
 > Cloutier (1991b), Character 63; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 42; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 22.
@@ -846,12 +851,13 @@
 > - The coding of *Qujingodus* is ?.
 
 95. Maxilla: absent (0), present (1)
-> Friedman (2007), Character 38.
+> Friedman (2007), Character 38; Lu *et al.* (2016), character 247, polarity; Clement et al. (2018), character 245, polarity; Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
 
-> - Character 259 in 'early gnathostome phylogeny dataset'. Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
+> - Character 259 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is 1.
-> - **similar with clement *et al*. (2018), Character 245 (character 513 here).**
+
+> - **similar to clement *et al*. (2018), Character 245 (character 513 here).**
 
 96. Ventral margin of maxilla: straight (0), curved (1).
 > Lu & Zhu (2009), Character 21.
@@ -863,25 +869,26 @@
 > - The coding of *Qujingodus* is 1.
 
 97. Posterior expansion of the maxilla: absent (0), small expansion (posterodorsal process) (1), large expansion (cleaver-shaped) (2). (ordered)
-> Friedman (2007), Character 39; Lu & Zhu (2009), Character 20, polarity.
+> Friedman (2007), Character 39; Lu & Zhu (2009), Character 20, polarity; Zhu  *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Lu *et al.* (2016), character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Clement et al. (2018), character 89; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Brazeau *et al*. (2023), Character 181.
 
-> - Character 266 in 'early gnathostome phylogeny dataset', rephrased. Zhu  *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Brazeau *et al*. (2023), Character 181.
+> - Character 266 in 'early gnathostome phylogeny dataset', rephrased. 
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline. Character 97 is linked to character 95."
 
 > - The coding of *Qujingodus* is 2.
-> - **similar with clement *et al*. (2018), Character 89 (character 357 here). But the states are differernt. Notice!!!**
+
+> - **similar to clement *et al*. (2018), Character 89 (character 357 here). But the states are differernt. Notice!!!**
 
 98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
 > Clement *et al.* (in review), Character 98.
 
-> - Character 267 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271; Brazeau *et al*. (2023), Character 182.
+> - Character 267 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Lu *et al.* (2016), character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Clement et al. (2018), character 58; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271; Brazeau *et al*. (2023), Character 182.
 
 > - Clement *et al.* (in review): "Character 98 is linked to character 95."
 
 > - The coding of *Qujingodus* is 0.
-> - **similar with clement *et al*. (2018), Character 58 (character 327 here).**
 
+> - **similar to clement *et al*. (2018), Character 58 (character 327 here).**
 
 99. Cheek bones, ornament of: absent or with very fine tuberculation (0), tubercular (1), represented as a coarse superficial rugosity (2), ridged (3).
 > Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 49; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 28.
@@ -1048,7 +1055,6 @@
 
 > - The coding of *Qujingodus* is 0.
 
-
 117. Dentary sensory pore: absent (0), present (1). 
 > Forey (1991), Character 42; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 61.
 
@@ -1082,7 +1088,9 @@
 > - Clement *et al.* (in review): "Character 120 is linked with character 118."
 
 > - The coding of *Qujingodus* is 0.
-> - **similar with clement *et al*. (2018), Character 80 (character 348 here). Not Sure, please check it.**
+
+> - **similar to clement *et al*. (2018), Character 80 (character 348 here). Not Sure, please check it.**
+> - **To Cui, not the same character.**
 
 121. Coronoid opposite posterior end of dentary: not modified (0), modified (1). 
 > Forey (1991), Character 28, in part; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 56; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 30.
@@ -1121,15 +1129,15 @@
 > - The coding of *Qujingodus* is ?.
 
 125. Coronoid fangs: absent (0), present (1). 
-> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 67; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 36.
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 67; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 36; Zhu  *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Lu *et al.* (2016), character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Clement et al. (2018), character 93; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292; Brazeau *et al*. (2023), Character 350.
 
-> - Character 288 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292; Brazeau *et al*. (2023), Character 350.
+> - Character 288 in 'early gnathostome phylogeny dataset'. 
 
 > - Clement *et al.* (in review): "Forey (1998, char. 67)12 considered the presence of enlarged teeth lying alongside a replacement socket upon at least some of the anterior coronoids as the apomorphic condition. However, based on outgroup comparison with onychodontiforms, the presence would rather correspond to the plesiomorphic condition."
 
 > - The coding of *Qujingodus* is 1.
-> - **similar with clement *et al*. (2018), Character 93 (character 361 here).**
 
+> - **Clement *et al*. (2018), Character 93 (character 361 here).**
 
 126. Oral pit line: short confined to angular (0), long reaching forward to dentary and or splenial (1)
 > Forey (1991), Character 43; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 58.
@@ -1169,7 +1177,6 @@
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
-
 
 131. Lower jaw, ornament of: ridged (0), tubercular (1), unornamented (2). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 62.
@@ -1266,12 +1273,12 @@
 > - The coding of *Qujingodus* is ?.
 
 143. Internasal pits: absent (0), one large pit (1), shallow pits with midline ridge (2), deep pear-shaped pits (3)
-> Friedman (2007), Character 91.
+> Friedman (2007), Character 91; Lu *et al.* (2016), character 120; Clement et al. (2018), character 119.
 
 > - Characters 386 and 387 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 3.
-> - **similar with clement *et al*. (2018), Character 119 (character 387 here).**
+> - **Clement *et al*. (2018), Character 119 (character 387 here).**
 
 144. Vomers, contact of: not meeting in midline (0), meeting medially (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), modified, Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 81; Friedman (2007), Character 77.
@@ -1281,21 +1288,22 @@
 > - The coding of *Qujingodus* is ?.
 
 145. Vomerine fangs: absent (0), present (1)
-> Friedman (2007), Character 78.
+> Friedman (2007), Character 78; Zhu  *et al*. (2009, Character 63), and references therein; Zhu *et al*. (2013), Character 235; Lu *et al.* (2016), character 257; Choo *et al*. (2017), Character 225; King *et al*. (2017), Character 360; Clement et al. (2018), character 255; Castiello (2018), Character 352; Zhu Y. *et al*. (2022), Character 276; Brazeau *et al*. (2023), Character 365.
 
-> - Character 272 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 63), and references therein; Zhu *et al*. (2013), Character 235; Choo *et al*. (2017), Character 225; King *et al*. (2017), Character 360; Castiello (2018), Character 352; Zhu Y. *et al*. (2022), Character 276; Brazeau *et al*. (2023), Character 365.
+> - Character 272 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is ?.
-> - **similar with clement *et al*. (2018), Character 255 (character 523 here).**
+> - **Clement *et al*. (2018), Character 255 (character 523 here).**
 
+146. Parasphenoid, shape of: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
+> Lu & Zhu (2009), Character 91; Lu *et al.* (2016), character 111; Clement et al. (2018), character 110; Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137; **Clement *et al.* (in review), character 146.**
 
-146. Parasphenoid, shape of: small lozenge shaped (0), broad splint shaped (1)
-> Lu & Zhu (2009), Character 91.
-
-> - Character 278 in 'early gnathostome phylogeny dataset', in part. Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137.
+> - Character 278 in 'early gnathostome phylogeny dataset'. 
+> - Clement *et al.* (in review): Parasphenoid, shape of: small lozenge shaped (0), broad splint shaped (1).
 
 > - The coding of *Qujingodus* is XX.
-> - **similar with clement *et al*. (2018), Character 255 (character 378 here).** **Combine the states.**
+
+> - **similar to Clement *et al*. (2018), Character 255 (character 378 here).** **Combine the states, note coding differences.** 
 
 147.Parasphenoid, shape of: margin close to parallel or subparallel (0), flared anteriorly (1). 
 > Clement *et al.* (in review), Character 147.
@@ -2714,7 +2722,7 @@
 
 > - Character 263 in 'early gnathostome phylogeny dataset'.
 
-357. Maxilla shape: splint-shaped (0), cleaver-shaped (1).
+~~357. Maxilla shape: splint-shaped (0), cleaver-shaped (1).~~
 > Lu *et al.* (2016), character 90; Clement et al. (2018), character 89.
 
 > - Character 266 in 'early gnathostome phylogeny dataset'.
@@ -2739,8 +2747,8 @@
 > Lu *et al.* (2016), character 94; Clement et al. (2018), character 93.
 
 > - Character 288 in 'early gnathostome phylogeny dataset'.
-> - **Repetition of Character 125.**
 
+> - **Repetition of Character 125.**
 
 362. Position of upper mandibular arch cartilage (and associated cheek plate where present)/  entirely suborbital with a postorbital extension,
 > Lu *et al.* (2016), character 95; Clement et al. (2018), character 94.
@@ -2827,7 +2835,6 @@
 
 > - Character 278 in 'early gnathostome phylogeny dataset'. **more states here. To be modified in EGD**
 > - **This character partly overlaps character 146 herein.**
-
 
 379. Multifid anterior margin of parasphenoid denticle plate: absent (0), present (1).
 > Lu *et al.* (2016), character 112; Clement et al. (2018), character 111.
