@@ -570,7 +570,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-> - **Similar to Clement *et al*. (2018), Character 53 (character 322 here).**
+> - ~~**Similar to Clement *et al*. (2018), Character 53 (character 322 here).**~~
 > - **To Cui, not the same character. Check codings.**
 
 63. Contact between lacrimojugal and preorbital and/or supraorbital series: present (0), absent (1).
@@ -607,8 +607,9 @@
 > - Clement *et al.* (in review): "Character 66 is linked to character 65."
 
 > - The coding of *Qujingodus* is ?.
+> - Only Coelacanthus granulatus is coded as "1".
 
-> - **Looks like similar to Clement *et al*. (2018), Character 55 (character 324 here). PLease check it.**
+> - ~~**Looks like similar to Clement *et al*. (2018), Character 55 (character 324 here). PLease check it.**~~
 > - **To Cui, not the same character. Check codings.**
 
 67. Preoperculum: undifferentiated (0), developed as a posterior tube-like canal-bearing portion and an anterior blade-like portion (1). 
@@ -787,7 +788,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-> - **Similar to Clement *et al*. (2018), Character 131 (character 399 here).**
+> - ~~**Similar to Clement *et al*. (2018), Character 131 (character 399 here).**~~
 > - **To Cui, not the same character.  Clement et al. 2o18 for endocranial postorbital process, here for the postorbital bone.**
 
 87. Postorbital, size of: large bone (0), reduced to narrow tube (1)
@@ -1089,7 +1090,7 @@
 
 > - The coding of *Qujingodus* is 0.
 
-> - **similar to clement *et al*. (2018), Character 80 (character 348 here). Not Sure, please check it.**
+> - ~~**similar to clement *et al*. (2018), Character 80 (character 348 here). Not Sure, please check it.**~~
 > - **To Cui, not the same character.**
 
 121. Coronoid opposite posterior end of dentary: not modified (0), modified (1). 
@@ -1341,6 +1342,7 @@
 
 > - **uncertain: similar to Clement *et al*. (2018), Character 112 (character 380 here). May be not.**
 > - **I think they are same. Check codings.**
+> - **To Zhu: The anterolateral ascending laminae of the parasphenoid are known in *Macropoma* and *Latimeria* (Forey, 1998, Pp 188-190). They also have been referred to as the "prominent lateral wing" (Forey, 1998). It is a coelacanth character.**
 
 151. Buccohypophysial canal: open (0), close (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 35; Forey (1991), Character 4, polarity; Forey (1998), Character 78, polarity; Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 78.
@@ -1462,7 +1464,7 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - The coding of *Qujingodus* is ?.
 > - **similar with clement *et al*. (2018), Character 148 (character 416 here). The states are inverse.**
-> - **check codings. Are they really same?***
+> - **check codings. Are they really same?** **To ZHU, Checked. YES**
 
 166. Basipterygoid process, size of: small knob-like process (0), developed as a broad platform (1). 
 > Forey (1991), Character 2.
@@ -2537,21 +2539,20 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - Character 207 in 'early gnathostome phylogeny dataset'.
 
-~~322. Cheek plate: undivided (0), divided (i.e., squamosal and preopercular)(1).~~
+322. Cheek plate: undivided (0), divided (i.e., squamosal and preopercular)(1).
 > Lu *et al.* (2016), character 54; Clement et al. (2018), character 53.
 
 > - Character 214 in 'early gnathostome phylogeny dataset'.
-> - **Repetition of Character 62.**
 
 323. Subsquamosals in taxa with divided cheek: absent (0), present (1).
 > Lu *et al.* (2016), character 55; Clement et al. (2018), character 54.
 
 > - Character 215 in 'early gnathostome phylogeny dataset'.
 
-~~324. Preopercular shape: rhombic (0), bar-shaped (1).~~
+324. Preopercular shape: rhombic (0), bar-shaped (1).
 > Lu *et al.* (2016), character 56; Clement et al. (2018), character 55.
 
-> - Character 216 in 'early gnathostome phylogeny dataset'. **Repetition of character 66, rephrased.**
+> - Character 216 in 'early gnathostome phylogeny dataset'.
 
 325. Vertical canal associated with preopercular/suborbital canal: absent (0), present (1).
 > Lu *et al.* (2016), character 57; Clement et al. (2018), character 56.
@@ -2841,7 +2842,7 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - Character 279 in 'early gnathostome phylogeny dataset'.
 
-~~380. Enlarged ascending processes of parasphenoid: absent (0), present (1).~~
+380. Enlarged ascending processes of parasphenoid: absent (0), present (1).
 > Lu *et al.* (2016), character 113; Clement et al. (2018), character 112.
 
 > - Character 277 in 'early gnathostome phylogeny dataset'.
@@ -2941,6 +2942,7 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 > Lu *et al.* (2016), character 132; Clement et al. (2018), character 131.
 
 > - Character 412 in 'early gnathostome phylogeny dataset'.
+> - This is an endocranial character.
 
 400. Canal for jugular in postorbital process: absent (0), present (1).
 > Lu *et al.* (2016), character 133; Clement et al. (2018), character 132.
