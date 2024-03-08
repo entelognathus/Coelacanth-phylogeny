@@ -58,7 +58,7 @@
 > 
 > - The coding of *Qujingodus* is 1.
 
-> - **Same with Clement *et al.* (2018), Character 258 (character 526 here)**
+> - **Same as Clement *et al.* (2018), Character 258 (character 526 here)**
 
 4. Rostral organ pores: absent (0), present (1). 
 > Cloutier (1991a), Character 145; Friedman (2007), Character 145.
@@ -236,6 +236,8 @@
 > - The coding of *Qujingodus* is 1.
 > - **This character is similar with clement *et al*. (2018), Character 286 (character 554 here). But here is one more state (state 2) than clement.**
 
+> Mondéjar-Fernánde (2020), character 45.
+
 24. Tabular descending process: absent (0), present (1).
 >  Cloutier (1991a), Cloutier (1991b), Character 19; Forey (1991), Character 17,homology; Forey (1998), rephrased, Clément (2005), rephrased, Friedman & Coates (2006), rephrased, Yabumoto (2008), rephrased, Geng *et al.* (2009), rephrased, Wendruff & Wilson (2012), rephrased, Dutel *et al.* (2012), rephrased, Zhu *et al.* (2012), rephrased, Graf (2012), rephrased, Wen *et al.* (2013), rephrased, Cavin *et al.* (2013), rephrased, Cavin & Grădinaru (2014), rephrased, Arratia & Schultze (2015), rephrased, Gess & Coates (2015), rephrased, Dutel *et al.* (2015), rephrased, Cavin *et al.* (2017), rephrased, Renesto & Stockar (2018), rephrased, Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), rephrased, Character 14.
 
@@ -315,7 +317,7 @@
 > - Character 128 in 'early gnathostome phylogeny dataset'. Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; King *et al*. (2017), Character 159; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 162.
 
 > - The coding of *Qujingodus* is 1.
-> - **Same with clement *et al*. (2018), Character 41 (character 309 here).**
+> - **Same as clement *et al*. (2018), Character 41 (character 309 here).**
 
 34. Parietals and postparietals: without raised or depressed areas (0), with raised areas (1), with depressed areas (2).
 > Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Character 28; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 14; Toriño *et al.* (2021), Character 28.
@@ -3707,58 +3709,58 @@
 > - Character 439 in 'early gnathostome phylogeny dataset'. 
 
 551. Parietal portion of skull roof relative to postparietal portion in length: parietal portion roughly as long as postparietal portion (0), parietal portion much longer postparietal portion (1), parietal portion much shorter than postparietal portion (2).
-> Mondéjar-Fernánde (2020), character 26.
+> Mondéjar-Fernánde (2020), character 26. Clement et al. (2018), character 283.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 ~~552> Postparietal narrowing posteriorly: absent (0), present (1).~~
-> Mondéjar-Fernánde (2020), character 27.
+> Mondéjar-Fernánde (2020), character 27. Clement et al. (2018), character 284.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 553. Length/width index of the postparietal: <150 (0), 150-300 (1), >300 (2).
-> Mondéjar-Fernánde (2020), character 28.
+> Mondéjar-Fernánde (2020), character 28. Clement et al. (2018), character 285.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 ~~554. Posterior margin of tabulars: anterior to posterior margin of postparietals (0), level with posterior margin of postparietals (1).~~
-> Mondéjar-Fernánde (2020), character 45.
+> Mondéjar-Fernánde (2020), character 45. Clement et al. (2018), character 286.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 555. Unconstricted cranial notochord: absent (0), present (1).
-> Mondéjar-Fernánde (2020), character 60.
+> Mondéjar-Fernánde (2020), character 60. Clement et al. (2018), character 287.
 
 > - Character 406 in 'early gnathostome phylogeny dataset'.
 
 ~~556. Processus connectens: knob-like,not well develped (0), long, well-developed (1).~~
-> Mondéjar-Fernánde (2020), character 66.
+> Mondéjar-Fernánde (2020), character 66. Clement et al. (2018), character 288.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 > - **Repetition of Character 170.**
 
 557. Denticulated field of parasphenoid: without spiracular groove (0), with spiracular groove (1).
-> Mondéjar-Fernánde (2020), character 104.
+> Mondéjar-Fernánde (2020), character 104. Clement et al. (2018), character 289.
 
 > - Character 282 in 'early gnathostome phylogeny dataset'.
 
 558. Enlarged anterior tooth on premaxilla: absent (0),  present (1).
-> Mondéjar-Fernánde (2020), character 121.
+> Mondéjar-Fernánde (2020), character 121. Clement et al. (2018), character 290.
 
 > - Character 247 in 'early gnathostome phylogeny dataset'.
 
 559. Enamel ribs on parasymphysial tooth whorl: absent (0), present (1).
-> Mondéjar-Fernánde (2020), character 144.
+> Mondéjar-Fernánde (2020), character 144. Clement et al. (2018), character 291.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 560. Mandibular sensory canal through the lowermost part of the infradentary series with many tubes: absent (0), present (1).
-> Mondéjar-Fernánde (2020), character 185.
+> Mondéjar-Fernánde (2020), character 185. Clement et al. (2018), character 292.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 561. Hypophysial fossa: ventrally extended (0), anteroventrally extended (1).
-> Mondéjar-Fernánde (2020), character 236.
+> Mondéjar-Fernánde (2020), character 236. Clement et al. (2018), character 293.
 
 > - Character 518 in 'early gnathostome phylogeny dataset'.**The states are different. Check it.**
 
