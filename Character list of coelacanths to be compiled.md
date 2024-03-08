@@ -370,15 +370,14 @@
 > - The coding of *Qujingodus* is 1.
 
 40. Postparietal: not narrowing posteriorly (0), narrowing posteriorly (1).
-> Lu & Zhu (2009), Character 7.
+> Lu & Zhu (2009), Character 7; Mondéjar-Fernánde (2020), character 27.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): " Lu and Zhu (2009, char. 7) defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in *Onychodus*, *Qingmenodus* and *Grossius*. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal (char. 39(2))."
 
 > - The coding of *Qujingodus* is 0.
-> - **Same with character 552 here.**
-
+> - **Same as character 552 here.**
 
 41. Postparietal postorbital, contact of: absent (0), present (1).
 > Cloutier (1991a), Cloutier (1991b), Character 14.
@@ -411,17 +410,16 @@
 > - Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 307.
 
 > - The coding of *Qujingodus* is 1.
-> - **Same with clement *et al*. (2018), Character 34 (character 302 here).**
+> - **Same as clement *et al*. (2018), Character 34 (character 302 here).**
 
 45. Anterior pit line, position of: on postparietal (0), on parietal (1). 
-> Friedman (2007), Character 36.
+> Friedman (2007), Character 36; Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Lu *et al.* (2016), character 34; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Clement et al. (2018), character 34; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
 
-> - Character 160 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
-
+> - Character 160 in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): "Character 45 is linked to character 44."
 
 > - The coding of *Qujingodus* is 1.
-> - **Same with clement *et al*. (2018), Character 238 (character 506 here).**
+> - **Same as clement *et al*. (2018), Character 238 (character 506 here).**
 
 46. Middle pit line: in line with tabular pit line (0), not in line with tabular pit line (1). 
 > Lu & Zhu (2009), Character 28.
