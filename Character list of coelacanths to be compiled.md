@@ -63,7 +63,9 @@
 4. Rostral organ pores: absent (0), present (1). 
 > Cloutier (1991a), Character 145; Friedman (2007), Character 145.
 
-> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Character 510 in 'early gnathostome phylogeny dataset'.（510. Rostral organ: (0) absent; (1) present.
+）
+> - in 'early gnathostome phylogeny dataset': King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111. Cui *et al*. (2023), Character 515.
 
 > - Clement *et al.* (in review): "Character 4 is linked to characters 5, 6 and 7."
 
@@ -115,7 +117,7 @@
 
 > - Clement *et al.* (in review): "Forey (1998, char. 5) coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998) when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our character 10."
 
-> - The coding of *Qujingodus* is ?.
+> - The coding of *Qujingodus* is 0.
 
 10. Dorsal lamina of premaxilla, completeness of: complete (0), invaginated (1), reduced (2). (ordered)
 > Forey (1991), character 10.
