@@ -1589,7 +1589,7 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 181. Well-developed posterolateral otic process: absent (0), present (1)
 > Clement *et al.* (in review), Character 181.
 
-> - Character 494 in 'early gnathostome phylogeny dataset'. **Not sure.**
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1712,7 +1712,7 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 198. Endolymphatic ducts: open posteriorly (0), open dorsally (1)
 > Clement *et al.* (in review), Character 198.
 
-> - Character 467 in 'early gnathostome phylogeny dataset'. **The states are different.**
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1776,6 +1776,8 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 207. Ceratobranchials, shape of: straight to weakly curved (0), strongly curved (1)
 > Clement *et al.* (in review), Character 207.
+
+> - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1964,7 +1966,7 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 231. Distal radials of basal plates: present (0), absent (1) 
 > Cloutier (1991a).
 
-> - Character 649 in 'early gnathostome phylogeny dataset'. **Not sure.**
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is ?.
 
