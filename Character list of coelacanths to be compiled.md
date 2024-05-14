@@ -106,7 +106,7 @@
 
 > - Clement *et al.* (in review) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered.  
 
-> - The coding of *Qujingodus* is 2.
+> - The coding of *Qujingodus* is 1.
 
 9. Dorsal lamina of premaxillae: present (0), absent (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 5.
@@ -1269,7 +1269,9 @@
 142. Submandibulars: absent (0), present (1)
 > Cloutier (1991a); Friedman (2007), Character 71.
 
-> - Characters 220-222 in 'early gnathostome phylogeny dataset'.
+> - Characters D14 (Deleted characters) in 'early gnathostome phylogeny dataset'.
+> - > - Castiello (2018): "This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
+
 
 > - The coding of *Qujingodus* is ?.
 
