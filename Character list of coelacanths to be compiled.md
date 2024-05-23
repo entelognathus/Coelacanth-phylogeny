@@ -915,6 +915,7 @@
 > Cloutier (1991a), Character 26, in part; Cloutier (1991b), Character 26.
 
 > - Character 214 in 'early gnathostome phylogeny dataset', polarity, rephrased. Giles *et al*. (2015), Character 54; Choo *et al*. (2017), Character 278; King *et al*. (2017), Character 214; Castiello (2018), Character 213; Zhu Y. *et al*. (2021), Character 52; Zhu Y. *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 219.
+> - Giles et al. (2015)：“This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-bearing dermal cheek (preorpercular or suborbital equivalent) is composed of one or multiple bones. State '0' is apparent in actinopterygians, Guiyu, Psarolepis (preopercular), Entelognathus and other placoderms.”
 
 > - Clement *et al.* (in review): "Character 101 is linked to character 65."
 
@@ -970,7 +971,7 @@
 107. Operculum: without sensory pores (0), with sensory pores (1)
 > Clement *et al.* (in review), Character 107.
 
-> - Character 228 in 'early gnathostome phylogeny dataset'. **Not sure**
+> - Character XX in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is ?.
 
