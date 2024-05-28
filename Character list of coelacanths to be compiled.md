@@ -411,14 +411,13 @@
 
 45. Anterior pit line, position of: on postparietal (0), on parietal (1). 
 > Friedman (2007), Character 36; Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Lu *et al.* (2016), character 34; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Clement et al. (2018), character 34; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
-
+> Lu *et al.* (2016), character 240; Clement et al. (2018), character 238.
 > - Character 160 in 'early gnathostome phylogeny dataset'. 
 
 > - Clement *et al.* (in review): "Character 45 is linked to character 44."
 
 > - The coding of *Qujingodus* is 1.
-
-> - **Same as clement *et al*. (2018), Character 238 (character 506 here).**
+> - Actinopterygians are coded as "0"; Sarcopterygians are coded as "1" except *Diplocercides*.
 
 46. Middle pit line: in line with tabular pit line (0), not in line with tabular pit line (1). 
 > Lu & Zhu (2009), Character 28.
@@ -3378,41 +3377,35 @@
 
 > - Character 129 in 'early gnathostome phylogeny dataset'.
 
-~~506. Position of anterior pit-line: on postparietal (0), on parietal (1).~~
-> Lu *et al.* (2016), character 240; Clement et al. (2018), character 238.
-
-> - Character 160 in 'early gnathostome phylogeny dataset'. The formulation in EGD is better. **Repetition of character 45**
-> - Actinopterygians are coded as "0"; Sarcopterygians are coded as "1" except *Diplocercides*.
-
-507. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: absent (0), present (1).
+492. Opening in dermal skull roof for spiracular bounded by bones carrying otic canal: absent (0), present (1).
 > Lu *et al.* (2016), character 241; Clement et al. (2018), character 239.
 
 > - Character 131 in 'early gnathostome phylogeny dataset'.
 > - Only some actinopterygians are coded as "1"
 
-508. Median skull roof bone between postparietals: absent (0), present (1).
+493. Median skull roof bone between postparietals: absent (0), present (1).
 > Lu *et al.* (2016), character 242; Clement et al. (2018), character 240.
 
 > - Character 79 in 'early gnathostome phylogeny dataset'. The different formulation in EGD.**?**
 
-509. Westoll-lines: absent (0), present (1).
+494. Westoll-lines: absent (0), present (1).
 > Lu *et al.* (2016), character 243; Clement et al. (2018), character 241.
 
 > - Character 157 in 'early gnathostome phylogeny dataset'.
 > - It is a dipnoan character.
 
-510. Preoperculosubmandibular: absent (0), present (1).
+495. Preoperculosubmandibular: absent (0), present (1).
 > Lu *et al.* (2016), character 244; Clement et al. (2018), character 242.
 
 > - Character 217 in 'early gnathostome phylogeny dataset'.
 > - It is a porolepiform character.
 
-511. Hyomandibula: imperforate (0), perforate (1).
+496. Hyomandibula: imperforate (0), perforate (1).
 > Lu *et al.* (2016), character 245; Clement et al. (2018), character 243.
 
 > - Character 343 in 'early gnathostome phylogeny dataset'.
 
-512. Urohyal shape: absent (0), vertical plate (1).
+497. Urohyal shape: absent (0), vertical plate (1).
 > Lu *et al.* (2016), character 246; Clement et al. (2018), character 244.
 
 > - Character 352 in 'early gnathostome phylogeny dataset'. **The states are different.**
