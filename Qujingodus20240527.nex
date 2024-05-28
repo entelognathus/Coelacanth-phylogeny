@@ -1,5 +1,5 @@
 #NEXUS
-[written Tue May 28 14:44:30 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
+[written Tue May 28 15:30:45 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
 
 BEGIN TAXA;
 	TITLE Taxa;
@@ -776,7 +776,7 @@ BEGIN SETS;
 END;
 
 BEGIN ASSUMPTIONS;
-	TYPESET * UNTITLED   =  unord:  3- 5 7 9 11- 14 17- 22 24- 25 27- 35 37- 52 54- 59 61- 73 75 77- 96 98- 99 101- 109 111 113- 134 136 138- 207 209- 217 219- 223 225- 226 228- 239 241- 257 259- 325 327- 382 384- 391 393- 419 421- 509 511 513- 515 517- 541, ord:  1- 2 6 8 10 15- 16 23-26\3 36 53 60 74 76 97-100\3 110 112 135 137 208 218 224-227\3 240 258 326 383 392 420 510 512 516;
+	TYPESET * UNTITLED   =  unord:  1- 5 7 9 11- 14 17- 22 24- 25 27- 35 37- 52 54- 59 61- 73 75 77- 96 98- 99 101- 109 111 113- 134 136 138- 207 209- 217 219- 223 225- 226 228- 239 241- 257 259- 325 327- 382 384- 419 421- 509 511 513- 515 517- 541, ord:  6 8 10 15- 16 23-26\3 36 53 60 74 76 97-100\3 110 112 135 137 208 218 224-227\3 240 258 326 383 420 510 512 516;
 
 	EXSET * UNTITLED  = ;
 
@@ -786,11 +786,17 @@ BEGIN MESQUITECHARMODELS;
 	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1- 541;
 END;
 
+BEGIN NOTES;
+
+	SU  C = 392 N = selected B = TRUE;
+
+END;
+
 Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1716878670225;
+		timeSaved 1716881445486;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 4130245647425456845;
@@ -803,6 +809,10 @@ Begin MESQUITE;
 		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
 		tell It;
 			setID 0 6302092766071371204;
+			tell It;
+				setSelected  392;
+				attachments ;
+			endTell;
 			mqVersion 381;
 			checksumv 0 3 2229708952 null  getNumChars 541 numChars 541 getNumTaxa 178 numTaxa 178   short true   bits 2305843009213693983   states 31   sumSquaresStatesOnly 87948.0 sumSquares -6.825295307272534E20 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
 			mqVersion;
@@ -886,7 +896,6 @@ Begin MESQUITE;
 					tell It;
 						setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
 					endTell;
-					setActive;
 					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
 					colorCells  #mesquite.charMatrices.NoColor.NoColor;
 					colorRowNames  #mesquite.charMatrices.NoColor.NoColor;
@@ -954,6 +963,7 @@ Begin MESQUITE;
 						getToolPalette;
 						tell It;
 						endTell;
+						setActive;
 						rowsAreCharacters on;
 						toggleConstrainChar on;
 						toggleConstrainCharNum 3;
@@ -1015,7 +1025,7 @@ Begin MESQUITE;
 					setFontSize 10;
 					getToolPalette;
 					tell It;
-						setTool mesquite.lists.CharacterList.CharacterListWindow.ibeam;
+						setTool mesquite.lists.CharacterList.CharacterListWindow.arrow;
 					endTell;
 				endTell;
 				showWindow;
