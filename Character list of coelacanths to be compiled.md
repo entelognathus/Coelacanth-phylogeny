@@ -2,6 +2,9 @@
 ## Characters 1-268 are from Clement et al. (in review); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
 > - Clement *et al*. (in review): "Multistate characters that formed clear morphoclines (characters 1, 2, 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, and 258) were treated as ordered; others were treated as unordered."
 
+1- 2 6 8 10 15- 16 23-26\3 36 53 60 74 76 97-100\3 110 112 135 137 208 218 224-227\3 240 258 326 383 392 420 510 512 516
+
+
 > Ca, Cloutier (1991a),
 > Cb, Cloutier (1991b),
 > Fa, Forey (1991),
@@ -2805,7 +2808,7 @@
 
 > - Character 494 in 'early gnathostome phylogeny dataset'.
 
-383. Jugular canal: long (invested in otic region along length of skeletal labyrinth)(0), short (restricted to short portion of region of skeletal labyrinth, or anterior to it)(1), absent (jugular vein uninvested in otic region)(2).
+383. Jugular canal: long (invested in otic region along length of skeletal labyrinth)(0), short (restricted to short portion of region of skeletal labyrinth, or anterior to it)(1), absent (jugular vein uninvested in otic region)(2). (ordered)
 > Lu *et al.* (2016), character 126; Clement et al. (2018), character 125.
 
 > - Character 419 in 'early gnathostome phylogeny dataset'.
@@ -2991,7 +2994,7 @@
 
 > - Character 444 in 'early gnathostome phylogeny dataset'.
 
-420. Branchial ridges: present (0), reduced to vagal process (1), absent (articulation made with bare cranial wall)(1).
+420. Branchial ridges: present (0), reduced to vagal process (1), absent (articulation made with bare cranial wall)(2).(ordered)
 > Lu *et al.* (2016), character 166; Clement et al. (2018), character 164.
 
 > - Character 530 in 'early gnathostome phylogeny dataset'.
@@ -3452,7 +3455,7 @@
 
 > - Character 116 in 'early gnathostome phylogeny dataset'.
 
-510. Posterior nostril: facial (0), at margin of oral cavity (1),  palatal (2).
+510. Posterior nostril: facial (0), at margin of oral cavity (1),  palatal (2). (ordered)
 > Lu *et al.* (2016), character 262; Clement et al. (2018), character 260.
 
 > - Characters 111-112 in 'early gnathostome phylogeny dataset'.
