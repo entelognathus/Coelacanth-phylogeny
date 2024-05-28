@@ -1,9 +1,6 @@
 ﻿# Character List of the coelacanth clade.
 ## Characters 1-268 are from Clement et al. (in review); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
-> - Clement *et al*. (in review): "Multistate characters that formed clear morphoclines (characters 1, 2, 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, and 258) were treated as ordered; others were treated as unordered."
-
-1- 2 6 8 10 15- 16 23-26\3 36 53 60 74 76 97-100\3 110 112 135 137 208 218 224-227\3 240 258 326 383 392 420 510 512 516
-
+> - Multistate characters that formed clear morphoclines (characters 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, 258, 383, 420, 510, 512, and 516) were treated as ordered; others were treated as unordered.
 
 > Ca, Cloutier (1991a),
 > Cb, Cloutier (1991b),
@@ -3465,7 +3462,7 @@
 
 > - Character 377 in 'early gnathostome phylogeny dataset'.
 
-512. Ventral face of nasal capsule in taxa with mineralized ethmoid: complete fenestra ventrolateralis (0), entire floor unmineralized (1).
+512. Ventral face of nasal capsule in taxa with mineralized ethmoid: complete (0), fenestra ventrolateralis (1), entire floor unmineralized (2). (ordered)
 > Lu *et al.* (2016), character 264; Clement et al. (2018), character 262.
 
 > - Character 378 in 'early gnathostome phylogeny dataset'.
@@ -3485,7 +3482,7 @@
 
 > - Character 281 in 'early gnathostome phylogeny dataset'.
 
-516. Endoskeletal spiracular canal: open (0), spiracular bar complete enclosure in canal (1).
+516. Endoskeletal spiracular canal: open (0), spiracular bar (1), complete enclosure in canal (2). (ordered)
 > Lu *et al.* (2016), character 268; Clement et al. (2018), character 266.
 
 > - Character 404 in 'early gnathostome phylogeny dataset'.
