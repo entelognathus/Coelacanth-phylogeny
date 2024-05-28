@@ -53,12 +53,11 @@
 
 3. Rostral tubuli: absent (0) , present (1).
 > Friedman (2007), Character 136; Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Lu *et al.* (2016), Character 260; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Clement *et al*. (2018), Character 258; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71.
+> Lu *et al.* (2016), character 260; Clement et al. (2018), character 258.
 
 > - Character 24 in 'early gnathostome phylogeny dataset'. 
 > 
 > - The coding of *Qujingodus* is 1.
-
-> - **Same as Clement *et al.* (2018), Character 258 (character 526 here)**
 
 4. Rostral organ pores: absent (0), present (1). 
 > Cloutier (1991a), Character 145; Friedman (2007), Character 145.
@@ -844,12 +843,11 @@
 
 95. Maxilla: absent (0), present (1)
 > Friedman (2007), Character 38; Lu *et al.* (2016), character 247, polarity; Clement et al. (2018), character 245, polarity; Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
+> Lu *et al.* (2016), character 247, polarity; Clement et al. (2018), character 245, polarity.
 
 > - Character 259 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is 1.
-
-> - **similar to clement *et al*. (2018), Character 245 (character 513 here).**
 
 96. Ventral margin of maxilla: straight (0), curved (1).
 > Lu & Zhu (2009), Character 21.
@@ -1273,11 +1271,11 @@
 
 145. Vomerine fangs: absent (0), present (1)
 > Friedman (2007), Character 78; Zhu  *et al*. (2009, Character 63), and references therein; Zhu *et al*. (2013), Character 235; Lu *et al.* (2016), character 257; Choo *et al*. (2017), Character 225; King *et al*. (2017), Character 360; Clement et al. (2018), character 255; Castiello (2018), Character 352; Zhu Y. *et al*. (2022), Character 276; Brazeau *et al*. (2023), Character 365.
+> Lu *et al.* (2016), character 257; Clement et al. (2018), character 255.
 
 > - Character 272 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is ?.
-> - **Clement *et al*. (2018), Character 255 (character 523 here).**
 
 146. Parasphenoid, shape of: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
 > Lu & Zhu (2009), Character 91; Lu *et al.* (2016), character 111; Clement et al. (2018), character 110; Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137; **Clement *et al.* (in review), character 146.**
@@ -3410,80 +3408,63 @@
 
 > - Character 352 in 'early gnathostome phylogeny dataset'. **The states are different.**
 
-**513. Maxilla (in taxa with marginal jaw bones): present (0), absent (1).**
-> Lu *et al.* (2016), character 247; Clement et al. (2018), character 245.
-
-> - Character 259 in 'early gnathostome phylogeny dataset'. **Repetition of character 95, the states are inversed!!!**
-
-514. Length of dentary: constitutes a majority of jaw length (0),  half the length of jaw or less (1).
+498. Length of dentary: constitutes a majority of jaw length (0),  half the length of jaw or less (1).
 > Lu *et al.* (2016), character 248; Clement et al. (2018), character 246.
 
 > - Character 316 in 'early gnathostome phylogeny dataset'.
 
-515. Labial pit: absent (0), present (1).
+499. Labial pit: absent (0), present (1).
 > Lu *et al.* (2016), character 249; Clement et al. (2018), character 247.
 
 > - Character 317 in 'early gnathostome phylogeny dataset'.
 > - It is a dipnoan character.
 
-516. Prearticular symphysis: absent (0), present (1).
+500. Prearticular symphysis: absent (0), present (1).
 > Lu *et al.* (2016), character 250; Clement et al. (2018), character 248.
 
 > - Character 318 in 'early gnathostome phylogeny dataset'.
 > - It is a dipnoan character.
 
-517. Mandibular sensory canal: extends through infradentaries (0), extends through infradentaries and dentary (1).
+501. Mandibular sensory canal: extends through infradentaries (0), extends through infradentaries and dentary (1).
 > Lu *et al.* (2016), character 251; Clement et al. (2018), character 249.
 
 > - Character 303 in 'early gnathostome phylogeny dataset'.**The states are inverse!!!**
 > - In actinopterygians is (1), e.g., *Cheirolepis* and *Moythomasia*.
 
-518. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: absent (0), present (1).
+502. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: absent (0), present (1).
 > Lu *et al.* (2016), character 252; Clement et al. (2018), character 250.
 
 > - Character 295 in 'early gnathostome phylogeny dataset'.
 
-519. Posterior coronoid: similar to anterior coronoids (0), forms expanded coronoid process (1).
+503. Posterior coronoid: similar to anterior coronoids (0), forms expanded coronoid process (1).
 > Lu *et al.* (2016), character 253; Clement et al. (2018), character 251.
 
 > - Character 290 in 'early gnathostome phylogeny dataset'.
 
-520. Retroarticular process: absent (0), present (1).
+504. Retroarticular process: absent (0), present (1).
 > Lu *et al.* (2016), character 254; Clement et al. (2018), character 252.
 
 > - Character 319 in 'early gnathostome phylogeny dataset'.
 
-521. Inturned medial process of premaxilla: absent (0), present (1).
+505. Inturned medial process of premaxilla: absent (0), present (1).
 > Lu *et al.* (2016), character 255; Clement et al. (2018), character 253.
 
 > - Character 261 in 'early gnathostome phylogeny dataset'.
 
-522. Anteriorly directed adductor fossae between neurocranium and skull roof: absent (0), present (1).
+506. Anteriorly directed adductor fossae between neurocranium and skull roof: absent (0), present (1).
 > Lu *et al.* (2016), character 256; Clement et al. (2018), character 254.
 
 > - Character 158 in 'early gnathostome phylogeny dataset'.
 
-~~523. Vomerine fangs: absent (0), present (1).~~
-> Lu *et al.* (2016), character 257; Clement et al. (2018), character 255.
-
-> - Character 272 in 'early gnathostome phylogeny dataset'.
-> - **Repetition of Character 378.**
-
-
-524. Number of dermopalatines: multiple (0), one (1).
+507. Number of dermopalatines: multiple (0), one (1).
 > Lu *et al.* (2016), character 258; Clement et al. (2018), character 256.
 
 > - Character 300 (polarity) in 'early gnathostome phylogeny dataset'.
 
-525. Entopterygoids: separated (0), contact along midline (1).
+508. Entopterygoids: separated (0), contact along midline (1).
 > Lu *et al.* (2016), character 259; Clement et al. (2018), character 257.
 
 > - Character 301 in 'early gnathostome phylogeny dataset'.
-
-~~526. Rostral tubuli: absent (0), present (1).~~
-> Lu *et al.* (2016), character 260; Clement et al. (2018), character 258.
-
-> - Character 24 in 'early gnathostome phylogeny dataset'. **Repetition of character 3, but the states are inverse.**
 
 527. Position of anterior nostril: facial (0), at oral margin (1).
 > Lu *et al.* (2016), character 261; Clement et al. (2018), character 259.
