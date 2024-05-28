@@ -874,14 +874,12 @@
 
 98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
 > Clement *et al.* (in review), Character 98.
-
+> Lu *et al.* (2016), character 59; Clement et al. (2018), character 58, "Extent of maxilla along cheek: to posterior margin of cheek (0), cheek bones exclude maxilla from posterior margin of cheek (1)".
 > - Character 267 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Lu *et al.* (2016), character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Clement et al. (2018), character 58; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271; Brazeau *et al*. (2023), Character 182.
 
 > - Clement *et al.* (in review): "Character 98 is linked to character 95."
 
 > - The coding of *Qujingodus* is 0.
-
-> - **similar to clement *et al*. (2018), Character 58 (character 327 here).**
 
 99. Cheek bones, ornament of: absent or with very fine tuberculation (0), tubercular (1), represented as a coarse superficial rugosity (2), ridged (3).
 > Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 49; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 28.
@@ -2483,212 +2481,205 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - Character 109 in 'early gnathostome phylogeny dataset'.
 
-
-317. Suture between paired skull roofing bones (centrals of placoderms, postparietals of osteichthyans): straight (0), sinusoidal (1).
+312. Suture between paired skull roofing bones (centrals of placoderms, postparietals of osteichthyans): straight (0), sinusoidal (1).
 > Lu *et al.* (2016), character 49; Clement et al. (2018), character 48.
 
 > - Character 139 in 'early gnathostome phylogeny dataset'.
 
-318. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate /  absent present paranuchals precluded from nuchal by centrals no median posterior skull roof bone,
+313. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate /  absent present paranuchals precluded from nuchal by centrals no median posterior skull roof bone,
 > Lu *et al.* (2016), character 50; Clement et al. (2018), character 49.
 
 > - Character 154 in 'early gnathostome phylogeny dataset'.
 
-319. Paired pits on ventral surface of nuchal plate: absent (0), present (1).
+314. Paired pits on ventral surface of nuchal plate: absent (0), present (1).
 > Lu *et al.* (2016), character 51; Clement et al. (2018), character 50.
 
 > - Character 147 in 'early gnathostome phylogeny dataset'.
 
-320. Sclerotic ring: absent (0), present (1).
+315. Sclerotic ring: absent (0), present (1).
 > Lu *et al.* (2016), character 52; Clement et al. (2018), character 51.
 
 > - Character 203 in 'early gnathostome phylogeny dataset'.
 
-321. Consolidated cheek plates: absent (0), present (1).
+316. Consolidated cheek plates: absent (0), present (1).
 > Lu *et al.* (2016), character 53; Clement et al. (2018), character 52.
 
 > - Character 207 in 'early gnathostome phylogeny dataset'.
 
-322. Cheek plate: undivided (0), divided (i.e., squamosal and preopercular)(1).
+317. Cheek plate: undivided (0), divided (i.e., squamosal and preopercular)(1).
 > Lu *et al.* (2016), character 54; Clement et al. (2018), character 53.
 
 > - Character 214 in 'early gnathostome phylogeny dataset'.
 
-323. Subsquamosals in taxa with divided cheek: absent (0), present (1).
+318. Subsquamosals in taxa with divided cheek: absent (0), present (1).
 > Lu *et al.* (2016), character 55; Clement et al. (2018), character 54.
 
 > - Character 215 in 'early gnathostome phylogeny dataset'.
 
-324. Preopercular shape: rhombic (0), bar-shaped (1).
+319. Preopercular shape: rhombic (0), bar-shaped (1).
 > Lu *et al.* (2016), character 56; Clement et al. (2018), character 55.
 
 > - Character 216 in 'early gnathostome phylogeny dataset'.
 
-325. Vertical canal associated with preopercular/suborbital canal: absent (0), present (1).
+320. Vertical canal associated with preopercular/suborbital canal: absent (0), present (1).
 > Lu *et al.* (2016), character 57; Clement et al. (2018), character 56.
 
 > - Character 213 in 'early gnathostome phylogeny dataset'.
 
-326. Enlarged postorbital tessera separate from orbital series: absent (0), present (1).
+321. Enlarged postorbital tessera separate from orbital series: absent (0), present (1).
 > Lu *et al.* (2016), character 58; Clement et al. (2018), character 57.
 
 > - Character 219 in 'early gnathostome phylogeny dataset'.
 > - It is a chondrichthyan character.
 
-~~327. Extent of maxilla along cheek: to posterior margin of cheek (0), cheek bones exclude maxilla from posterior margin of cheek (1).~~
-> Lu *et al.* (2016), character 59; Clement et al. (2018), character 58.
-
-> - Character 267 in 'early gnathostome phylogeny dataset', 'contribution by maxilla to posterior margin of cheek: (0) present; (1) absent.'
-> - **Repetition of Character 98, rephrased.**
-
-328. Dermal neck joint: overlap (0), ginglymoid (1).
+322. Dermal neck joint: overlap (0), ginglymoid (1).
 > Lu *et al.* (2016), character 60; Clement et al. (2018), character 59.
 
 > - Characters 554-559 in 'early gnathostome phylogeny dataset'.
 > - The character herein is a simplifed treatment. The 'overlap' equals with the 'sliding joint'. 
 
-329. Sensory line scales or plates on head: unspecialized (0), apposed growth (1), paralleling canal (2), semicylindrical C-shaped ring scales (3).
+323. Sensory line scales or plates on head: unspecialized (0), apposed growth (1), paralleling canal (2), semicylindrical C-shaped ring scales (3).
 > Lu *et al.* (2016), character 61; Clement et al. (2018), character 60.
 
 > - Character 53 in 'early gnathostome phylogeny dataset'.
 
-330. Bony hyoidean gill-cover series (branchiostegals): absent (0), present (1).
+324. Bony hyoidean gill-cover series (branchiostegals): absent (0), present (1).
 > Lu *et al.* (2016), character 62; Clement et al. (2018), character 61.
 
 > - Character 220 in 'early gnathostome phylogeny dataset'.
 
-330. Branchiostegal plate series along ventral margin of lower jaw: absent (0), present (1).
+325. Branchiostegal plate series along ventral margin of lower jaw: absent (0), present (1).
 > Lu *et al.* (2016), character 63; Clement et al. (2018), character 62.
 
 > - Character 221 in 'early gnathostome phylogeny dataset'.
 
-331. Branchiostegal ossifications: plate-like (0), narrow and ribbon-like (1), filamentous (2).
+326. Branchiostegal ossifications: plate-like (0), narrow and ribbon-like (1), filamentous (2).
 > Lu *et al.* (2016), character 64; Clement et al. (2018), character 63.
 
 > - Character 222 in 'early gnathostome phylogeny dataset'.
 
-332. Branchiostegal ossifications: ornamented (0), unornamented (1).
+327. Branchiostegal ossifications: ornamented (0), unornamented (1).
 > Lu *et al.* (2016), character 65; Clement et al. (2018), character 64.
 
 > - Character 223 in 'early gnathostome phylogeny dataset'.
 
-333. Imbricated branchiostegal ossifications: absent (0), present (1).
+328. Imbricated branchiostegal ossifications: absent (0), present (1).
 > Lu *et al.* (2016), character 66; Clement et al. (2018), character 65.
 
 > - Character 224 in 'early gnathostome phylogeny dataset'.
 
-334. Median gular: absent (0), present (1).
+329. Median gular: absent (0), present (1).
 > Lu *et al.* (2016), character 67; Clement et al. (2018), character 66.
 
 > - Character 235 in 'early gnathostome phylogeny dataset'.
 
-335. Lateral gular: absent (0), present (1).
+330. Lateral gular: absent (0), present (1).
 > Lu *et al.* (2016), character 68; Clement et al. (2018), character 67.
 
 > - Character 233 in 'early gnathostome phylogeny dataset'.
 
-336. Opercular (submarginal) ossification: absent (0), present (1).
+331. Opercular (submarginal) ossification: absent (0), present (1).
 > Lu *et al.* (2016), character 69; Clement et al. (2018), character 68.
 
 > - Character 226 in 'early gnathostome phylogeny dataset'.
 
-337. Shape of opercular (submarginal) ossification: broad plate that tapers towards its proximal end (0), narrow, rod-shaped (1).
+332. Shape of opercular (submarginal) ossification: broad plate that tapers towards its proximal end (0), narrow, rod-shaped (1).
 > Lu *et al.* (2016), character 70; Clement et al. (2018), character 69.
 
 > - Character 227 in 'early gnathostome phylogeny dataset'.
 
-338. Size of lateral gular plates: extending most of length of the lower jaw (0), restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals)(1).
+333. Size of lateral gular plates: extending most of length of the lower jaw (0), restricted to the anterior third of the jaw (no longer than the width of three or four branchiostegals)(1).
 > Lu *et al.* (2016), character 71; Clement et al. (2018), character 70.
 
 > - Character 234 in 'early gnathostome phylogeny dataset'.
 
-339. Gill arches: largely restricted to region under braincase (0), extend far posterior to braincase (1).
+334. Gill arches: largely restricted to region under braincase (0), extend far posterior to braincase (1).
 > Lu *et al.* (2016), character 72; Clement et al. (2018), character 71.
 
 > - Character 359 in 'early gnathostome phylogeny dataset'.
 
-340. Basihyal: absent (0), present (1).
+335. Basihyal: absent (0), present (1).
 > Lu *et al.* (2016), character 73; Clement et al. (2018), character 72.
 
 > - Character 353 in 'early gnathostome phylogeny dataset'.
 
-341. Interhyal: absent (0), present (1).
+336. Interhyal: absent (0), present (1).
 > Lu *et al.* (2016), character 74; Clement et al. (2018), character 73.
 
 > - Character 344 in 'early gnathostome phylogeny dataset'.
 
-342. Hypohyal: absent (0), present (1).
+337. Hypohyal: absent (0), present (1).
 > Lu *et al.* (2016), character 75; Clement et al. (2018), character 74.
 
 > - Character 345 in 'early gnathostome phylogeny dataset'.
 
-343. Endoskeletal urohyal: absent (0), present (1).
+338. Endoskeletal urohyal: absent (0), present (1).
 > Lu *et al.* (2016), character 76; Clement et al. (2018), character 75.
 
 > - Character 351 in 'early gnathostome phylogeny dataset'.
 
-344. Oral dermal tubercles borne on jaw cartilages or at margins of the mouth: absent (0), present (1).
+339. Oral dermal tubercles borne on jaw cartilages or at margins of the mouth: absent (0), present (1).
 > Lu *et al.* (2016), character 77; Clement et al. (2018), character 76.
 
 > - Character 236 in 'early gnathostome phylogeny dataset'.
 
-345. Oral dermal tubercles patterned in organised rows (teeth): absent (0), present (1).
+340. Oral dermal tubercles patterned in organised rows (teeth): absent (0), present (1).
 > Lu *et al.* (2016), character 78; Clement et al. (2018), character 77.
 
 > - Character 237 in 'early gnathostome phylogeny dataset'.
 
-346. Enamel(oid) on teeth: absent (0), present (1).
+341. Enamel(oid) on teeth: absent (0), present (1).
 > Lu *et al.* (2016), character 79; Clement et al. (2018), character 78.
 
 > - Character 16 in 'early gnathostome phylogeny dataset'.
 
-347. Cap of enameloid restricted to upper part of teeth (acrodin): absent (0), present (1).
+342. Cap of enameloid restricted to upper part of teeth (acrodin): absent (0), present (1).
 > Lu *et al.* (2016), character 80; Clement et al. (2018), character 79.
 
 > - Character 17 in 'early gnathostome phylogeny dataset'.
 
-348. Tooth whorls: absent (0), present (1).
+343. Tooth whorls: absent (0), present (1).
 > Lu *et al.* (2016), character 81; Clement et al. (2018), character 80.
 
 > - Character 307 in 'early gnathostome phylogeny dataset'.
 
-349. Bases of tooth whorls: single, continuous plate (0), some or all whorls consist of separate tooth units (1).
+344. Bases of tooth whorls: single, continuous plate (0), some or all whorls consist of separate tooth units (1).
 > Lu *et al.* (2016), character 82; Clement et al. (2018), character 81.
 
 > - Character 309 in 'early gnathostome phylogeny dataset'.
 
-350. Distribution of tooth whorls: entire length of tooth row (0), restricted to symphysial region (1).
+345. Distribution of tooth whorls: entire length of tooth row (0), restricted to symphysial region (1).
 > Lu *et al.* (2016), character 83; Clement et al. (2018), character 82.
 
 > - Character 311 (reversed) in 'early gnathostome phylogeny dataset'.
 
-351. Distribution of tooth whorls: upper and lower jaws (0), lower jaws only (1),  upper jaws only (2).
+346. Distribution of tooth whorls: upper and lower jaws (0), lower jaws only (1),  upper jaws only (2).
 > Lu *et al.* (2016), character 84; Clement et al. (2018), character 83.
 
 > - Character 308 in 'early gnathostome phylogeny dataset'.
 
-352. Teeth ankylosed to dermal bones: absent (0), present (1).
+346. Teeth ankylosed to dermal bones: absent (0), present (1).
 > Lu *et al.* (2016), character 85; Clement et al. (2018), character 84.
 
 > - Character 238 in 'early gnathostome phylogeny dataset'.
 
-353. Plicidentine: absent (0), present (1).
+348. Plicidentine: absent (0), present (1).
 > Lu *et al.* (2016), character 86; Clement et al. (2018), character 85.
 
 > - Character 12 in 'early gnathostome phylogeny dataset'.
 
-354. Dermal jaw plates on biting surface of jaw cartilages: absent (0), present (1).
+349. Dermal jaw plates on biting surface of jaw cartilages: absent (0), present (1).
 > Lu *et al.* (2016), character 87; Clement et al. (2018), character 86.
 
 > - Character 239 in 'early gnathostome phylogeny dataset'.
 
-355. Maxillary and dentary marginal bones of mouth: absent (0), present (1).
+350. Maxillary and dentary marginal bones of mouth: absent (0), present (1).
 > Lu *et al.* (2016), character 88; Clement et al. (2018), character 87.
 
 > - This character can be subdivided. 
 > - Characters 258, 259, 268 in 'early gnathostome phylogeny dataset'. 
 
-356. Premaxilla: extends under orbit (0), restricted anterior to orbit (1).
+351. Premaxilla: extends under orbit (0), restricted anterior to orbit (1).
 > Lu *et al.* (2016), character 89; Clement et al. (2018), character 88.
 
 > - Character 263 in 'early gnathostome phylogeny dataset'.
