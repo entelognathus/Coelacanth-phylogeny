@@ -207,12 +207,10 @@
 
 20. Lateral bones alongside postparietal, number of: one (0), two or more (1)
 > Friedman (2007), Character 8; Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Lu et al. (2016), character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Clement et al. (2018), character 47; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
-
+> Lu *et al.* (2016), character 48, three states (two, one, more than two); Clement et al. (2018), character 47, three states .
 > - Character 149 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is 1.
-
-> - **Clement *et al*. (2018), Character 47 (character 316 here) used 3 states: two (0) , one (1), more than two (2). We keep using two states.**
 
 21. Intertemporal: absent (0), present (1)
 > Cloutier (1991a), Cloutier (1991a), Character 17; Forey (1991), Character 15;  Forey (1998), Clément (2005), Friedman & Coates (2006), Character 12; Friedman (2007), Character 17; Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 12.
@@ -257,14 +255,12 @@
 
 26. Otic canal, trajectory of: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2). (ordered)    
 > Cloutier (1991a), Cloutier (1991b), Character 20;Cloutier & Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37; Zhu & Yu (2002), Character 37; Friedman (2007), Character 40;  Lu & Zhu (2009), Character 30, in part; Giles *et al*. (2015), Character 47; Lu *et al.* (2016), character 47; Choo *et al*. (2017), Character 273; King *et al*. (2017), Character 303; Clement et al. (2018), character 46; Castiello (2018), Character 294; Zhu Y. *et al*. (2022), Character 184; Brazeau *et al*. (2023), Character 308.
-
+> Lu *et al.* (2016), character 47; Clement et al. (2018), character 46.
 > - Character 180 in 'early gnathostome phylogeny dataset', Rephrased. 
 
 > - Clement *et al.* (in review): " Cloutier (1991a, char. 20) defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20). The three character-states form a morphocline."
 
 > - The coding of *Qujingodus* is 0.
-
-> - **Clement *et al*. (2018), Character 46 (character 315 here). But the character-state here are more comprehensive**
 
 27. Medial branch of otic canal: absent (0), present (1)
 > Cloutier (1991a), Cloutier (1991b), Character 16; Forey (1991), Character 37; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Character 20; Lu & Zhu (2009), Character 30, in part;  Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 20.
@@ -2463,28 +2459,18 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - Character 202 in 'early gnathostome phylogeny dataset'.
 
-~~309. Pineal opening perforation in dermal skull roof: present (0), absent (1).~~
-> Lu *et al.* (2016), character 41; Clement et al. (2018), character 41.
-
-> - Character 128 in 'early gnathostome phylogeny dataset'. **Repetition of Character 33**.
-
-310. Dermal plate associated with pineal eminence or foramen: contributes to orbital margin plate (0), bordered laterally by skull roofing bones (1).
+308. Dermal plate associated with pineal eminence or foramen: contributes to orbital margin plate (0), bordered laterally by skull roofing bones (1).
 > Lu *et al.* (2016), character 42; Clement et al. (2018), character 42.
 
 > - Character 132 in 'early gnathostome phylogeny dataset'.
 
-311. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): absent (0), present (1).
-> Lu *et al.* (2016), character 43; no in Clement et al. (2018).
-
-> - Character 700 in 'early gnathostome phylogeny dataset'.
-
-312. Broad supraorbital vaults: absent (0), present (1).
+309. Broad supraorbital vaults: absent (0), present (1).
 > Lu *et al.* (2016), character 44; Clement et al. (2018), character 43.
 
 > - Character 133 in 'early gnathostome phylogeny dataset'.
 > - All osteichthyans code as 0.
 
-313. Median commissure between supraorbital sensory lines: absent (0), present (1).
+310. Median commissure between supraorbital sensory lines: absent (0), present (1).
 > Lu *et al.* (2016), character 45; Clement et al. (2018), character 44.
 
 > - Character 175 in 'early gnathostome phylogeny dataset' (posteriorly converging supraorbital canals).
@@ -2492,20 +2478,11 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 > - The supraorbital sensory canals have a union between the orbits and are a characteristic of placoderms, e.g. absent in *Brindabellaspis* (King *et al*., 2018) but present in *Lunaspis* and *Macropetalichthys* (Van Valen, 1963).
 > - In Lu *et al.*(2016), *Austroptyctodus*, *Campbellodus*, *Lunaspis*, *Macropetalichthys*, *Rhamphodopsis* are coded as "1" (present).
 
-314. Dermal cranial joint at level of sphenoid-otic junction: absent (0), present (1).
+311. Dermal cranial joint at level of sphenoid-otic junction: absent (0), present (1).
 > Lu *et al.* (2016), character 46; Clement et al. (2018), character 45.
 
 > - Character 109 in 'early gnathostome phylogeny dataset'.
 
-~~315. Otic canal extends through postparietals: absent (0), present (1).~~
-> Lu *et al.* (2016), character 47; Clement et al. (2018), character 46.
-
-> - Character 180 in 'early gnathostome phylogeny dataset'.**Repetition of character 26, but the steates are different. Need more check.**
-
-~~316. Number of bones of skull roof lateral to postparietals: two (0), one (1), more than two (2)~~
-> Lu *et al.* (2016), character 48; Clement et al. (2018), character 47.
-
-> - Character 149 in 'early gnathostome phylogeny dataset'. **Repetition of character 26, but the steates are different. Need more check.**
 
 317. Suture between paired skull roofing bones (centrals of placoderms, postparietals of osteichthyans): straight (0), sinusoidal (1).
 > Lu *et al.* (2016), character 49; Clement et al. (2018), character 48.
@@ -3869,6 +3846,14 @@ The list of 14 meristic characters provides the reference to character numbers u
 638. Position of anal fin / body length: [1, 11] / [1, 2]
 639. Caudal fin length / pre-caudal length: [6, 2] / [1, 6]
 640. Supplementary lobe length / caudal fin length: [8, 2] / [6, 2]
+
+
+309. Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): absent (0), present (1).
+> Lu *et al.* (2016), character 43; no in Clement et al. (2018).
+
+> - Character 700 in 'early gnathostome phylogeny dataset'.
+
+## References
 
 
 1 Renesto, S. & Stockar, R. First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Rivista Italiana di Paleontologia e Stratigrafia 124, 639-653, doi:10.13130/2039-4942/10771 (2018).
