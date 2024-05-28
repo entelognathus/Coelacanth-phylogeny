@@ -35,7 +35,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin *et al*. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones." Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '_unordered_'. Alternatively, this character can be splited into two characters: condition of snout bones (separate from one another vs consolidated); condition of consolidated snout bones (edentulous vs toothed).
+> - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin *et al*. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones." Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[unordered]'. Alternatively, this character can be splited into two characters: condition of snout bones (separate from one another vs consolidated); condition of consolidated snout bones (edentulous vs toothed).
 
 > - The coding of *Qujingodus* is 1.
 
@@ -44,7 +44,7 @@
 
 > - Character 166 in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it 'unordered'.
+> - Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[unordered]'.
 
 > - The coding of *Qujingodus* is 2.
 
