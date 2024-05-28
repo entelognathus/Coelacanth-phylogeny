@@ -1117,14 +1117,12 @@
 
 125. Coronoid fangs: absent (0), present (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 67; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 36; Zhu  *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Lu *et al.* (2016), character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Clement et al. (2018), character 93; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292; Brazeau *et al*. (2023), Character 350.
-
+> Lu *et al.* (2016), character 94; Clement et al. (2018), character 93.
 > - Character 288 in 'early gnathostome phylogeny dataset'. 
 
 > - Clement *et al.* (in review): "Forey (1998, char. 67)12 considered the presence of enlarged teeth lying alongside a replacement socket upon at least some of the anterior coronoids as the apomorphic condition. However, based on outgroup comparison with onychodontiforms, the presence would rather correspond to the plesiomorphic condition."
 
 > - The coding of *Qujingodus* is 1.
-
-> - **Clement *et al*. (2018), Character 93 (character 361 here).**
 
 126. Oral pit line: short confined to angular (0), long reaching forward to dentary and or splenial (1)
 > Forey (1991), Character 43; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 58.
@@ -2697,89 +2695,82 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - Character 292 in 'early gnathostome phylogeny dataset'.
 
-~~361. Coronoid fangs: absent (0), present (1).~~
-> Lu *et al.* (2016), character 94; Clement et al. (2018), character 93.
-
-> - Character 288 in 'early gnathostome phylogeny dataset'.
-
-> - **Repetition of Character 125.**
-
-362. Position of upper mandibular arch cartilage (and associated cheek plate where present)/  entirely suborbital with a postorbital extension,
+355. Position of upper mandibular arch cartilage (and associated cheek plate where present)/  entirely suborbital with a postorbital extension,
 > Lu *et al.* (2016), character 95; Clement et al. (2018), character 94.
 
 > - Character 335 in 'early gnathostome phylogeny dataset'.
 
-363. Position of mandibular arch articulations /  terminal subterminal,
+356. Position of mandibular arch articulations /  terminal subterminal,
 > Lu *et al.* (2016), character 96; Clement et al. (2018), character 95.
 
 > - Character 321 in 'early gnathostome phylogeny dataset'.
 
-364. Autopalatine and quadrate /  comineralized separate mineralizations,
+357. Autopalatine and quadrate /  comineralized separate mineralizations,
 > Lu *et al.* (2016), character 97; Clement et al. (2018), character 96.
 
 > - Character 332 in 'early gnathostome phylogeny dataset'.
 
-365. Large otic process of the palatoquadrate: absent (0), present (1).
+358. Large otic process of the palatoquadrate: absent (0), present (1).
 > Lu *et al.* (2016), character 98; Clement et al. (2018), character 97.
 
 > - Character 325 in 'early gnathostome phylogeny dataset'.
 
-366. Insertion area for jaw adductor muscles on palatoquadrate /  ventral or medial lateral,
+359. Insertion area for jaw adductor muscles on palatoquadrate /  ventral or medial lateral,
 > Lu *et al.* (2016), character 99; Clement et al. (2018), character 98.
 
 > - Character 327 in 'early gnathostome phylogeny dataset'.
 
-367. Palatoquadrate relationship to dermal cheek bones /  articulation narrow and restricted broad articulation,
+360. Palatoquadrate relationship to dermal cheek bones /  articulation narrow and restricted broad articulation,
 > Lu *et al.* (2016), character 100; Clement et al. (2018), character 99.
 
 > - Character 322 in 'early gnathostome phylogeny dataset'.
 
-368. Palatoquadrate fused with neurocranium: absent (0), present (1).
+361. Palatoquadrate fused with neurocranium: absent (0), present (1).
 > Lu *et al.* (2016), character 101; Clement et al. (2018), character 100.
 
 > - Character 333 in 'early gnathostome phylogeny dataset'.
 
-369. Oblique ridge or groove along medial face of palatoquadrate: absent (0), present (1).
+362. Oblique ridge or groove along medial face of palatoquadrate: absent (0), present (1).
 > Lu *et al.* (2016), character 102; Clement et al. (2018), character 101.
 
 > - Character 328 in 'early gnathostome phylogeny dataset'.
 
-370. Fenestration of palatoquadrate at basipterygoid articulation: absent (0), present (1).
+363. Fenestration of palatoquadrate at basipterygoid articulation: absent (0), present (1).
 > Lu *et al.* (2016), character 103; Clement et al. (2018), character 102.
 
 > - Character 329 in 'early gnathostome phylogeny dataset'.
 
-371. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate: absent (0), present (1).
+364. Perforate or fenestrate anterodorsal (metapterygoid) portion of palatoquadrate: absent (0), present (1).
 > Lu *et al.* (2016), character 104; Clement et al. (2018), character 103.
 
 > - Character 330 in 'early gnathostome phylogeny dataset'.
 
-372. Pronounced dorsal process on Meckelian bone or cartilage: absent (0), present (1).
+365. Pronounced dorsal process on Meckelian bone or cartilage: absent (0), present (1).
 > Lu *et al.* (2016), character 105; Clement et al. (2018), character 104.
 
 > - Character 338 in 'early gnathostome phylogeny dataset'.
 
-373. Number of coronoids /  four or more three or fewer,
+366. Number of coronoids: four or more (0), three or fewer (1).
 > Lu *et al.* (2016), character 106; Clement et al. (2018), character 105.
 
 > - Character 287 in 'early gnathostome phylogeny dataset'.
 
-374. Preglenoid process: absent (0), present (1).
+367. Preglenoid process: absent (0), present (1).
 > Lu *et al.* (2016), character 107; Clement et al. (2018), character 106.
 
 > - Character 340 in 'early gnathostome phylogeny dataset'.
 
-375. Jaw articulation located on rearmost extremity of mandible: absent (0), present (1).
+368. Jaw articulation located on rearmost extremity of mandible: absent (0), present (1).
 > Lu *et al.* (2016), character 108; Clement et al. (2018), character 107.
 
 > - Character 342 in 'early gnathostome phylogeny dataset'.
 
-376. Precerebral fontanelle: absent (0), present (1).
+369. Precerebral fontanelle: absent (0), present (1).
 > Lu *et al.* (2016), character 109; Clement et al. (2018), character 108.
 
 > - Character 380 in 'early gnathostome phylogeny dataset'.
 
-377. Median dermal bone of palate (parasphenoid): absent (0), present (1).
+370. Median dermal bone of palate (parasphenoid): absent (0), present (1).
 > Lu *et al.* (2016), character 110; Clement et al. (2018), character 109.
 
 > - Character 275 in 'early gnathostome phylogeny dataset'.
