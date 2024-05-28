@@ -1,8 +1,6 @@
 ﻿# Character List of the coelacanth clade.
-## Characters 1-268 are from Clement et al. (in review). 269-+++ are newly added (Lu et al., 2016, Clement et al. 2018). (To be edited)
-> Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201).(from Clement *et al*. in review, errors exist.)
-
-> Multistate characters that formed clear morphoclines (characters 1, 2, 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, and 258) were treated as ordered; others were treated as unordered. (from Clement *et al*. in review, Bayesian tip-dated inference, correct version)
+## Characters 1-268 are from Clement et al. (in review); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
+> - Clement *et al*. (in review): "Multistate characters that formed clear morphoclines (characters 1, 2, 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, and 258) were treated as ordered; others were treated as unordered."
 
 > Ca, Cloutier (1991a),
 > Cb, Cloutier (1991b),
@@ -32,7 +30,6 @@
 > T, Toriño et al. (2021).
 
 ## Skeletal tissues
-
 1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
 > Forey (1998), character 2; Friedman & Coates (2006),  character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
 
@@ -3610,7 +3607,7 @@
 
 > - Character 518 in 'early gnathostome phylogeny dataset'.**The states are different. Check it.**
 
-541. Supratemporal contact with postparietal:
+541. Supratemporal contact with postparietal: absent (0), present (1).
 > - **New character?**
 
 
