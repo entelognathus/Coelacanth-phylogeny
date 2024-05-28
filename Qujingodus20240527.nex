@@ -418,7 +418,7 @@ BEGIN CHARACTERS;
 		400 Entrance_of_internal_carotids /  through_separate_openings_flanking_the_hypophyseal_opening_or_recess through_a_common_opening_at_the_central_midline_of_the_basicranium,
 		401 Canal_for_efferent_pseudobranchial_artery_within_basicranial_cartilage /  absent present,
 		402 'Position of basal/basipterygoid articulation' /  same_anteroposterior_level_as_hypophysial_opening_ anterior_to_hypophysial_opening posterior_to_hypophysial_opening,
-		403 ' Articulation between neurocanium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation)' /  absent present,
+		403 'Articulation between neurocanium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation)' /  absent present,
 		404 Labyrinth_cavity /  separated_from_the_main_neurocranial_cavity_by_a_cartilaginous_or_ossified_capsular_wall skeletal_capsular_wall_absent,
 		405 Pituitary_vein_canal /  dorsal_to_level_of_basipterygoid_process flanked_posteriorly_by_basipterygoid_process,
 		406 'External (horizontal) semicircular canal' /  absent present,
@@ -783,7 +783,7 @@ BEGIN ASSUMPTIONS;
 END;
 
 BEGIN MESQUITECHARMODELS;
-	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1- 259 269- 541;
+	ProbModelSet * UNTITLED   =  'Mk1 (est.)':  1- 541;
 END;
 
 Begin MESQUITE;
