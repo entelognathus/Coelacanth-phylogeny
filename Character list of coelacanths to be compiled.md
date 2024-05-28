@@ -1254,18 +1254,16 @@
 > Cloutier (1991a); Friedman (2007), Character 71.
 
 > - Characters D14 (Deleted characters) in 'early gnathostome phylogeny dataset'.
-> - > - Castiello (2018): "This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
-
+> - Castiello (2018): "This character is problematic because it is not clear how it is possible to distinguish the submandibulars from the branchiostegals (which presence or absence is considered in character 280."
 
 > - The coding of *Qujingodus* is ?.
 
 143. Internasal pits: absent (0), one large pit (1), shallow pits with midline ridge (2), deep pear-shaped pits (3)
 > Friedman (2007), Character 91; Lu *et al.* (2016), character 120; Clement et al. (2018), character 119.
-
+> Lu *et al.* (2016), character 120; Clement et al. (2018), character 119.
 > - Characters 386 and 387 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 3.
-> - **Clement *et al*. (2018), Character 119 (character 387 here).**
 
 144. Vomers, contact of: not meeting in midline (0), meeting medially (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), modified, Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 81; Friedman (2007), Character 77.
@@ -1284,13 +1282,11 @@
 
 146. Parasphenoid, shape of: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
 > Lu & Zhu (2009), Character 91; Lu *et al.* (2016), character 111; Clement et al. (2018), character 110; Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137; **Clement *et al.* (in review), character 146.**
-
+> Lu *et al.* (2016), character 111; Clement et al. (2018), character 110.
 > - Character 278 in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (in review): Parasphenoid, shape of: small lozenge shaped (0), broad splint shaped (1).
 
 > - The coding of *Qujingodus* is XX.
-
-> - **similar to Clement *et al*. (2018), Character 255 (character 378 here).** **Combine the states, note coding differences.** 
 
 147.Parasphenoid, shape of: margin close to parallel or subparallel (0), flared anteriorly (1). 
 > Clement *et al.* (in review), Character 147.
@@ -1409,7 +1405,6 @@
 
 > - The coding of *Qujingodus* is 1.
 
-
 161. Ethmoid articulation for palatoquadrate: placed on postnasal wall (0), majority of facet located anterior to postnasal wall (1). 
 > Friedman (2007), Character 172.
 
@@ -1445,12 +1440,10 @@
 
 165 Basipterygoid process: present (0), absent (1)
 > Cloutier (1991a), Cloutier (1991b), Character 36; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 72.
-Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
-> - Character 437 in 'early gnathostome phylogeny dataset'. **The states are inverse**
+> Lu *et al.* (2016), character 149, polarity; Clement et al. (2018), character 148, polarity.
+> - Character 437 in 'early gnathostome phylogeny dataset', polarity, "Basipterygoid process (basal articulation) with vertically oriented component: absent (0), present (1)."
 
 > - The coding of *Qujingodus* is ?.
-> - **similar with clement *et al*. (2018), Character 148 (character 416 here). The states are inverse.**
-> - **check codings. Are they really same?** **To ZHU, Checked. YES**
 
 166. Basipterygoid process, size of: small knob-like process (0), developed as a broad platform (1). 
 > Forey (1991), Character 2.
@@ -2775,195 +2768,173 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - Character 275 in 'early gnathostome phylogeny dataset'.
 
-~~378. Parasphenoid: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).~~
-> Lu *et al.* (2016), character 111; Clement et al. (2018), character 110.
-
-> - Character 278 in 'early gnathostome phylogeny dataset'. **more states here. To be modified in EGD**
-> - **This character partly overlaps character 146 herein.**
-
-379. Multifid anterior margin of parasphenoid denticle plate: absent (0), present (1).
+371. Multifid anterior margin of parasphenoid denticle plate: absent (0), present (1).
 > Lu *et al.* (2016), character 112; Clement et al. (2018), character 111.
 
 > - Character 279 in 'early gnathostome phylogeny dataset'.
 
-380. Enlarged ascending processes of parasphenoid: absent (0), present (1).
+372. Enlarged ascending processes of parasphenoid: absent (0), present (1).
 > Lu *et al.* (2016), character 113; Clement et al. (2018), character 112.
 
 > - Character 277 in 'early gnathostome phylogeny dataset'.
 
-381. Buccohypophysial canal in parasphenoid: single (0), paired (1).
+373. Buccohypophysial canal in parasphenoid: single (0), paired (1).
 > Lu *et al.* (2016), character 114; Clement et al. (2018), character 113.
 
 > - Character 276 in 'early gnathostome phylogeny dataset'.
 
-382. Nasal opening(s): dorsal, placed between orbits (0), ventral and anterior to orbit (1).
+374. Nasal opening(s): dorsal, placed between orbits (0), ventral and anterior to orbit (1).
 > Lu *et al.* (2016), character 115; Clement et al. (2018), character 114.
 
 > - Character 372 in 'early gnathostome phylogeny dataset'.
 
-383. External opening of posterior nostril and orbit: separated by dermal bone(s)(0), confluent (1).
+375. External opening of posterior nostril and orbit: separated by dermal bone(s)(0), confluent (1).
 > Lu *et al.* (2016), character 116; Clement et al. (2018), character 115.
 
 > - Character 110 in 'early gnathostome phylogeny dataset'.
 
-~~384. Olfactory tracts: short, with olfactory capsules situated close to telencephalon cavity (0), elongate and tubular (much longer than wide)(1).~~
-> Lu *et al.* (2016), character 117; Clement et al. (2018), character 116.
-
-> - Character 381 in 'early gnathostome phylogeny dataset'.
-
-385. Prominent pre-orbital rostral expansion of the neurocranium: present (0), absent (1).
+376. Prominent pre-orbital rostral expansion of the neurocranium: present (0), absent (1).
 > Lu *et al.* (2016), character 118; Clement et al. (2018), character 117.
 
 > - Character 383 in 'early gnathostome phylogeny dataset'.
 
-386. Pronounced sub-ethmoidal keel: absent (0), present (1).
+377. Pronounced sub-ethmoidal keel: absent (0), present (1).
 > Lu *et al.* (2016), character 119; Clement et al. (2018), character 118.
 
 > - Character 397 in 'early gnathostome phylogeny dataset'.
 
-~~387. Internasal vacuities: absent (0), present (1).~~
-> Lu *et al.* (2016), character 120; Clement et al. (2018), character 119.
-
-> - Character 386 in 'early gnathostome phylogeny dataset'.
-> - **Repetition of Character 143.**
-
-388. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal: absent (0), present (1).
+378. Discrete division of the ethmoid and more posterior braincase at the level of the optic tract canal: absent (0), present (1).
 > Lu *et al.* (2016), character 121; Clement et al. (2018), character 120.
 
 > - Character 368 in 'early gnathostome phylogeny dataset'.
 
-389. Position of myodome for superior oblique eye muscles /  posterior and dorsal to foramen for nerve II anterior and dorsal to foramen,
+379. Position of myodome for superior oblique eye muscles /  posterior and dorsal to foramen for nerve II anterior and dorsal to foramen,
 > Lu *et al.* (2016), character 122; Clement et al. (2018), character 121.
 
 > - Character 400 in 'early gnathostome phylogeny dataset'.
 
-390. Endoskeletal intracranial joint: absent (0), present (1).
+380. Endoskeletal intracranial joint: absent (0), present (1).
 > Lu *et al.* (2016), character 123; Clement et al. (2018), character 122.
 
 > - Character 367 in 'early gnathostome phylogeny dataset'.
 
-391. Spiracular groove on basicranial surface: absent (0), present (1).
+381. Spiracular groove on basicranial surface: absent (0), present (1).
 > Lu *et al.* (2016), character 124; Clement et al. (2018), character 123.
 
 > - Character 424 in 'early gnathostome phylogeny dataset'.
 
-392. Transverse otic process: present (0), absent (1).
+382. Transverse otic process: present (0), absent (1).
 > Lu *et al.* (2016), character 125; Clement et al. (2018), character 124.
 
 > - Character 494 in 'early gnathostome phylogeny dataset'.
 
-393. Jugular canal: long (invested in otic region along length of skeletal labyrinth)(0), short (restricted to short portion of region of skeletal labyrinth, or anterior to it)(1), absent (jugular vein uninvested in otic region)(2).
+383. Jugular canal: long (invested in otic region along length of skeletal labyrinth)(0), short (restricted to short portion of region of skeletal labyrinth, or anterior to it)(1), absent (jugular vein uninvested in otic region)(2).
 > Lu *et al.* (2016), character 126; Clement et al. (2018), character 125.
 
 > - Character 419 in 'early gnathostome phylogeny dataset'.
 
-394. Spiracular groove on lateral commissure: absent (0), present (1).
+384. Spiracular groove on lateral commissure: absent (0), present (1).
 > Lu *et al.* (2016), character 127; Clement et al. (2018), character 126.
 
 > - Character 425 in 'early gnathostome phylogeny dataset'.
 
-395. Subpituitary fenestra: absent (0), present (1).
+385. Subpituitary fenestra: absent (0), present (1).
 > Lu *et al.* (2016), character 128; Clement et al. (2018), character 127.
 
 > - Character 426 in 'early gnathostome phylogeny dataset'.
 
-396. Supraorbital shelf broad with convex lateral margin: absent (0), present (1).
+386. Supraorbital shelf broad with convex lateral margin: absent (0), present (1).
 > Lu *et al.* (2016), character 129; Clement et al. (2018), character 128.
 
 > - Character 427 in 'early gnathostome phylogeny dataset'.
 
-397. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: present (0), absent (1).
+387. Orbit dorsal or facing dorsolaterally, surrounded laterally by endocranium: present (0), absent (1).
 > Lu *et al.* (2016), character 130; Clement et al. (2018), character 129.
 
 > - Character 401 in 'early gnathostome phylogeny dataset'.
 
-~~398. Eyestalk attachment area: absent (0), present (1).~~
-> Lu *et al.* (2016), character 131; Clement et al. (2018), character 130.
-
-> - Character 398 in 'early gnathostome phylogeny dataset'.
-
-399. Postorbital process: absent (0), present (1).
+388. Postorbital process: absent (0), present (1).
 > Lu *et al.* (2016), character 132; Clement et al. (2018), character 131.
 
 > - Character 412 in 'early gnathostome phylogeny dataset'.
 > - This is an endocranial character.
 
-400. Canal for jugular in postorbital process: absent (0), present (1).
+389. Canal for jugular in postorbital process: absent (0), present (1).
 > Lu *et al.* (2016), character 133; Clement et al. (2018), character 132.
 
 > - Character 417 in 'early gnathostome phylogeny dataset'.
 
-401. Series of perforations for innervation of supraorbital sensory canal in supraorbital shelf: absent (0), present (1).
+390. Series of perforations for innervation of supraorbital sensory canal in supraorbital shelf: absent (0), present (1).
 > Lu *et al.* (2016), character 134; Clement et al. (2018), character 133.
 
 > - Character 423 in 'early gnathostome phylogeny dataset'.
 
-402. Extended prehypophysial portion of sphenoid: absent (0), present (1).
+391. Extended prehypophysial portion of sphenoid: absent (0), present (1).
 > Lu *et al.* (2016), character 135; Clement et al. (2018), character 134.
 
 > - Character 431 in 'early gnathostome phylogeny dataset'.
 
-403. Narrow interorbital septum, with outer walls in contact along midline forming a single sheet: absent (0), present (1).
+392. Narrow interorbital septum, with outer walls in contact along midline forming a single sheet: absent (0), present (1).
 > Lu *et al.* (2016), character 136; Clement et al. (2018), character 135.
 
 > - Character 389 in 'early gnathostome phylogeny dataset'.
 
-404. The main trunk of facial nerve (N. VII): elongate and passes anterolaterally through orbital floor (0), stout, divides within otic capsule at the level of the transverse otic wall (1).
+393. The main trunk of facial nerve (N. VII): elongate and passes anterolaterally through orbital floor (0), stout, divides within otic capsule at the level of the transverse otic wall (1).
 > Lu *et al.* (2016), character 137; Clement et al. (2018), character 136.
 
 > - Character 432 in 'early gnathostome phylogeny dataset'.
 
-405. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal/  'traverses jugular canal, with separate exit in otic region' 'intersects jugular canal, with exit through posterior jugular foramen',
+394. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal/  'traverses jugular canal, with separate exit in otic region' 'intersects jugular canal, with exit through posterior jugular foramen',
 > Lu *et al.* (2016), character 138; Clement et al. (2018), character 137.
 
 > - Character 484 in 'early gnathostome phylogeny dataset'.
 
-406. Glossopharyngeal nerve (N. IX) exit/  foramen situated posteroventral to otic capsule and anterior to metotic fissure through metotic fissure,
+395. Glossopharyngeal nerve (N. IX) exit/  foramen situated posteroventral to otic capsule and anterior to metotic fissure through metotic fissure,
 > Lu *et al.* (2016), character 139; Clement et al. (2018), character 138.
 
 > - Character 541 in 'early gnathostome phylogeny dataset'.
 
-407. Relationship of cranial endocavity to basisphenoid: endocavity occupies full depth of sphenoid enodcavity (0), dorsally restricted (1).
+396. Relationship of cranial endocavity to basisphenoid: endocavity occupies full depth of sphenoid enodcavity (0), dorsally restricted (1).
 > Lu *et al.* (2016), character 140; Clement et al. (2018), character 139.
 
 > - Character 485 in 'early gnathostome phylogeny dataset'.
 
-408. Subcranial ridges: absent (0), present (1).
+397. Subcranial ridges: absent (0), present (1).
 > Lu *et al.* (2016), character 141; Clement et al. (2018), character 140.
 
 > - Character 495 in 'early gnathostome phylogeny dataset'.
 
-409. Ascending basisphenoid pillar pierced by common internal carotid: absent (0), present (1).
+398. Ascending basisphenoid pillar pierced by common internal carotid: absent (0), present (1).
 > Lu *et al.* (2016), character 142; Clement et al. (2018), character 141.
 
 > - Character 434 in 'early gnathostome phylogeny dataset'.
 
-410. Canal for lateral dorsal aorta within basicranial cartilage: absent (0), present (1).
+399. Canal for lateral dorsal aorta within basicranial cartilage: absent (0), present (1).
 > Lu *et al.* (2016), character 143; Clement et al. (2018), character 142.
 
 > - Character 492 in 'early gnathostome phylogeny dataset', polarity.
 
-411. Entrance of internal carotids: through separate openings flanking the hypophyseal opening or recess (0), through a common opening at the central midline of the basicranium (1).
+400. Entrance of internal carotids: through separate openings flanking the hypophyseal opening or recess (0), through a common opening at the central midline of the basicranium (1).
 > Lu *et al.* (2016), character 144; Clement et al. (2018), character 143.
 
 > - Character 411 in 'early gnathostome phylogeny dataset'.
 
-412. Canal for efferent pseudobranchial artery within basicranial cartilage: absent (0), present (1).
+401. Canal for efferent pseudobranchial artery within basicranial cartilage: absent (0), present (1).
 > Lu *et al.* (2016), character 145; Clement et al. (2018), character 144.
 
 > - Character 435 in 'early gnathostome phylogeny dataset'.
 
-413. Position of basal/basipterygoid articulation/  same anteroposterior level as hypophysial opening  anterior to hypophysial opening posterior to hypophysial opening,
+402. Position of basal/basipterygoid articulation/  same anteroposterior level as hypophysial opening  anterior to hypophysial opening posterior to hypophysial opening,
 > Lu *et al.* (2016), character 146; Clement et al. (2018), character 145.
 
 > - Character 436 in 'early gnathostome phylogeny dataset'.
 
-414. Articulation between neurocanium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): absent (0), present (1).
+403. Articulation between neurocanium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): absent (0), present (1).
 > Lu *et al.* (2016), character 147; Clement et al. (2018), character 146.
 
 > - Character 323 in 'early gnathostome phylogeny dataset'.
 
-415. Labyrinth cavity: separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall (0), skeletal capsular wall absent (1).
+404. Labyrinth cavity: separated from the main neurocranial cavity by a cartilaginous or ossified capsular wall (0), skeletal capsular wall absent (1).
 > Lu *et al.* (2016), character 148; Clement et al. (2018), character 147.
 
 > - Character 453 in 'early gnathostome phylogeny dataset'.
@@ -3826,6 +3797,16 @@ The list of 14 meristic characters provides the reference to character numbers u
 > Lu *et al.* (2016), character 43; no in Clement et al. (2018).
 
 > - Character 700 in 'early gnathostome phylogeny dataset'.
+
+384. Olfactory tracts: short, with olfactory capsules situated close to telencephalon cavity (0), elongate and tubular (much longer than wide)(1).
+> Lu *et al.* (2016), character 117; Clement et al. (2018), character 116.
+
+> - Character 381 in 'early gnathostome phylogeny dataset'.
+
+398. Eyestalk attachment area: absent (0), present (1).
+> Lu *et al.* (2016), character 131; Clement et al. (2018), character 130.
+
+> - Character 398 in 'early gnathostome phylogeny dataset'.
 
 ## References
 
