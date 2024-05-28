@@ -863,14 +863,12 @@
 
 97. Posterior expansion of the maxilla: absent (0), small expansion (posterodorsal process) (1), large expansion (cleaver-shaped) (2). (ordered)
 > Friedman (2007), Character 39; Lu & Zhu (2009), Character 20, polarity; Zhu  *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Lu *et al.* (2016), character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Clement et al. (2018), character 89; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Brazeau *et al*. (2023), Character 181.
-
+> Lu *et al.* (2016), character 90; Clement et al. (2018), character 89.
 > - Character 266 in 'early gnathostome phylogeny dataset', rephrased. 
 
 > - Clement *et al.* (in review): "The three character-states form a morphocline. Character 97 is linked to character 95."
 
 > - The coding of *Qujingodus* is 2.
-
-> - **similar to clement *et al*. (2018), Character 89 (character 357 here). But the states are differernt. Notice!!!**
 
 98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
 > Clement *et al.* (in review), Character 98.
@@ -2684,23 +2682,17 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - Character 263 in 'early gnathostome phylogeny dataset'.
 
-~~357. Maxilla shape: splint-shaped (0), cleaver-shaped (1).~~
-> Lu *et al.* (2016), character 90; Clement et al. (2018), character 89.
-
-> - Character 266 in 'early gnathostome phylogeny dataset'.
-> - **Repetition of Character 97.**
-
-358. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate': absent (0), present (1).
+352. Pair of tooth plates (anterior supragnathals or vomers) on ethmoidal plate': absent (0), present (1).
 > Lu *et al.* (2016), character 91; Clement et al. (2018), character 90.
 
 > - Character 270 in 'early gnathostome phylogeny dataset'.
 
-359. Strong posterior flexion of dentary symphysis: absent (0), present (1).
+353. Strong posterior flexion of dentary symphysis: absent (0), present (1).
 > Lu *et al.* (2016), character 92; Clement et al. (2018), character 91.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. **To be included after check in EGD.**
 
-360. Extent of infradentaries /  along much of ventral margin of dentary restricted to posterior half of dentary,
+354. Extent of infradentaries: along much of ventral margin of dentary (0), restricted to posterior half of dentary (1).
 > Lu *et al.* (2016), character 93; Clement et al. (2018), character 92.
 
 > - Character 292 in 'early gnathostome phylogeny dataset'.
