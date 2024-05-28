@@ -314,11 +314,10 @@
 
 33. Pineal foramen: present (0), absent (1) 
 > Friedman (2007), Character 14; Lu & Zhu (2009), Character 2; Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; Lu *et al.* (2016), character 41; King *et al*. (2017), Character 159; Clement et al. (2018), character 41; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 162.
+> Lu *et al.* (2016), character 41; Clement et al. (2018), character 41.
 
 > - Character 128 in 'early gnathostome phylogeny dataset'. 
 > - The coding of *Qujingodus* is 1.
-
-> - **Same as clement *et al*. (2018), Character 41 (character 309 here).**
 
 34. Parietals and postparietals: without raised or depressed areas (0), with raised areas (1), with depressed areas (2).
 > Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Character 28; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 14; Toriño *et al.* (2021), Character 28.
@@ -409,12 +408,10 @@
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 24.
 
 > - Character 159 in 'early gnathostome phylogeny dataset'.
-
+> - Lu *et al.* (2016), character 34; Clement et al. (2018), character 34.
 > - Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 307.
 
 > - The coding of *Qujingodus* is 1.
-
-> - **Same as clement *et al*. (2018), Character 34 (character 302 here).**
 
 45. Anterior pit line, position of: on postparietal (0), on parietal (1). 
 > Friedman (2007), Character 36; Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Lu *et al.* (2016), character 34; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Clement et al. (2018), character 34; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
@@ -2431,17 +2428,12 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - Character 57 in 'early gnathostome phylogeny dataset'.
 
-~~302. Anterior pit line of dermal skull roof: absent (0), present (1).~~
-> Lu *et al.* (2016), character 34; Clement et al. (2018), character 34.
-
-> - Character 159 in 'early gnathostome phylogeny dataset'. Repetition of Character 44 herein.
-
-303. Tessera morphology: large interlocking polygonal plates (0), microsquamose, not larger than body squamation (1).
+302. Tessera morphology: large interlocking polygonal plates (0), microsquamose, not larger than body squamation (1).
 > Lu *et al.* (2016), character 35; Clement et al. (2018), character 35.
 
 > - Character 58 in 'early gnathostome phylogeny dataset'.
 
-304. Cranial spines: absent (0), present, multicuspid (1), present, monocuspid (2).
+303. Cranial spines: absent (0), present, multicuspid (1), present, monocuspid (2).
 > Lu *et al.* (2016), character 36; Clement et al. (2018), character 36.
 > Giles *et al*. (2015), Character 36; King *et al*. (2016), Character 206; Castiello (2018), Character 205; Brazeau *et al*. (2023), Character 211.
 
@@ -2449,24 +2441,24 @@ Lu *et al.* (2016), character 149; Clement et al. (2018), character 148.
 
 > - This character can subdivided into two characters: absent vs present; multicupid vs monocuspid. The three character states don't form a clear morphocline. 
 
-305. Extent of dermatocranial cover: complete (0), incomplete (scale-free and elsewhere)(1).
+304. Extent of dermatocranial cover: complete (0), incomplete (scale-free and elsewhere)(1).
 > Lu *et al.* (2016), character 37; Clement et al. (2018), character 37.
 
 > - Character 59 in 'early gnathostome phylogeny dataset'. 
 
 > - Change incomplete (limited to skull roof) to incomplete (scale-free and elsewhere) according to 'early gnathostome phylogeny dataset'.
 
-306. Openings for endolymphatic ducts in dermal skull roof: present (0), absent (1).
+305. Openings for endolymphatic ducts in dermal skull roof: present (0), absent (1).
 > Lu *et al.* (2016), character 38; Clement et al. (2018), character 38.
 
 > - Character 199 in 'early gnathostome phylogeny dataset'.
 
-307. Endolymphatic ducts with oblique course through dermal skull bones: absent (0), present (1).
+306. Endolymphatic ducts with oblique course through dermal skull bones: absent (0), present (1).
 > Lu *et al.* (2016), character 39; Clement et al. (2018), character 39.
 
 > - Character 201 in 'early gnathostome phylogeny dataset'.
 
-308. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): within median bone (0), on bones flanking the median bone (e.g. paranuchals)(1).
+307. Endolymphatic duct relationship to median skull roof bone (i.e. nuchal plate): within median bone (0), on bones flanking the median bone (e.g. paranuchals)(1).
 > Lu *et al.* (2016), character 40; Clement et al. (2018), character 40.
 
 > - Character 202 in 'early gnathostome phylogeny dataset'.
