@@ -1090,9 +1090,6 @@
 
 > - The coding of *Qujingodus* is 0.
 
-> - ~~**similar to clement *et al*. (2018), Character 80 (character 348 here). Not Sure, please check it.**~~
-> - **To Cui, not the same character.**
-
 121. Coronoid opposite posterior end of dentary: not modified (0), modified (1). 
 > Forey (1991), Character 28, in part; Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 56; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 30.
  
