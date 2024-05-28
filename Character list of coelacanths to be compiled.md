@@ -1370,7 +1370,6 @@
 > - Character 381 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
-> - **same as character 384 here. The state formulation here is more definitive.**
 
 157. Hypophysial fossa: extending posterior to the orbit (0), extending at the level of the orbit or anterior to the orbit (1)
 > Clement *et al.* (in review), Character 157.
@@ -1413,13 +1412,13 @@
 
 162. Eye stalk or unfinished area for similar structure: present (0), absent (1). 
 > Friedman (2007), Character 95, polarity; Lu *et al.* (2016), character 131; Clement et al. (2018), character 130.
+> Lu *et al.* (2016), character 131; Clement et al. (2018), character 130.
 
 > - Character 398 in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (in review): "Zhu & Yu (2002, char. 109) and Friedman (2007, char. 95) used this character with a different polarity."
 
 > - The coding of *Qujingodus* is ?.
-> - **Clement *et al*. (2018), Character 130 (character 398 here).**
 
 163. Foramen for oculomotor nerve (III) relative, position of: dorsal and near the optic nerve (II) foramen (0), posterior and at the same height as the optic nerve (II) foramen (1)
 > Clement *et al.* (in review), Character 163.
@@ -1803,11 +1802,11 @@
 
 214. Dorsal end of cleithrum, shape of: pointed (0), broad and rounded (1)
 > Friedman (2007), Character 107; Lu *et al.* (2016), character 183; Clement et al. (2018), character 181.
+> Lu *et al.* (2016), character 183; Clement et al. (2018), character 181.
 
 > - Character 579 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
-> - **similar to clement *et al*. (2018), Character 181 (character 449 here).**. **补全Character 449.**
 
 215. Cleithrum, articulation of: cleithrum articulates externally with extracleithrum only (0), cleithrum articulates externally with extracleithrum and clavicle (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 39.
@@ -3625,6 +3624,9 @@
 
 > - Character 518 in 'early gnathostome phylogeny dataset'.**The states are different. Check it.**
 
+541. Supratemporal contact with postparietal:
+> - **New character?**
+
 
 
 ## charaters 569-581 are meristic characters.
@@ -3737,21 +3739,6 @@ The list of 14 meristic characters provides the reference to character numbers u
 > Lu *et al.* (2016), character 43; no in Clement et al. (2018).
 
 > - Character 700 in 'early gnathostome phylogeny dataset'.
-
-384. Olfactory tracts: short, with olfactory capsules situated close to telencephalon cavity (0), elongate and tubular (much longer than wide)(1).
-> Lu *et al.* (2016), character 117; Clement et al. (2018), character 116.
-
-> - Character 381 in 'early gnathostome phylogeny dataset'.
-
-398. Eyestalk attachment area: absent (0), present (1).
-> Lu *et al.* (2016), character 131; Clement et al. (2018), character 130.
-
-> - Character 398 in 'early gnathostome phylogeny dataset'.
-
-449. Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): spatulate (0), pointed (1).
-> Lu *et al.* (2016), character 183; Clement et al. (2018), character 181.
-
-> - Character 579 in 'early gnathostome phylogeny dataset'.
 
 552. Postparietal narrowing posteriorly: absent (0), present (1).
 > Mondéjar-Fernánde (2020), character 27.
