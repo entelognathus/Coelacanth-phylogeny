@@ -1,7 +1,7 @@
 **List of taxa, geological range (Ma), horizon and locality, and references used in the analysis**
 Galeaspida Osteostraci 
 Orthacanthus_spp 
-Promesacanthus_eppleri Ptomacanthus_anglicus Pucapampella_rodrigae Ramirosuarezia_boliviana Tamiobatis_vetustus Tetanopsyrus_lindoeibreviacanthias Tristychius_arcuatus 
+Ptomacanthus_anglicus Pucapampella_rodrigae Ramirosuarezia_boliviana Tamiobatis_vetustus Tetanopsyrus_lindoeibreviacanthias Tristychius_arcuatus 
 
 
 Janusiscus_schultzei Dialipina_salgueiroensis Cheirolepis_trailli Howqualepis_rostridens Kansasiella_eatoni Kentuckia_deani Lawrenciella_schaefferi Ligulalepis_toombsi Meemannia_eos Mimipiscis_toombsi Moythomasia_durgaringa Raynerius_splendens Achoania_jarviki Guiyu_oneiros Psarolepis_romeri Sparalepis_tingi Ptyctolepis_brachynotus Youngolepis_praecursor Powichthys_thorsteinssoni Porolepis_spp Glyptolepis_groenlandica Diabolepis_speratus Uranolophus_wyomingensis Dipterus_spp Gogonasus_andrewsae Eusthenopteron_foordi Styloichthys_changae 
@@ -704,7 +704,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - Paadla Formation, Oesel, Saaremaa Island, Estonia.
 > - [Denison, 1951](https://agris.fao.org/search/en/providers/122376/records/647472d32d5d435c424edc0c).
 
-[*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen) Hanke, 2008
+^^^[*Promesacanthus eppleri*](https://deepbone.org/public/#/explor?s_id=163487&functionId=Deepbone_header_searchResultOpen) Hanke, 2008
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
@@ -724,7 +724,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
 > - Nilsson, 1941; Hemmings, 1978; Long *et al*., 2015.
 
-[*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen) Miles, 1973
+^^^[*Ptomacanthus anglicus*](https://deepbone.org/public/#/explor?s_id=1524&functionId=Deepbone_header_searchResultOpen) Miles, 1973
 > Lochkovian, 419.2, 410.8
 
 > - Wayne Herbert Quarry, Welsh Border Regions, Herefordshire, England, UK.
