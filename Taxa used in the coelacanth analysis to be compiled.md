@@ -1,8 +1,8 @@
 **List of taxa, geological range (Ma), horizon and locality, and references used in the analysis**
-Galeaspida Osteostraci 
-Orthacanthus_spp 
 
-Alcoveria_brevis Allenypterus_montanus Atacamaia_solitaria Axelia_robusta Axelrodichthys_araripensis Axelrodichthys_lavocati Axelrodichthys_maiseyi Axelrodichthys_megadromos Belemnocerca_prolata Caridosuctor_populosum Changxingia_aspratilis Changxingia_weii Chaohuichthys_majiashanenis Chinlea_sorenseni Coccoderma_suevicum Coelacanthus_granulatus Diplocercides_heiligenstockiensis Diplocercides_kayseri Diplurus_newarki Dobrogeria_aegyssensis Eoactinistia_foreyi Euporosteus_yunnanensis Euporosteus_eifeliensis Foreyia_maxkuhni Garnbergia_ommata Gavinia_syntrips Guizhoucoelacanthus_guanlingensis Hadronector_donbairdi Hainbergia_granulata Heptanema_paradoxum Holophagus_gulo Holopterygius_nudus Indocoelacanthus_robustus Latimeria_chalumnae Latimeria_menadoensis Laugia_groenlandica Libys_polypterus Lochmocercus_aciculodontus Lualabaea_lerichei Luopingcoelacanthus_eurylacrimalis Macropoma_lewesiensis Macropoma_precursor Macropoma_willemoesii Macropomoides_orientalis Mawsonia_brasiliensis Mawsonia_gigas Mawsonia_soba Mawsonia_tegamensis Megalocoelacanthus_dobiei Miguashaia_bureaui Miguashaia_grossi Moenkopia_wellesi Namugawi_wirngarri Parnaibaia_maranhaoensis Piveteauia_madagascariensis Polyosteorhynchus_simplex Rhaboderma_elegans Rebellatrix_divaricerca Reidus_hilli Rhabdoderma_exiguum 'Rhabdoderma (?) newelli' Sassenia_groenlandica Sassenia_tuberculata Serenichthys_kowiensis Shoshonia_arctopteryx Sinocoelacanthus_fengshanensis Spermatodus_pustulosus Swenzia_latimerae Ticinepomis_peyeri Trachymetopon_liassicum Undina_cirinensis Undina_penicillata Whiteia_durabilis Whiteia_lepta Whiteia_nielseni Whiteia_oishoii Whiteia_uyenoteruyai Whiteia_woodwardi Wimania_sinuosa Youngichthys_xinghuainsis Yunnancoelacanthus_acrotuberculatus 
+Galeaspida 
+
+Osteostraci 
 
 ^^^[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Asselian to Sakmarian, 298.9, 290.1
@@ -398,6 +398,10 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada.
 > - Hanke and Wilson, 2006
 
+*Orthacanthus* spp 
+> 
+> - Not in early gnathostome phylogeny github.
+
 ^^^[*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen) Dick, 1978
 > middle Visean, 341.4, 336.2
 
@@ -602,7 +606,6 @@ Selenodus_aquesbiae
 > - Moyuela Fm, Spain
 
 > - [References].9								
-
 
 
 *Alcoveria brevis*	
