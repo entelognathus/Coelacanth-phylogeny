@@ -225,6 +225,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
 > - Hanke and Davis, 2008
+> - **To be corrected as *Uraniacanthus probaton*, also in the matrix.**
 
 [*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
 > upper Eifelian to lower Givetian, 389.6, 386.0
