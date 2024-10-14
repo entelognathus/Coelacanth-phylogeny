@@ -1,8 +1,10 @@
 **List of taxa, geological range (Ma), horizon and locality, and references used in the analysis**
 
-Galeaspida 
+[Galeaspida] Tarlo, 1967
+> - [Donoghue *et al*., 2000](https://www.cambridge.org/core/journals/biological-reviews/article/abs/conodont-affinity-and-chordate-phylogeny/66C1A98F6665A2603BD0D99589B0610D); [Wang *et al*., 2005](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2005)025[0745:HOTGDA]2.0.CO;2); [Gai *et al*., 2011](https://www.nature.com/articles/nature10276);
 
-Osteostraci 
+[Osteostraci]  Lankester, 1868
+> -  [Denison, 1947];(https://deepbone-image.oss-cn-hongkong.aliyuncs.com/pdf/6_1708416572706.pdf) [Janvier, 1985](https://www.google.com.hk/books/edition/Les_C%C3%A9phalaspides_du_Spitsberg_anatomie_/XgkBEQAAQBAJ?kptab=editions&sa=X&ved=2ahUKEwjJ6vy2hI2JAxUtklYBHXugKCMQmBZ6BAgEEAo); [Sansom *et al*., 2009](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2009.00846.x);
 
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Asselian to Sakmarian, 298.9, 290.1
@@ -31,7 +33,11 @@ Osteostraci
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 
-Bothriolepis_canadensis
+[*Bothriolepis canadensis*] Whiteaves, 1880
+> Frasnian, Upper Devonian, 382.7, 372.2
+
+> Miguasha, Québec, Canada; Catskill Formation of Pennsylvania, North America; Orkney Islands, Scotland.
+> [Stensiö, 1948]; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); [Thomson and Thomas, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2); [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335);
 
 [*Brachyacanthus scutiger*](https://deepbone.org/public/#/explor?s_id=3623&functionId=Deepbone_header_searchResultOpen) Egerton, 1860
 > Lochkovian, 419.2, 410.8
@@ -51,7 +57,7 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - [Hanke and Wilson, 2006](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2006)26[526:AOTEDA]2.0.CO;2)
+> -  [Gagnier & Wilson, 1996](https://www.sciencedirect.com/science/article/abs/pii/S0016699595801014); [Hanke and Wilson, 2006](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2006)26[526:AOTEDA]2.0.CO;2);
 
 [*Buchanosteus confertituberculatus*](https://deepbone.org/public/#/explor?s_id=2426&functionId=Deepbone_header_searchResultOpen) (Chapman, 1916)
 > Emsian, 407.6, 393.3
@@ -65,21 +71,21 @@ G.1891.92.226). It was also common at Tealing such as the specimen in Figure 15B
 > - Gogo Formation; Western Australia, Australia.  -17.75, 125.17
 > - [Miles and Young, 1977](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720384310); [Long, 1997](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g1997n3a2.pdf)
 
-> - [Trinajstic and Long, 2009] "Three specimens held in the Western Australian Museum, one an almost complete individual (WAM 86.9.672), the holotype, which comprises an incomplete head shield (WAM 70.4.252) and a set of isolated
+> - [Trinajstic and Long, 2009](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-genus-and-species-of-ptyctodont-placodermi-from-the-late-devonian-gneudna-formation-western-australia-and-an-analysis-of-ptyctodont-phylogeny/F935B5502B3F8D5F2D919D5320DB0899) "Three specimens held in the Western Australian Museum, one an almost complete individual (WAM 86.9.672), the holotype, which comprises an incomplete head shield (WAM 70.4.252) and a set of isolated
 tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single incomplete specimen (NHM P50907)."
 
 [*Cassidiceps vermiculatus*](https://deepbone.org/public/#/explor?s_id=8135&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Gagnier and Wilson, 1996.
+> - [Gagnier and Wilson, 1996](https://www.palass.org/publications/palaeontology-journal/archive/39/2/article_pp241-258).
 
 [*Cheirolepis trailli*](https://deepbone.org/public/#/explor?s_id=3049&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > upper Eifelian, 389.6, 387.7
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
 
-> - [Giles et al., 2015a](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12182); [Pearson and Westoll, 1979](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/devonian-actinopterygian-cheirolepis-agassiz/D375F04B032618360CE5E86178EDCEFC)
+> - [Giles et al., 2015a](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12182); [Pearson and Westoll, 1979](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/devonian-actinopterygian-cheirolepis-agassiz/D375F04B032618360CE5E86178EDCEFC).
 > - Giles et al., 2015a: "This material originates from the Tynet Burn and Gamrie localities of the lacustrine Achanarras Limestone, Scotland, which has been dated as late Eifelian (390.4–
 388.1 Ma; Gradstein et al. 2012) based on the presence of spores of *Dinsosporites devonicus* (Richardson and McGregor 1986)."
 
@@ -87,7 +93,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > upper Eifelian, 389.6, 387.7
 
 > - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - Burrow et al., 2020
+> - [Burrow *et al*., 2020](https://palaeo-electronica.org/content/2020/2989-cheiracanthus-from-scotland).
 > - Comprising *Cheiracanthus murchisoni, C. grandispinus, C. latus*, and *C. peachi*. *Cheiracanthus peachi*, is found much higher, in the upper part of the Rousay Flagstone Formation.
 
 [*Chondrenchelys problematica*](https://deepbone.org/public/#/explor?s_id=4769&functionId=Deepbone_header_searchResultOpen) (Traquair, 1888)
@@ -100,14 +106,14 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > upper Frasnian, 375.7, 372.2
 
 > - Wildungen Limestone, Wildungen, Germany
-> - [Maisey, 2005](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2005/issue-288/0003-0090_2005_288_0001_BOTUDS_2.0.CO_2/BRAINCASE-OF-THE-UPPER-DEVONIAN-SHARK-CLADODOIDES-WILDUNGENSIS-CHONDRICHTHYES-ELASMOBRANCHII/10.1206/0003-0090(2005)288%3C0001:BOTUDS%3E2.0.CO;2.full)
+> - [Maisey, 2005](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2005/issue-288/0003-0090_2005_288_0001_BOTUDS_2.0.CO_2/BRAINCASE-OF-THE-UPPER-DEVONIAN-SHARK-CLADODOIDES-WILDUNGENSIS-CHONDRICHTHYES-ELASMOBRANCHII/10.1206/0003-0090(2005)288%3C0001:BOTUDS%3E2.0.CO;2.full).
 > - [Otto Jaekel](https://en.wikipedia.org/wiki/Otto_Jaekel) accepted a professor position at Sun Yat-sen University in Guangzhou in 1928. He died after a short and unexpected illness on March 6, 1929 in the German Hospital in Beijing.
 
 [*Cladoselache kepleri*](https://deepbone.org/public/#/explor?s_id=4605&functionId=Deepbone_header_searchResultOpen) Newberry, 1889
 > upper Famennian, 363.3, 358.9
 
 > - Cleveland Shale, Cleveland Shale Member, Ohio Shale, Cleveland, Ohio, USA.
-> - Bendix-Almgreen, 1975; [Maisey, 2007](https://bioone.org/journals/bulletin-of-the-american-museum-of-natural-history/volume-2007/issue-307/0003-0090_2007_307_1_TBIPSA_2.0.CO_2/THE-BRAINCASE-IN-PALEOZOIC-SYMMORIIFORM-AND-CLADOSELACHIAN-SHARKS/10.1206/0003-0090(2007)307[1:TBIPSA]2.0.CO;2.full); Schaeffer, 1981
+> - [Bendix-Almgreen, 1975]; [Maisey, 2007](https://www.semanticscholar.org/paper/THE-BRAINCASE-IN-PALEOZOIC-SYMMORIIFORM-AND-SHARKS-Maisey/ad3f36883ec1876414ba30d9995f4412aeab6ffe); [Schaeffer, 1981](https://digitallibrary.amnh.org/items/d6834305-04f1-4a37-a641-d8b97b20af34).
 > - Harris, J.E. 1938. The neurocranium and jaws of Cladoselache. Scientific Publications of the Cleveland Museum of Natural History 8: 8–12
 
 [*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
@@ -120,7 +126,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > Sakmarian, 293.52, 290.1
 
 > - USA.
-> - Zergerl, 1973; Zergerl, 1976; [Ivanov, 2005](https://d1wqtxts1xzle7.cloudfront.net/67400674/Ivanov2005RevBraz-libre.pdf?1621724896=&response-content-disposition=inline%3B+filename%3DIvanov2005Rev_Braz.pdf&Expires=1713858553&Signature=BUS9Y8QQCo8MdDPK2jOHs2aLrRPSEEv7tv7LexcE8v2~VTuUJSFagFJereOKX~VEtXR7fr52bZHs8pZVH9uLz~NGioKqQaYu41ejKq2yhRdGfg4lKcZ9NZyiwBcf1KCFIlOuFHzpYv9oUt6ATCfJKCplGtyuHoaxPx~wOUNXPBsbq431PYTgPIn9mx4yn9p6jQ~dr-VgzjT5IASWDLSjRcJ4E0-NoZ05OdUl2x0vZWC0mdx~Y2NA2pzrRbrqXqF4XelFmJWpz8uBRE7En4~Jw8tI0bA-2WbmPzSTe6FN6dSnGtwkURWItmofeqo3ctTkixRvt7nxUCkCxURAuiKURA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+> - [Zergerl, 1973](https://www.palass.org/sites/default/files/media/publications/palaeontology/volume_18/vol18_part2_pp333-341.pdf); [Zergerl, 1976](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7720153822); [Ivanov, 2005](https://d1wqtxts1xzle7.cloudfront.net/67400674/Ivanov2005RevBraz-libre.pdf?1621724896=&response-content-disposition=inline%3B+filename%3DIvanov2005Rev_Braz.pdf&Expires=1728900893&Signature=Sn4uT88pxU6kiKDYCBS5Q2uiDXD4JXFJbDOhyknXjraJgYC53--Y2V1b8tp002jJWeJNnOt69sWBnHvlWnaadC8J0tz-W1oUdjjH1uctfYykyaOn28tdg7BU0UMHKzlZWLz59hYN4nYfQ~mOJb12zkUUJuXYnc3EB7T~lYxxe3GnlfcjPDicnOXcas8qt81kSuDNYKNAdoX8moTD8xgRgK5rLAeCwkan7Z9J3V-GKe9-aE1cGybnYm04BNkECa7x29Qn6k06kifmeZQvyRJMOS4ORkPRb6hbIAi0DvUaM5YpLxCxl7qo9DaQc-OW8Qj3mpJt4SbySpEZAlyLr2HZEA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).
 
 [*Coccosteus cuspidatus*](https://deepbone.org/public/#/explor?s_id=2148&functionId=Deepbone_header_searchResultOpen) Miller, 1841
 > upper Eifelian, 389.6, 387.7
@@ -138,7 +144,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > uppermost Givetian, 384.37, 382.7
 
 > - Avon River Group; Mount Howitt, Victoria, Australia.
-> - Long, 1983
+> - [Long, 1983](https://d1wqtxts1xzle7.cloudfront.net/31031790/Long83Culmacanth.-libre.pdf?1392166493=&response-content-disposition=inline%3B+filename%3DA_new_diplacanthoid_acanthodian_from_the.pdf&Expires=1728901148&Signature=gBGZscZYVGG5pK-gpV2PiUgKG6t-w1EqyBceSTwOgaexQTWfSlY2c2ijo9OhiF7FtgjF~1SorSgIGv1rQlLGvK8uKg4dV2HzFGmtpwHhN-Rtz4FOtkWfRQ5vHlO1-EhurecbLmW9DiqxfOndefQo9FXiQYn2dT8n~P2qoSoCN~QqZrBzQdFm2SXO0ySrghrfljeyeuzprsCjXJL8KNhM1kmvRDptOmX1NB9-Fs0lvtCN8mqNzV7BYP7HegZaLA6tZ5820B~VGaUenGodjdqm~QsyH9qEqK~wb86fNhfzk9moZ4fMRnCzAjO817mRxWRQTlcppYXORY73EvA7dJ8xZg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).
 
 [*Debeerius ellefseni*](https://deepbone.org/public/#/explor?s_id=5031&functionId=Deepbone_header_searchResultOpen) Grogan and Lund, 2000
 > Bashkirian, 323.2, 315.2
@@ -162,7 +168,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > Pragian, 410.8, 407.6
 
 > - Austfjorden Member, Wood Bay Formation; Spitsbergen.
-> - [Goujet, 1975](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7620252250); Goujet, 1984
+> - [Goujet, 1975](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7620252250); [Goujet, 1984](https://gallica.bnf.fr/ark:/12148/bpt6k3334588f).
 
 [*Diplacanthus crassisimus*](https://deepbone.org/public/#/explor?s_id=3139&functionId=Deepbone_header_searchResultOpen) Duff, 1842
 > upper Eifelian, 389.6, 387.7
@@ -206,13 +212,13 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Formation; Quebec, Canada.
-> - Jarvik, 1980a; b
+> - Jarvik, 1980a, 1980b.
 
 [*Euthacanthus macnicoli*](https://deepbone.org/public/#/explor?s_id=3144&functionId=Deepbone_header_searchResultOpen) Powrie, 1864
 > Lochkovian, 419.2, 410.8
 
 > - Midland Valley, Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Newman et al., 2014.
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Newman *et al*., 2014](https://bioone.org/journals/geodiversitas/volume-36/issue-3/g2014n3a1/The-Early-Devonian-acanthodian-Euthacanthus-macnicoli-Powrie-1864-from-the/10.5252/g2014n3a1.short).
 
 [*Gemuendina stuertzi*](https://deepbone.org/public/#/explor?s_id=14955&functionId=Deepbone_header_searchResultOpen) Traquair, 1903
 > upper Pragian to lower Emsian, 409.2, 400.45
@@ -224,22 +230,21 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > Lochkovian, 419.2, 410.8
 
 > - Delorme Gr, Delorme Formation; MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Hanke and Davis, 2008
-> - **To be corrected as *Uraniacanthus probaton*, also in the matrix.**
+> - [Hanke and Davis, 2008](https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/g2008n2a3.pdf)
 
 [*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
 > upper Eifelian to lower Givetian, 389.6, 386.0
 
 > - Canning Land, East Greenland.
-> - Jarvik, 1972; Ahlberg, 1989;
+> - [Jarvik, 1972](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM732272112); [Ahlberg, 1989](https://academic.oup.com/zoolinnean/article-abstract/96/2/119/2658340).
 
 [*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Western Australia, Australia. -17.75, 125.17
-> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
+> - [Long, 1985](https://museum.wa.gov.au/sites/default/files/A%20NEW%20OSTEOLEPIDID%20FISH%20FROM%20THE%20UPPER%20DEVONIAN%20GOGO%20FORMATION,%20WESTERN%20AUSTRALIA.pdf); Long et al., 1997; 2006; [Holland, 2013](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.20078); [Holland, 2014](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh/article/abs/endocranial-anatomy-of-gogonasus-andrewsae-long-1985-revealed-through-micro-ctscanning/158DC3666E71116ED3CD90677DFC5229).
 
-[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2009
+[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) [Zhu *et al*., 2009](https://www.nature.com/articles/nature07855)
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Formation; Qujing, Yunnan, China.
@@ -249,7 +254,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 > Famennian, 372.2, 358.9
 
 > - wide distribution.
-> - Warren et al., 2000
+> - [Warren *et al*., 2000](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2000)020[0225:ARAROG]2.0.CO;2).
 
 Gyracanthides_murrayi 
 
@@ -288,7 +293,7 @@ Gyracanthides_murrayi
 > Lochkovian, 419.2, 410.8
 
 > - Lower part of the Arbuthnott Group, Midland Valley (the Strathmore region), Scotland.
-> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Burrow et al., 2018](https://bibliotekanauki.pl/articles/139010.pdf).
+> - [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); [Burrow *et al*., 2018](https://bibliotekanauki.pl/articles/139010.pdf).
 > - Burrow et al., 2018: "The Lochkovian Man on the Hill (MOTH) locality in the Northwest Territories, Canada, is also known to have several ischnacanthiform taxa, originally all assigned by Bernacsek and Dineley (1977) to *Ischnacanthus gracilis*, but now all referred to other genera (Blais et al. 2015), or as yet undetermined." **The MOTH point in the deepbone should be updated.***
 
 [*Jagorina pandora*](https://deepbone.org/public/#/explor?s_id=2310&functionId=Deepbone_header_searchResultOpen) Jaekel, 1921 
@@ -296,7 +301,6 @@ Gyracanthides_murrayi
 
 > - Kellwasserkalk of *Manticoceras* beds, Bad Wildungen, Germany.
 > - Stensiö, 1969; Young, 1986
-> - **data of one specimen in Deepbone incorrect. not in Gogo.** 
 
 [*Janusiscus schultzei*](https://deepbone.org/public/#/explor?s_id=1957&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
 > middle Lochkovian, 416.4, 413.6
@@ -310,13 +314,13 @@ Gyracanthides_murrayi
 > upper Pennsylvanian, 307.0, 298.9
 
 > - Kansas, USA.
-> - Poplin, 1974; 1975
+> - [Poplin, 1975](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7520108787).
 
 [*Kathemacanthus rosulentus*](https://deepbone.org/public/#/explor?s_id=2055&functionId=Deepbone_header_searchResultOpen) Gagnier and Wilson, 1996
 > Lochkovian, 419.2, 410.8
 
 > - MOTH (man on the hill) section, Mackenzie Mountains, Northwest Territories, Canada. 62°32′N, 127°45′W.
-> - Gagnier and Wilson, 1996; Hanke and Wilson, 2010
+> - Gagnier and Wilson, 1996; Hanke and Wilson, 2010.
 
 [*Kentuckia deani*](https://deepbone.org/public/#/explor?s_id=3029&functionId=Deepbone_header_searchResultOpen) (Eastman, 1908)
 > upper Tournaisian or lower Visean, 350.8, 341.4
@@ -340,7 +344,7 @@ Gyracanthides_murrayi
 > upper Pennsylvanian, 307.0, 298.9
 
 > - Douglas Group, Lawrence Formation, Haskell Limestone Member; Douglas County near Lawrence, Kansas, USA.
-> - Poplin, 1984; Hamel and Poplin, 2008
+> - Poplin, 1984; [Hamel and Poplin, 2008](https://www.tandfonline.com/doi/abs/10.1671/0272-4634-28.4.989).
 
 [*Ligulalepis toombsi*](https://deepbone.org/public/#/explor?s_id=1975&functionId=Deepbone_header_searchResultOpen) Schultze, 1968
 > Emsian, 407.6, 393.3
@@ -400,8 +404,8 @@ Gyracanthides_murrayi
 > - Hanke and Wilson, 2006
 
 *Orthacanthus* spp 
-> 
-> - Not in early gnathostome phylogeny github.
+
+> - Schaeffer, 1981; Maisey, 1983.
 
 [*Onychoselache traquairi*](https://deepbone.org/public/#/explor?s_id=2811&functionId=Deepbone_header_searchResultOpen) Dick, 1978
 > middle Visean, 341.4, 336.2
