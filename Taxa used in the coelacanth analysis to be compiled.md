@@ -940,173 +940,174 @@ Selenodus_aquesbiae
 
 > - [References]. 65
 
-*Parnaibaia maranhaoensis*	
+[*Parnaibaia maranhaoensis*](https://www.deepbone.org/public/#/explor?s_id=72446&functionId=Deepbone_header_searchResultOpen)	
 > Late Jurassic (Oxfordian to Kimmeridgian), 163.5, 152.1
 > - Pastos Bons Fm, Maranhão, Brazil
 
-> - [References]. 66,67
+> - [Yabumoto, 2008](https://bioone.org/journals/paleontological-research/volume-12/issue-4/prpsj.12.329/A-new-Mesozoic-coelacanth-from-Brazil-Sarcopterygii-Actinistia/10.2517/prpsj.12.329.short); [Montefeltro *et al*., 2013](https://link.springer.com/article/10.1007/s00114-013-1083-9).
 
-*Piveteauia madagascariensis*
+[*Piveteauia madagascariensis*](https://www.deepbone.org/public/#/explor?s_id=6182&functionId=Deepbone_header_searchResultOpen)
 > Lower Triassic (Induan), 251.90, 251.2
 > - Middle Sakamena Gr, Ambilote, northwestern Madagascar 
 
-> - [References]. 12,68,69
+> - [Forey, 1998](https://www.semanticscholar.org/paper/History-of-the-Coelacanth-Fishes-Forey/68985decf8e7f5eaa258ce023f34197b89f9be13); [Clément, 1999](https://www.tandfonline.com/doi/abs/10.1080/02724634.1999.10011137); [Nowak *et al*., 2018](https://link.springer.com/article/10.1007/s12583-018-0790-8).
 
-*Polyosteorhynchus simplex*	
+[*Polyosteorhynchus simplex*](https://www.deepbone.org/public/#/explor?s_id=6096&functionId=Deepbone_header_searchResultOpen)	
 > Lower Carboniferous (Serpukhovian), 330.9, 323.2
 > - Heath Fm, Bear Gulch Limestone Mbr, Montana, USA
 
-> - [References]. 13,14
+> - Lund and Lund, 1985; [Toriño *et al*., 2021](https://www.tandfonline.com/doi/abs/10.1080/08912963.2020.1867982).
 
-*Rebellatrix divaricerca*	
+[*Rebellatrix divaricerca*](https://www.deepbone.org/public/#/explor?s_id=72474&functionId=Deepbone_header_searchResultOpen)	
 > Lower Triassic (late Induan-early Olenekian), 251.43	249.87
 > - Sulphur Mountain Fm, Vega-Phroso Mbr, British Columbia, Canada 
 
-> - [References]. 70
+> - [Wendruff and Wilson, 2012](https://www.tandfonline.com/doi/abs/10.1080/02724634.2012.657317).
 
-*Reidus hilli*	
+[*Reidus hilli*](https://www.deepbone.org/public/#/explor?s_id=72476&functionId=Deepbone_header_searchResultOpen)	
 > Lower Cretaceous (Albian), 113, 100.5
 > - Duck Creek Fm, Texas, USA
 
-> - [References]. 71
+> - [Graf, 2012](https://www.tandfonline.com/doi/abs/10.1080/08912963.2012.696636).
 
-*Rhabdoderma elegans*	
+[*Rhabdoderma elegans*](https://www.deepbone.org/public/#/explor?s_id=6098&functionId=Deepbone_header_searchResultOpen)	
 > Upper Carboniferous (Namurian A - Westphalian D), 330.9, 303.7
 > - wide distribution
 
-> - [References]. 12,72,73
+> - [Forey, 1998](https://www.semanticscholar.org/paper/History-of-the-Coelacanth-Fishes-Forey/68985decf8e7f5eaa258ce023f34197b89f9be13); [Cloutier and Candilier, 1995](https://www.sciencedirect.com/science/article/abs/pii/S0016699595801359); Menning *et al*., 2000.
 
-*Rhabdoderma exiguum*	
+[*Rhabdoderma exiguum*](https://www.deepbone.org/public/#/explor?s_id=6148&functionId=Deepbone_header_searchResultOpen)	
 > Upper Carboniferous (upper part of the Moscovian), 311, 306
 > - Francis Creek Shale, Mazon Creek, Illinois, USA
 
-> - [References]. 74
+> - [Clements *et al*., 2019](https://www.lyellcollection.org/doi/abs/10.1144/jgs2018-088).
 
-*Rhabdoderma (?) newelli*	
+[*Rhabdoderma (?) newelli*](https://www.deepbone.org/public/#/explor?s_id=163683&functionId=Deepbone_header_searchResultOpen)	
 > Upper Carboniferous (Stephanian B; Kasimovian), 307, 303.7
 > - Stanton Fm, Rock Lake Shale Mbr, Garnett, Kansas, USA
 
-> - [References]. 75,76
+> - Echols, 1963; [Schultze, 1996](Terrestrial biota in coastal marine deposits: Fossil-Lagerstatten in the Pennsylvanian of Kansa).
 
-*Sassenia groenlandica*	
+[*Sassenia groenlandica*](https://www.deepbone.org/public/#/explor?s_id=6150&functionId=Deepbone_header_searchResultOpen)	
 > Lower Triassic (Griesbachian), 251.55, 251.2
 > - Wordie Creek Gr (Kap Stosch Fm), Kap Stosch, East Greenland
 
-> - [References]. 12,52,53
+> - [Forey, 1998](https://www.semanticscholar.org/paper/History-of-the-Coelacanth-Fishes-Forey/68985decf8e7f5eaa258ce023f34197b89f9be13); Nielsen, 1936; Surlyk *et al*., 2017.
 
-*Sassenia tuberculata*	
+[*Sassenia tuberculata*](https://www.deepbone.org/public/#/explor?s_id=6149&functionId=Deepbone_header_searchResultOpen)	
 > Lower Triassic (Olenekian (Smithian)), 251.2, 249.2
 > - Sticky Keep Fm, Lusitaniadalen Mbr, West Spitsbergen
 
-> - [References]. 16,77
+> - Stensiö, 1921; [Mørk *et al*., 1999](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-8369.1999.tb00277.x).
 
-*Serenichthys kowiensis*	
+[*Serenichthys kowiensis*](https://www.deepbone.org/public/#/explor?s_id=73783&functionId=Deepbone_header_searchResultOpen)	
 > Upper Devonian (Late Famennian), 363.33, 358.9
 > - Witpoort Fm, South Africa
 
-> - [References]. 78
+> - [Gess and Coates, 2015](https://academic.oup.com/zoolinnean/article-abstract/175/2/360/2449782).
 
-*Shoshonia arctopteryx*	
+[*Shoshonia arctopteryx*](https://www.deepbone.org/public/#/explor?s_id=72498&functionId=Deepbone_header_searchResultOpen)	
 > Mid–Late Devonian (Givetian-Frasnian), 387.7, 372.2
 > - Jefferson Fm, Wyoming, USA
 
-> - [References]. 79
+> - [Friedman *et al*., 2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1525-142X.2007.00169.x).
 
-*Sinocoelacanthus fengshanensis*
+[*Sinocoelacanthus fengshanensis*](https://www.deepbone.org/public/#/explor?s_id=6188&functionId=Deepbone_header_searchResultOpen)
 > Lower Triassic (Spathian), 249.2, 246.83
 > - Luolou Gr, Kwangsi Province, China
 
-> - [References]. 80-82
+> - Liu, 1964; [Tong and Yin, 2002](https://www.sciencedirect.com/science/article/abs/pii/S136791200100058X); [Galfetti *et al*., 2008](https://www.deepbone.org/public/#/explor?s_id=6188&functionId=Deepbone_header_searchResultOpen).
 
-*Spermatodus pustulosus*	
+[*Spermatodus pustulosus*](https://www.deepbone.org/public/#/explor?s_id=6151&functionId=Deepbone_header_searchResultOpen)
 > Lower Permian (Artinskian; ?Kazanian), 290.1, 283.5
 > - Wichita Gr, ?Admiral Fm, Texas, USA
 
-> - [References]. 12,83
+> - [Forey, 1998](https://www.semanticscholar.org/paper/History-of-the-Coelacanth-Fishes-Forey/68985decf8e7f5eaa258ce023f34197b89f9be13); [Lucas, 2006](https://www.lyellcollection.org/doi/abs/10.1144/gsl.sp.2006.265.01.04).
 
-*Swenzia latimerae*	
+[*Swenzia latimerae*](https://www.deepbone.org/public/#/explor?s_id=72511&functionId=Deepbone_header_searchResultOpen)	
 > Lower Upper Jurassic (late Oxfordian), 159.37, 157.3
 > - Charnay Commune, Burgundy, France
 
-> - [References]. 12,86
+> - [Forey, 1998](https://www.semanticscholar.org/paper/History-of-the-Coelacanth-Fishes-Forey/68985decf8e7f5eaa258ce023f34197b89f9be13); [Clément, 2005](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2005)025%5B0481:ANCASF%5D2.0.CO;2).
 
-*Ticinepomis peyeri*	
+[*Ticinepomis peyeri*](https://www.deepbone.org/public/#/explor?s_id=6189&functionId=Deepbone_header_searchResultOpen)	
 > Middle Triassic (Ladinian), 242, 237
 > - Grenzbitumen Horizon, Monte San Giorgo, Kanton Tessin, Switzerland
 
-> - [References]. 87,88
+> - [Cavin *et al*., 2013](https://link.springer.com/article/10.1007/s00015-013-0143-7); [Dutel *et al*., 2015](https://www.tandfonline.com/doi/abs/10.1080/02724634.2014.929581).
 
-*Trachymetopon liassicum*	
+[*Trachymetopon liassicum*](https://www.deepbone.org/public/#/explor?s_id=6191&functionId=Deepbone_header_searchResultOpen)	
 > Lower Jurassic (Lower Toarcian), 182.7, 179.83
 > - Ohmden, Baden-Wuttemberg, Germany
 
-> - [References]. 88,89
+> - [Dutel *et al*., 2015](https://www.tandfonline.com/doi/abs/10.1080/02724634.2014.929581); [Dutel *et al*., 2014](https://www.tandfonline.com/doi/abs/10.1080/02724634.2014.838176).
 
-*Undina penicillata*	
+[*Undina penicillata*](https://www.deepbone.org/public/#/explor?s_id=6152&functionId=Deepbone_header_searchResultOpen)	
 > Upper Jurassic (late Kimmeridgian-early Tithonian), 153.83, 149.73
 > - Solnhofen, Wattendorf and Nusplingen (W of Solnhofen), Bavaria and Baden-Württemberg, Germany
 
-> - [References]. 31,33
+> - Lambers, 1992; Schmid *et al*., 2005
 
-*Undina cirinensis*	
+[*Undina cirinensis*](https://www.deepbone.org/public/#/explor?s_id=6153&functionId=Deepbone_header_searchResultOpen)	
 > Upper Jurassic (late Kimmeridgian), 153.83, 152.1
 > - Cerin, Ain, France
 
-> - [References]. 90
+> - [Bernier *et al*., 2014](https://www.sciencedirect.com/science/article/pii/S1631068314000499).
 
 *Whitea durabilis*	
 > Lower Triassic (early Olenekian), 251.2, 249.87
 > - Sulphur Mountain Fm, Wapiti Lake, British Columbia, Canada
 
-> - [References]. 91
+> - [Wendruff, 2011](https://era.library.ualberta.ca/items/58419362-ec35-4cb6-86cd-61f214af0416/download/eb89e501-a48b-4d01-9940-22c67ac63e9f).
 
 *Whitea lepta*	
 > Lower Triassic (early Olenekian), 251.2, 249.87
 > - Sulphur Mountain Fm, Wapiti Lake, British Columbia, Canada
 
-> - [References]. 91
+> - [Wendruff, 2011](https://era.library.ualberta.ca/items/58419362-ec35-4cb6-86cd-61f214af0416/download/eb89e501-a48b-4d01-9940-22c67ac63e9f).
 
-*Whiteia nielseni*	
+[*Whiteia nielseni*](https://www.deepbone.org/public/#/explor?s_id=6157&functionId=Deepbone_header_searchResultOpen)	
 > Lower Triassic (Griesbachian), 251.55, 251.2
 > - Wordie Creek Gr, Kap Stosch Fm, Kap Stosch, East Greenland
 
-> - [References]. 12,52,53
+> -[Forey, 1998](https://www.semanticscholar.org/paper/History-of-the-Coelacanth-Fishes-Forey/68985decf8e7f5eaa258ce023f34197b89f9be13); Nielsen, 1936; [Surlyk *et al*., 2017](https://core.ac.uk/download/pdf/269296247.pdf).
 
 *Whiteia oishoii*	
 > Upper Triassic (earliest Carnian to late Norian), 237, 208.5
 > - Noe Bihati, West Timor, Indonesia
 
-> - [References]. 92
+> - [Yabumoto and Brito, 2016](https://bioone.org/journals/Paleontological-Research/volume-20/issue-3/2015PR033/A-New-Triassic-Coelacanth-iWhiteia-oishii-i-Sarcopterygii-Actinistia-from/10.2517/2015PR033.short).
 
-*Whiteia uyenoteruya*
+[*Whiteia uyenoteruya*](https://www.deepbone.org/public/#/explor?s_id=75306&functionId=Deepbone_header_searchResultOpen)
 > Lower Triassic (Induan), 251.90, 251.2
 > - Middle Sakamena Gr, Ambilote, northwestern Madagascar 
 
-> - [References]. 12,68,69,93	
+> - [Forey, 1998](https://www.semanticscholar.org/paper/History-of-the-Coelacanth-Fishes-Forey/68985decf8e7f5eaa258ce023f34197b89f9be13); [Clément, 1999](The actinistian (Sarcopterygii) Piveteauia madagascariensis Lehman from the Lower Triassic of northwestern Mada); [Nowak *et al*., 2018](https://link.springer.com/article/10.1007/s12583-018-0790-8); [Wescott and Diggens, 1998](https://www.sciencedirect.com/science/article/abs/pii/S0899536298000736).
 
-*Whiteia woodwardi*	
+[*Whiteia woodwardi*](https://www.deepbone.org/public/#/explor?s_id=6155&functionId=Deepbone_header_searchResultOpen)	
 > Lower Triassic (Induan), 251.90, 251.2
 > - Middle Sakamena Gr, Ambilote, northwestern Madagascar 	
 
-> - [References]. 12,68,69,93
+> - [Forey, 1998](https://www.semanticscholar.org/paper/History-of-the-Coelacanth-Fishes-Forey/68985decf8e7f5eaa258ce023f34197b89f9be13); [Clément, 1999](The actinistian (Sarcopterygii) Piveteauia madagascariensis Lehman from the Lower Triassic of northwestern Mada); [Nowak *et al*., 2018](https://link.springer.com/article/10.1007/s12583-018-0790-8); [Wescott and Diggens, 1998](https://www.sciencedirect.com/science/article/abs/pii/S0899536298000736).
 
-*Wimania sinuosa*	
+
+[*Wimania sinuosa*](https://www.deepbone.org/public/#/explor?s_id=6194&functionId=Deepbone_header_searchResultOpen)	
 > Lower Triassic (Olenekian (Smithian)), 251.2, 249.2
 > - Sticky Keep Fm, Lusitaniadalen Mb, West Spitsbergen	
 
-> - [References]. 16,77
+> - Stensiö, 1921; [Mørk *et al*., 1999](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-8369.1999.tb00277.x).
 
-*Youngichthys xinghuainsis*	
+[*Youngichthys xinghuainsis*](https://www.deepbone.org/public/#/explor?s_id=6198&functionId=Deepbone_header_searchResultOpen)	
 > Upper Permian (Changhsingian), 254.14, 252.28
 > - Changhsing Fm, Meishan Mbr, Zhejiang, China
 
-> - [References]. 26,27
+> - Wang and Liu, 1981; Jin, 1997.
 
-*Yunnancoelacanthus acrotuberculatus*	
+[*Yunnancoelacanthus acrotuberculatus*](https://www.deepbone.org/public/#/explor?s_id=72526&functionId=Deepbone_header_searchResultOpen)	Wen *et al*., 2012
 > Middle Triassic (late Pelsonian, middle–late Anisian), 245.47, 242
 > - Guanling Fm, Mbr II, Yunnan, China
 
-> - [References].54
+> - [Wen *et al*., 2012](https://bioone.org/journals/acta-palaeontologica-polonica/volume-58/issue-1/app.2011.0066/Coelacanths-from-the-Middle-Triassic-Luoping-Biota-Yunnan-South-China/10.4202/app.2011.0066.full).
 
 
 **References** (to be edited)
