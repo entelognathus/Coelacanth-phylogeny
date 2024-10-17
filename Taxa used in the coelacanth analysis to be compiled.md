@@ -1110,795 +1110,488 @@ Selenodus_aquesbiae
 
 
 **References** (to be edited)
-1. Renesto, S. & Stockar, R. First record of a coelacanth fish from the Middle Triassic Meride Limestone of Monte San Giorgio (Canton Ticino, Switzerland). Rivista Italiana di Paleontologia e Stratigrafia 124, 639-653, doi:10.13130/2039-4942/10771 (2018).
+Ahlberg, P E and Trewin, N H. 1995. The postcranial skeleton of the Middle Devonian lungfish *Dipterus valenciennesi*. Transactions of the Royal Society of Edinburgh Earth Sciences, 85(3): 159–175.
 
-2. Brownstein, C. D. & Bissell, I. C. Species delimitation and coexistence in an ancient, depauperate vertebrate clade. BMC Ecology and Evolution 22, e90, doi:10.1186/s12862-022-02043-4 (2022).
+Ahlberg, P E. 1989. Paired fin skeletons and relationships of the fossil group Porolepiformes (Osteichthyes: Sarcopterygii). Zoological Journal of the Linnean Society, 96(2): 119–166.
 
-3. Cohen, K. M., Finney, S. C., Gibbard, P. L. & Fan, J.-X. The ICS international chronostratigraphic chart. Episodes 36, 199-204 ((2013; updated 2022 version 02)).
+Andrews, M., Long, J., Ahlberg, P., *et al*. 2005. The structure of the sarcopterygian *Onychodus jandemarrai* n. sp. from Gogo, Western Australia: with a functional interpretation of the skeleton. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 96(3), 197-307.
 
-4. Andrews, S. M., Long, J., Ahlberg, P., Barwick, R. & Campbell, K. The structure of the sarcopterygian Onychodus jandemarrai n. sp. from Gogo, Western Australia: With a functional interpretation of the skeleton. Transactions of the Royal Society of Edinburgh-Earth Sciences 96, 197-307 (2006).
+Arai, M and Assine, M L. 2020. Chronostratigraphic constraints and paleoenvironmental interpretation of the Romualdo Formation (Santana Group, Araripe Basin, Northeastern Brazil) based on palynology. Cretaceous Research, 116, 104610.
 
-5. Jessen, H. Weitere Fischreste aus dem Oberen Plattenkalk der Bergisch-Gladbach-Paffrather Mulde (Oberdevon, Rheinisches Schiefergebirge). Palaeontographica A 143, 159-187 (1973).
+Arratia, G and Schultze, H P. 2015. A new fossil actinistian from the Early Jurassic of Chile and its bearing on the phylogeny of Actinistia. Journal of Vertebrate Paleontology, 35(5), e983524.
 
-6. Schultze, H.-P. & Cloutier, R. in Devonian Fishes and Plants of Miguasha, Quebec, Canada   (eds H.-P. Schultze & R. Cloutier)  348-368 (Verlag Dr. Friedrich Pfeil, 1996).
+Basden, A M and Young, G C. 2001. A primitive actinopterygian neurocranium from the Early Devonian of southeastern Australia. Journal of Vertebrate Paleontology, 21: 754–766.
 
-7. Jessen, H. Die Crossopterygier des Oberen Plattenkalkes (Devon) der Bergisch-Gladbach-Paffrather Mulde (Rheinisches Schiefergebirge) unter Berücksichtigung von amerikanischem und europäischem Onychodus-Material. Arkiv för Zoologi 18, 306-389 (1966).
+Basden, A M., Young, G C., Coates, M I, *et al*. 2000. The most primitive osteichthyan braincase. Nature, 403: 185–188.
 
-8. Lu, J. & Zhu, M. An onychodont fish (Osteichthyes, Sarcopterygii) from the Early Devonian of China, and the evolution of the Onychodontiformes. Proceedings of the Royal Society B-Biological Sciences 277, 293-299, doi:10.1098/rspb.2009.0708 (2009).
+Béchard, I., Arsenault, F., Cloutier, R., *et al*. 2014. The Devonian placoderm fish *Bothriolepis canadensis* revisited with three-dimensional digital imagery. Plaeontologia Electronica, 17(1), 1-19.
 
-9. Schultze, H.-P. Crossopterygier mit heterozerker Schwanzflosse aus dem Oberdevon Kanadas, nebst einer Beschreibung von Onychodontida-Resten aus dem Mitteldevon Spaniens und aus dem Karbon der USA. Palaeontographica Abt. A 143, 188-208 (1973).
+Beltan, L L. 1972. La faune ichthyologique du Muschelkalk de la Catalogne. Memorias de la Real Academia de Ciencias y Artes de Barcelona. 41, 281-323.
 
-10. Beltan, L. L. La faune ichthyologique du Muschelkalk de la Catalogne. Memorias de la Real Academia de Ciencias y Artes de Barcelona 41, 281-323 (1972).
+Beltan, L L. 1984. Quelques poissons du Muschelkalk supérieur d'Espagne. Acta Geológica Hispánica. 19, 117-12.
 
-11. Beltan, L. Quelques poissons du Muschelkalk supérieur d'Espagne. Acta Geológica Hispánica 19, 117-127 (1984).
+Bendix-Almgreen, S E. 1975. The paired fins and shoulder girdle in Cladoselache, their morphology and phyletic significance. In: J. P. Lehman (Editor), Problèmes actuels de Paléontologie-Evolution des Vertébrés. Colloques Internationaux du Centre National de la Recherche Scientifique, Paris, 111–123.
 
-12. Forey, P. L. History of the Coelacanth Fishes.  (Chapman & Hall, 1998).
+Bernacsek, G M and Dineley, D L. 1977. New acanthodians from the Delorme Formation (Lower Devonian) of N. W. T. Canada. Surgical Case Reports, 158, 1–25. 
+Bernier, P, Barale, G, Bourseau, J P, *et al*. 2014. The lithographic limestones of Cerin (southern Jura Mountains, France). A synthetic approach and environmental interpretation. Comptes Rendus Palevol, 13(5): 383-402.
 
-13. Lund, R. & Lund, W. L. Coelacanths from the Bear Gulch Limestone (Namurian) of Montana and the evolution of the Coelacanthiformes. Bulletin of Carnegie Museum of Natural History 25, 1-74 (1985).
+Brazeau, M D. 2009. The braincase and jaws of a Devonian ‘acanthodian’ and modern gnathostome origins. Nature, 457(7227): 305–308.
 
-14. Toriño, P., Soto, M. & Perea, D. A comprehensive phylogenetic analysis of coelacanth fishes (Sarcopterygii, Actinistia) with comments on the composition of the Mawsoniidae and Latimeriidae: Evaluating old and new methodological challenges and constraints. Historical Biology 33, 3423-3443, doi:10.1080/08912963.2020.1867982 (2021).
+Brazeau, M D. 2012. A revision of the anatomy of the Early Devonian jawed vertebrate *Ptomacanthus anglicus* Miles. Palaeontology, 55 (2): 355–367.
 
-15. Arratia, G. & Schultze, H. P. A new fossil actinistian from the Early Jurassic of Chile and its bearing on the phylogeny of Actinistia. Journal of Vertebrate Paleontology 35, doi:10.1080/02724634.2015.983524 (2015).
+Brazeau, M D. and Valerie, D W. 2015. The hyoid arch and braincase anatomy of *Acanthodes* support chondrichthyan affinity of 'acanthodians'. Proceedings of the Royal Society B: Biological Sciences, 282(1821): 20152210.
 
-16. Stensiö, E. A. Triassic fishes from Spitzbergen.  Part I.  A.  (Holzhausen, 1921).
+Brito P M, Cupello C, Yabumoto Y, *et al*. 2018. First occurrence of a mawsoniid (Sarcopterygii: Actinistia), *Mawsonia soba* sp. nov., in pre-Aptian Cretaceous deposits from Cameroon. Cretaceous Research, 86: 91-96.
 
-17. Mørk, A. et al. The type section of the Vikinghøgda Formation: a new Lower Triassic unit in central and eastern Svalbard. Polar Research 18, 51-82, doi:10.1111/j.1751-8369.1999.tb00277.x (1999).
+Burrow C J. 1994. Form and function in scales of *Ligulalepis toombsi* Schultze, a palaeoniscoid from the Early Devonian of Australia. Records of the South Australian Museum, 27(2): 175-185.
 
-18. Maisey, J. G. Coelacanths from the Lower Cretaceous of Brazil. American Museum Novitates, 1-30 (1986).
+Burrow, C J and Desbiens, S. 2023a. Teeth and tooth whorls of the stem chondrichthyan *Doliodus* from the Early Devonian of the Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada. Spanish Journal of Palaeontology, 38(1): 15-22.
 
-19. Arai, M. & Assine, M. L. Chronostratigraphic constraints and paleoenvironmental interpretation of the Romualdo Formation (Santana Group, Araripe Basin, Northeastern Brazil) based on palynology. Cretaceous Research 116, doi:10.1016/j.cretres.2020.104610 (2020).
+Burrow, C J and Turner, S. 1998. Devonian placoderm scales from Australia. Journal of Vertebrate Paleontology, 18(4): 677-695.
 
-20. Yabumoto, Y. & Uyeno, T. New materials of the Cretaceous coelacanth, Mawsonia lavocati Tabaste from Morocco. Bulletin of the National Science Museum, Tokyo, Series C: Geology & Paleontology 31, 39-49 (2005).
+Burrow, C J. 2005. Histological structure of the cancellous bone layer in *Bothriolepis canadensis* (Antiarchi, Placodermi). Lethaia, 38(3): 05-210.
 
-21. Tabaste, N. Étude de restes de poissons du Crétacé saharien. Mémoires de l'Institut français d'Afrique Noire 68, 437-485 (1963).
+Burrow, C J., den Blaauwen, J L., Newman, M, *et al*. 2016. The diplacanthid fishes (Acanthodii, Diplacanthiformes, Diplacanthidae) from the Middle Devonian of Scotland. Palaeontol. Electron, 19: 1–83.
 
-22. Ibrahim, N. et al. Geology and paleontology of the Upper Cretaceous Kem Kem Group of eastern Morocco. Zookeys, 1-216, doi:10.3897/zookeys.928.47517 (2020).
+Burrow, C J., den Blaauwen, J L., Newman, M. 2020. A redescription of the three longest-known species of the acanthodian *Cheiracanthus* from the Middle Devonian of Scotland. Palaeontol. Electron, 23: a15.
 
-23. de Carvalho, M. S. S., Gallo, V. & Santos, H. R. S. New species of coelacanth fish from the Lower Cretaceous (Albian) of the Grajau Basin, NE Brazil. Cretaceous Research 46, 80-89, doi:10.1016/j.cretres.2013.09.006 (2013).
+Burrow, C J., Newman, M J., Davidson, R G., *et al*. 2013. Redescription of *Parexus recurvus*, an Early Devonian acanthodian from the Midland Valley of Scotland. Alcheringa, 37: 393–414.
 
-24. Cavin, L., Valentin, X. & Garcia, G. A new mawsoniid coelacanth (Actinistia) from the Upper Cretaceous of Southern France. Cretaceous Research 62, 65-73, doi:10.1016/j.cretres.2016.02.002 (2016).
+Burrow, C J., Newman, M., Den Blaauwen, *et al*. 2018. The early Devonian ischnacanthiform acanthodian *Ischnacanthus gracilis* (Egerton, 1861) from the Midland Valley of Scotland. Acta Geologica Polonica, 68(3): 335-362.
 
-25. Wendruff, A. J. & Wilson, M. V. H. New Early Triassic coelacanth in the family Laugiidae (Sarcopterygii: Actinistia) from the Sulphur Mountain Formation near Wapiti Lake, British Columbia, Canada. Canadian Journal of Earth Sciences 50, 904-910, doi:10.1139/cjes-2013-0010 (2013).
+Carr, R K., Johanson, Z., Ritchie, A. 2009. The phyllolepid placoderm *Cowralepis mclachlani*: insights into the evolution of feeding mechanisms in jawed vertebrates. Journal of Morphology, 270(7): 775-804.
 
-26. Wang, N. & Liu, H. Coelacanth fishes from the marine Permian of Zhejiang, South China. Vertebrata PalAsiatica 10, 305-312 (1981).
+Cavin, L and Grădinaru, E. 2014. *Dobrogeria aegyssensis*, a new early Spathian (Early Triassic) coelacanth from North Dobrogea (Romania). Acta Geologica Polonica, 64: 161-187.
 
-27. Shen, S. Z. et al. Permian integrative stratigraphy and timescale of China. Science China-Earth Sciences 62, 154-188, doi:10.1007/s11430-017-9228-4 (2019).
+Cavin, L., Furrer, H., Obrist, C. 2013. New coelacanth material from the Middle Triassic of eastern Switzerland, and comments on the taxic diversity of actinistans. Swiss Journal of Geosciences, 106: 161-177.
 
-28. Jin, X. S. New species of coelacanth from Changxing Formation of Zhejiang. Bulletin of Science and Technology 13, 143-147 (1997).
+Cavin, L., Mennecart, B., Obrist, C., *et al*. 2017. Heterochronic evolution explains novel body shape in a Triassic coelacanth from Switzerland. Scientific Reports, 7: e13695.
 
-29. Tong, J. N., Zhou, X. J., Erwin, D. H., Zuo, J. X. & Zhao, L. S. Fossil fishes from the Lower Triassic of Majiashan, Chaohu, Anhui Province, China. Journal of Paleontology 80, 146-161, doi:10.1666/0022-3360(2006)080[0146:Ffftlt]2.0.Co;2 (2006).
+Cavin, L., Valentin, X., Garcia, G. 2016. A new mawsoniid coelacanth (Actinistia) from the Upper Cretaceous of Southern France. Cretaceous Research, 62: 65-73.
 
-30. Schaeffer, B. Late Triassic fishes from the Western United States. Bulletin of the American Museum of Natural History 135, 1-18 (1967).
+Chang, M M and Yu, X B. 1981. A new crossopterygian, *Youngolepis praecursor*, gen. et sp. nov., from Lower Devonian of eastern Yunnan, China. Scientia sinica, 24: 89–99.
 
-31. Lambers, P. H. On the ichthyofauna of the Solnhofen lithographic limestone (Upper Jurassic, Germany) Ph.D. thesis, Rijkuniversiteit Groningen, (1992).
+Chang, M M and Yu, X B. 1984. Structure and phylogenetic significance of *Diabolichthys speratus* gen. et sp. nov., a new dipnoan-like form from the Lower Devonian of eastern Yunnan, China. Proceedings- Linnean Society of New South Wales, 107(3): 171–184.
 
-32. Dietl, G. & Schweigert, G. The Nusplingen lithographic limestone - A "fossil lagerstaette" of Late Kimmeridgian age from the Swabian Alb (Germany). Rivista Italiana Di Paleontologia E Stratigrafia 110, 303-309 (2004).
+Chang, M M. 1982. The braincase of *Youngolepis*, a Lower Devonian crossopterygian from Yunnan, south-western China. Ph.D. dissertation Thesis, University of Stockholm, Department of Geology, Stockholm, 113.
 
-33. Schmid, D. U., Leinfelder, R. R. & Schweigert, G. Stratigraphy and palaeoenvironments of the Upper Jurassic of Southern Germany–a review. Zitteliana B 26, 31-41 (2005).
+Chang, M M. 1991. Head exoskeleton and shoulder girdle of *Youngolepis*. Early vertebrates and related problems of evolutionary biology. Science Press, Beijing: 355–378.
 
-34. Schaumberg, G. Neubeschreibung von Coelacanthus granulatus Agassiz (Actinistia, Pisces) aus dem Kupferschiefer von Richelsdorf (Perm, W.-Deutschland). Paläontologische Zeitschrift 52, 169-197 (1978).
+Charest, F., Johanson, Z., Cloutier, R. 2018. Loss in the making: absence of pelvic fins and presence of paedomorphic pelvic girdles in a Late Devonian antiarch placoderm (jawed stem-gnathostome). Biology Letters, 14(6): 20180199.
 
-35. Schaeffer, B. The Triassic coelacanth fish Diplurus, with observations on the evolution of the Coelacanthini. Bulletin of the American Museum of Natural History 99, 29-78 (1952).
+Charest, F., Johanson, Z., Cloutier, R. 2022. The preorbital depression and recess of antiarch placoderms (jawed stem-gnathostomes) revisited from an ontogenetic (saltatory) point of view. Journal of Vertebrate Paleontology, 42(1): e2116335.
 
-36. Kent, D. V., Olsen, P. E. & Muttoni, G. Astrochronostratigraphic polarity time scale (APTS) for the Late Triassic and Early Jurassic from continental sediments and correlation with standard marine stages. Earth-Science Reviews 166, 153-180 (2017).
+Choo, B., Zhu, M., Qu, Q., *et al*. 2017. A new osteichthyan from the late Silurian of Yunnan, China. PLoS One, 12(3): e0170929.
 
-37. Cavin, L. & Grădinaru, E. Dobrogeria aegyssensis, a new early Spathian (Early Triassic) coelacanth from North Dobrogea (Romania). Acta Geologica Polonica 64, 161-187, doi:10.2478/agp-2014-0010 (2014).
+Clément, G. 1999. The actinistian (Sarcopterygii) *Piveteauia madagascariensis* Lehman from the Lower Triassic of northwestern Madagascar: A redescription on the basis of new material. Journal of Vertebrate Paleontology, 19(2): 234-242.
 
-38. Johanson, Z., Long, J. A., Talent, J. A., Janvier, P. & Warren, J. W. Oldest coelacanth, from the Early Devonian of Australia. Biology Letters 2, 443-446, doi:10.1098/rsbl.2006.0470 (2006).
+Clément, G. 2004. Nouvelles données anatomiques et morphologie générale des 'Porolepidae' (Dipnomorpha, Sarcopterygii). Rev. Paléobiol, 9: 193–211.
 
-39. Gross, W. Die paläontologische und stratigraphische Bedeutung der Wirbeltierfaunen des Old Reds und der marinen altpaläozoischen Schichten. Abhandlungen der deutschen Akademie der Wissenschaften zu Berlin, Mathematisch-Naturwissenschaftliche Klasse 1949, 1-130 (1950).
+Clément, G. 2005. A new coelacanth (Actinistia, Sarcopterygii) from the Jurassic of France, and the question of the closest relative fossil to *Latimeria*. Journal of Vertebrate Paleontology, 25(3): 481-491.
 
-40. Zhu, M. et al. Earliest known coelacanth skull extends the range of anatomically modern coelacanths to the Early Devonian. Nature 3, doi:10.1038/ncomms1764 (2012).
+Clements, T., Purnell, M., Gabbott, S. 2019. The Mazon Creek Lagerstatte: A diverse Late Paleozoic ecosystem entombed within siderite concretions. Journal of the Geological Society, 176(1): 1-11.
 
-41. Cavin, L., Mennecart, B., Obrist, C., Costeur, L. & Furrer, H. Heterochronic evolution explains novel body shape in a Triassic coelacanth from Switzerland. Scientific Reports 7, e13695, doi:10.1038/s41598-017-13796-0 (2017).
+Cloutier, R and Candilier, A M. 1995. Palaeozoic vertebrates of northern France and Belgium: Part III - Sarcopterygii (Devonian to Carboniferous). Geobios, mémoire special, 28, 335-342.
 
-42. Hagdorn, H. & Mutter, R. J. The vertebrate fauna of the Lower Keuper Albertibank (Erfurt Formation, Middle Triassic) in the vicinity of Schwäbisch Hall (Baden-Württemberg, Germany). Palaeodiversity 4, 223-243 (2011).
+Coates, M I and Gess, R W. 2007. A new reconstruction of *Onychoselache* Traquairi, comments on early chondrichthyan pectoral girdles and hybodontiform phylogeny. Palaeontology, 50: 1421–1446.
 
-43. Martin, M. & Wenz, S. Découverte d'un nouveau Coelacanthidé, Garnbergia ommata n.g., n.sp., dans le Muschelkalk supérieur du Baden-Württemberg. Stuttgarter Beiträge zur Naturkunde, Serie B (Geologie und Paläontologie) 105, 1-17 (1984).
+Coates, M I and Sequeira, S E K. 1998. The braincase of a primitive shark. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 89(2): 63-85.
 
-44. Long, J. A. A new genus of fossil coelacanth (Osteichthyes: Coelacanthiformes) from the Middle Devonian of southeastern Australia. Records of the Western Australian Museum, Supplement, 37-53 (1999).
+Coates, M I. 1994. The origin of vertebrate limbs. Development (Supplement): 169-180.
 
-45. Geng, B.-H., Zhu, M. & Jin, F. A revision and phylogenetic analysis of Guizhoucoelacanthus (Sarcopterygii, Actinistia) from the Triassic of China. Vertebrata PalAsiatica 47, 165-177 (2009).
+Coates, M I., Sequeira, S E K. 2001. A new stethacanthid chondrichthyan from the Lower Carboniferous of Bearsden, Scotland.  Journal of Vertebrate Paleontology, 21(3): 438–459.
 
-46. Schweizer, R. Ein Coelacanthide aus dem Oberen Muschelkalk Göttingens. Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 125, 216-226 (1966).
+Coates, M I., Sequeira, S E K., Sansom, I J., *et al*. 1998. Spines and tissues of ancient sharks. Nature, 396: 729–730.
 
-47. Friedman, M. & Coates, M. I. A newly recognized fossil coelacanth highlights the early morphological diversification of the clade. Proceedings of the Royal Society B-Biological Sciences 273, 245-250, doi:10.1098/rspb.2005.3316 (2006).
+Cui, X., Friedman, M., Yu, Y., *et al*. 2023. Bony-fish-like scales in a Silurian maxillate placoderm. Nature Communications, 14(1): 7622.
 
-48. Hartkopf-Fröder, C., Jux, U., Knapp, G. & Piecha, M. The Late Devonian of the Bergisch Gladbach-Paffrath Syncline (Ardennes-Rhenish Massif, Germany): An overview. Courier Forschungsinstitut Senckenberg 251, 7-18 (2004).
+Cui, X., Qiao, T., Zhu, M. 2019. Scale morphology and squamation pattern of *Guiyu oneiros* provide new insights into early osteichthyan body plan. Scientific Reports, 9(1): 4411.
 
-49. Jain, S. L. Indocoelacanthus robustus n. gen., n. sp. (Coelacanthidae, Lower Jurassic), the first fossil coelacanth from India. Journal of Paleontology 48, 49-62 (1974).
+De Carvalho, M S S., Gallo, V., Santos, H R S. 2013. New species of coelacanth fish from the Lower Cretaceous (Albian) of the Grajaú Basin, NE Brazil. Cretaceous Research, 46: 80-89.
 
-50. Gradstein, F. M. et al. in Geochronology, Time Scales and Global Stratigraphic Correlation   (eds W. A. Berggren, D. V. Kent, M.-P. Aubry, & J. Hardenbol)  95-128 (SEPM Special Publication, 1995).
+Denison, R H. 1947. The exoskeleton of *Tremataspis*.  American Journal of Science, 245(6): 337-365.
 
-51. Kadarusman et al. A thirteen-million-year divergence between two lineages of Indonesian coelacanths. Scientific Reports 10, doi:10.1038/s41598-019-57042-1 (2020).
+Denison, R H. 1968. Early Devonian lungfishes from Wyoming, Utah, and Idaho. Fieldiana, Geol, 17: 353–413.
 
-52. Nielsen, E. Some few preliminary remarks on Triassic fishes from East Greenland. Meddelelser om Grønland 112, 1-55 (1936).
+Dennis, K and Miles, R S. 1981. A pachyosteomorph arthrodire from Gogo, Western Australia. Zoological Journal of the Linnean Society, 73(3): 213-258.
 
-53. Surlyk, F., Bjerager, M., Piasecki, S. & Stemmerik, L. Stratigraphy of the marine Lower Triassic succession at Kap Stosch, Hold with Hope, North- East Greenland. Bulletin of the Geological Society of Denmark 65, 87-123 (2017).
+Dick, J R F and Maisey, JG. 1980. The Scottish Lower Carboniferous shark *Onychoselache traquairi*. Palaeontology, 23: 363–374.
 
-54. Wen, W. et al. Coelacanths from the Middle Triassic Luoping Biota, Yunnan, South China, with the earliest evidence of ovoviviparity. Acta Palaeontologica Polonica 58, 175-193, doi:10.4202/app.2011.0066 (2013).
+Dick, J R F. 1978. On the Carboniferous shark *Tristychius arcuatus* Agassiz from Scotland.  Earth and Environmental Science Transactions of The Royal Society of Edinburgh, 70(4): 63-108.
 
-55. Yabumoto, Y. A new coelacanth from the Early Cretaceous of Brazil (Sarcopterygii, Actinistia). Paleontological Research 6, 343-350 (2002).
+Dietl, G and Schweigert, G. 2004. The Nusplingen lithographic limestone - A "fossil lagerstaette" of Late Kimmeridgian age from the Swabian Alb (Germany). Rivista Italiana Di Paleontologia E Stratigrafia, 110(1): 303-309.
 
-56. Brito, P. M. et al. First occurrence of a mawsoniid (Sarcopterygii: Actinistia), Mawsonia soba sp nov., in pre-Aptian Cretaceous deposits from Cameroon. Cretaceous Research 86, 91-96, doi:10.1016/j.cretres.2017.12.014 (2018).
+Dineley, D L. 1999. British fossil fish and amphibian sites. In: D. L. Dineley and S.J. Metcalf (Editors), Fossil Fishes of Great Britain. Joint Nature Conservation Committee, Peterborough: pp. 1–29.
 
-57. Wenz, S. in Colloques Internationaux du Centre National de la Recherche Scientifique Vol. 218    175-190 (Centre National de la Recherche Scientifique, 1975).
+Donoghue, P C J., Forey, P L., Aldridge, R J. 2000. Conodont affinity and chordate phylogeny. Biological Reviews, 75(2): 191-251. 
+Downs, J P and Donoghue, P C J. 2009. Skeletal histology of *Bothriolepis canadensis* (Placodermi, Antiarchi) and evolution of the skeleton at the origin of jawed vertebrates. Journal of Morphology, 270(11), 1364-1380.
 
-58. Taquet, P. Géologie et paléontologie du gisement de Gadoufaoua (Aptien du Niger). Cahiers de paléontologie, 1-191 (1976).
+Dupret, V. 2010. Revision of the genus *Kujdanowiaspis* Stensiö, 1942 (Placodermi, Arthrodira, “Actinolepida”) from the Lower Devonian of Podolia (Ukraine). Geodiversitas: 32: 5–63.
 
-59. Schwimmer, D. R., Stewart, J. D. & Williams, G. D. Giant fossil coelacanths of the Late Cretaceous in the eastern United-States. Geology 22, 503-506, doi:10.1130/0091-7613(1994)022<0503:Gfcotl>2.3.Co;2 (1994).
+Dupret, V., Sanchez, S., Goujet, D., *et al*. 2014. A primitive placoderm sheds light on the origin of the jawed vertebrate face. Nature, 507: 500–503.
 
-60. Dutel, H. et al. The giant Cretaceous coelacanth (Actinistia, Sarcopterygii) Megalocoelacanthus dobiei Schwimmer, Stewart & Williams, 1994, and its bearing on Latimerioidei interrelationships. PLoS One 7, e49911, doi:10.1371/journal.pone.0049911 (2012).
+Dupret, V., Sanchez, S., Goujet, D., *et al*. 2017. The internal cranial anatomy of *Romundina stellina* Ørvig, 1975 (Vertebrata, Placodermi, Acanthothoraci) and the origin of jawed vertebrates—Anatomical atlas of a primitive gnathostome. PLoS One, 12(2): e0171241.
 
-61. Cloutier, R. in Devonian Fishes and Plants of Miguasha, Quebec, Canada   (eds H.-P. Schultze & R.  Cloutier)  227-247 (Verlag Dr. Friedrich Pfeil, 1996).
+Dutel, H, Maisey, J G, Schwimmer, D R., *et al*. 2012. The giant cretaceous coelacanth (Actinistia, Sarcopterygii) *Megalocoelacanthus dobiei* Schwimmer, Stewart & Williams, 1994, and its bearing on Latimerioidei interrelationships. PLoS One, 7(11): e49911.
 
-62. Cloutier, R., Loboziak, S., Candilier, A.-M. & Blieck, A. Biostratigraphy of the Upper Devonian Escuminac Formation, eastern Quebec, Canada: A comparative study based on miospores and fishes. Review of Palaeobotany and Palynology 93, 191-215 (1996).
+Dutel, H., Herbin, M., Clément, G. 2015. First occurrence of a mawsoniid coelacanth in the Early Jurassic of Europe. Journal of Vertebrate Paleontology, 35: e929581-929582.
 
-63. Forey, P. L., Ahlberg, P. E., Luksevics, E. & Zupins, I. A new coelacanth from the Middle Devonian of Latvia. Journal of Vertebrate Paleontology 20, 243-252 (2000).
+Dutel, H., Pennetier, E., Pennetier, G. 2014. A giant marine coelacanth from the Jurassic of Normandy, France. Journal of Vertebrate Paleontology, 34: 1239-1242.
 
-64. Heckert, A. B., Lucas, S. G. & Hunt, A. P. in Vertebrate Paleontology in Arizona Vol. 29  (eds A. B. Heckert & S. G. Lucas)  16-44 (New Mexico Museum of Natural History and Science Bulletin, 2005).
+Echols, J. 1963. A new genus of Pennsylvanian fish (Crossopterygii, Coelacanthiformes) from Kansas. University of Kansas Publications. Museum of Natural History, Lawrence, 12: 475-501.
 
-65. Long, J. A. & Trinajstic, K. A review of recent discoveries of exceptionally preserved fossil fishes from the Gogo sites (Late Devonian, Western Australia). Earth and Environmental Science Transactions of the Royal Society of Edinburgh 108, 111-117 (2018).
+Finarelli, J A and Coates, M I. 2014. *Chondrenchelys problematica * (Traquair, 1888) redescribed: a Lower Carboniferous, eel-like holocephalan from Scotland.  Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 105(1): 35-59.
 
-66. Yabumoto, Y. A new Mesozoic coelacanth from Brazil (Sarcopterygii, Actinistia). Paleontological Research 12, 329-343 (2008).
+Forey, P L, Ahlberg, P E, Lukševičs, E., *et al*. 2000. A new coelacanth from the Middle Devonian of Latvia. Journal of Vertebrate Paleontology, 20(2): 243-252.
 
-67. Montefeltro, F. C., Larsson, H. C. E., de Franca, M. A. G. & Langer, M. C. A new neosuchian with Asian affinities from the Jurassic of northeastern Brazil. Naturwissenschaften 100, 835-841, doi:10.1007/s00114-013-1083-9 (2013).
+Forey, P L. 1998. History of the Coelacanth Fishes. Springer Science & Business Media.
 
-68. Clément, G. The actinistian (Sarcopterygii) Piveteauia madagascariensis Lehman from the Lower Triassic of northwestern Madagascar: A redescription on the basis of new material. Journal of Vertebrate Paleontology 19, 234-242 (1999).
+Friedman, M and Coates, M I. 2006.  A newly recognized fossil coelacanth highlights the early morphological diversification of the clade. Proceedings of the Royal Society B: Biological Sciences, 273(1583): 245-250.
 
-69. Nowak, H., Schneebeli-Hermann, E. & Kustatscher, E. Correlation of Lopingian to Middle Triassic Palynozones. Journal of Earth Science 29, 755-777, doi:10.1007/s12583-018-0790-8 (2018).
+Friedman, M. 2007. *Styloichthys* as the oldest coelacanth: implications for early osteichthyan interrelationships. Journal of Systematic Palaeontology, 5(3): 289-343.
 
-70. Wendruff, A. J. & Wilson, M. V. H. A fork-tailed coelacanth, Rebellatrix divaricerca, gen. et sp. nov. (Actinistia, Rebellatricidae, fam. nov.), from the Lower Triassic of western Canada. Journal of Vertebrate Paleontology 32, 499-511, doi:10.1080/02724634.2012.657317 (2012).
+Friedman, M., Coates, M I., Anderson, P. 2007. First discovery of a primitive coelacanth fin fills a major gap in the evolution of lobed fins and limbs. Evolution & Development, 9: 329-337.
 
-71. Graf, J. A new Early Cretaceous coelacanth from Texas. Historical Biology 24, 441-452, doi:10.1080/08912963.2012.696636 (2012).
+Gagnier, P Y and Wilson, M V H. 1995. New evidences on jaw bones and jaw articulations in acanthodians. Geobios M. S, 19: 137–143. 
 
-72. Cloutier, R. & Candilier, A.-M. Palaeozoic vertebrates of northern France and Belgium: Part III - Sarcopterygii (Devonian to Carboniferous). Geobios, mémoire spécial 19, 335-342 (1995).
+Gagnier, P Y and Wilson, M V H. 1996. Early Devonian acanthodians from northern Canada. Palaeontology, 39: 241–258.
 
-73. Menning, M., Weyer, D., Drozdzewski, G., van Amerom, H. W. & Wendt, I. in Karbon: Zeitskala und Sequenzstratigraphie Vol. 156  (eds M. Menning et al.)  3-44 (Geologisches Jahrbuch Reihe A, 2000).
+Gagnier, P Y., Hanke, G F.  Wilson, M V H. 1999. *Tetanopsyrus lindoei* gen. et sp. nov., an Early Devonian acanthodian from the Northwest Territories, Canada. Acta Geologica Polonica, 49(2): 81-96.
 
-74. Clements, T., Purnell, M. & Gabbott, S. The Mazon Creek Lagerstatte: A diverse Late Paleozoic ecosystem entombed within siderite concretions. Journal of the Geological Society 176, 1-11, doi:10.1144/jgs2018-088 (2019).
+Gai, Z K., Donoghue, P C J., Zhu, M., *et al*. 2011. Fossil jawless fish from China foreshadows early jawed vertebrate anatomy. Nature, 476: 324– 327.
 
-75. Echols, J. A new genus of Pennsylvanian fish (Crossopterygii, Coelacanthiformes) from Kansas. University of Kansas Publications. Museum of Natural History, Lawrence 12, 475-501 (1963).
+Galfetti, T, Bucher, H, Martini, R., *et al*. 2008. Evolution of Early Triassic outer platform paleoenvironments in the Nanpanjiang Basin (South China) and their significance for the biotic recovery. Sedimentary Geology, 204(1-2): 36-60.
 
-76. Schultze, H.-P. Terrestrial biota in coastal marine deposits: Fossil-Lagerstatten in the Pennsylvanian of Kansas, USA. Palaeogeography Palaeoclimatology Palaeoecology 119, 255-273, doi:10.1016/0031-0182(95)00011-9 (1996).
+Gardiner, B G. 1984. The relationships of the palaeoniscid fishes, a review based on new specimens of *Mimia and Moythomasia* from the Upper Devonian of Western Australia. Bulletin of the British Museum (Natural History), Geology Series, 37(4): 173-428.
 
-77. Mork, A. et al. The type section of the Vikinghogda Formation: a new Lower Triassic unit in central and eastern Svalbard. Polar Research 18, 51-82, doi:10.1111/j.1751-8369.1999.tb00277.x (1999).
+Geng, B H., Zhu, M., Jin, F. 2009. A revision and phylogenetic analysis of *Guizhoucoelacanthus* (Sarcopterygii, Actinistia) from the Triassic of China. Vertebrata PalAsiatica, 47: 165-177.
 
-78. Gess, R. W. & Coates, M. I. Fossil juvenile coelacanths from the Devonian of South Africa shed light on the order of character acquisition in actinistians. Zoological Journal of the Linnean Society 175, 360-383, doi:10.1111/zoj.12276 (2015).
+Gess, R W and Coates, M I. 2015. Fossil juvenile coelacanths from the Devonian of South Africa shed light on the order of character acquisition in actinistians. Zoological Journal of the Linnean Society, 175: 360-383.
 
-79. Friedman, M., Coates, M. I. & Anderson, P. First discovery of a primitive coelacanth fin fills a major gap in the evolution of lobed fins and limbs. Evolution & Development 9, 329-337 (2007).
+Giles, S., Coates, M I., Garwood, R J., *et al*. 2015a. Endoskeletal structure in *Cheirolepis* (Osteichthyes, Actinopterygii), an early ray-finned fish. Palaeontology, 58: 849–870.
 
-80. Liu, H.-T. A new coelacanth from the marine Lower Triassic of N.W. Kwangsi, China. Vertebrata Palasiatica 8, 211-214 (1964).
+Giles, S., Darras, L., Clément. G., *et al*. 2015b. An exceptionally preserved Late Devonian actinopterygian provides a new model for primitive cranial anatomy in ray-finned fishes. Proceedings of the Royal Society B: Biological Sciences, 282(1816): 20151485.
 
-81. Tong, J. & Yin, H. The Lower Triassic of South China. Journal of Asian Earth Sciences 20, 803-815 (2002).
+Giles, S., Friedman, M., Brazeau, M D. 2015c. Osteichthyan-like cranial conditions in an Early Devonian stem gnathostome. Nature, 520: 82–85.
 
-82. Galfetti, T. et al. Evolution of Early Triassic outer platform paleoenvironments in the Nanpanjiang Basin (South China) and their significance for the biotic recovery. Sedimentary Geology 204, 36-60, doi:10.1016/j.sedgeo.2007.12.008 (2008).
+Goujet, D F. 1975. *Dicksonosteus*, un nouvel arthrodire du Dévonien du Spitsberg remarques sur le squelette visceral des Dolichothoraci. In: J. P. Lehman (Editor), Problèmes actuels de Paléontologie-Evolution des Vertébrés. Colloques Internationaux du Centre National de la Recherche Scientifique, Paris: pp. 81–99.
 
-83. Lucas, S. G. Global Permian tetrapod biostratigraphy and biochronology. Geological Society, London, Special Publications 265, 65-93 (2006).
+Goujet, D F., 1984. Les poissons placodermes du Spitsberg. Arthrodires Dolichothoraci de la Formation de Wood Bay (Dévonien inférieur), 15. Editions Centre National Recherche Scientifique, Cahiers de Paléontologie, Paris: 284.
 
-84. Zhu, M. & Yu, X. B. A primitive fish close to the common ancestor of tetrapods and lungfish. Nature 418, 767-770 (2002).
+Graf, J. 2012. A new Early Cretaceous coelacanth from Texas. Historical Biology, 24: 441-452.
 
-85. Zhao, W.-J. & Zhu, M. Siluro-Devonian vertebrate biostratigraphy and biogeography of China. Palaeoworld 19 4–26 (2010).
+Grogan, E D. and Lund, R. 2000. *Debeerius ellefseni* (fam. nov., gen. nov., spec. nov.), an autodiastylic chondrichthyan from the Mississippian bear gulch limestone of Montana (USA), the relationships of the Chondrichthyes, and comments on gnathostome evolution. Journal of Morphology, 243(3): 219-245.
 
-86. Clément, G. A new coelacanth (Actinistia, Sarcopterygii) from the Jurassic of France, and the question of the closest relative fossil to Latimeria. Journal of Vertebrate Paleontology 25, 481-491 (2005).
+Gross, W. 1935. Histologische studien am Aussenskelett fossiler agnathen und fische. Palaeontographica Abteilung A, 83: 1–60.
 
-87. Cavin, L., Furrer, H. & Obrist, C. New coelacanth material from the Middle Triassic of eastern Switzerland, and comments on the taxic diversity of actinistans. Swiss Journal of Geosciences 106, 161-177, doi:10.1007/s00015-013-0143-7 (2013).
+Gross, W. 1950. Die paläontologische und stratigraphische Bedeutung der Wirbeltierfaunen des Old Reds und der marinen altpaläozoischen Schichten. Abhandlungen der deutschen Akademie der Wissenschaften zu Berlin, Mathematisch-Naturwissenschaftliche Klasse, 1949: 1-130.
 
-88. Dutel, H., Herbin, M. & Clément, G. First occurrence of a mawsoniid coelacanth in the Early Jurassic of Europe. Journal of Vertebrate Paleontology 35, e929581-929582, doi:10.1080/02724634.2014.929581 (2015).
+Gross, W. 1961. *Lunaspis broilii* und *Lunaspis heroldi* aus dem Hunsrückschiefer (Unterdevon, Rheinland). Notizbl. hess. Landesami. Bodenforsch, 89: 17–43.
 
-89. Dutel, H., Pennetier, E. & Pennetier, G. A giant marine coelacanth from the Jurassic of Normandy, France. Journal of Vertebrate Paleontology 34, 1239-1242, doi:10.1080/02724634.2014.838176 (2014).
+Gross, W., 1963. *Gemuendina stuertzi* Traquair. Neuuntersuchung. Notizbl. hess. Landesami. Bodenforsch, 91: 36–73.
 
-90. Bernier, P. et al. The lithographic limestones of Cerin (southern Jura Mountains, France). A synthetic approach and environmental interpretation. Comptes Rendus Palevol 13, 383-402, doi:10.1016/j.crpv.2014.01.006 (2014).
+Hagdorn, H and Mutter, R J. 2011. The vertebrate fauna of the Lower Keuper Albertibank (Erfurt Formation, Middle Triassic) in the vicinity of Schwäbisch Hall (Baden-Württemberg, Germany). Palaeodiversity, 4: 223-243.
 
-91. Wendruff, A. J. Lower Triassic Coelacanths of the Sulphur Mountain Formation (Wapiti Lake) in British Columbia, Canada M.Sc. thesis thesis, University of Alberta, (2011).
+Hamel, M H and Poplin, C. 2008. The braincase anatomy of *Lawrenciella schaefferi*, actinopterygian from the Upper Carboniferous of Kansas (USA). Journal of Vertebrate Paleontology, 28(4): 989-1006.
 
-92. Yabumoto, Y. & Brito, P. M. A new Triassic coelacanth, Whiteia oishii (Sarcopterygii, Actinistia) from West Timor, Indonesia. Paleontological Research 20, 233-246 (2016).
+Hanke, G F and Davis, S P. 2008. Redescription of the acanthodian *Gladiobranchus probaton* Bernacsek & Dineley, 1977, and comments on diplacanthid relationships. Geodiversitas, 30: 303–330.
 
-93. Wescott, W. A. & Diggens, J. N. Depositional history and stratigraphical evolution of the Sakamena Group (Middle Karoo Supergroup) in the southern Morondava Basin, Madagascar. Journal of African Earth Sciences 27, 461-479, doi:10.1016/s0899-5362(98)00073-6 (1998).
+Hanke, G F and Davis, S P. 2012. A re-examination of *Lupopsyrus pygmaeus* Bernacsek & Dineley, 1977 (Pisces, Acanthodii). Geodiversitas, 34: 469–487.
 
-94. Simões, T. R., Caldwell, M. W., Palci, A. & Nydam, R. L. Giant taxon‐character matrices: Quality of character constructions remains critical regardless of size. Cladistics 33 198-219 (2017).
+Hanke, G F and Wilson, M V H. 2006. Anatomy of the Early Devonian acanthodian *Brochoadmones milesi* based on nearly complete body fossils, with comments on the evolution and development of paired fins. Journal of Vertebrate Paleontology, 26(3): 526-537.
 
-95. Cloutier, R. in Early Vertebrates and Related Problems of Evolutionary Biology   (eds M.-M. Chang, Y.-H. Liu, & G.-R. Zhang)  379–428 (Science Press, 1991).
+Hanke, G F and Wilson, M V H. 2010. The putative stem-group chondrichthyans *Kathemacanthus* and *Seretolepis* from the Lower Devonian MOTH locality, Mackenzie Mountains, Canada. Morphology, phylogeny and paleobiogeography of fossil fishes. Munich: Verlag Dr. Friedrich Pfeil: 159-82.
 
-96. Cloutier, R. Patterns, trends, and rates of evolution within the Actinistia. Environmental Biology of Fishes 32, 23-58 (1991).
+Hanke, G F. 2008. *Promesacanthus eppleri* n. gen., n. sp., a mesacanthid (Acanthodii, Acanthodiformes) from the Lower Devonian of northern Canada. Geodiversitas, 30: 287–302.
 
-97. Forey, P. L. Latimeria chalumnae and its pedigree. Environmental Biology of Fishes 32, 75-97 (1991).
+Hanke, G F., Davis, S P., Wilson, M V H. 2001. New species of the acanthodian genus *Tetanopsyrus* from northern Canada, and comments on related taxa. Journal of Vertebrate Paleontology, 21(4): 740-753.
 
-98. Friedman, M. Styloichthys as the oldest coelacanth: Implications for early osteichthyan interrelationships. Journal of Systematic Palaeontology 5, 289-343 (2007).
+Hartkopf-Fröder, C., Jux, U., Knapp, G., *et al*. 2004. The Late Devonian of the Bergisch Gladbach-Paffrath Syncline (Ardennes-Rhenish Massif, Germany): An overview. Courier Forschungsinstitut Senckenberg, 251: 7-18.
 
-99. Dutel, H., Herbin, M. & Clement, G. First occurrence of a mawsoniid coelacanth in the Early Jurassic of Europe. Journal of Vertebrate Paleontology 35, doi:10.1080/02724634.2014.929581 (2015).
+Heckert, A B, Lucas, S G, Hunt, A P. 2005. Triassic vertebrate fossils in Arizona. New Mexico Museum of Natural History and Science Bulletin, 29: 16-44.
 
-100. Cavin, L. et al. Phylogeny and evolutionary history of mawsoniid coelacanths. Bulletin of the Kitakyushu Museum of Natural History and Human History, Series A (Natural History) 17, 3-13 (2019).
+Hemmings, S K. 1978. The Old Red Sandstone antiarchs of Scotland: *Pterichthyodes* and *Microbrachius*. Monographs of the Palaeontographical Society, 131(551): 1-62.
 
-101. Cavin, L. et al. The last known freshwater coelacanths: New Late Cretaceous mawsoniid remains (Osteichthyes: Actinistia) from Southern France. PLoS One 15, e0234183, doi:10.1371/journal.pone.0234183 (2020).
+Holland, T. 2013. Pectoral girdle and fin anatomy of *Gogonasus andrewsae* Long, 1985: implications for tetrapodomorph limb evolution. Journal of Morphology, 274(2): 147-164.
 
-102. O’Leary, M. A. & Kaufman, S. MorphoBank: phylophenomics in the “cloud”. Cladistics 27, 529-537 (2011).
+Holland, T. 2014. The endocranial anatomy of *Gogonasus andrewsae* Long, 1985 revealed through micro CT-scanning. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 105(1): 9-34.
 
-103. Forey, P. L. Latimeria: A paradoxical fish. Proceedings of the Royal Society B-Biological Sciences 208, 369-384 (1980).
+Ibrahim N, Sereno P C, Varricchio D J, *et al*. 2020. Geology and paleontology of the Upper Cretaceous Kem Kem Group of eastern Morocco. Zookeys, 1-216.
 
-Ahlberg, P. E., 1989. Paired fin skeletons and relationships of the fossil group Porolepiformes (Osteichthyes: Sarcopterygii). *Zool. J. Linn. Soc.* **96**: 119–166.
+Ivanov, A. 2005. Early Permian chondrichthyans of the middle and south urals. Revista Brasileira de Paleontologia, 8(2): 127-138.
 
-Ahlberg, P. E. and Trewin, N. H., 1995. The postcranial skeleton of the Middle Devonian lungfish *Dipterus valenciennesi*. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **85**: 159–175.
+Jain, S L. 1974. *Indocoelacanthus robustus* n. gen., n. sp. (Coelacanthidae, Lower Jurassic), the first fossil coelacanth from India. Journal of Paleontology, 48: 49-62.
 
-Anderson, P. S. L., 2010. Using linkage models to explore skull kinematic diversity and functional convergence in arthrodire placoderms. *J. Morphol.* **271**: 990–1005.
+Janvier, P and Martin, M. 1979. Les vertébrés dévoniens de l'Iran central: II—Coelacanthiformes, Struniiformes, Osteolepiformes. Geobios, 12(4): 497-511.
 
-Andrews, S. M., 1978. A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. *Scott. J. Geol.* **14**: 311–315.
+Janvier, P. 1985. Les Céphalaspides du Spitsberg: anatomie, phylogénie et systématique des Ostéostracés siluro-dévoniens; revisions des Ostéostracés de la Formation de Wood Bay (Dévonien inférieur du Spitsberg). (Paris: Cahiers de Paléontologie, Section Vertebres, Centre National de la Recherche Scientifique).
 
-Andrews, S. M., Long, J. A., Ahlberg, P. E., Barwick, R. and Campbell, K. S. W., 2006. The structure of the sarcopterygian *Onychodus jandemarrai* n. sp. from Gogo, Western Australia: with a functional interpretation of the skeleton. *Earth Environ. Sci. Trans. R. Soc. Edinb*. **96**: 197–307.
+Janvier, P., Desbiens, S., Willett, J A. 2007. New evidence for the controversial “lungs” of the Late Devonian antiarch *Bothriolepis canadensis* (Whiteaves, 1880)(Placodermi: Antiarcha). Journal of Vertebrate Paleontology, 27(3): 709-710.
 
-Arratia, G. and Cloutier, R., 1996. Reassessment of the morphology of *Cheirolepis canadensis* (Actinopterygii). In: H.-P. Schultze and R. Cloutier (Editors), Devonian Fishes and Plants of Miguasha, Quebec, Canada. Verlag Dr Friedrich Pfeil, München, pp. 165–197.
+Jarvik, E. 1972. Middle and Upper Devonian Porolepiformes from East Greenland with special reference to *Glyptolepis groenlandica* n. sp. and a discussion on the structure of the head in the Porolepiformes. Meddel. Grønland, 187: 1–307.
 
-Barker, C. E. and Bone, Y., 1995. The minimal response to contact metamorphism by the Devonian Buchan Caves Limestone, Buchan Rift, Victoria, Australia. *Org. Geochem.* **22**: 151–164.
+Jarvik, E. 1980. Basic Structure and Evolution of Vertebrates, Vol. 1, (London: Academic Press).
 
-Basden, A. M., 1999. Emsian (Early Devonian) microvertebrates from the Buchan and Taemas areas of southeastern Australia. *Rec. West. Aust. Mus. Suppl.* **57**: 15–21.
+Jessen, H L. 1980. Lower Devonian Porolepiformes from the Canadian Arctic with special reference to *Powichthys thorsteinssoni* Jessen. Palaeontogr. Abt. A, 167: 180–214.
 
-Basden, A. M. and Young, G. C., 2001. A primitive actinopterygian neurocranium from the Early Devonian of southeastern Australia. *J. Vertebr. Paleontol.* **21**: 754–766.
+Jessen, H. 1966. Die Crossopterygier des Oberen Plattenkalkes (Devon) der Bergisch-Gladbach-Paffrather Mulde (Rheinisches Schiefergebirge) unter Berücksichtigung von amerikanischem und europäischem Onychodus-Material. Arkiv för Zoologi, 18: 306-389.
 
-Basden, A. M., Young, G. C., Coates, M. I. and Ritchie, A., 2000. The most primitive osteichthyan braincase? *Nature* **403**: 185–188.
+Jessen, H. 1973. Weitere Fischreste aus dem Oberen Plattenkalk der Bergisch-Gladbach-Paffrather Mulde (Oberdevon, Rheinisches Schiefergebirge). Palaeontographica A, 143: 159-187.
 
-Bechard, I., Arsenault, F., Cloutier, R. and Kerr, J., 2014. The Devonian placoderm fish *Bothriolepis canadensis* revisited with three-dimensional digital imagery. *Palaeontol. Electron.* **17**: 1–19.
+Jin, X S. 1997. New species of coelacanth from Changxing Formation of Zhejiang. Bulletin of Science and Technology, 13: 143-147.
 
-Bendix-Almgreen, S. E., 1975. The paired fins and shoulder girdle in *Cladoselache*, their morphology and phyletic significance. In: J. P. Lehman (Editor), Problèmes actuels de Paléontologie-Evolution des Vertébrés. Colloques Internationaux du Centre National de la Recherche Scientifique, Paris, pp. 111–123.
+Johanson, Z., Long, J A., Talent, J A., *et al*. 2006. Oldest coelacanth, from the Early Devonian of Australia. Biology letters, 2(3): 443-446.
 
-Botella, H., Blom, H., Dorka, M., Ahlberg, P.E. and Janvier, P., 2007. Jaws and teeth of the earliest bony fishes. *Nature* **448**: 583–586.
+Johanson, Z., Long, J A., Talent, J A., *et al*. 2007. New onychodontiform (Osteichthyes; Sarcopterygii) from the Lower Devonian of Victoria, Australia. Journal of Paleontology, 81(5): 1031-1043.
 
-Brazeau, M. D., 2009. The braincase and jaws of a Devonian ‘acanthodian’ and modern gnathostome origins. *Nature* **457**: 305–308.
+John, A. 1997. Ptyctodontid fishes (Vertebrata, Placodermi) from the Late Devonian Gogo Formation, Western Australia, with a revision of the European genus Ctenurella 0rvig, 1960. GEODIVERSITAS, 19(3).
 
-Brazeau, M. D., 2012. A revision of the anatomy of the Early Devonian jawed vertebrate *Ptomacanthus anglicus* Miles. *Palaeontology* **55**: 355–367.
+Kadarusman., Sugeha H Y, Pouyaud, L., *et al*. 2020. A thirteen-million-year divergence between two lineages of Indonesian coelacanths. Scientific reports, 10(1): 192.
 
-Brazeau, M. D., S. Giles, R. P. Dearden, A. Jerve, Y. Ariunchimeg, E. Zorig, R. Sansom, T. Guillerme and M. Castiello (2020). Endochondral bone in an Early Devonian 'placoderm' from Mongolia. Nature Ecology & Evolution 4(11): 1477-1484.
+Kent, D V., Olsen, P E., Muttoni, G. 2017. Astrochronostratigraphic polarity time scale (APTS) for the Late Triassic and Early Jurassic from continental sediments and correlation with standard marine stages. Earth-Science Reviews, 166: 153-180.
 
-Brazeau, M. D. and Valerie, D. W., 2015. The hyoid arch and braincase anatomy of *Acanthodes* support chondrichthyan affinity of 'acanthodians'. *Proc. R. Soc. B* **282**: 20152210.
+King, B., Marone, F., Rücklin, M. 2021. Tooth development in the Early Devonian sarcopterygian *Powichthys* and the evolution of the crown osteichthyan dentition. Palaeontology, 64(5): 645-659.
 
-Burrow, C. J., 1994. Form and function in scales of *Ligulalepis toombsi* Schultze, a palaeoniscoid from the Early Devonian of Australia. *Rec. West. Aust. Mus.* **27**: 175–185.
+King, B., Young, G C., Long, J A. 2018. New information on *Brindabellaspis stensioi* Young, 1980, highlights morphological disparity in Early Devonian placoderms. Royal Society Open Science, 5(6): 180094.
 
-Burrow, C. J., 2011. A partial articulated acanthodian from the Silurian of New Brunswick, Canada. *Can. J. Earth Sci.* **48**: 1329–1341.
+Lambers, P H. 1992. On the ichthyofauna of the Solnhofen lithographic limestone (Upper Jurassic, Germany) Ph.D. thesis, Rijkuniversiteit Groningen.
 
-Burrow, C. J., Davidson, R. G., Den Blaauwen, J. L. and Newman, M. J. 2015. Revision of *Climatius reticulatus* Agassiz, 1844 (Acanthodii, Climatiidae), from the Lower Devonian of Scotland, based on new histological and morphological data. *J. Vertebr. Paleontol.* **35**: e913421.
+Liu, H T. 1964. A new coelacanth from the marine Lower Triassic of N.W. Kwangsi, China. Vertebrata Palasiatica, 8: 211-214.
 
-Burrow, C. J., den Blaauwen, J. L., Newman, M. and Davidson, R., 2016. The diplacanthid fishes (Acanthodii, Diplacanthiformes, Diplacanthidae) from the Middle Devonian of Scotland. *Palaeontol. Electron*. **19**: 1–83.
+Long, J A. 1983. A new diplacanthoid acanthodian from the Late Devonian of Victoria. Memoirs of the Association of Australasian Palaeontologists, 1: 51-65.
 
-Burrow, C. J., den Blaauwen, J. L. and Newman, M., 2020. A redescription of the three longest-known species of the acanthodian *Cheiracanthus* from the Middle Devonian of Scotland. *Palaeontol. Electron.* **23**: a15
+Long, J A. 1985. A new osteolepidid fish from the Upper Devonian Gogo Formation, western Australia. Records of the Western Australian Museum, 12: 361-377.
 
-Burrow, C. J., den Blaauwen, J. L. and Newman, M., 2022. New information on the Early Devonian acanthodian *Mesacanthus mitchelli* from the Midland Valley of Scotland. *Scot. J. Geol.* **58**: sjg2021-004.
+Long, J A. 1988. New palaeoniscoid fishes from the Late Devonian and Early Carboniferous of Victoria. Mem. Assoc. Australas. Palaeontol. 7: 1–64.
 
-Burrow, C. J., Newman, M. J., Davidson, R. G. and Blaauwen, J. L. D., 2013. Redescription of *Parexus recurvus*, an Early Devonian acanthodian from the Midland Valley of Scotland. *Alcheringa* **37**: 393–414.
+Long, J A. 1997. Ptyctodontid fishes (Vertebrata, Placodermi) from the Late Devonian Gogo Formation, Western Australia, with a revision of the European genus *Ctenurella* Ørvig, 1960. Geodiversitas, 19(3): 515–555.
 
-Burrow, C. J., Newman, M., den Blaauwen, J., Jones, R. and Davidson, R., 2018. The early Devonian ischnacanthiform acanthodian *Ischnacanthus gracilis* (Egerton, 1861) from the Midland Valley of Scotland. *Acta Geol. Pol.* **68**(3), 335–362.
+Long, J A. 1999. A new genus of fossil coelacanth (Osteichthyes: Coelacanthiformes) from the Middle Devonian of southeastern Australia. Records of the Western Australian Museum, Supplement, 37-53.
 
-Burrow, C. J. and Desbiens, S., 2023a. Teeth and tooth whorls of the stem chondrichthyan Doliodus from the Early Devonian of the Gaspé Sandstone Group, Gaspé Peninsula, Quebec, Canada. *Span. J. Palaeontol.* **38**: 15–22.
+Long, J A. and Trinajstic, K. 2010. The Late Devonian Gogo Formation Lägerstatte of western Australia: exceptional early vertebrate preservation and diversity. Annual Review of Earth and Planetary Sciences, 38(1): 255-279.
 
-Burrow, C. J. and Rudkin, D., 2014. Oldest near-complete acanthodian: the first vertebrate from the Silurian Bertie Formation Konservat-Lagerstätte, Ontario. *PLoS One* **9**: e104171.
+Long, J A., Barwick, R E., Campell, K S. 1997. Osteology and functional morphology of the osteolepiform fish *Gogonasus andrewsae* Long, 1985, from the Upper Devonian Gogo Formation, Western Australia. Rec. West. Aust. Mus. Suppl. 53: 1–89.
 
-Burrow, C. J., Trinajstic, K. and Long, J. A., 2012. First acanthodian from the Upper Devonian (Frasnian) Gogo Formation, Western Australia. *Hist. Biol.* **24**: 349–357.
+Long, J A., Mark-Kurik, E., Johanson, Z., *et al*. 2015. Copulation in antiarch placoderms and the origin of gnathostome internal fertilization. Nature, 517(7533): 196-199.
 
-Burrow, C. J. and Turner, S., 1998. Devonian placoderm scales from Australia. *J. Vertebr. Paleontol.* **18**: 677–695.
+Long, J A., Mark-Kurik, E., Young, G C. 2014. Taxonomic revision of buchanosteoid placoderms (Arthrodira) from the Early Devonian of south-eastern Australia and Arctic Russia. Australian Journal of Zoology, 62(1): 26-43.
 
-Burrow, C. J., Turner, S. and Wang, S.-T., 2000. Devonian microvertebrates from Longmenshan, Sichuan, China: Taxonomic assessment. *Cour. Forsch. Inst. Senckenberg* **223**: 391–451.
+Long, J A., Trinajstic, K M. 2017. A review of recent discoveries of exceptionally preserved fossil fishes from the Gogo sites (Late Devonian, Western Australia). Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 108(1): 111-117.
 
-Burrow, C. J. and Young, G. C., 1999. An articulated teleostome fish from the Late Silurian (Ludlow) of Victoria, Australia. *Rec. West. Aust. Mus. Suppl.* **57**: 1–14.
+Lu, J and Zhu, M. An onychodont fish (Osteichthyes, Sarcopterygii) from the Early Devonian of China, and the evolution of the Onychodontiformes. Proceedings of the Royal Society B-Biological Sciences, 277: 293-299.
 
-Burrow, C. J. and Young, G. C., 2012. New information on *Culmacanthus* (Acanthodii: Diplacanthiformes) from the ?Early-middle Devonian of southeastern Australia. *P. Linn. Soc. N. S. W.* **134**: 21–29.
+Lu, J., Giles, S., Friedman, M., *et al*. 2016. The oldest actinopterygian highlights the cryptic early history of the hyperdiverse ray-finned fishes. Current Biology, 26(12): 1602-1608.
 
-Burrow, C. J., Young, G. C. and Lu, J., 2023b. Dermal skeleton of the stem osteichthyan *Ligulalepis* from the Lower Devonian of New South Wales (Australia). *Span. J. Palaeontol.* **38**: 23–36.
+Lu, J., Giles, S., Friedman, M., *et al*. 2017. A new stem sarcopterygian illuminates patterns of character evolution in early bony fishes. Nature communications, 8(1): 1932.
 
-Bystrow, A. P., 1956. *Kolymaspis sibirica* g. n., s. n., a new representative of the Lower Devonian Agnatha. *Vestn. Leningr. Univ. Geol. Geogr.* **18**: 5–13.
+Lu, J., Zhu, M., Ahlberg, P E., *et al*. 2016. A Devonian predatory fish provides insights into the early evolution of modern sarcopterygians. Science advances, 2(6): e1600154.
 
-Castiello, M., 2018. Neurocranial anatomy of three unusual placoderms revealed by computed tomography scanning, and their implications for early gnathostomes evolution. Ph.D. dissertation Thesis, Imperial College London. 242 pp.
+Lucas, S G. 2006. Global Permian tetrapod biostratigraphy and biochronology. Geological Society, London, Special Publications, 265: 65-93.
 
-Castiello, M., Jerve, A., Burton, M. G., Friedman, M. and Brazeau, M. D., 2021. Endocranial morphology of the petalichthyid placoderm *Ellopetalichthys scheii* from the Middle Devonian of Arctic Canada, with remarks on the inner ear and neck joint morphology of placoderms. *Can. J. Earth Sci.* 58: 1–12.
+Lund, R. and Lund, W L. 1985. Coelacanths from the Bear Gulch Limestone (Namurian) of Montana and the evolution of the Coelacanthiformes. Bulletin of Carnegie Museum of Natural History, 25: 1-74.
 
-Chang, M.-M., 1982. The braincase of *Youngolepis*, a Lower Devonian crossopterygian from Yunnan, south-western China. Ph.D. dissertation Thesis, University of Stockholm, Department of Geology, Stockholm. 113 pp.
+Maisey, J G and Anderson, M E. 2001. A primitive chondrichthyan braincase from the Early Devonian of South Africa. Journal of Vertebrate Paleontology, 21(4): 702-713.
 
-Chang, M.-M., 1991. Head exoskeleton and shoulder girdle of *Youngolepis*. In: M.-M. Chang, Y.-H. Liu and G.-R. Zhang (Editors), Early Vertebrates and Related Problems of Evolutionary Biology. Science Press, Beijing, pp. 355–378.
+Maisey, J G. 1983. Cranial anatomy of *Hybodus basanus* Egerton from the Lower Cretaceous of England. American Museum Novitates, 2758, 1–64.
 
-Chang, M.-M., 1995. *Diabolepis* and its bearing on the relationships between porolepiforms and dipnoans. *Bull. Mus. Natl. Hist. Nat., 4C* **17**: 235–268.
+Maisey, J G. 1986. Coelacanths from the Lower Cretaceous of Brazil. American Museum Novitates, 1-30.
 
-Chang, M.-M. and Yu, X.-B., 1981. A new crossopterygian, *Youngolepis praecursor*, gen. et sp. nov., from Lower Devonian of eastern Yunnan, China. *Sci. Sin.* **24**: 89–99.
+Maisey, J G. 1989. *Hamiltonichthys mapesi*, g. & sp. nov. (Chondrichthyes; Elasmobranchii), from the Upper Pennsylvanian of Kansas. American Museum Novitates, 2931: 1–42.
 
-Chang, M.-M. and Yu, X.-B., 1984. Structure and phylogenetic significance of *Diabolichthys speratus* gen. et sp. nov., a new dipnoan-like form from the Lower Devonian of eastern Yunnan, China. *Proc. Linn. Soc. N. S. W*. **107**: 171–184.
+Maisey, J G. 2005. Braincase of the Upper Devonian shark *Cladodoides wildungensis* (Chondrichthyes, Elasmobranchii), with observations on the braincase in early chondrichthyans. Bulletin of the American Museum of Natural History, 2005(288): 1-103.
 
-Chang, M.-M. and Zhu, M., 1993. A new Middle Devonian osteolepidid from Qujing, Yunnan. *Mem. Assoc. Australas. Palaeontol.* **15**: 183–198.
+Maisey, J G. 2007. The braincase in Paleozoic symmoriiform and cladoselachian sharks. Bulletin of the American Museum of Natural History, 307: 1–122.
 
-Chen, D.-L., Blom, H., Sanchez, S., Tafforeau, P. and Ahlberg, P. E., 2016. The stem osteichthyan Andreolepis and the origin of tooth replacement. *Nature* **539**: 237–241.
+Martin, M and Wenz, S. 1984. Découverte d'un nouveau Coelacanthidé, Garnbergia ommata n.g., n.sp., dans le Muschelkalk supérieur du Baden-Württemberg. Stuttgarter Beiträge zur Naturkunde, Serie B (Geologie und Paläontologie), 105: 1-17.
 
-Chen, D.-L., Blom, H., Sanchez, S., Tafforeau, P., Märss, T. and Ahlberg, P. E., 2017. Development of cyclic shedding teeth from semi-shedding teeth: the inner dental arcade of the stem osteichthyan Lophosteus. *Royal Society Open Science* **4**：161084.
+Menning, M., Weyer, D., Drozdzewski, G., *et al*. 2000. Karbon: Zeitskala und Sequenzstratigraphie Vol. 156 (eds M. Menning *et al*.) 3-44 (Geologisches Jahrbuch Reihe A).
 
-Chen, D.-L., Blom, H., Sanchez, S., Tafforeau, P., Märss, T. and Ahlberg, P. E., 2020. The developmental relationship between teeth and dermal odontodes in the most primitive bony fish Lophosteus. *Elife* **9**: e60985.
+Miles, R S and GC, Y. 1977. Placoderm interrelationships reconsidered in the light of new ptyctodontids from Gogo, Western Australia.
 
-Chen, X. and Rong, J.-Y., 1996. Telychian (Llandovery) of the Yangtze region and its correlation with British Isles. Science Press, Beijing, 1–162 pp.
+Miles, R S. 1967. Observations on the ptyctodont fish, *Rhamphodopsis* Watson. Zoological Journal of the Linnean Society, 47(311): 99-120.
 
-Chen, Z., Wang, C. and Fan, R., 2016. Restudy of the Llandovery conodont biostratigraphy in the Xiushan area, Chongqing City, China. *Can. J. Earth Sci.* **53**: 651–659.
+Miles, R S. 1973a. Articulated acanthodian fishes from the Old Red Sandstone of England, with a review of the structure and evolution of the acanthodian shoulder-girdle. British Museum (Natural History), 24: 111–213.
 
-Choo, B., Zhu, M., Qu, Q., Yu, X., Jia, L. and Zhao, W., 2017. A new osteichthyan from the late Silurian of Yunnan, China. *PLoS One* **12**: e0170929.
+Miles, R S. 1973b. Relationships of acanthodians. In: P. H. Greenwood, R. S. Miles and C. Patterson (Editors), Interrelationships of Fishes. Academic Press, London, pp. 63–103.
 
-Choo, B., M. Zhu, W. Zhao, L. Jia, and Y. Zhu. 2014. The largest Silurian vertebrate and its palaeoecological implications, Scientific Reports, 4: 5242.
+Miles, R S. and Westoll, T S. 1968. The placoderm fish *Coccosteus cuspidatus* Miller ex Agassiz from the Middle Old Red Sandstone of Scotland. Part I. descriptive morphology. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 67(9): 373-476.
 
-Clarke, J., 1901. Notes on Paleozoic Crustaceans, 2, Phyllocarida from the black shales at the base of the Salina beds in western New York. 3, Some Devonic Phyllocarida from New York. *New York State Museum. 54th Report of the Regents* **1**: 92–103.
+Mondéjar-Fernández, J. 2020. A new onychodont (Osteichthyes; Sarcopterygii) from the Middle Devonian of Morocco and its bearing on early osteichthyan evolution. Journal of Systematic Palaeontology, 18(7): 573-606.
 
-Clement, A. M., King, B., Giles, S., Choo, B., Ahlberg, P. E., Young, G. C. and Long, J. A., 2018. Neurocranial anatomy of an enigmatic Early Devonian fish sheds light on early osteichthyan evolution. *eLife* **7:** e34349.
+Montefeltro, F C, Larsson, H C E, de França, M A G, *et al*. 2013. A new neosuchian with Asian affinities from the Jurassic of northeastern Brazil. Naturwissenschaften, 100: 835-841.
 
-Clément, G., 2004. Nouvelles données anatomiques et morphologie générale des 'Porolepidae' (Dipnomorpha, Sarcopterygii). *Rev. Paléobiol.* **9**: 193–211.
+Mørk, A, Elvebakk G, Forsberg, A W, *et al*. 1999. The type section of the Vikinghogda Formation: a new Lower Triassic unit in central and eastern Svalbard. Polar research, 18(1): 51-82.
 
-Cloutier, R., 1996. The primitive actinistian *Miguashaia bureaui* Schultze (Sarcopterygii). In: H.-P. Schultze and R. Cloutier (Editors), Devonian Fishes and Plants of Miguasha, Quebec, Canada. Verlag Dr. Freidrich Pfeil,, München, pp. 227–247.
+Moy-Thomas, J A. 1935. The structure and affinities of *Chondrenchelys problematica*. Proceedings of the Zoological Society of London. Oxford, UK: Blackwell Publishing Ltd, 105(2): 391-404.
 
-Cloutier, R. and Arratia, G., 2004. Early diversification of actinopterygians. In: G. Arratia, M. V. H. Wilson and R. Cloutier (Editors), Recent Advances in the Origin and Early Radiation of Vertebrates. Verlag Dr. Friedrich Pfeil, München, pp. 217–270.
+Moy-Thomas, J A. 1936. On the structure and affinities of the Carboniferous cochliodont *Helodus simplex*. Geological Magazine, 73(11): 488-503.
 
-Coates, M. I., 1994. The origin of vertebrate limbs. *Dev., Suppl.* 169–180.
+Newman, M and Davidson, R. 2010. Early Devonian fish from the Midland Valley of Scotland. In International Palaeontological Congress 3 pre-conference field trip guide.
 
-Coates, M. I., Finarelli, J. A., Sansom, I. J., Andreev, P. S., Criswell, K. E., Tietjen, K., Rivers, M. L. and La Riviere, P. J., 2018. An early chondrichthyan and the evolutionary assembly of a shark body plan. *Proc. R. Soc. B* **285**: 20172418.
+Newman, M J, Davidson, R G, Den, Blaauwen J L, *et al*. 2012. The Early Devonian acanthodian *Uraniacanthus curtus* (Powrie, 1870) n. comb. from the Midland Valley of Scotland. Geodiversitas, 34(4): 739-759.
 
-Coates, M. I. and Gess, R. W., 2007. A new reconstruction of *Onychoselache* Traquairi, comments on early chondrichthyan pectoral girdles and hybodontiform phylogeny. *Palaeontology* **50**: 1421–1446.
+Newman, M J. 2010. Middle Devonian fish from the Orcadian Basin of Scotland. In International Palaeontological Congress 4 pre-conference field trip guide.
 
-Coates, M. I., Gess, R. W., Finarelli, J. A., Criswell, K. E. and Tietjen, K., 2017. A symmoriiform chondrichthyan braincase and the origin of chimaeroid fishes. *Nature* **541**: 208–211.
+Newman, M J., Burrow, C J., Den Blaauwen., *et al*., 2014. The Early Devonian acanthodian *Euthacanthus macnicoli* Powrie, 1864 from the Midland Valley of Scotland. Geodiversitas, 36: 321–348.
 
-Coates, M. I. and Sequeira, S. E. K., 1998. The braincase of a primitive shark. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **89**: 63–85.
+Nielsen, E. 1936. Some few preliminary remarks on Triassic fishes from East Greenland. Meddelelser om Grønland, 112: 1-55.
 
-Coates, M. I. and Sequeira, S. E. K., 2001. A new stethacanthid chondrichthyan from the Lower Carboniferous of Bearsden, Scotland. *J. Vertebr. Paleontol.* **21**: 438–459.
+Nowak, H., Schneebeli-Hermann, E., Kustatscher, E. 2018. Correlation of Lopingian to Middle Triassic Palynozones. Journal of Earth Science, 29: 755-777.
 
-Coates, M. I., Sequeira, S. E. K., Sansom, I. J. and Smith, M. M., 1998. Spines and tissues of ancient sharks. *Nature* **396**: 729–730.
+Ørvig, T. 1975. Description, with special reference to the dermal skeleton, of a new radotinid arthrodire from the Gedinnian of Arctic Canada. Colloques internationaux du Centre national de la Recherche scientifique, 218: 41-71.
 
-Collette, J. H. and Plotnick, R. E., 2020. Redescription, paleogeography, and experimental paleoecology of the Silurian phyllocarid *Gonatocaris*. *J. Paleontol.* **94**: 906–921.
+Pearson, D M and Westoll, T S. 1979. The Devonian actinopterygian *Cheirolepis* Agassiz. Earth and Environmental Science Transactions of the Royal Society of Edinburgh, 70(13-14): 337-399.
 
-Cui, X., Friedman, M., Yu, Y., Zhu, Y.A. and Zhu, M., 2023. Bony-fish-like scales in a Silurian maxillate placoderm. *Nature Communications* **14**: 7622.
+Poplin, C. 1975. Kansasiella nomen novum remplacant *Kansasia* Poplin 1974 (Poissons: Palaeonisciformes). Bull. Soc. Géol. Fr, 17, 26.
 
-Davis, S. P., Finarelli, J. A. and Coates, M. I., 2012. *Acanthodes* and shark-like conditions in the last common ancestor of modern gnathostomes. *Nature* **486**: 247–250.
+Pradel, A., Maisey, J G., Tafforeau., *et al*. 2009. An enigmatic gnathostome vertebrate skull from the Middle Devonian of Bolivia. Acta Zoologica, 90: 123–133.
 
-Dearden, R. P., Stockey, C. and Brazeau, M. D., 2019. The pharynx of the stem-chondrichthyan *Ptomacanthus* and the early evolution of the gnathostome gill skeleton. *Nat. Commun.***10**: 2050.
+Qiao, T and Zhu, M. 2010. Cranial morphology of the Silurian sarcopterygian *Guiyu oneiros* (Gnathostomata: Osteichthyes). Science China Earth Sciences, 53: 1836-1848.
 
-Denison, R. H., 1978. Placodermi. In: H.-P. Schultze (Editor), Handbook of Paleoichthyology, vol. 2. Gustav Fischer Verlag, Stuttgart, pp. 128.
+Rayner, D H. 1951. On the cranial structure of an early palaeoniscid, *Kentuckia* gen. nov.  Earth and Environmental Science Transactions of The Royal Society of Edinburgh, 62(1): 53-83.
 
-Denison, R. H., 1947. The exoskeleton of *Tremataspis*. *Am. J. Sci.* **245**: 337–365.
+Ritchie, A., 2005. *Cowralepis*, a new genus of phyllolepid fish (Pisces, Placodermi) from the Late Middle Devonian of New South Wales, Australia. Proceedings of the Linnean Society of New South Wales, 126: 215-259.
 
-Denison, R. H., 1951. Evolution and classification of the Osteostraci. *Fieldiana, Geol.* **11**: 157–196.
+Russell, L S. 1951. Acanthodians of the Upper Devonian Escuminac Formation, Maguasha, Quebec. Journal of Natural History, 4(40): 401-407.
 
-Denison, R. H., 1968. Early Devonian lungfishes from Wyoming, Utah, and Idaho. *Fieldiana, Geol.* **17**: 353–413.
+Sallan, L C and Coates, M I. 2010. End-Devonian extinction and a bottleneck in the early evolution of modern jawed vertebrates. Proceedings of the National Academy of Sciences, 107(22): 10131-10135.
 
-Dennis-Bryan, K., 1987. A new species of eastmanosteid arthrodire (Pisces: Placodermi) from Gogo, Western Australia. *Zool. J. Linn. Soc.* **90**: 1–64.
+Sansom, I J., Miller, C G., Heward, A., *et al*. 2009. Ordovician fish from the Arabian Peninsula. Palaeontology, 52: 337–342.
 
-Dennis, K. and Miles, R. S., 1981. A pachyosteomorph arthrodire from Gogo, Western Australia. *Zool. J. Linn. Soc.* **73**: 213–258.
+Schaeffer, B. 1952. The Triassic coelacanth fish *Diplurus*, with observations on the evolution of the Coelacanthini. Bulletin of the American Museum of Natural History, 99: 29-78.
 
-Dick, J. R. F., 1978. On the Carboniferous shark *Tristychius arcuatus* Agassiz from Scotland. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **70**: 63–109.
+Schaeffer, B. 1967. Late Triassic fishes from the Western United States. Bulletin of the American Museum of Natural History, 135: 1-18.
 
-Dick, J. R. F., 1981. *Diplodoselache woodi* gen. et sp. nov., an early Carboniferous shark from the Midland Valley of Scotland. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **72**: 99–113.
+Schaeffer, B. 1981. The xenacanth shark neurocranium, with comments on elasmobranch monophyly. Bulletin of the AMNH, 169: 1–66.
 
-Dick, J. R. F. and Maisey, J.G., 1980. The Scottish Lower Carboniferous shark *Onychoselache traquairi*. *Palaeontology* **23**: 363–374.
+Schaeffer, B. 1981. The xenacanth shark neurocranium, with comments on elasmobranch monophyly. Bulletin of the American Museum of Natural History, 169: 1–66.
 
-Didier, D. A., 1995. Phylogenetic systematics of extant chimaeroid fishes (Holocephali, Chimaeroidei). *Am. Mus. Novit.* **3119**: 1–86.
+Schaumberg, G. 1978. Neubeschreibung von Coelacanthus granulatus Agassiz (Actinistia, Pisces) aus dem Kupferschiefer von Richelsdorf (Perm, W.-Deutschland). Paläontologische Zeitschrift, 52: 169-197.
 
-Dineley, D. L., 1999. British fossil fish and amphibian sites. In: D. L. Dineley and S.J. Metcalf (Editors), Fossil Fishes of Great Britain. Joint Nature Conservation Committee, Peterborough, pp. 1–29.
+Schmid, D U., Leinfelder, R R., Schweigert, G. 2005. Stratigraphy and palaeoenvironments of the Upper Jurassic of Southern Germany–a review. Zitteliana B, 26: 31-41.
 
-Dupret, V., 2010. Revision of the genus *Kujdanowiaspis* Stensiö, 1942 (Placodermi, Arthrodira, “Actinolepida”) from the Lower Devonian of Podolia (Ukraine). *Geodiversitas* **32**: 5–63.
+Schultze, H P and Cloutier, R. 1996. Devonian fishes and plants of Miguasha, Quebec, Canada (eds H.-P. Schultze & R. Cloutier) 348-368. Müchen: Verlag Dr. F. Pfeil.
 
-Dupret, V., Sanchez, S., Goujet, D., Tafforeau, P. and Ahlberg, P. E., 2014. A primitive placoderm sheds light on the origin of the jawed vertebrate face. *Nature* **507**: 500–503.
+Schultze, H P and Zidek, J. 1982. Ein primitiver Acanthodier (Pisces) aus dem Unterdevon Lettlands. Palaontol. Z 56: 95–105.
 
-Dupret, V., Zhu, M. and Wang, J.-Q., 2009. The morphology of *Yujiangolepis liujingensis* (Placodermi, Arthrodira) from the Pragian of Guangxi (south China) and its phylogenetic significance. *Zool. J. Linn. Soc.* **157**: 70–82.
+Schultze, H P. 1968. Palaeoniscoidea-schuppen aus dem Unterdevon Australiens und Kansas und aus dem Mitteldevon Spitzbergens. Bulletin of the American Museum of Natural History, 16: 343–368.
 
-Dupret, V., Zhu, M. and Wang, J.-Q., 2017. Redescription of *Szelepis* Liu, 1981 (Placodermi, Arthrodira), from the Lower Devonian of China. *J. Vertebr. Paleontol.* **37**: e1312422.
+Schultze, H P. 1973. Crossopterygier mit heterozerker Schwanzflosse aus dem Oberdevon Kanadas, nebst einer Beschreibung von Onychodontida-Resten aus dem Mitteldevon Spaniens und aus dem Karbon der USA. Palaeontographica Abt. A 143: 188-208.
 
-Etheridge, R., Woodward, H. and Jones, T. R., 1887. Fourth report of the committee: consisting of Mr. R. Etheridge, Dr. H. Woodward, and Professor T. Rupert Jones (Secretary), on the Fossil Phyllopoda of the Palaeozoic Rocks. British Association. in Report of the Fifty-sixth Meeting of the British Association for the Advancement of Science; Held at Birmingham in September 1886: London, John Murray, 229–234.
+Schultze, H P. 1996. Terrestrial biota in coastal marine deposits: Fossil-Lagerstatten in the Pennsylvanian of Kansas, USA. Palaeogeography Palaeoclimatology Palaeoecology, 119: 255-273.
 
-Finarelli, J. A. and Coates, M. I., 2011. First tooth-set outside the jaws in a vertebrate. *Proc. R. Soc. B*. **279**: 775–779.
+Schweizer, R. 1966. Ein Coelacanthide aus dem Oberen Muschelkalk Göttingens. Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen, 125: 216-226.
 
-Finarelli, J. A. and Coates, M. I., 2014. *Chondrenchelys problematica* (Traquair, 1888) redescribed: a Lower Carboniferous, eel-like holocephalan from Scotland. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **105**: 35–59.
+Schwimmer, D R., Stewart, J D., Williams, G D. 1994. Giant fossil coelacanths of the Late Cretaceous in the eastern United-States. Geology, 22: 503-506.
 
-Forey, P. L., 1998. History of the Coelacanth Fishes. Chapman&Hall, London. 419 pp.
+Shen, S., Zhang, H., Zhang, Y., Yuan, *et al*. 2019. Permian integrative stratigraphy and timescale of China. Science China Earth Sciences, 62, 154-188.
 
-Friedman, M., 2007. *Styloichthys* as the oldest coelacanth: implications for early osteichthyan interrelationships. *J. Syst. Palaeontol.* **5**: 289–343.
+Stensiö, E A. 1921. Triassic fishes from Spitzbergen. Part I. A.
 
-Gagnier, P. Y., Hanke, G. F. and Wilson, M. V. H., 1999. *Tetanopsyrus lindoei* gen. et sp. nov., an Early Devonian acanthodian from the Northwest Territories, Canada. *Acta Geol. Pol.* **49**: 81–96.
+Stensiö, E A. 1948. On the Placodermi of the Upper Devonian of East Greenland. II. Antiarchi: subfamily Bothriolepinae. With an attempt at a revision of the previously described species of that family. Meddelelser om Grønland, 139: 1-622.
 
-Gagnier, P. Y. and Wilson, M. V. H., 1996. Early Devonian acanthodians from northern Canada. *Palaeontology* **39**: 241–258.
+Stensiö, E A. 1963. The brain and the cranial nerves in fossil lower craniate vertebrates. Skr. Norske. VidenskAkad. Oslo, Mat.-Naturv. Kl. 13: 1–120.
 
-Gai, Z.-K., Donoghue, P. C. J., Zhu, M., Janvier, P. and Stampanoni, M., 2011. Fossil jawless fish from China foreshadows early jawed vertebrate anatomy. *Nature* **476**: 324–327.
+Stensiö, E A. 1969. Elasmobranchiomorphi Placodermata Arthrodires. In: J. Piveteau (Editor), Traité de Paléontologie. Masson, Paris, pp. 71–692.
 
-Gans, C. and Parsons, T. S., 1964. A photographic atlas of shark anatomy: the gross morphology of *Squalus acanthias*. Academic Press, New York. 106 pp.
+Stensiö, E A. 1969. Elasmobranchiomorphi Placodermata Arthrodires. In: J. Piveteau (Editor), Traité de Paléontologie. Masson, Paris, pp. 71–692.
 
-Gardiner, B. G., 1984. The relationships of the palaeoniscid fishes, a review based on new specimens of *Mimia* and *Moythomasia* from the Upper Devonian of Western Australia. *Bull. Br. Mus. Nat. Hist. Geol. Suppl.* **37**: 173–428.
+Stensiö, E.A. 1925. On the head of the macropetalichthyids with certain remarks on the head of the other arthrodires. Geol. Ser, 4: 87–197.
 
-Gardiner, B. G. and Bartram, A. W. H., 1977. The homologies of ventral cranial fissures in osteichthyans. In: S. M. Andrews, R. S. Miles and A. D. Walker (Editors), Problems in Vertebrate Evolution. Academic Press, London, pp. 227–245.
+Surlyk, F., Bjerager, M., Piasecki, S, *et al*. 2017. Stratigraphy of the marine Lower Triassic succession at Kap Stosch, Hold with Hope, North- East Greenland. Bulletin of the Geological Society of Denmark, 65: 87-123.
 
-Gardiner, B. G. and Miles, R. S., 1994. Eubrachythoracid arthrodires from Gogo, Western Australia. *Zool. J. Linn. Soc.* **112**: 443–477.
+Tabaste, N. 1963. Étude de restes de poissons du Crétacé saharien. Mémoires de l'Institut français d'Afrique Noire, 68: 437-485.
 
-Ge, Z.-Z., Rong, J.-Y., Yang, X.-C., Liu, G.-W., Ni, Y.-N., Dong, D.-Y. and Wu, H.-J., 1979. Silurian in southwestern regions of China. In: Nanjing Institute of Geology and Palaeontology (Editor), Carbonatite Biostratigraphy in Southwestern Regions of China. Science Press, Beijing, pp. 155–220.
+Taquet, P. 1976. Géologie et paléontologie du gisement de Gadoufaoua (Aptien du Niger). Cahiers de paléontologie, 1-191.
 
-Giles, S., Coates, M. I., Garwood, R. J., Brazeau, M. D., Atwood, R., Johanson, Z., Friedman, M. and Ruta, M., 2015a. Endoskeletal structure in *Cheirolepis* (Osteichthyes, Actinopterygii), an early ray-finned fish. *Palaeontology* **58**: 849–870.
+Thanh, T D., Phuong, T H., Boucot, A J., *et al*. 1997. Silurian vertebrates from Central Vietnam. Comptes Rendus de l'Academie de Sciences - Serie IIa: Sciences de la Terre et des Planetes. 324: 1023-1030.
 
-Giles, S., Darras, L., Clement, G., Blieck, A. and Friedman, M., 2015b. An exceptionally preserved Late Devonian actinopterygian provides a new model for primitive cranial anatomy in ray-finned fishes. *Proc. R Soc. B* **282**: 20151485.
+Thomson, K S and Thomas, B. 2001. On the status of species of *Bothriolepis* (Placodermi, Antiarchi) in North America. Journal of Vertebrate Paleontology, 21(4): 679-686.
 
-Giles, S. and Friedman, M., 2014. Virtual reconstruction of endocast anatomy in early ray-finned fishes (Osteichthyes, Actinopterygii). *J. Paleontol.* **88**: 636–651.
+Tong, J and Yin, H. 2002. The Lower Triassic of South China. Journal of Asian Earth Sciences, 20: 803-815.
 
-Giles, S., Friedman, M. and Brazeau, M.D., 2015c. Osteichthyan-like cranial conditions in an Early Devonian stem gnathostome. *Nature* **520**: 82–85.
+Tong, J., Zhou, X., Erwin, D H., *et al*.  2006. Fossil fishes from the Lower Triassic of Majiashan, chaohu, anhui Province, china. Journal of Paleontology, 80(1): 146-161.
 
-Giles, S., Rücklin, M. and Donoghue, P. C. J., 2013. Histology of “placoderm” dermal skeletons: Implications for the nature of the ancestral gnathostome. *J. Morphol.* **274**: 627–644.
+Toriño, P., Soto, M., Perea, D. 2021. A comprehensive phylogenetic analysis of coelacanth fishes (Sarcopterygii, Actinistia) with comments on the composition of the Mawsoniidae and Latimeriidae: Evaluating old and new methodological challenges and constraints. Historical Biology, 33(12): 3423-3443.
 
-Goujet, D. F., 1973. *Sigaspis*, un nouvel arthrodire du Dévonien inférieur du Spitsberg. *Palaeontogr. Abt. A* **143**: 73–88.
+Trinajstic, K and Long, J A. 2009. A new genus and species of Ptyctodont (Placodermi) from the Late Devonian Gneudna Formation, Western Australia, and an analysis of Ptyctodont phylogeny. Geological Magazine, 146(5): 743-760.
 
-Goujet, D. F., 1975. *Dicksonosteus*, un nouvel arthrodire du Dévonien du Spitsberg remarques sur le squelette visceral des Dolichothoraci. In: J. P. Lehman (Editor), Problèmes actuels de Paléontologie-Evolution des Vertébrés. Colloques Internationaux du Centre National de la Recherche Scientifique, Paris, pp. 81–99.
+Valiukevicius, J. 1992. First articulated Poracanthodes from the Lower Devonian of Severnaya Zemlya. Fossil fishes as living animals, 1: 193-213.
 
-Goujet, D. F., 1984. Les poissons placodermes du Spitsberg. Arthrodires Dolichothoraci de la Formation de Wood Bay (Dévonien inférieur), 15. Editions Centre National Recherche Scientifique, Cahiers de Paléontologie, Paris, 284 pp.
+Wang, N and Liu, H. 1981. Coelacanth fishes from the marine Permian of Zhejiang, South China. Vertebrata PalAsiatica, 19(4): 305-312.
 
-Goujet, D. F., 2001. Placoderms and basal gnathostome apomorphies. In: P. E. Ahlberg (Editor), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development. Taylor & Francis, London, pp. 209–222.
+Wang, N Z., Donoghue, P C J., Smith, M M., *et al*. 2005. Histology of the galeaspid dermoskeleton and endoskeleton, and the origin and early evolution of the vertebrate cranial endoskeleton. J. Vertebr. Paleontol, 25: 745–756.
 
-Goujet, D. F. and Young, G. C., 2004. Placoderm anatomy and phylogeny: new insights. In: G. Arratia, M. V. H. Wilson and R. Cloutier (Editors), Recent Advances in the Origin and Early Radiation of Vertebrates. Verlag Dr. Friedrich Pfeil, München, pp. 109–126.
+Wang, Y and Zhu, M. 2020. New data on the headshield of *Parayunnanolepis xitunensis* (Placodermi, Antiarcha), with comments on nasal capsules in antiarchs. Journal of Vertebrate Paleontology, 40(6): e1855189.
 
-Grogan, E. D. and Lund, R., 2000. *Debeerius ellefseni* (fam. nov., gen. nov., spec. nov.), an autodiastylic chondrichthyan from the Mississippian bear gulch limestone of Montana (USA), the relationships of the Chondrichthyes, and comments on gnathostome evolution. *J. Morphol.* **243**: 219–245.
+Warren, A., Currie, B P., Burrow, C., *et al*. 2000. A redescription and reinterpretation of *Gyracanthides murrayi* Woodward 1906 (Acanthodii, Gyracanthidae) from the Lower Carboniferous of the Mansfield Basin, Victoria, Australia. J. Vertebr. Paleontol, 20: 225–242.
 
-Gross, W., 1935. Histologische studien am Aussenskelett fossiler agnathen und fische. *Palaeontogr. Abt. A* **83**: 1–60.
+Watson, D M S. 1937. The acanthodian fishes.  Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences, 228(549): 49-146.
 
-Gross, W., 1958. Über die älterste Arthrodiren-Gattung. *Notizbl. hess. Landesami. Bodenforsch.* **86**: 7–30.
+Wen. W., Zhang. Q Y., Hu. S X., *et al*. 2013. Coelacanths from the Middle Triassic Luoping Biota, Yunnan, South China, with the earliest evidence of ovoviviparity. Acta Palaeontologica Polonica, 58(1): 175-193.
 
-Gross, W., 1959. Arthrodiren aus dem Obersilur der Prager Mulde. *Palaeontogr. Abt. A* **113**: 1–35.
+Wendruff, A J and Wilson, M V H. 2012. A fork-tailed coelacanth, *Rebellatrix divaricerca*, gen. et sp. nov. (Actinistia, Rebellatricidae, fam. nov.), from the Lower Triassic of western Canada. Journal of Vertebrate Paleontology, 32: 499-511.
 
-Gross, W., 1961. *Lunaspis broilii* und *Lunaspis heroldi* aus dem Hunsrückschiefer (Unterdevon, Rheinland). *Notizbl. hess. Landesami. Bodenforsch.* **89**: 17–43.
+Wendruff, A J and Wilson, M V H. 2013. New Early Triassic coelacanth in the family Laugiidae (Sarcopterygii: Actinistia) from the Sulphur Mountain Formation near Wapiti Lake, British Columbia, Canada. Canadian Journal of Earth Sciences, 50: 904-910.
 
-Gross, W., 1963. *Gemuendina stuertzi* Traquair. Neuuntersuchung. *Notizbl. hess. Landesami. Bodenforsch.* **91**: 36–73.
+Wendruff, A J. 2011. Lower Triassic Coelacanths of the Sulphur Mountain Formation (Wapiti Lake) in British Columbia, Canada M.Sc. thesis thesis, University of Alberta.
 
-Gross, W., 1968. Beobachtungen mit dem Elektronenraster-Auflichtmikroskop an den Siebplatten und dem Isopedin von Dartmuthia (Osteostraci). *Palaontol. Z* **42**: 73–82.
+Wenz, S. 1975. in Colloques Internationaux du Centre National de la Recherche Scientifique, 218: 175-190.
 
-Gross, W., 1971. *Lophosteus superbus* Pander: Zähne, Zahnknochen und besondere schuppenformen. *Lethaia* **4**: 131–152.
+Werdelin, L and Long, J A. 1986. Allometry in the placoderm Bothriolepis canadensis and its significance to antiarch evolution. Lethaia, 19: 161-169.
 
-Hamel, M.-H. and Poplin, C., 2008. The braincase anatomy of *Lawrenciella* *schaefferi*, actinopterygian from the Upper Carboniferous of Kansas (USA). *J. Vertebr. Paleontol.* **28**: 989–1006.
+Wescott, W and Diggens, J N. 1998. Depositional history and stratigraphical evolution of the Sakamena Group (Middle Karoo Supergroup) in the southern Morondava Basin, Madagascar. Journal of African Earth Sciences, 27: 461-479.
 
-Hanke, G. F., 2002. *Paucicanthus vanelsti* gen. et sp. nov., an Early Devonian (Lochkovian) acanthodian that lacks paired fin-spines. *Can. J. Earth Sci.* **39**: 1071–1083.
+Westoll, T S. 1936. On the structures of the dermal ethmoid shield of *Osteolepis*. Geological Magazine, 73(4): 157-171.
 
-Hanke, G. F., 2008. *Promesacanthus eppleri* n. gen., n. sp., a mesacanthid (Acanthodii, Acanthodiformes) from the Lower Devonian of northern Canada. *Geodiversitas*, **30**: 287–302.
+White, E I. 1965. The head of *Dipterus valenciennesi* Sedgwick & Murchison. British Museum (Natural History), 11: 1–45.
 
-Hanke, G. F. and Davis, S. P., 2008. Redescription of the acanthodian *Gladiobranchus probaton* Bernacsek & Dineley, 1977, and comments on diplacanthid relationships. *Geodiversitas* **30**: 303–330.
+Williams, M E. 1998. A new specimen of *Tamiobatis vetustus* (Chondrichthyes, Ctenacanthoidea) from the Late Devonian Cleveland Shale of Ohio.  Journal of Vertebrate Paleontology, 18(2): 251-260.
 
-Hanke, G. F. and Davis, S. P., 2012. A re-examination of *Lupopsyrus pygmaeus* Bernacsek & Dineley, 1977 (Pisces, Acanthodii). *Geodiversitas* **34**: 469–487.
+Yabumoto, Y and Brito, P M. 2016. A new Triassic coelacanth, *Whiteia oishii* (Sarcopterygii, Actinistia) from West Timor, Indonesia. Paleontological Research, 20: 233-246.
 
-Hanke, G. F., Davis, S. P. and Wilson, M. V. H., 2001. New species of the acanthodian genus *Tetanopsyrus* from northern Canada, and comments on related taxa. *J. Vertebr. Paleontol.* **21**: 740–753.
+Yabumoto, Y and Uyeno, T. 2005. New materials of the Cretaceous coelacanth, *Mawsonia lavocati* Tabaste from Morocco. Bulletin of the National Science Museum, Tokyo, Series C: Geology & Paleontology, 31: 39-49.
 
-Hanke, G. F. and Wilson, M. V. H., 2004. New teleostome fishes and acanthodian systematics. In: G. Arratia, M. V. H. Wilson and R. Cloutier (Editors), Recent Advances in the Origin and Early Radiation of Vertebrates. Verlag Dr. Friedrich Pfeil, München, pp. 189–216.
+Yabumoto, Y. 2002. A new coelacanth from the Early Cretaceous of Brazil (Sarcopterygii, Actinistia). Paleontological Research, 6: 343-350.
 
-Hanke, G. F. and Wilson, M. V. H., 2006. Anatomy of the Early Devonian acanthodian *Brochoadmones milesi* based on nearly complete body fossils, with comments on the evolution and development of paired fins. *J. Vertebr. Paleontol.* **26**: 526–537.
+Yabumoto, Y. 2008. A new Mesozoic coelacanth from Brazil (Sarcopterygii, Actinistia). Paleontological Research, 12: 329-343.
 
-Hanke, G. F. and Wilson, M. V. H., 2010. The putative stem-group chondrichthyans *Kathemacanthus* and *Seretolepis* from the Lower Devonian MOTH locality, Mackenzie Mountains, Canada. In: D. K. Elliott, J. G. Maisey, X.-B. Yu and D.-S. Miao (Editors), Morphology, Phylogeny and Paleobiogeography of Fossil Fishes. Verlag Dr. Friedrich Pfeil, München, pp. 159–182.
+Young, G C. 1980. A new Early Devonian placoderm from New South Wales, Australia, with a discussion of placoderm phylogeny. Palaeontogra. Abt. A 167: 10–76.
 
-Heidtke, U. H. J., Schwind, C. and Krätschmer, K., 2004. Über die Organisation des Skelettes und die verwandschaftlichen Beziehungen der Gattung Triodus Jordan 1849 (Elasmobranchii: Xenacanthida). *Mainz. Geowiss. Mitt.* **32**: 9–54.
+Young, G C. 1986. The relationships of placoderm fishes. Zoological Journal of the Linnean Society, 88: 1–57.
 
-Hemmings, S. K., 1978. The Old Red Sandstone antiarchs of Scotland: *Pterichthyodes* and *Microbrachius*. *Palaeontogr. Soc. Monogr.* **131**: 1–64.
+Yu, X B. 1998. A new porolepiform-like fish, *Psarolepis romeri*, gen. et sp. nov. (Sarcopterygii, Osteichthyes) from the Lower Devonian of Yunnan, China.  Journal of Vertebrate Paleontology, 18: 261–274.
 
-Hirasawa, T., Oisi, Y. and Kuratani, S., 2016. *Palaeospondylus* as a primitive hagfish. *Zool. Lett.* **2**: 20.
+Zangerl, R and Case, G R. 1976. Cobelodus aculeatus (Cope), an anacanthous shark from Pennsylvanian black shales of North America, Palaeontographica, Abt. A, 154: 105-157.
 
-Holland, T., 2013. Pectoral girdle and fin anatomy of *Gogonasus andrewsae* Long, 1985: implications for tetrapodomorph limb evolution. *J. Morphol.* **274**: 147–164.
+Zangerl, R and Williams, M E. 1975. New evidence on the nature of the jaw suspension in Palaeozoic anacanthous sharks, Palaeontology, 18: 333-341.
 
-Holland, T., 2014. The endocranial anatomy of *Gogonasus andrewsae* Long, 1985 revealed through micro CT-scanning. *Earth Environ. Sci. Trans. R. Soc. Edinb.***105**: 9–34.
+Zhang, G R., Wang, J Q., Wang, N Z. 2001. The structure of pectoral fin and tail of Yunnanolepidoidei, with a discussion of the pectoral fin of chuchinolepids. Vertebrata PalAsiatica, 39: 1–13.
 
-Hu, Y.-Z., Lu, J. and Young, G. C., 2017. New findings in a 400 million-year-old Devonian placoderm shed light on jaw structure and function in basal gnathostomes. *Sci. Rep.* **7**: 7813.
+Zhang, M M. 1980. Preliminary note on a Lower Devonian antiarch from Yunnan, China. Vertebrata PalAsiatica, 18: 179–190.
 
-Ivanov, A., 2005. Early Permian chondrichthyans of the middle and south urals. *Rev. Bras. Paleontol.* **8**: 127–138.
+Zhu, M and Yu, X B. 2009. Stem sarcopterygians have primitive polybasal fin articulation. Biology Letters, 5: 372–375.
 
-Janvier, P., 1981. *Norselaspis glacialis* n.g., n.sp. et les relations phylogénétiques entre les Kiaeraspidiens (Osteostraci) du Dévonien Inférieur du Spitsberg. *Palaeovertebrata* **11**: 19–131.
+Zhu, M and Yu, X B., 2002. A primitive fish close to the common ancestor of tetrapods and lungfish. Nature, 418: 767–770.
 
-Janvier, P., 1985. Les Céphalaspides du Spitsberg: anatomie, phylogénie et systématique des Ostéostracés siluro-dévoniens; revisions des Ostéostracés de la Formation de Wood Bay (Dévonien inférieur du Spitsberg). Cahiers de Paléontologie, Centre national de la Recherche scientifique, Paris, 256 pp.
+Zhu, M and Yu, X B., 2004. Lower jaw character transitions among major sarcopterygian groups - a survey based on new materials from Yunnan, China. Recent advances in the origin and early radiation of vertebrates, 271-286.
 
-Janvier, P., Arsenault, M. and Desbiens, S., 2004. Calcified cartilage in the paired fins of the osteostracan *Escuminaspis laticeps* (Traquair 1880), from the Late Devonian of Miguasha (Québec, Canada), with a consideration of the early evolution of the pectoral fin endoskeleton in vertebrates. *J. Vertebr. Paleontol.* **24**: 773–779.
+Zhu, M. 1996. The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. Bull. Mus. Natl. Hist. Nat. 18: 233–347.
 
-Janvier, P., Tông-Dzuy, T. and Ta-Hoa, P., 1993. A new Early Devonian galeaspid from Bac Thai Province, Vietnam. *Palaeontology* **36**: 297–309.
+Zhu, M., Wang, W., Yu, X B. 2010. *Meemannia eos*, a basal sarcopterygian fish from the Lower Devonian of China –expanded description and significance. In: D.K. Elliott, J.G. Maisey, X.-B. Yu and D.-S. Miao (Editors), Morphology, Phylogeny and Paleobiogeography of Fossil Fishes. Verlag Dr. Friedrich Pfeil, München, pp. 199–214.
 
-Jarvik, E., 1972. Middle and Upper Devonian Porolepiformes from East Greenland with special reference to *Glyptolepis groenlandica* n. sp. and a discussion on the structure of the head in the Porolepiformes. *Meddel. Grønland* **187**: 1–307.
+Zhu, M., Yu, X B., Ahlberg, P E. 2001. A primitive sarcopterygian fish with an eyestalk. Nature, 410: 81–84.
 
-Jarvik, E., 1980a. Basic Structure and Evolution of Vertebrates, Volume 1. Academic Press, London, 575 pp.
+Zhu, M., Yu, X B., Ahlberg, P E., *et al*.  2013. A Silurian placoderm with osteichthyan-like marginal jaw bones. Nature, 502(7470): 188-193.
 
-Jarvik, E., 1980b. Basic Structure and Evolution of Vertebrates, Volume 2. Academic Press, London, 337 pp.
+Zhu, M., Yu, X B., Choo, B., *et al*. 2012. An antiarch placoderm shows that pelvic girdles arose at the root of jawed vertebrates. Biology Letters, 8: 453–456.
 
-Jessen, H. L., 1980. Lower Devonian Porolepiformes from the Canadian Arctic with special reference to *Powichthys thorsteinssoni* Jessen. *Palaeontogr. Abt.* A **167**: 180–214.
+Zhu, M., Yu, X B., Janvier, P. 1999. A primitive fossil fish sheds light on the origin of bony fishes. Nature, 397: 607–610.
 
-Ji, S.-A. and Pan, J., 1997. The macropetalichthyids (Placodermi) from Guangxi and Hunan, China. *Vert. PalAsiat.* **35**: 18–34.
+Zhu, M., Yu, X B., Lu, J., *et al*. 2012. Earliest known coelacanth skull extends the range of anatomically modern coelacanths to the Early Devonian. Nature Communications, 3(1): 772.
 
-Johanson, Z., Smith, M., Sanchez, S., Senden, T., Trinajstic, K. and Pfaff, C., 2017. Questioning hagfish affinities of the enigmatic Devonian vertebrate *Palaeospondylus*. *R. Soc. Open Sci.* **4**: 170214.
+Zhu, M., Yu, X., Wang, W. *et al*. 2006. A primitive fish provides key characters bearing on deep osteichthyan phylogeny. Nature, 441(7089): 77-80.
 
-Johnson, H., Elliott, D. K. and Wittke, J. H., 2000. A new actinolepid arthrodire (Class Placodermi) from the Lower Devonian Sevy Dolomite, East-Central Nevada. *Zool. J. Linn. Soc.* **129**: 241–266.
+Zhu, M., Zhao, W., Jia, L., *et al*. 2009. The oldest articulated osteichthyan reveals mosaic gnathostome characters. Nature, 458(7237): 469-474.
 
-Keating, J. N., Marquart, C. L. and Donoghue, P. C., 2015. Histology of the heterostracan dermal skeleton: insight into the origin of the vertebrate mineralised skeleton. *J. Morphol.* **276**: 657–680.
-
-King, B., Qiao, T., Lee, M. S. Y., Zhu, M. and Long, J. A., 2017. Bayesian morphological clock methods resurrect placoderm monophyly and reveal rapid early evolution in jawed vertebrates. *Syst. Biol.* **66**: 599–516.
-
-Lane, J. A., 2010. Morphology of the braincase in the Cretaceous hybodont shark *Tribodus* *limae* (Chondrichthyes: Elasmobranchii), based on CT scanning. *Am. Mus. Novit.* **3681**: 1–70.
-
-Lane, J. A. and Maisey, J. G., 2009. Pectoral anatomy of *Tribodus* *limae* (Elasmobranchii: Hybodontiformes) from the Lower Cretaceous of northeastern Brazil. *J. Vertebr. Paleontol.***29**: 25–38.
-
-Lane, J. A. and Maisey, J. G., 2012. The visceral skeleton and jaw suspension in the durophagous hybodontid shark *Tribodus limae* from the Lower Cretaceous of Brazil. *J. Paleontol.* **86**: 886–905.
-
-Li, B., Hu, B.-W., Shi, X.-H., Li, J.-H. and Luo, Q., 2015. Study on the Silurian sedimentary system of western Hunan and the formation mode of typical foreland basin. *Earth Sci. Front.* **22**: 167–176.
-
-Li, Q., Zhu, Y.-A., Lu, J., Chen, Y., Wang, J., Peng, L.-J., Wei, G.-B. and Zhu, M., 2021. A new Silurian fish close to the common ancestor of modern gnathostomes. *Curr. Biol.* **31**: 3613–3620.e2.
-
-Liu, T.-S. and P'an, K., 1958. Devonian fishes from Wutung Series near Nanking, China. *Palaeontogr. Sin. C,* **141**: 1–41.
-
-Liu, Y.-H., 1965. New Devonian agnathans of Yunnan. *Vert. PalAsiat.* **9**: 125–134.
-
-Liu, Y.-H., 1975. Lower Devonian Agnathans of Yunnan and Sichuan. *Vert. PalAsiat.* **13**: 202–216.
-
-Liu, Y.-H., 1991. On a new petalichthyid, *Eurycaraspis incilis* gen. et sp. nov., from the Middle Devonian of Zhanyi, Yunnan. In: M.-M. Chang, Y.-H. Liu and G.-R. Zhang (Editors), Early Vertebrates and Related Problems of Evolutionary Biology. Science Press, Beijing, pp. 139–177.
-
-Long, J. A., 1983. A new diplacanthoid acanthodian from the Late Devonian of Victoria. *Mem. Assoc. Australas. Palaeontol.* **1**: 51–65.
-
-Long, J. A. (1983). New bothriolepid fish from the Late Devonian of Victoria, Australia. *Palaeontology* **26**: 295–320.
-
-Long, J. A., 1985. A new osteolepidid fish from the Upper Devonian Gogo Formation, western Australia. *Rec. West. Aust. Mus.* **12:** 361–377.
-
-Long, J. A., 1988. New palaeoniscoid fishes from the Late Devonian and Early Carboniferous of Victoria. *Mem. Assoc. Australas. Palaeontol.* **7**: 1–64.
-
-Long, J. A., 1997. Ptyctodontid fishes (Vertebrata, Placodermi) from the Late Devonian Gogo Formation, Western Australia, with a revision of the European genus *Ctenurella* Ørvig, 1960. *Geodiversitas* **19**: 515–555.
-
-Long, J. A., 1999. A new genus of fossil coelacanth (Osteichthyes: Coelacanthiformes) from the Middle Devonian of southeastern Australia. *Rec. West. Aust. Mus.* Suppl. **57**: 37–53.
-
-Long, J. A., Barwick, R. E. and Campell, K. S., 1997. Osteology and functional morphology of the osteolepiform fish *Gogonasus andrewsae* Long, 1985, from the Upper Devonian Gogo Formation, Western Australia. *Rec. West. Aust. Mus.* Suppl. **53**: 1–89.
-
-Long, J. A., Mark-Kurik, E., Johanson, Z., Lee, M. S., Young, G. C., Zhu, M., Ahlberg, P. E., Newman, M., Jones, R., Blaauwen, J. D., Choo, B. and Trinajstic, K., 2015. Copulation in antiarch placoderms and the origin of gnathostome internal fertilization. *Nature* **517**: 196–199.
-
-Long, J. A., Mark-Kurik, E. and Young, G. C., 2014. Taxonomic revision of buchanosteoid placoderms (Arthrodira) from the Early Devonian of south-eastern Australia and Arctic Russia. *Aust. J. Zool.* **62**: 26–43.
-
-Long, J. A. and Trinajstic, K., 2010. The Late Devonian Gogo Formation Lägerstatte of western Australia: exceptional early vertebrate preservation and diversity. *Annu. Rev. Earth. Planet. Sci.* **38**: 255–279.
-
-Long, J. A., Trinajstic, K., Young, G. C. and Senden, T., 2008. Live birth in the Devonian period. *Nature* **453**: 650–652.
-
-Long, J. A., Young, G. C., Holland, T., Senden, T. J. and Fitzgerald, E. M. G., 2006. An exceptional Devonian fish from Australia sheds light on tetrapod origins. *Nature* **444**: 199–202.
-
-Lu, J., Giles, S., Friedman, M. and Zhu, M., 2017. A new stem sarcopterygian illuminates patterns of character evolution in early bony fishes. *Nat. Commun.* **8**: 1932.
-
-Lu, J. and Zhu, M., 2010. An onychodont fish (Osteichthyes, Sarcopterygii) from the Early Devonian of China, and the evolution of the Onychodontiformes. *Proc. R. Soc. B* **277**: 293–299.
-
-Lu, J., Zhu, M., Ahlberg, P. E., Qiao, T., Zhu, Y.-A., Zhao, W.-J. and Jia, L.-T., 2016. A Devonian predatory fish provides insights into the early evolution of modern sarcopterygians. *Sci. Adv.* **2**: e1600154.
-
-Lu, J., Zhu, M., Long, J. A., Zhao, W.-J., Senden, T. J., Jia, L.-T. and Qiao, T., 2012. The earliest known stem-tetrapod from the Lower Devonian of China. *Nat. Commun.* **3**: 1160.
-
-Lukševičs, E., 2001. The orbito-nasal area of *Asterolepis ornata*, a Middle Devonian placoderm fish. *J. Vertebr. Paleontol.* **21**: 687–692.
-
-Lund, R., 1985. The morphology of *Falcatus falcatus* (St. John and Worthen), a Mississippian stethacanthid chondrichthyan from the Bear Gulch Limestone of Montana. *J. Vertebr. Paleontol.* **5**: 1–19.
-
-Lund, R., 1986. On *Damocles serratus*, nov. gen. et sp. (Elasmobranchii: Cladodontida) from the Upper Mississippian Bear Gulch Limestone of Montana. *J. Vertebr. Paleontol.* **6**: 12–19.
-
-Lund, R. and Grogan, E. D., 1997. Relationships of the Chimaeriformes and the basal radiation of the Chondrichthyes. *Rev. Fish Biol. Fish.* **7**: 65–123.
-
-Maisey, J. G., 1985. Cranial morphology of the fossil elasmobranch *Synechodus dubrisiensis*. *Am. Mus. Novit.* **2804**: 1–28.
-
-Maisey, J. G., 1989. *Hamiltonichthys mapesi*, g. & sp. nov. (Chondrichthyes; Elasmobranchii), from the Upper Pennsylvanian of Kansas. *Am. Mus. Novit.* **2931**: 1–42.
-
-Maisey, J. G., 2001. Remarks on the inner ear of elasmobranchs and its interpretation from skeletal labyrinth morphology. *J. Morphol.* **250**: 236–264.
-
-Maisey, J. G., 2005. Braincase of the Upper Devonian shark *Cladodoides wildungensis* (Chondrichthyes, Elasmobranchii), with observations on the braincase in early chondrichthyans. *Bull. Am. Mus. Nat.* **288**: 1–103.
-
-Maisey, J. G., 2007. The braincase in Paleozoic symmoriiform and cladoselachian sharks. *Bull. Am. Mus. Nat.* **307**: 1–122.
-
-Maisey, J. G., 2011. The braincase of the Middle Triassic shark *Acronemus tuberculatus* (Bassani, 1886). *Palaeontology* **54**: 417–428.
-
-Maisey, J. G. and Anderson, M. E., 2001. A primitive chondrichthyan braincase from the Early Devonian of South Africa. *J. Vertebr. Paleontol.* **21**: 702–713.
-
-Maisey, J. G. and Denton, J. S. S., 2016. Dermal denticle patterning in the Cretaceous hybodont shark *Tribodus limae* (Euselachii, Hybodontiformes), and its implications for the evolution of patterning in the chondrichthyan dermal skeleton. *J. Vertebr. Paleontol.* **36**(5): e1179200.
-
-Maisey, J. G., Miller, R. and Turner, S., 2009. The braincase of the chondrichthyan *Doliodus* from the Lower Devonian Campbellton Formation of New Brunswick, Canada. *Acta Zool.* **90**: 109–122.
-
-Mark-Kurik, E., 1973. *Kimaspis*, a new palaeacanthaspid from the Early Devonian of Central Asia. *Eesti NSV Teaduste Akadeemia Toimetised, Geoloogia* **22**: 322–330.
-
-Märss, T., Afanassieva, O. and Blom, H., 2015. Biodiversity of the Silurian osteostracans of the East Baltic. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **105**: 73–148.
-
-Miles, R. S., 1967. Observations on the ptyctodont fish, *Rhamphodopsis* Watson. *Zool. J. Linn. Soc.* **47**: 99–120.
-
-Miles, R. S., 1973a. Articulated acanthodian fishes from the Old Red Sandstone of England, with a review of the structure and evolution of the acanthodian shoulder-girdle. *Bull. Br. Mus. Nat. Geol.* **24**: 111–213.
-
-Miles, R. S., 1973b. Relationships of acanthodians. In: P. H. Greenwood, R. S. Miles and C. Patterson (Editors), Interrelationships of Fishes. Academic Press, London, pp. 63–103.
-
-Miles, R. S. and Westoll, T. S., 1968. The placoderm fish *Coccosteus cuspidatus* Miller ex Agassiz from the Middle Old Red Sandstone of Scotland. Part I. descriptive morphology. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **67**: 373–476.
-
-Miller, R. F., Cloutier, R. and Turner, S., 2003. The oldest articulated chondrichthyan from the Early Devonian period. *Nature* **425**: 501–504.
-
-Moy-Thomas, J. A., 1935. The structure and affinities of *Chondrenchelys problematica. Proc. Zool. Soc. Lond*. **105**: 391–404.
-
-Moy-Thomas, J. A., 1936. On the structure and affinities of the Carboniferous cochliodont *Helodus simplex*. *Geol. Mag.* **73**: 488–503.
-
-Mutter, R. J., De Blanger, K. and Neuman, A. G., 2007. Elasmobranchs from the Lower Triassic Sulphur Mountain Formation near Wapiti Lake (BC, Canada). *Zool. J. Linn. Soc.***149**: 309–337.
-
-Mutter, R. J., Neuman, A. G. and De Blanger, K., 2008. *Homalodontus* nom. nov., a replacement name for *Wapitiodus* Mutter, de Blanger and Neuman, 2007 (Homalodontidae nom. nov.,? Hybodontoidea), preoccupied by *Wapitiodus* Orchard, 2005. *Zool. J. Linn. Soc.***154**: 419–420.
-
-Newman, M. J., Burrow, C. J., Den Blaauwen, J. L. and Davidson, R. G., 2014. The Early Devonian acanthodian *Euthacanthus macnicoli* Powrie, 1864 from the Midland Valley of Scotland. *Geodiversitas* **36**: 321–348.
-
-Newman, M. J., Davidson, R. G., Blaauwen, J. L. D. and Burrow, C. J., 2012. The Early Devonian acanthodian *Uraniacanthus curtus* (Powrie, 1870) n. comb. from the Midland Valley of Scotland. *Geodiversitas* **34**: 739–759.
-
-Oelofsen, B. W. in Indo-Pacific Fish Biology: Proceedings of the SecondInternational Conference on Indo-Pacific Fishes (eds Uyeno, T., Arai, R., Taniuchi, T. & Matsuura, K.) 107–124 (Ichthyological Society of Japan, 1986).
-
-Olive, S., Goujet, D., Lelièvre, H. and Janjou, D., 2011. A new placoderm fish (Acanthothoraci) from the Early Devonian Jauf Formation (Saudi Arabia). *Geodiversitas* **33**: 393–409.
-
-Olive, S., Goujet, D., Lelièvre, H. and Janvier, P., 2014. The growth of the skull roof plates in *Arabosteus variabilis* (Acanthothoraci, Placodermi) from the Early Devonian Jauf Formation (Saudi Arabia): Preliminary results. *Paleontol. J.* **48**: 992–1002.
-
-Ørvig, T., 1957. Notes on some Paleozoic lower vertebrates from Spitsbergen and North America. *Nor. J. Geol.* **37**: 285–353.
-
-Ørvig, T., 1975. Description, with special reference to the dermal skeleton, of a new radotinid arthrodire from the Gedinnian of Arctic Canada. In: J. P. Lehman (Editor), Problèmes actuels de Paléontologie-Evolution des Vertébrés. Colloques Internationaux du Centre National de la Recherche Scientifique, Paris, pp. 41–71.
-
-Pan, J., 1986a. New discovery of Silurian vertebrates in China, Professional Papers Presented to Professor Yoh Sen-shing, Geol. Publ. House, pp. 67–76.
-
-Pan, J., 1986b. Note on Silurian vertebrates of China. *Bull. Chin. Acad. Sci. Geol. Sci.* **15**: 161–190.
-
-Pan, J. and Dineley, D. L., 1988. A review of early (Silurian and Devonian) vertebrate biogeography and biostratigraphy of China. *Proc. R Soc. B* **235**: 29–61.
-
-Pan, Z.-H., Zhu, M., Zhu, Y.-A. and Jia, L.-T., 2015. A new petalichthyid placoderm from the Early Devonian of Yunnan, China. *C. R. Palevol.* **14**: 125–137.
-
-Pearson, D. M. and Westoll, T. S., 1979. The Devonian actinopterygian *Cheirolepis* Agassiz. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **70**: 337–399.
-
-Pickett, J. W., Burrow, C. J., Holloway, D. J., Munson, T. J., Percival, I. G., Rickards, R. B., Sherwin, L., Simpson, A. J., Strusz, D. L., Turner, S. and Wright, A. J., 2000. Silurian palaeobiogeography of Australia. In: A. J. Wright, G. C. Young, J. A. Talent and J. R. Laurie (Editors), Palaeobiogeography of Australasian faunas and floras. Memoir 23 of the Association of Australian Palaeontologists, pp. 127–165.
-
-Poplin, C., 1975. *Kansasiella* nomen novum remplacant *Kansasia* Poplin 1974 (Poissons: Palaeonisciformes). *Bull. Soc. Géol. Fr* **17**, 26.
-
-Pradel, A., Maisey, J. G., Tafforeau, P. and Janvier, P., 2009. An enigmatic gnathostome vertebrate skull from the Middle Devonian of Bolivia. *Acta Zool.* **90**: 123–133.
-
-Pradel, A., Maisey, J. G., Tafforeau, P., Mapes, R. H. and Mallatt, J., 2014. A Palaeozoic shark with osteichthyan-like branchial arches. *Nature* **509**: 608–611.
-
-Pradel, A., Tafforeau, P., Maisey, J. G. and Janvier, P., 2011. A new Paleozoic Symmoriiformes (Chondrichthyes) from the Late Carboniferous of Kansas (USA) and cladistic analysis of early chondrichthyans. *PLoS One* **6**: e24938.
-
-Qiao, T. and Zhu, M., 2010. Cranial morphology of the Silurian sarcopterygian *Guiyu oneiros* (Gnathostomata: Osteichthyes). *Sci. China Earth Sci* **53**: 1836–1848.
-
-Randle, E. and Sansom, R. S., 2016. Exploring phylogenetic relationships of Pteraspidiformes heterostracans (stem-gnathostomes) using continuous and discrete characters. *J. Syst. Palaeontol.* **15**: 583–599.
-
-Rayner, D. H., 1951. On the cranial structure of an early palaeoniscid, *Kentuckia* gen. nov. *Earth Environ. Sci. Trans. R. Soc. Edinb.* **62**: 58–83.
-
-Ritchie, A., 1967. *Ateleaspis tessellata* Traquair, a non-cornuate cephalaspid from the Upper Silurian of Scotland. *Zool. J. Linn. Soc.* **47**: 69–81.
-
-Ritchie, A., 1973. *Wuttagoonaspis* gen. nov., an unusual arthrodire from the Devonian of Western New South Wales, Australia. *Palaeontogr. Abt. A* **143**: 58–72.
-
-Ritchie, A., 1975. *Groenlandaspis* in Antarctica, Australia and Europe. *Nature* **254**: 569–573.
-
-Ritchie, A., 2004. A new genus and two new species of groenlandaspidid arthrodire (Pisces: Placodermi) from the Early-Middle Devonian Mulga Downs Group of western New South Wales, Australia *Foss. Strata.* **50**: 56–81.
-
-Ritchie, A., 2005. *Cowralepis*, a new genus of phyllolepid fish (Pisces, Placodermi) from the Late Middle Devonian of New South Wales, Australia. *Proc. Linn. Soc. N.S.W.* **126**: 215–259.
-
-Ritchie, A., Wang, S.-T., Young, G. C. and Zhang, G.-R., 1992. The Sinolepidae, a family of antiarchs (placoderm fishes) from the Devonian of South China and eastern Australia. *Rec. Aust. Mus.* **44**: 319–370.
-
-Robertson, G.M., 1937. The Tremataspidae Part I. *Am. J. Sci.* **207**: 172–206.
-
-Robertson, G.M., 1938. The Tremataspidae Part II. *Am. J. Sci.* **208**: 273–296.
-
-Rong, J.-Y., Chen, X., Wang, C.-Y., Geng, L.-Y., Wu, H.-J., Deng, Z.-Q., Chen, T.-E. and Xu, J.-T., 1990. *Some problems on the Silurian correlation in South China*. *J. Stratigr.* **14**: 161–177.
-
-Rong, J.-Y., Wang, Y., Zhan, R.-B., Fan, J.-X., Huang, B., Tang, P., Li, Y., Zhang, X.-L., Wu, R.-C., Wang, G.-X. and Wei, X., 2019. Silurian integrative stratigraphy and timescale of China. *Sci. China Earth Sci.* **62**: 89–111.
-
-Rong, J.-Y., Wang, Y. and Zhang, X., 2012. Tracking shallow marine red beds through geological time as exemplified by the lower Telychian (Silurian) in the Upper Yangtze Region, South China. *Sci. China Earth Sci.* **55**: 699–713.
-
-Russell, L. S., 1951. Acanthodians of the Upper Devonian Escuminac Formation, Maguasha, Quebec. *Ann. Mag. Nat. Hist.* **4**: 401–407.
-
-Sallan, L. C. and Coates, M. I., 2010. End-Devonian extinction and a bottleneck in the early evolution of modern jawed vertebrates. *Proc. Natl. Acad. Sci. U.S.A.* **107**: 10131–10135.
-
-Schaeffer, B., 1981. The xenacanth shark neurocranium, with comments on elasmobranch monophyly. *Bull. Am. Mus. Nat.* **169**: 1–66.
-
-Schultze, H.-P., 1968. Palaeoniscoidea-schuppen aus dem Unterdevon Australiens und Kansas und aus dem Mitteldevon Spitzbergens. *Bull. Br. Mus. Nat. Hist. Geol.* **16**: 343–368.
-
-Schultze, H.-P. 1992 Early Devonian actinoptergians (Osteichthyes, Pisces) from Siberia. In *Fossil Fishes as Living Animals* (ed. E. Mark-Kurik), pp. 233-242. Tallinn, Academy of Sciences of Estonia.
-
-Schultze, H.-P. and Cumbaa, S. L., 2001. *Dialipina* and the characters of basal actinopterygians. In: P. E. Ahlberg (Editor), Major Events in Early Vertebrate Evolution: Palaeontology, Phylogeny, Genetics and Development. Taylor & Francis, London, pp. 315–332.
-
-Schultze, H.-P. and Märss, T., 2004. Revisiting *Lophosteus* Pander 1856, a primitive osteichthyan. *Acta. Univ. Latv.* **674**: 57–78.
-
-Schultze, H.-P. and Zidek, J., 1982. Ein primitiver Acanthodier (Pisces) aus dem Unterdevon Lettlands. *Palaontol. Z* **56**: 95–105.
-
-Soler-Gijon, R. and Hampe, O., 1998. Evidence of *Triodus* Jordan 1849 (Elasmobranchii: Xenacanthidae) in the Lower Permian of the Autun Basin (Muse, France). *Neues Jahrb. Geol. Paläontol., Monatsh.* **6**: 335–348.
-
-Sollas, W. J. and Sollas, I. B. J., 1904. An account of the Devonian fish, *Palaeospondylus* *gunni*, Traquair. *Philos. Trans. R. Soc. B* **196**: 267–294.
-
-Stensiö, E. A., 1969. Elasmobranchiomorphi Placodermata Arthrodires. In: J. Piveteau (Editor), Traité de Paléontologie. Masson, Paris, pp. 71–692.
-
-Stensiö, E. A., 1925. On the head of the macropetalichthyids with certain remarks on the head of the other arthrodires. *Geol. Ser.* **4**: 87–197.
-
-Stensiö, E. A., 1932. The Cephalaspids of Great Britain. British Museum (Natural History), London. 220 pp.
-
-Stensiö, E. A., 1963. The brain and the cranial nerves in fossil lower craniate vertebrates. *Skr. Norske. VidenskAkad. Oslo, Mat.-Naturv. Kl.* **13**: 1–120.
-
-Taverne, L., 1997. *Osorioichthys marginis*, "paleonisciform" from the Fammenian of Belgium, and the phylogeny of the Devonian actinopterygians (Pisces). *Bull. Inst. R. Sci. Nat. Belg.* **67**: 57–78.
-
-Teng, Y.-H., Sone, M., Hirayama, R., Yoshida, M., Komatsu, T., Khamha, S. and Cuny, G., 2019. First Cretaceous fish fauna from Malaysia. *J. Vertebr. Paleontol.* **39**: e1573735.
-
-Tetlie, O. E., Selden, P. A. and Ren, D., 2007. A new Silurian eurypterid (Arthropoda: Chelicerata) from China. *Palaeontology* **50**: 619–625.
-
-Thomson, K.S., 1965. The endocranium and associated structures in the Middle Devonian rhipidistian fish *Osteolepis*. *Proc. Linn. Soc. Lond.* **176**: 181–195.
-
-Tông-Dzuy, T. and Janvier, P., 1990. Les Vertébrés du Dévonien inférieur du Bac Bo oriental (provinces de Bac Thaï et Lang Son, Viêt Nam). *Bull. Mus. Natl. Hist. Nat., 4C* **12**: 143–223.
-
-Trinajstic, K., Long, J. A., Johanson, Z., Young, G. C. and Senden, T., 2012. New morphological information on the ptyctodontid fishes (Placodermi, Ptyctodontida) from Western Australia. *J. Vertebr. Paleontol.* **32**: 757–780.
-
-Turner, P. and Turner, S., 1974. Thelodonts from the Upper Silurian of Ringerike, Norway. *Nor. J. Geol.* **54**: 183–192.
-
-Upeniece, I., 2001. The unique fossil assemblage from the Lode Quarry (Upper Devonian, Latvia). *Mitt. Mus. Natkd. Berl. Geowiss.* **4**: 101–119.
-
-Valiukevicius, J., 1992. First articulated *Poracanthodes* from the Lower Devonian of Severnaya Zemlya. In: E. Mark-Kurik (Editor), Fossil Fishes as Living Animals. Academy of Sciences of Estonia, Tallinn, pp. 193–214.
-
-Vergoossen, J.M.J. 1999 Late Silurian fish microfossils from an East Baltic-derived erratic from Oosterhaule, with a description of new acanthodian taxa. Geologie en Mijnbouw 78, 231-251.
-
-Vaskaninova, V., 2009. *Asterolepis ornata* Eichwald, 1840 (Placodermi) ve sbirkach Ceske geologicke sluzby. *Zpravy o geologickych vyzkumech* **2008**: 131–132.
-
-Vaškaninová, V. and Ahlberg, P.E., 2017. Unique diversity of acanthothoracid placoderms (basal jawed vertebrates) in the Early Devonian of the Prague Basin, Czech Republic: a new look at *Radotina* and *Holopetalichthys*. *PLoS One* **12**: e0174794.
-
-Vergoossen, J. M. J., Ivanov, A., Wilson, M. V. H. and Zhuravlev, A., 1997. Revision of poracanthodid acanthodians. In: A. Ivanov, M.V.H. Wilson and A. Zhuravalov (Editors), Palaeozoic strata and fossils of the Eurasian Arctic. *Ichthyolith Issues Special Publication*, pp. 44–46. 
-
-Wang, C.-Y., Chen, L., Wang, Y. and Tang, P., 2010. Affirmation of *Pterospathodus eopennatus* Zone (Conodonta) and the age of the Silurian Shamao Formation in Zigui, Hubei as well as the correlation of the related strata. *Acta Palaeontol. Sin.* **49**: 10–28.
-
-Wang, Y., Zhang, X., Xu, H., Jiang, Q. and Tang, P., 2011. Discovery of the late Silurian Xiaoxi Formation in the Xiushan Area, Chongqing City, China, and the revision of the Huixingshao Formation. *J. Stratigr.* **35**: 113–121.
-
-Warren, A., Currie, B. P., Burrow, C. and Turner, S., 2000. A redescription and reinterpretation of *Gyracanthides murrayi* Woodward 1906 (Acanthodii, Gyracanthidae) from the Lower Carboniferous of the Mansfield Basin, Victoria, Australia. *J. Vertebr. Paleontol.* **20**: 225–242.
-
-Watson, D. M. S., 1937. The acanthodian fishes. *Philos. Trans. R. Soc.* **228**: 49–146.
-
-Westoll, T. S., 1936. On the structures of the dermal ethmoid shield of *Osteolepis*. *Geol. Mag.* **73**: 157–171.
-
-White, E. I., 1958. On the original environment of the craniates. In: T.S. Westoll (Editor), Studies on Fossil Vertebrates, London, pp. 212–234.
-
-White, E. I., 1965. The head of *Dipterus valenciennesi* Sedgwick & Murchison. *Bull. Br. Mus. Nat. Hist. Geol.* **11**: 1–45.
-
-White, E. I. and Toombs, H. A., 1972. The buchanosteid arthrodires of Australia. *Bull. Br. Mus. Nat. Hist. Geol.* **22**: 379–419.
-
-Williams, M. E., 1998. A new specimen of *Tamiobatis vetustus* (Chondrichthyes, Ctenacanthoidea) from the Late Devonian Cleveland Shale of Ohio. *J. Vertebr. Paleontol.* **18**: 251–260.
-
-Woodward, A. S., 1941. IX.—The head shield of a new macropetalichthyid fish (*Notopetalichthys hillsi*, gen. et sp. nov.) from the Middle Devonian of Australia. *J. Nat. Hist. Ser. 11* **8**: 91–96.
-
-Young, G. C., 1979. New information on the structure and relationships of *Buchanosteus* (Placodermi: Euarthrodira) from the Early Devonian of New South Wales. *Zool. J. Linn. Soc.* **66**: 309–352.
-
-Young, G. C., 1980. A new Early Devonian placoderm from New South Wales, Australia, with a discussion of placoderm phylogeny. *Palaeontogra. Abt. A* **167**: 10–76.
-
-Young, G. C., 1985. Further petalichthyid remains (placoderm fishes, Early Devonian) from the Taemas-Wee Jasper region, New South Wales. *BMR J. Aust. Geol. Geophys.* **9**: 121–131.
-
-Young, G. C., 1986. The relationships of placoderm fishes. *Zool. J. Linn. Soc.* **88**: 1–57.
-
-Young, G. C., 1989. The Aztec fish fauna (Devonian) of Southern Victoria Land: evolutionary and biogeographic significance. *Geol. Soc. Spec. Publ. Lond.* **47**: 43–62.
-
-Young, G. C., 2004. Large brachythoracid arthrodires (Placoderm Fishes) from the Early Devonian of Wee Jasper, New South Wales, Australia, with a discussion of basal brachythoracid characters. *J. Vertebr. Paleontol.* **24**: 1–17.
-
-Young, G. C., 2010. Placoderms (armored fish): dominant vertebrates of the Devonian period. *Annu. Rev. Earth Planet Sci*. **38**: 523–550.
-
-Yu, X.-B., 1998. A new porolepiform-like fish, *Psarolepis romeri*, gen. et sp. nov. (Sarcopterygii, Osteichthyes) from the Lower Devonian of Yunnan, China. *J. Vertebr. Paleontol.* **18**: 261–274.
-
-Zangerl, R. and Case, G. R., 1973. Iniopterygia, a new order of chondrichthyan fishes from the Pennsylvanian of North America. *Fieldiana Zool.* **6**: 1–67.
-
-Zhang, G.-R., Wang, J.-Q. and Wang, N.-Z., 2001. The structure of pectoral fin and tail of Yunnanolepidoidei, with a discussion of the pectoral fin of chuchinolepids. *Vert. PalAsiat.* **39**: 1–13.
-
-Zhang, M.-M., 1980. Preliminary note on a Lower Devonian antiarch from Yunnan, China. *Vert. PalAsiat.* **18**: 179–190.
-
-Zhao, W.-J., Zhu, M. and Jia L.-T., 2002. New discovery of galeaspids from Early Devonian of Wenshan, southeastern Yunnan, China. *Vert. PalAsiat.* **40**: 97–113.
-
-Zhao, W.-J. and Zhu, M., 2010. Siluro-Devonian vertebrate biostratigraphy and biogeography of China. *Palaeoworld* **19**: 4–26.
-
-Zhu, M., 1991. New information on *Diandongpetalichthys* (Placodermi: Petalichthyida). In: M.-M. Chang, Y.-H. Liu and G.-R. Zhang (Editors), Early Vertebrates and Related Problems of Evolutionary Biology, pp. 179–194.
-
-Zhu, M., 1996. The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bull. Mus. Natl. Hist. Nat.* **18**: 233–347.
-
-Zhu, M., 2000. Catalogue of Devonian vertebrates in China, with notes on bio-events. *Cour. Forsch. Inst. Senckenberg* **223**: 373–390.
-
-Zhu, M. and Ahlberg, P. E., 2004. The origin of the internal nostril of tetrapods. *Nature* **432**: 94–97.
-
-Zhu, M., Ahlberg, P. E., Pan, Z.-H., Zhu, Y.-A., Qiao, T., Zhao, W.-J., Jia, L.-T. and Lu, J., 2016. A Silurian maxillate placoderm illuminates jaw evolution. *Science* **354**: 334–336.
-
-Zhu, M. and Gai, Z.-K., 2006. Phylogenetic relationships of galeaspids (Agnatha). *Vert. PalAsiat.* **44**: 1–27.
-
-Zhu, M. and Gai, Z.-K., 2007. Phylogenetic relationships of galeaspids (Agnatha). *Front. Biol. China* **2**: 1–19.
-
-Zhu, M. and Janvier, P., 1996. A small antiarch, *Minicrania lirouyii* gen. et sp. nov., from the Early Devonian of Qujing, Yunnan (China), with remarks on antiarch phylogeny. *J. Vertebr. Paleontol.***16**: 1–15.
-
-Zhu, M. and Wang, J.-Q., 1996. A new macropetalichthyid from China, with special reference to the historical zoogeography of the Macropetalichthyidae (Placodermi). *Vert. PalAsiat.* **34**: 253–268.
-
-Zhu, M., Wang, W. and Yu, X.-B., 2010. *Meemannia eos*, a basal sarcopterygian fish from the Lower Devonian of China –expanded description and significance. In: D.K. Elliott, J.G. Maisey, X.-B. Yu and D.-S. Miao (Editors), Morphology, Phylogeny and Paleobiogeography of Fossil Fishes. Verlag Dr. Friedrich Pfeil, München, pp. 199–214.
-
-Zhu, M. and Yu, X.-B., 2002. A primitive fish close to the common ancestor of tetrapods and lungfish. *Nature* **418**: 767–770.
-
-Zhu, M. and Yu, X.-B., 2004. Lower jaw character transitions among major sarcopterygian groups - a survey based on new materials from Yunnan, China. In: G. Arratia, M. V. H. Wilson and R. Cloutier (Editors), Recent Advances in the Origin and Early Radiation of Vertebrates. Verlag Dr. Friedrich Pfeil, München, pp. 271–286.
-
-Zhu, M. and Yu, X.-B., 2009. Stem sarcopterygians have primitive polybasal fin articulation. *Biol. Lett.* **5**: 372–375.
-
-Zhu, M., Yu, X.-B. and Ahlberg, P. E., 2001. A primitive sarcopterygian fish with an eyestalk. *Nature* **410**: 81–84.
-
-Zhu, M., Yu, X.-B. and Janvier, P., 1999. A primitive fossil fish sheds light on the origin of bony fishes. *Nature* **397**: 607–610.
-
-Zhu, M., Yu, X.-B., Wang, W., Zhao, W.-J. and Jia, L.-T., 2006. A primitive fish provides key characters bearing on deep osteichthyan phylogeny. *Nature* **441**: 77–80.
-
-Zhu, M., Yu, X.-B., Ahlberg, P. E., Choo, B., Lu, J., Qiao, T., Qu, Q.-M., Zhao, W.-J., Jia, L.-T., Blom, H. and Zhu, Y.-A., 2013. A Silurian placoderm with osteichthyan-like marginal jaw bones. *Nature* **502**: 188–193.
-
-Zhu, M., Yu, X.-B., Choo, B., Wang, J.-Q. and Jia, L.-T., 2012. An antiarch placoderm shows that pelvic girdles arose at the root of jawed vertebrates. *Biol. Lett.* **8**: 453–456.
-
-Zhu, M., Zhao, W.-J., Jia, L.-T., Lu, J., Qiao, T. and Qu, Q.-M., 2009. The oldest articulated osteichthyan reveals mosaic gnathostome characters. *Nature* **458**: 469–474.
-
-Zhu, Y.-A., Giles, S., Young, G. C., Hu, Y.-Z., Bazzi, M., Ahlberg, P. E., Zhu, M. and Lu, J., 2021. Endocast and bony labyrinth of a Devonian "placoderm" challenges stem gnathostome phylogeny. *Curr. Biol.* **31**: 1112–1118.e4
-
-Zhu, Y.-A., Li, Q., Lu, J., Chen, Y., Wang, J., Gai, Z., Zhao, W., Wei, G., Yu, Y., Ahlberg, P.E., *et al*. 2022 The oldest complete jawed vertebrates from the early Silurian of China. *Nature* **609**, 954-958. (doi:10.1038/s41586-022-05136-8).
-
-Zhu, Y.-A., Lu, J. and Zhu, M., 2019. Reappraisal of the Silurian placoderm *Silurolepis* and insights into the dermal neck joint evolution. *R. Soc. Open Sci.* **6**: 191181.
-
-Zong, R.-W., Liu, Q., Wei, F. and Gong, Y.-M., 2017. Fentou Biota: a Llandovery (Silurian) shallow-water exceptionally preserved biota from Wuhan, Central China. *J. Geol.* **125**: 469–478.
-
+Zhu, Y A., Giles, S., Young, G C., *et al*. 2021. Endocast and bony labyrinth of a Devonian “placoderm” challenges stem gnathostome phylogeny. Current Biology, 31(5): 1112-1118.
