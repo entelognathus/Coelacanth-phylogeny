@@ -1,9 +1,9 @@
 **List of taxa, geological range (Ma), horizon and locality, and references used in the analysis**
 
-[Galeaspida] Tarlo, 1967
+[Galeaspida](https://www.deepbone.cn/public/#/explor?s_id=197&functionId=Deepbone_header_searchResultOpen) Tarlo, 1967
 > - [Donoghue *et al*., 2000](https://www.cambridge.org/core/journals/biological-reviews/article/abs/conodont-affinity-and-chordate-phylogeny/66C1A98F6665A2603BD0D99589B0610D); [Wang *et al*., 2005](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2005)025[0745:HOTGDA]2.0.CO;2); [Gai *et al*., 2011](https://www.nature.com/articles/nature10276);
 
-[Osteostraci]  Lankester, 1868
+[Osteostraci](https://www.deepbone.cn/public/#/explor?s_id=1586&functionId=Deepbone_header_searchResultOpen) Lankester, 1868
 > -  [Denison, 1947];(https://deepbone-image.oss-cn-hongkong.aliyuncs.com/pdf/6_1708416572706.pdf) [Janvier, 1985](https://www.google.com.hk/books/edition/Les_C%C3%A9phalaspides_du_Spitsberg_anatomie_/XgkBEQAAQBAJ?kptab=editions&sa=X&ved=2ahUKEwjJ6vy2hI2JAxUtklYBHXugKCMQmBZ6BAgEEAo); [Sansom *et al*., 2009](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-4983.2009.00846.x);
 
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
@@ -33,7 +33,7 @@
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 
-[*Bothriolepis canadensis*] Whiteaves, 1880
+[*Bothriolepis canadensis*](https://www.deepbone.cn/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
 > Frasnian, Upper Devonian, 382.7, 372.2
 
 > Miguasha, Québec, Canada; Catskill Formation of Pennsylvania, North America; Orkney Islands, Scotland.
@@ -114,7 +114,7 @@ tooth plates (WAM 95.6.112). The Natural History Museum, London holds a single i
 
 > - Cleveland Shale, Cleveland Shale Member, Ohio Shale, Cleveland, Ohio, USA.
 > - [Bendix-Almgreen, 1975]; [Maisey, 2007](https://www.semanticscholar.org/paper/THE-BRAINCASE-IN-PALEOZOIC-SYMMORIIFORM-AND-SHARKS-Maisey/ad3f36883ec1876414ba30d9995f4412aeab6ffe); [Schaeffer, 1981](https://digitallibrary.amnh.org/items/d6834305-04f1-4a37-a641-d8b97b20af34).
-> - Harris, J.E. 1938. The neurocranium and jaws of Cladoselache. Scientific Publications of the Cleveland Museum of Natural History 8: 8–12
+
 
 [*Climatius reticulatus*](https://deepbone.org/public/#/explor?s_id=3142&functionId=Deepbone_header_searchResultOpen) Agassiz, 1844
 > Lochkovian, 419.2, 410.8
