@@ -76,7 +76,7 @@
 
 > - Clement *et al.* (2024): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
-> - Clement *et al.* (2024) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered. +
+> - Clement *et al.* (2024) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered.
 
 >> - The coding of *Qujingodus* is 1.
 
@@ -96,7 +96,7 @@
 
 > - Clement *et al.* (2024): "The three character-states form a morphocline. Character 10 is linked with Character 9."
 
->> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?. **to xm: for thase taxa without dorsal lamina, the coding should be - 'logical impossibility'.$$**
 
 ### 11. Dorsal lamina of premaxilla, perforation of: perforated by ethmoid commissure (0), not perforated by ethmoid commissure (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 6; Clement *et al.* (2024), Character 11.
@@ -105,7 +105,7 @@
 
 > - Clement *et al.* (2024): "Character 11 is linked to Character 9."
 
->> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?. **to xm: for thase taxa without dorsal lamina, the coding should be - 'logical impossibility'.$$**
 
 ### 12. Premaxilla ventral margin, shape of: arched (0), not arched (1). 
 > Lu & Zhu (2009), Character 19, modified; Clement *et al.* (2024), Character 12.
@@ -4026,6 +4026,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
