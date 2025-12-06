@@ -512,7 +512,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - > - The coding of *Qujingodus* is ?.
+> - The coding of *Qujingodus* is ?.
 
 ### 60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). (ordered)
 > Clement *et al.* (2024), Character 60.
@@ -4032,6 +4032,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
