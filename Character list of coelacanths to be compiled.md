@@ -4,6 +4,7 @@
 
 ## To xm: 按照我下面的方式仔细编辑相应内容，这样曲靖齿鱼所要用的SI有关character list的部分就不是一个简单的list，每个特征都有具体出处。有些特征会有一些comments. 引用特征出处，按出版年份排序。两篇文章之间统一用分号，最后结束用点号。将 Clement *et al.* (2024)，Character 1, Character 3等等加上。逗号和分号之后，该空一格就空一格。最后再对照引用过的文献将reference编辑一下。
 ## To xm: 我在批注中提出的建议或问题，你认为已明白或已被解决，你可以删去这些批注以保持整体版本的清洁。
+## 看一下我在特征171中的批注。这个活看看谁能帮你一下。
 
 ## Skeletal tissues
 ### 1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
@@ -1467,9 +1468,8 @@
 ### 171. Vestibular fontanelle: absent (0), present (1). 
 > Friedman (2007), Character 180; Lu *et al.* (2016), Character 171; Clement *et al*. (2018), Character 169; Clement *et al.* (2024), Character 171.
 
-> Lu *et al.* (2016), Character 171; Clement et al. (2018), Character 169.
-
 > - Character 489 in 'early gnathostome phylogeny dataset'.
+> - Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 98; Choo *et al*. (2017), Character 94; King *et al*. (2017), Character 56; Castiello (2018), Character 57; Zhu Y. *et al*. (2022), Character 495; Andreev *et al*. (2022), Character 169; Brazeau *et al*. (2023), Character 60. Cui *et al*. (2023), Character 494; Lu *et al*. (2026), Character 489; Zhu Y. *et al*. (2026), Character 489. **to xm: 对于完全一样的特征，你可以将early gnathstome矩阵里面的文献，融合到上面文献清单中.** 
 
 > - Clement *et al.* (2024): "The vestibular fontanelle is a large basicranial fenestra located ventrally to the notochord and that opens into the saccular region of the inner ear. The fenestra ovalis present in tetrapods is derived from the vestibular fontanelle (Clack, 1994)."
 
@@ -4026,6 +4026,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
