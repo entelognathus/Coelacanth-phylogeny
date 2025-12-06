@@ -2228,7 +2228,7 @@
 
 >> - The coding of *Qujingodus* is ?.
 
-## Characters added from Lu et al. (2016) and Clement et al. (2018)
+## Characters added from Lu *et al.* (2016) and Clement *et al.* (2018)
 ### 269. Tessellate prismatic calcified cartilage: absent (0), present (1).
 > Lu *et al.* (2016), Character 1; Clement et al. (2018), Character 1.
 
@@ -3621,67 +3621,66 @@
 ## charaters 569-581 are meristic characters.
 The list of 14 meristic characters provides the reference to character numbers used in previous publications: Ca, Cloutier (1991a), Cb, Cloutier (1991b), Fa, Forey (1991), Fb, Forey (1998), C, Clément (2005), F&C, Friedman & Coates (2006), Y, Yabumoto (2008), G, Geng et al. (2009), W, Wendruff (2011), W&W, Wendruff & Wilson (2012), Da, Dutel et al. (2012), Z, Zhu et al. (2012), GR, Graf (2012), WE, Wen et al. (2013), CAa, Cavin et al. (2013), C&G, Cavin & Grădinaru (2014), A&S, Arratia & Schultze (2015), G&C, Gess & Coates (2015), Db, Dutel et al. (2015), CAb, Cavin et al. (2017), R&S, Renesto & Stockar (2018), CAc, Cavin et al. (2019), CAd, Cavin et al. (2020), T, Toriño et al. (2021).
 
-569. Number of premaxillae.
+### 569. Number of premaxillae.
 > [Ca4 in part, Cb4 in part, Fb4 in part, C4 in part, F&C4 in part, Y4 in part, G4 in part, W4 in part, W&W4 in part, Da4 in part, Z4 in part, GR4 in part, WE4 in part, CAa4 in part, C&G4 in part, A&S4 in part, G&C4 in part, Db4 in part, CAb4 in part, R&S4 in part, CAc4 in part, CAd4 in part, T4 in part]Clement *et al.* (2024), merestic Character 1.
 
 > - This character is linked with Character 8 herein. Potentially Redundant.
 
-570. Number of extrascapulars.
+### 570. Number of extrascapulars.
 > [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (2024), merestic Character 2.
 
-> - Cloutier (1991b): 0 = three extrascapulars; 1 = five extrascapulars; 2 = seven extrascapulars (Forey 1981; his Character 18); 3 = more than seven extrascapulars.
 > - Cloutier (1991b): 0 = three extrascapulars; 1 = five extrascapulars; 2 = seven extrascapulars (Forey 1981; his Character 18); 3 = more than seven extrascapulars; 4 = two extrascapulars; 5 = four extrascapulars.
 > - States 4 and 5 in Cloutier (1991b) are linked to Character 52 herein.
 
-571. Number of supraorbitals.
+### 571. Number of supraorbitals.
 > [Fa14 in part, Fb9 in part, C9 in part, F&C9 in part, Y9 in part, G9 in part, W9 in part, W&W9 in part, Da9 in part, Z9 in part, GR9 in part, WE9 in part, CAa9 in part, C&G9 in part, A&S9 in part, G&C9 in part, Db9 in part, CAb9 in part, R&S9 in part, CAc6 in part, Cad6 in part, T9 in part]Clement *et al.* (2024), merestic Character 3.
 
 > - Forey (1998): Number of supraorbitals or tectals; fewer than eight (0), more than 10 (1).
 
-572. Number of preparietals per row.
+### 572. Number of preparietals per row.
 > [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part] Clement *et al.* (2024), merestic Character 4.
 > - Note typo errors above (copied from merestic Character 2).
 
 > - Cloutier (1991a, 1991b): Character 8, Preparietals, number: 0 = more than five preparietals per row; 1= two preparietals per row; 2 = three preparietals per row; 3 = four preparietals per row; 4 = five preparietals per row; 5 = one preparietal per row.
 
-573. Number of anterior coronoids.
+### 573. Number of anterior coronoids.
 > [Fb55, C55, F&C55 modified, Y55, G55, W55, W&W55, Da55 modified, Z55 modified, GR55 modified, WE55 modified, CAa55, C&G55 modified, A&S55 modified, G&C55 modified, Db55 modified, CAb55 modified, R&S55 modified, T17 modified]Clement *et al.* (2024), merestic Character 5.
 
 > - Friedman and Coates (2006), Zhu et al. (2012): Character 55, Number of coronoids at anterior end of jaw: zero (0), one (1), two (2), three (3), four (4).
 > - Forey (1998), Clément (2005), Character 55 is a different character. Meckelian bone or cartilage exposed anteriorly (0), not exposed (1).
 
-574. Number of neural arches.
+### 574. Number of neural arches.
 > Clement *et al.* (2024), merestic Character 6.
 
-575. Number of pectoral fin lepidotrichia.
+### 575. Number of pectoral fin lepidotrichia.
 > Cloutier (1991b), Character 70, in part; Clement *et al.* (2024), merestic Character 7.
 
 > - Cloutier (1991b), Character 70. Number of lepidotrichia on pectoral fin: 0 = fifty or more lepidotrichia; 1 = between 30 and 49 lepidotrichia; 2 = between 20 and 29 lepidotrichia; 3 = between ten and 19 lepidotrichia; 4 = less than ten lepidotrichia.
 
-576. Number of pelvic fin lepidotrichia.
+### 576. Number of pelvic fin lepidotrichia.
 > Clement *et al.* (2024), merestic Character 8.
 
-577. Number of D1 fin lepidotrichia.
+### 577. Number of D1 fin lepidotrichia.
 > [Ca44 in part, Cb44 in part, Fb96 in part, C96 in part, F&C96 in part, Y96 in part, G96 in part, W96 in part, W&W96 in part, Da96 in part, Z96 in part, GR96 in part, WE96 in part, CAa96 in part, C&G96 in part, A&S96 in part, G&C96 in part, Db96 in part, CAb96 in part, R&S96 in part, CAc42, Cad42, T96 in part]Clement *et al.* (2024), merestic Character 9.
 
-578. Number of D2 fin lepidotrichia.
+### 578. Number of D2 fin lepidotrichia.
 > Cloutier (1991b), Character 74, in part; Clement *et al.* (2024), merestic Character 10.
 
 > - Cloutier (1991b), Character 74. Number of lepidotrichia on second dorsal fin: 0 = more than 25 lepidotrichia; 1 = between 20 and 25 lepidotrichia; 2 = between 15 and 19 lepidotrichia; 3 = between ten and 14 lepidotrichia; 4 = less than ten lepidotrichia.
 
-579. Number of anal fin lepidotrichia.
+### 579. Number of anal fin lepidotrichia.
 > Clement *et al.* (2024), merestic Character 11.
 
-580. Number of lepidotrichia in epichordal lobe of caudal fin.
+### 580. Number of lepidotrichia in epichordal lobe of caudal fin.
 > Clement *et al.* (2024), merestic Character 12.
 
-581. Number of triphycercal fin rays.
+### 581. Number of triphycercal fin rays.
 > Clement *et al.* (2024), merestic Character 13.
 
-582. Number of scale rows from D1 to lateral line.
+### 582. Number of scale rows from D1 to lateral line.
 > Clement *et al.* (2024), merestic Character 14.
 
-## charaters 601-640 are continuous characters from Clement et al. in review. A total of 88 landmarks are used to define 59 linear measurements to evaluate 40 continuous (morphometric) variables.
+## charaters 601-640 are continuous characters from Clement et al. (2024). A total of 88 landmarks are used to define 59 linear measurements to evaluate 40 continuous (morphometric) variables.
 601. Total length (Body size): [landmak 1, landmark 2]
 602. Standard length: [1, 8]
 603. Skull length / total body length: [1, 3] / [1, 2]
@@ -4031,6 +4030,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
