@@ -2,7 +2,7 @@
 ## Characters 1-268 are from Clement *et al.* (2024); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
 > - Multistate characters that formed clear morphoclines (characters 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, 258, 383, 420, 510, 512, and 516) were treated as ordered; others were treated as unordered.
 
-## To xm: 按照我下面的方式仔细编辑相应内容，这样曲靖齿鱼所要用的SI有关character list的部分就不是一个简单的list，每个特征都有具体出处。有些特征会有一些comments. 引用特征出处，按出版年份排序。两篇文章之间统一用分号，最后结束用点号。将 Clement *et al.* (2024)，Character 1, Character 3等等加上。逗号和分号之后，该空一格就空一格。最后再对照引用过的文献将reference编辑一下。
+## To xm: 按照我下面的方式仔细编辑相应内容，这样曲靖齿鱼所要用的SI有关character list的部分就不是一个简单的list，每个特征都有具体出处。有些特征会有一些comments. 引用特征出处，按出版年份排序。两篇文章之间统一用分号，最后结束用点号。逗号和分号之后，该空一格就空一格。最后再对照引用过的文献将reference编辑一下。
 ## To xm: 我在批注中提出的建议或问题，你认为已明白或已被解决，你可以删去这些批注以保持整体版本的清洁。
 ## 看一下我在特征171中的批注。这个活看看谁能帮你一下。
 
@@ -4026,6 +4026,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
