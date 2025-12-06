@@ -2,7 +2,7 @@
 ## Characters 1-268 are from Clement *et al.* (2024); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
 > - Multistate characters that formed clear morphoclines (characters 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, 258, 383, 420, 510, 512, and 516) were treated as ordered; others were treated as unordered.
 
-## To xm: 按照我前面的方式仔细编辑相应内容，这样曲靖齿鱼所要用的SI有关character list的部分就不是一个简单的list，每个特征都有具体出处。有些特征会有一些comments. 下面类似Character 2, Character 3都要改成Character 2, Character 3, character的首字母要大写。将 Clement *et al.* (2024)， Character 1, Character 3等等加上。逗号和分号之后，该空一格就空一格。具体1，2，3，4，等等加三个#号。后面再对照引用过的文献将reference编辑一下。
+## To xm: 按照我前面的方式仔细编辑相应内容，这样曲靖齿鱼所要用的SI有关character list的部分就不是一个简单的list，每个特征都有具体出处。有些特征会有一些comments. 引用特征出处，按出版年份排序。两篇文章只见统一用分号，最后结束用点号。将 Clement *et al.* (2024)，Character 1, Character 3等等加上。逗号和分号之后，该空一格就空一格。具体1，2，3，4，等等加三个#号。最后再对照引用过的文献将reference编辑一下。
 
 ## Skeletal tissues
 ### 1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
@@ -21,159 +21,109 @@
 > Friedman (2007), Character 136; Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Lu *et al.* (2016), Character 260; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Clement *et al*. (2018), Character 258; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71.
 > Lu *et al.* (2016), Character 260; Clement et al. (2018), Character 258.
 > - Character 24 in 'early gnathostome phylogeny dataset'. 
-> - The coding of *Qujingodus* is 1.
+>> - The coding of *Qujingodus* is 1.
 
 ### 4. Rostral organ pores: absent (0), present (1). 
 > Cloutier (1991a), Character 145; Friedman (2007), Character 145.
-
 > - Character 510 in 'early gnathostome phylogeny dataset'.（510. Rostral organ: (0) absent; (1) present.
-）
 > - in 'early gnathostome phylogeny dataset': King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111. Cui *et al*. (2023), Character 515.
-
 > - Clement *et al.* (2024): "Character 4 is linked to characters 5, 6 and 7."
-
-> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?.
 
 ### 5. Anterior opening of rostral organ: within premaxilla (0), within separate rostral ossicles (1). 
 > Cloutier (1991b), Character55; Forey (1991), Character34; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 6.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "Character 5 is linked to Character 4." 
-
-> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?.
 
 ### 6. Posterior openings of rostral organ: widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2). (ordered)
 > Forey (1991), Character 35.
-
 > - Clement *et al.* (2024): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (Character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
-> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?.
 
 ### 7. Posterior openings of rostral organ: anterior and posterior pores aligned horizontally (0), posterior pore offset posterodorsally to anterior pore (1). 
-
 > Clement *et al.* (2024), Character 7.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "Character 7 is linked to characters 4, 6 and 57."
-
-> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?.
 
 ### 8. Premaxillae: fragmented (0), paired (1), fused (2).
 > Cloutier (1991a), Cloutier (1991b), Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 4.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
-
 > - Clement *et al.* (2024) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered. 
-
-> - The coding of *Qujingodus* is 1.
+>> - The coding of *Qujingodus* is 1.
 
 ### 9. Dorsal lamina of premaxillae: present (0), absent (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 5.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "Forey (1998, char. 5) coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998) when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our Character 10."
-
-> - The coding of *Qujingodus* is 0.
+>> - The coding of *Qujingodus* is 0.
 
 ### 10. Dorsal lamina of premaxilla, completeness of: complete (0), invaginated (1), reduced (2). (ordered)
 > Forey (1991), Character 10.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "The three character-states form a morphocline. Character 10 is linked with Character 9."
-
-> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?.
 
 ### 11. Dorsal lamina of premaxilla, perforation of: perforated by ethmoid commissure (0), not perforated by ethmoid commissure (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 6.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "Character 11 is linked to Character 9."
-
-> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?.
 
 ### 12. Premaxilla ventral margin, shape of: arched (0), not arched (1). 
 > Lu & Zhu (2009), Character 19, modified.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "Lu & Zhu (2009, char. 19) used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including *Diplocercides* and *Styloichthys*. *Diplocercides*, *Styloichthys* and *Psarolepis* were coded as having anteriorly arched premaxillae, whereas *Onychodus*, *Strunius* and *Bukkanodus* lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in *Diplocercides kayseri* and *D. heiligenstockiensis*. In *Styloichthys* the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved."
-
-> - The coding of *Qujingodus* is 1.
+>> - The coding of *Qujingodus* is 1.
 
 ### 13. Median rostral, number of: single median rostral or internasal (0), multiple median rostrals or internasals (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 3.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
-> - The coding of *Qujingodus* is ?.
+>> - The coding of *Qujingodus* is ?.
 
 ### 14. Median rostral: without teeth (0), with teeth (1). 
 > Friedman (2007), Character 3; Lu & Zhu (2009), Character 3; Zhu *et al*. (2009, Character 75), and references therein; Zhu *et al*. (2013), Character 199; Choo *et al*. (2017), Character 203; King *et al*. (2017), Character 346; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 264; Brazeau *et al*. (2023), Character 351.
-
 > - Character 260 in 'early gnathostome phylogeny dataset'. 
-
 > - Clement *et al.* (2024): "Lu & Zhu (2009, char. 3) coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including *Diplocercides*. The condition of *Diplocercides* was coded as unknown, and solely *Psarolepis* was coded as having this condition."
-
-> - The coding of *Qujingodus* is -.
+>> - The coding of *Qujingodus* is -.
 
 ### 15. Parietal shield, profile of: convex (0), flat (1), concave (2). (ordered)
 > Cavin et al. (2019), Cavin et al. (2020), Character 52. 
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "Fragoso et al. (2018, p. 12) noticed a difference of profile for the parietal shield (their "frontoparietal shield") in terms of its curvature among species of *Axelrodichthys*. Cavin et al. (2020, char. 52) define a character as the dorsal outline of the ethmoid portion in lateral view. Two character-states were used by Cavin et al. (2020, char. 52): straight or convex (0) and concave (1). We divide the conditions into three character-states that form a morphocline."
-
-> - The coding of *Qujingodus* is 1.
+>> - The coding of *Qujingodus* is 1.
 
 ### 16. Preparietal, size of: parietal longer than posterior preparietal (0), parietal equal in length to posterior preparietal (1), parietal shorter than posterior preparietal (2). (ordered) 
 > Cloutier (1991a), Cloutier (1991b), Character 12, in part; Forey (1991), Character 12, in part; Forey (1998), Clément (2005), rephrased; Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 2, rephrased.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "Forey (1998, char. 7) coded for the presence of one pair (0) or two pairs (1) of parietals; however, in his matrix (and that of subsequent analyses by most authors they used the coding of one pair (1) or two pairs (2) omitting a coding of "0". In addition, Forey (1998, char. 8) coded for the relative size of the anterior and posterior parietals. Cloutier (1991a, char. 10) named the pair(s) of medial bones anterior to the parietals as the preparietals. Herein, we define the character-states in terms of the length of the posterior preparietals and parietals rather than the size. The three character-states form a morphocline relative to the size proportion between the parietal and preparietal. Morphometric Character 9 provides the ratio of the median length of the posteriormost preparietal divided by the median parietal length; a ratio close to a value of one is considered as a condition where the parietal is equal in length to the posteriormost preparietal. In our analysis, the number of preparietals per row is taken into account in our meristic matrix."
-
-> - The coding of *Qujingodus* is -.
+>> - The coding of *Qujingodus* is -.
 
 ### 17. Supraorbital canal, course of: straight (0), lyre shaped (1).
 > Friedman (2007), Character 31; Zhu *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
-
 > - Character 173 in 'early gnathostome phylogeny dataset'. 
-
 > - Clement *et al.* (2024): "Friedman (2007, char. 31) mentioned that the trajectory of the supraorbital canals resembles a lyre in dorsal view in *Styloichthys*, *Euporosteus*, *Latimeria* and numerous coelacanths and sarcopterygians. It is considered to be a derived condition shared by *Styloichthys*, Dipnomorpha and Tetrapodomorpha (Friedman, 2007). The lyre-shape is owing to a medial curvature followed by a lateral trajectory of the supraorbital canal at the most anterior level of the snout."
-
-> - The coding of *Qujingodus* is 1.
+>> - The coding of *Qujingodus* is 1.
 
 ### 18. Supraorbital sensory canals, trajectory of: passing through ossification centers (0), following sutural course (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), Character 19.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
-> - The coding of *Qujingodus* is 0.
+>> - The coding of *Qujingodus* is 0.
 
 ### 19. Supraorbital sensory canals opening through bones, condition of: single large pores (0), bifurcating pores (1), many tiny pores (2), large and continuous groove crossed by pillars (3), large and continuous groove without pillars (4). 
 > Cloutier (1991a), Character 3, in part; Cloutier (1991a), Character 9, in part; Cloutier (1991b), Character 3; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), modified, Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), modified, Arratia & Schultze (2015), modified, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), modified, Renesto & Stockar (2018), modified, Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), modified, Character 23.
-
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
 > - Clement *et al.* (2024): "Forey (1998, char. 23) used a character to describe the condition of the pores of the supraorbital sensory canal. Three conditions were originally described: canals opening through bones as single large pores (0), bifurcating pores (1), and many tiny pores (2). These conditions refer to the relation between the main canals and the canaliculi linking the pores at the surface of the bone and the main canal. In a few species, a few pores are present at the surface of a supraorbital but since the relationship between the pore and the canal is simple it is coded as single large pores (e.g., *Guizhoucoelacanthus*). Dutel *et al*. (2012, char. 23) and Cavin *et al*. (2017, char. 23) added one additional character-state, respectively: a large, continuous groove crossed by pillars (3) and a large, continuous groove without pillars (4). Based on the onychodontiform outgroups, the plesiomorphic condition corresponds to the presence of many tiny pores."
-
-> - The coding of *Qujingodus* is 2.
+>> - The coding of *Qujingodus* is 2.
 
 ### 20. Lateral bones alongside postparietal, number of: one (0), two or more (1)
 > Friedman (2007), Character 8; Zhu *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Lu et al. (2016), Character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Clement et al. (2018), Character 47; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
-> Lu *et al.* (2016), Character 48, three states (two, one, more than two); Clement et al. (2018), Character 47, three states .
+> - Lu *et al.* (2016), Character 48, three states (two, one, more than two); Clement et al. (2018), Character 47, three states.
 > - Character 149 in 'early gnathostome phylogeny dataset'. 
-
-> - The coding of *Qujingodus* is 1.
+>> - The coding of *Qujingodus* is 1.
 
 ### 21. Intertemporal: absent (0), present (1)
 > Cloutier (1991a), Cloutier (1991a), Character 17; Forey (1991), Character 15; Forey (1998), Clément (2005), Friedman & Coates (2006), Character 12; Friedman (2007), Character 17; Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 12.
@@ -3990,6 +3940,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
