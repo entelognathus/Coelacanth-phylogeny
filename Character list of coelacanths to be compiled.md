@@ -35,7 +35,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin *et al*. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones." Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[unordered]'. Alternatively, this character can be splited into two characters: condition of snout bones (separate from one another vs consolidated); condition of consolidated snout bones (edentulous vs toothed).
+> - Clement *et al.* (2024): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin *et al*. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones." Clement *et al.* (2024) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[unordered]'. Alternatively, this character can be splited into two characters: condition of snout bones (separate from one another vs consolidated); condition of consolidated snout bones (edentulous vs toothed).
 
 > - The coding of *Qujingodus* is 1.
 
@@ -44,7 +44,7 @@
 
 > - Character 166 in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[unordered]'.
+> - Clement *et al.* (2024) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[unordered]'.
 
 > - The coding of *Qujingodus* is 2.
 
@@ -63,7 +63,7 @@
 ）
 > - in 'early gnathostome phylogeny dataset': King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111. Cui *et al*. (2023), Character 515.
 
-> - Clement *et al.* (in review): "Character 4 is linked to characters 5, 6 and 7."
+> - Clement *et al.* (2024): "Character 4 is linked to characters 5, 6 and 7."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -72,14 +72,14 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 5 is linked to character 4." 
+> - Clement *et al.* (2024): "Character 5 is linked to character 4." 
 
 > - The coding of *Qujingodus* is ?.
 
 6. Posterior openings of rostral organ: widely separated close to anterior and posterior margins of preorbital (0), separated only by a narrow bridge of bone (1), confluent (2). (ordered)
 > Forey (1991), Character 35.
 
-> - Clement *et al.* (in review): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
+> - Clement *et al.* (2024): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -87,11 +87,11 @@
 
 7. Posterior openings of rostral organ: anterior and posterior pores aligned horizontally (0), posterior pore offset posterodorsally to anterior pore (1). 
 
-> Clement *et al.* (in review), Character 7.
+> Clement *et al.* (2024), Character 7.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 7 is linked to characters 4, 6 and 57."
+> - Clement *et al.* (2024): "Character 7 is linked to characters 4, 6 and 57."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -100,9 +100,9 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
+> - Clement *et al.* (2024): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
-> - Clement *et al.* (in review) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered.  
+> - Clement *et al.* (2024) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered.  
 
 > - The coding of *Qujingodus* is 1.
 
@@ -111,7 +111,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 5) coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998) when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our character 10."
+> - Clement *et al.* (2024): "Forey (1998, char. 5) coded for the presence or absence of the dorsal laminae of the premaxillae. It seems that some taxa were originally coded as "?" by Forey (1998) when the dorsal lamina was reduced (e.g., *Allenypterus*, *Lochmocercus*). The extent of the dorsal laminae is taken into consideration in our character 10."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -120,7 +120,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The three character-states form a morphocline. Character 10 is linked with character 9."
+> - Clement *et al.* (2024): "The three character-states form a morphocline. Character 10 is linked with character 9."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -129,7 +129,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 11 is linked to character 9."
+> - Clement *et al.* (2024): "Character 11 is linked to character 9."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -138,7 +138,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Lu & Zhu (2009, char. 19) used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including *Diplocercides* and *Styloichthys*. *Diplocercides*, *Styloichthys* and *Psarolepis* were coded as having anteriorly arched premaxillae, whereas *Onychodus*, *Strunius* and *Bukkanodus* lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in *Diplocercides kayseri* and *D. heiligenstockiensis*. In *Styloichthys* the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved."
+> - Clement *et al.* (2024): "Lu & Zhu (2009, char. 19) used the presence of anteriorly arched premaxilla (their "premaxillary") in order to address interrelationships among onychodontiforms and out-groups including *Diplocercides* and *Styloichthys*. *Diplocercides*, *Styloichthys* and *Psarolepis* were coded as having anteriorly arched premaxillae, whereas *Onychodus*, *Strunius* and *Bukkanodus* lack anteriorly arched premaxillae. However, the condition of the premaxillae is unknown in *Diplocercides kayseri* and *D. heiligenstockiensis*. In *Styloichthys* the premaxillae are unknown, but the zone of articulation of the premaxillae are preserved."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -154,7 +154,7 @@
 
 > - Character 260 in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Lu & Zhu (2009, char. 3) coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including *Diplocercides*. The condition of *Diplocercides* was coded as unknown, and solely *Psarolepis* was coded as having this condition."
+> - Clement *et al.* (2024): "Lu & Zhu (2009, char. 3) coded for the presence of a tooth-bearing median rostral to determine the relationships among onychodontiforms and potential outgroups including *Diplocercides*. The condition of *Diplocercides* was coded as unknown, and solely *Psarolepis* was coded as having this condition."
 
 > - The coding of *Qujingodus* is -.
 
@@ -163,7 +163,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Fragoso et al. (2018, p. 12) noticed a difference of profile for the parietal shield (their "frontoparietal shield") in terms of its curvature among species of *Axelrodichthys*. Cavin et al. (2020, char. 52) define a character as the dorsal outline of the ethmoid portion in lateral view. Two character-states were used by Cavin et al. (2020, char. 52): straight or convex (0) and concave (1). We divide the conditions into three character-states that form a morphocline."
+> - Clement *et al.* (2024): "Fragoso et al. (2018, p. 12) noticed a difference of profile for the parietal shield (their "frontoparietal shield") in terms of its curvature among species of *Axelrodichthys*. Cavin et al. (2020, char. 52) define a character as the dorsal outline of the ethmoid portion in lateral view. Two character-states were used by Cavin et al. (2020, char. 52): straight or convex (0) and concave (1). We divide the conditions into three character-states that form a morphocline."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -172,7 +172,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 7) coded for the presence of one pair (0) or two pairs (1) of parietals; however, in his matrix (and that of subsequent analyses by most authors they used the coding of one pair (1) or two pairs (2) omitting a coding of "0". In addition, Forey (1998, char. 8) coded for the relative size of the anterior and posterior parietals. Cloutier (1991a, char. 10) named the pair(s) of medial bones anterior to the parietals as the preparietals. Herein, we define the character-states in terms of the length of the posterior preparietals and parietals rather than the size. The three character-states form a morphocline relative to the size proportion between the parietal and preparietal. Morphometric character 9 provides the ratio of the median length of the posteriormost preparietal divided by the median parietal length; a ratio close to a value of one is considered as a condition where the parietal is equal in length to the posteriormost preparietal. In our analysis, the number of preparietals per row is taken into account in our meristic matrix."
+> - Clement *et al.* (2024): "Forey (1998, char. 7) coded for the presence of one pair (0) or two pairs (1) of parietals; however, in his matrix (and that of subsequent analyses by most authors they used the coding of one pair (1) or two pairs (2) omitting a coding of "0". In addition, Forey (1998, char. 8) coded for the relative size of the anterior and posterior parietals. Cloutier (1991a, char. 10) named the pair(s) of medial bones anterior to the parietals as the preparietals. Herein, we define the character-states in terms of the length of the posterior preparietals and parietals rather than the size. The three character-states form a morphocline relative to the size proportion between the parietal and preparietal. Morphometric character 9 provides the ratio of the median length of the posteriormost preparietal divided by the median parietal length; a ratio close to a value of one is considered as a condition where the parietal is equal in length to the posteriormost preparietal. In our analysis, the number of preparietals per row is taken into account in our meristic matrix."
 
 > - The coding of *Qujingodus* is -.
 
@@ -181,7 +181,7 @@
 
 > - Character 173 in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Friedman (2007, char. 31) mentioned that the trajectory of the supraorbital canals resembles a lyre in dorsal view in *Styloichthys*, *Euporosteus*, *Latimeria* and numerous coelacanths and sarcopterygians. It is considered to be a derived condition shared by *Styloichthys*, Dipnomorpha and Tetrapodomorpha (Friedman, 2007). The lyre-shape is owing to a medial curvature followed by a lateral trajectory of the supraorbital canal at the most anterior level of the snout."
+> - Clement *et al.* (2024): "Friedman (2007, char. 31) mentioned that the trajectory of the supraorbital canals resembles a lyre in dorsal view in *Styloichthys*, *Euporosteus*, *Latimeria* and numerous coelacanths and sarcopterygians. It is considered to be a derived condition shared by *Styloichthys*, Dipnomorpha and Tetrapodomorpha (Friedman, 2007). The lyre-shape is owing to a medial curvature followed by a lateral trajectory of the supraorbital canal at the most anterior level of the snout."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -197,7 +197,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 23) used a character to describe the condition of the pores of the supraorbital sensory canal. Three conditions were originally described: canals opening through bones as single large pores (0), bifurcating pores (1), and many tiny pores (2). These conditions refer to the relation between the main canals and the canaliculi linking the pores at the surface of the bone and the main canal. In a few species, a few pores are present at the surface of a supraorbital but since the relationship between the pore and the canal is simple it is coded as single large pores (e.g., *Guizhoucoelacanthus*). Dutel *et al*. (2012, char. 23) and Cavin *et al*. (2017, char. 23) added one additional character-state, respectively: a large, continuous groove crossed by pillars (3) and a large, continuous groove without pillars (4). Based on the onychodontiform outgroups, the plesiomorphic condition corresponds to the presence of many tiny pores."
+> - Clement *et al.* (2024): "Forey (1998, char. 23) used a character to describe the condition of the pores of the supraorbital sensory canal. Three conditions were originally described: canals opening through bones as single large pores (0), bifurcating pores (1), and many tiny pores (2). These conditions refer to the relation between the main canals and the canaliculi linking the pores at the surface of the bone and the main canal. In a few species, a few pores are present at the surface of a supraorbital but since the relationship between the pore and the canal is simple it is coded as single large pores (e.g., *Guizhoucoelacanthus*). Dutel *et al*. (2012, char. 23) and Cavin *et al*. (2017, char. 23) added one additional character-state, respectively: a large, continuous groove crossed by pillars (3) and a large, continuous groove without pillars (4). Based on the onychodontiform outgroups, the plesiomorphic condition corresponds to the presence of many tiny pores."
 
 > - The coding of *Qujingodus* is 2.
 
@@ -227,7 +227,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The three character-states for a morphocline."
+> - Clement *et al.* (2024): "The three character-states for a morphocline."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -236,12 +236,12 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " As defined by Forey (1981, char. 8), the posterolateral margin of the tabular (his "supratemporal") may bear an external descending process. This process articulates against the prootic region of the braincase immediately in front of the hyomandibular facet (e.g., *Coelacanthus granulatus*, *Laugia*) (Cloutier, 1991a, char. 19)."
+> - Clement *et al.* (2024): " As defined by Forey (1981, char. 8), the posterolateral margin of the tabular (his "supratemporal") may bear an external descending process. This process articulates against the prootic region of the braincase immediately in front of the hyomandibular facet (e.g., *Coelacanthus granulatus*, *Laugia*) (Cloutier, 1991a, char. 19)."
 
 > - The coding of *Qujingodus* is 0.
 
 25. Otic canal: running through skull roof (0), following edge of skull roof (1)
->  Zhu  *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300; Clement *et al.* (in review), Character 25.
+>  Zhu  *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300; Clement *et al.* (2024), Character 25.
 
 > - Character 179 in 'early gnathostome phylogeny dataset'. 
 
@@ -252,7 +252,7 @@
 > Lu *et al.* (2016), character 47; Clement et al. (2018), character 46.
 > - Character 180 in 'early gnathostome phylogeny dataset', Rephrased. 
 
-> - Clement *et al.* (in review): " Cloutier (1991a, char. 20) defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20). The three character-states form a morphocline."
+> - Clement *et al.* (2024): " Cloutier (1991a, char. 20) defined a character to describe the trajectory of the otic canal either passing through the lateral series (intertemporal and/or supratemporal) or passing between the postparietal and the lateral series. We redefine the character to encompass the disparity of the trajectory of the otic canal among actinistians and onychodontiforms (out-group). We considered that the lateral series primarily includes the tabular and supratemporal in actinistians with the exception of Miguashaia that also includes the intertemporal; the number of bones suturing laterally with the postparietal is taken into account in characters 20, 21 and 22. Character-state 2 corresponds to the condition where the otic canal runs at the suture between the postparietal and the lateral series of bones. In order to take into account, the condition observed in Coelacanthus granulatus, character-state 2 has been added to the original character description of Cloutier (1991a, char. 20). The three character-states form a morphocline."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -282,7 +282,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The lateral process of the parietal is formed from the posterolateral margin of the parietal and is directed ventrolaterally toward the dorsal part of the postorbital (Cloutier, 1991b, char. 58). The process could either be in contact with the postorbital (e.g., *Latimeria*), extends towards the postorbital (e.g., *Swenzia*) or be separated from the postorbital by a supraorbital (e.g., *Laugia, Macropoma, Yunnancoelacanthus*). This process has been coded as present in *Coelacanthus*, *Axelia*, *Wimania* and *Latimeria* by Cloutier (1991b, char. 58). The posterior lateral process of the parietal could carry a segment of the infraorbital canal that connects to the supraorbital canal (e.g., *Axelia* (Stensiö, 1921, fig. 25), *Coelacanthus* (Schaumberg, 1978, figs. 5, 6), *Wimania* (Stensiö, 1921, fig. 43))."
+> - Clement *et al.* (2024): "The lateral process of the parietal is formed from the posterolateral margin of the parietal and is directed ventrolaterally toward the dorsal part of the postorbital (Cloutier, 1991b, char. 58). The process could either be in contact with the postorbital (e.g., *Latimeria*), extends towards the postorbital (e.g., *Swenzia*) or be separated from the postorbital by a supraorbital (e.g., *Laugia, Macropoma, Yunnancoelacanthus*). This process has been coded as present in *Coelacanthus*, *Axelia*, *Wimania* and *Latimeria* by Cloutier (1991b, char. 58). The posterior lateral process of the parietal could carry a segment of the infraorbital canal that connects to the supraorbital canal (e.g., *Axelia* (Stensiö, 1921, fig. 25), *Coelacanthus* (Schaumberg, 1978, figs. 5, 6), *Wimania* (Stensiö, 1921, fig. 43))."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -291,7 +291,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " The descending process ("ventral process" of Forey (1998)) of the parietal articulates with the dorsal side of the ethmosphenoid (Cloutier, 1991a, char. 11)95. Forey (1981, char. 10) mentioned that this posteroventral process braces against the basisphenoid."
+> - Clement *et al.* (2024): " The descending process ("ventral process" of Forey (1998)) of the parietal articulates with the dorsal side of the ethmosphenoid (Cloutier, 1991a, char. 11)95. Forey (1981, char. 10) mentioned that this posteroventral process braces against the basisphenoid."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -314,7 +314,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Forey (1998, char. 28) recognized the presence of a raised area at the anterior margin of the postparietals and posterior margin of the parietals (as seen in *Latimeria chalumnae*) as an apomorphic condition. We recognize a second apomorphic state to take into account the condition observed in Swenzia latimerae where there is an anterior depression on the postparietals in the same area."
+> - Clement *et al.* (2024): " Forey (1998, char. 28) recognized the presence of a raised area at the anterior margin of the postparietals and posterior margin of the parietals (as seen in *Latimeria chalumnae*) as an apomorphic condition. We recognize a second apomorphic state to take into account the condition observed in Swenzia latimerae where there is an anterior depression on the postparietals in the same area."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -330,7 +330,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Cavin *et al*. (2020, char. 51) defined a character to identify the number of supraorbitals articulating with the parietal (their "posterior parietal"). This multistate character forms a morphocline."
+> - Clement *et al.* (2024): "Cavin *et al*. (2020, char. 51) defined a character to identify the number of supraorbitals articulating with the parietal (their "posterior parietal"). This multistate character forms a morphocline."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -339,7 +339,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998) defined the apomorphic state as "strongly interdigitate", while Friedman & Coates (2006) and subsequent authors defined the apomorphic state as "deeply notched". Arratia & Schultze (2015) used a second apomorphic character-state defined as "undulated or excavated"; only used for *Atacamaia*."
+> - Clement *et al.* (2024): "Forey (1998) defined the apomorphic state as "strongly interdigitate", while Friedman & Coates (2006) and subsequent authors defined the apomorphic state as "deeply notched". Arratia & Schultze (2015) used a second apomorphic character-state defined as "undulated or excavated"; only used for *Atacamaia*."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -348,7 +348,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The descending process of the postparietal is located on the posteroventral surface of the postparietal articulating with the oticoccipital part of the neurocranium."
+> - Clement *et al.* (2024): "The descending process of the postparietal is located on the posteroventral surface of the postparietal articulating with the oticoccipital part of the neurocranium."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -357,7 +357,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " The shape of the postparietal takes into consideration the dorsal view of the element. In the inverted L shape, the small process forms the anterolateral component of the postparietal. The numbering of character-states has been modified from Cloutier (1991a, char. 12)."
+> - Clement *et al.* (2024): " The shape of the postparietal takes into consideration the dorsal view of the element. In the inverted L shape, the small process forms the anterolateral component of the postparietal. The numbering of character-states has been modified from Cloutier (1991a, char. 12)."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -366,7 +366,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Lu and Zhu (2009, char. 7) defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in *Onychodus*, *Qingmenodus* and *Grossius*. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal (char. 39(2))."
+> - Clement *et al.* (2024): " Lu and Zhu (2009, char. 7) defined a character about the posterior narrowing of the postparietals in order to investigate the interrelationships among onychodontiforms. The posterior narrowing of the postparietals was coded as present in *Onychodus*, *Qingmenodus* and *Grossius*. The posterior margin of the postparietal is considered to be narrowing when the posterior margin is clearly much narrower than the main body as well as the anteriormost margin of the postparietal. This character is partly linked with the inverted L shape of the postparietal (char. 39(2))."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -375,7 +375,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The absence of contact between the anterolateral part of the postparietal and the postorbital could be owing either to the presence of intertemporal and/or supratemporal (e.g., *Miguashaia*), the presence of a gap between the elements (e.g., *Allenypterus*) or the presence of an elongated posterolateral process of the parietal (e.g., *Coelacanthus*)."
+> - Clement *et al.* (2024): "The absence of contact between the anterolateral part of the postparietal and the postorbital could be owing either to the presence of intertemporal and/or supratemporal (e.g., *Miguashaia*), the presence of a gap between the elements (e.g., *Allenypterus*) or the presence of an elongated posterolateral process of the parietal (e.g., *Coelacanthus*)."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -407,7 +407,7 @@
 > Lu *et al.* (2016), character 240; Clement et al. (2018), character 238.
 > - Character 160 in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Character 45 is linked to character 44."
+> - Clement *et al.* (2024): "Character 45 is linked to character 44."
 
 > - The coding of *Qujingodus* is 1.
 > - Actinopterygians are coded as "0"; Sarcopterygians are coded as "1" except *Diplocercides*.
@@ -417,7 +417,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 46 is linked to character 43."
+> - Clement *et al.* (2024): "Character 46 is linked to character 43."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -426,12 +426,12 @@
 
 > - Character 161 in 'early gnathostome phylogeny dataset', Rephrased. 
 
-> - Clement *et al.* (in review): "Character 47 is linked to characters 43 and 46."
+> - Clement *et al.* (2024): "Character 47 is linked to characters 43 and 46."
 
 > - The coding of *Qujingodus* is ?.
 
 48. Complete fusion of postparietal shield: no (0), yes (1)
-> Clement *et al.* (in review), Character 48.
+> Clement *et al.* (2024), Character 48.
 
 > - Character 138 in 'early gnathostome phylogeny dataset', in part. Clement *et al*. (2018), Character 278; Zhu Y. *et al*. (2022), Character 140.  
 
@@ -450,7 +450,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 50 is in part link with character 42."
+> - Clement *et al.* (2024): "Character 50 is in part link with character 42."
 
 > - Character 19 of Forey (1991): Extrascapular contact. An extrascapular may be sutured (0) to the parietal shield or may lie free (1): the former condition is regarded as plesiomorphic. 
 
@@ -464,18 +464,18 @@
 > - The coding of *Qujingodus* is 0.
 
 52. Median extrascapular: present (0), absent (1) 
-> Clement *et al.* (in review), Character 52.
+> Clement *et al.* (2024), Character 52.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 53. Lateral extrascapulars, size of: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2).  (ordered)
-> Clement *et al.* (in review), Character 53.
+> Clement *et al.* (2024), Character 53.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "In species coded for lateral extrascapulars being less than the width of median extrascapular, the median extrascapular could reach up to twice the width of the lateral extrascapular (e.g., *Miguashaia bureaui*). On the other hand, species coded as having lateral extrascapular more than the width of median extrascapular, the lateral extrascapular could reach up to twice the width of the median extrascapular (e.g., *Hadronector donbairdi*). Morphometric character 13 provides the ratio between the lateral extrascapular width and the median extrascapular width. For those species allowing us to measure the ratio, the plesiomorphic condition corresponds to a ratio smaller than 0.9, whereas apomorphic state 2 corresponds to a ratio greater than 1.1. Meristic character 2 provides the number of extrascapulars. Character 53 is linked with the presence of a median extrascapular (Char. 52). The three character-states form a morphocline."
+> - Clement *et al.* (2024): "In species coded for lateral extrascapulars being less than the width of median extrascapular, the median extrascapular could reach up to twice the width of the lateral extrascapular (e.g., *Miguashaia bureaui*). On the other hand, species coded as having lateral extrascapular more than the width of median extrascapular, the lateral extrascapular could reach up to twice the width of the median extrascapular (e.g., *Hadronector donbairdi*). Morphometric character 13 provides the ratio between the lateral extrascapular width and the median extrascapular width. For those species allowing us to measure the ratio, the plesiomorphic condition corresponds to a ratio smaller than 0.9, whereas apomorphic state 2 corresponds to a ratio greater than 1.1. Meristic character 2 provides the number of extrascapulars. Character 53 is linked with the presence of a median extrascapular (Char. 52). The three character-states form a morphocline."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -484,7 +484,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Forey (1998, char. 18) defined a character concerning the posterior margin of the skull roof as either straight or embayed. Forey (1998, p. 58) mentioned that the posterior margin of the tabulars (his "supratemporals") with the postparietals is straight in *Diplocercides* thus not taking into account the posterior limit of the lateral and median extrascapulars. In contrast, Forey (1998, p. 91) mentioned that the fusion of the lateral extrascapular with the tabular (his "extratemporal") results in the posterior profile of the skull roof being embayed with the remaining extrascapulars lying in between in *Coelacanthus*. We considered the posterior margin of the skull roof to be interpreted as the posterior margin of the tabulars and postparietals even in species in which lateral and median extrascapulars are present and attached the postparietals and tabulars. Character 54 is in part link with the condition in which the posterior margin of the tabular extends posteriorly to the posterior margin of the postparietal (char. 23.2)."
+> - Clement *et al.* (2024): " Forey (1998, char. 18) defined a character concerning the posterior margin of the skull roof as either straight or embayed. Forey (1998, p. 58) mentioned that the posterior margin of the tabulars (his "supratemporals") with the postparietals is straight in *Diplocercides* thus not taking into account the posterior limit of the lateral and median extrascapulars. In contrast, Forey (1998, p. 91) mentioned that the fusion of the lateral extrascapular with the tabular (his "extratemporal") results in the posterior profile of the skull roof being embayed with the remaining extrascapulars lying in between in *Coelacanthus*. We considered the posterior margin of the skull roof to be interpreted as the posterior margin of the tabulars and postparietals even in species in which lateral and median extrascapulars are present and attached the postparietals and tabulars. Character 54 is in part link with the condition in which the posterior margin of the tabular extends posteriorly to the posterior margin of the postparietal (char. 23.2)."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -493,7 +493,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Occipital commissure (= "supratemporal commissural canal" of Schaeffer (1952); "supratemporal commissure" of Forey (1981)). Anterior branches (ramifications) of the occipital commissure extending to the anterior part of the extrascapulars and/or the posterior part of the postparietals are found in some actinistian species (Cloutier, 1991b)."
+> - Clement *et al.* (2024): "Occipital commissure (= "supratemporal commissural canal" of Schaeffer (1952); "supratemporal commissure" of Forey (1981)). Anterior branches (ramifications) of the occipital commissure extending to the anterior part of the extrascapulars and/or the posterior part of the postparietals are found in some actinistian species (Cloutier, 1991b)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -509,7 +509,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The preorbital is a bone forming part of the anterior margin of the orbit in basal coelacanths. A posterior tectal occupies a similar position in onychodontiforms and some tetrapodomorphs. Forey (1998, char. 10) used the opposite polarity of the character-states. We coded the preorbital present in onychodontiforms although this element is referred to as the posterior tectal. This character is linked with characters 6 and 7."
+> - Clement *et al.* (2024): "The preorbital is a bone forming part of the anterior margin of the orbit in basal coelacanths. A posterior tectal occupies a similar position in onychodontiforms and some tetrapodomorphs. Forey (1998, char. 10) used the opposite polarity of the character-states. We coded the preorbital present in onychodontiforms although this element is referred to as the posterior tectal. This character is linked with characters 6 and 7."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -519,7 +519,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The ventral process of the lateral rostral is located anteriorly, it could be relatively broad and shallow (e.g., *Rhabdoderma elegans*) or narrow and longer (e.g., *Macropoma lewesiensis*)."
+> - Clement *et al.* (2024): "The ventral process of the lateral rostral is located anteriorly, it could be relatively broad and shallow (e.g., *Rhabdoderma elegans*) or narrow and longer (e.g., *Macropoma lewesiensis*)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -531,11 +531,11 @@
 > - > - The coding of *Qujingodus* is ?.
 
 60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2).  (ordered)
-> Clement *et al.* (in review), Character 60.
+> Clement *et al.* (2024), Character 60.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The shape of the lateral rostral is defined in terms of a ratio between the length of the element and the height (without taking into consideration the extend of the anterodorsal, anteroventral, and posterodorsal processes). Most coelacanths (more than 15 species out of 38 species including the outgroup Onychodus) have a length/height ratio of the lateral rostral around 3. The extreme values for our sample vary between 1.3 (*Onychodus jandemarrai*) and 10.7 (*Axelrodichthys araripensis*). The three character-states are defined in terms of the length/height ratio: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), and highly elongated (length/height ratio greater than 5) (2). The three character-states have been ordered to form a morphocline."
+> - Clement *et al.* (2024): "The shape of the lateral rostral is defined in terms of a ratio between the length of the element and the height (without taking into consideration the extend of the anterodorsal, anteroventral, and posterodorsal processes). Most coelacanths (more than 15 species out of 38 species including the outgroup Onychodus) have a length/height ratio of the lateral rostral around 3. The extreme values for our sample vary between 1.3 (*Onychodus jandemarrai*) and 10.7 (*Axelrodichthys araripensis*). The three character-states are defined in terms of the length/height ratio: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), and highly elongated (length/height ratio greater than 5) (2). The three character-states have been ordered to form a morphocline."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -544,7 +544,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013). It is a well-developed and well-defined process that extends towards the midline of the skull roof (see *Axelrodichthys maiseyi*, de Carvalho et al. (2013, fig. 3B))."
+> - Clement *et al.* (2024): "The posterodorsal process of the lateral rostral is also referred to as the "lachrymal process" (de Carvalho et al., 2013). It is a well-developed and well-defined process that extends towards the midline of the skull roof (see *Axelrodichthys maiseyi*, de Carvalho et al. (2013, fig. 3B))."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -553,7 +553,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Cloutier (1991a, b, char. 23) recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29) defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal."
+> - Clement *et al.* (2024): "Cloutier (1991a, b, char. 23) recognized three conditions for the contact of cheek bones: complete suture among cheek bones (0), loose articulation of the postspiracular (1), and loose articulation of the postspiracular and postorbital (3). Forey (1998, char. 29) defined the contact among cheek bones either as sutured to one another (0) or separated from one another (1). The condition takes into account the relationships primarily among the principal cheek bones, meaning the postorbital, squamosal, preoperculum and quadratojugal."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -562,7 +562,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Character 63 is in part linked with character 57."
+> - Clement *et al.* (2024): " Character 63 is in part linked with character 57."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -571,7 +571,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Schaeffer (1952) (=postspiracular of Lund & Lund (1985))."
+> - Clement *et al.* (2024): "Schaeffer (1952) (=postspiracular of Lund & Lund (1985))."
 > - Forey (1998): "spiracular (postpiracular) absent (0), present (1)." Suprasquamosal of Moy-Thomas, 1935 and Nielsen, 1936, Stensio (1937), prespiracular of Schaeffer (1952), Lund and Lund (1985).
 
 > - The coding of *Qujingodus* is ?.
@@ -588,7 +588,7 @@
 
 > - Character 216 in 'early gnathostome phylogeny dataset', rephrased.
 
-> - Clement *et al.* (in review): "Character 66 is linked to character 65."
+> - Clement *et al.* (2024): "Character 66 is linked to character 65."
 
 > - The coding of *Qujingodus* is ?.
 > - Only Coelacanthus granulatus is coded as "1".
@@ -598,7 +598,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 67 is linked to character 65."
+> - Clement *et al.* (2024): "Character 67 is linked to character 65."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -614,25 +614,25 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 69 is linked with character 68."
+> - Clement *et al.* (2024): "Character 69 is linked with character 68."
 
 > - The coding of *Qujingodus* is ?.
 
 70. Squamosal, position of: posterior to postorbital (0), ventral to postorbital (1).
-> Clement *et al.* (in review), Character 70.
+> Clement *et al.* (2024), Character 70.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Character 70 is linked with character 68."
+> - Clement *et al.* (2024): " Character 70 is linked with character 68."
 
 > - The coding of *Qujingodus* is ?.
 
 71. Squamosal, position of: forming part of upper jaw margin (0), not forming part of upper jaw margin (1). 
-> Clement *et al.* (in review), Character 71.
+> Clement *et al.* (2024), Character 71.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 71 is linked with character 68, and partly linked with character 69."
+> - Clement *et al.* (2024): "Character 71 is linked with character 68, and partly linked with character 69."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -641,7 +641,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 72 is linked with character 68."
+> - Clement *et al.* (2024): "Character 72 is linked with character 68."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -650,25 +650,25 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Character 73 is linked with character 68."
+> - Clement *et al.* (2024): " Character 73 is linked with character 68."
 
 > - The coding of *Qujingodus* is ?.
 
 74. Lacrimal: not fused with jugal (0), fused with jugal (1), fused with jugal and squamosal (2). (ordered)
-> Clement *et al.* (in review), Character 74.
+> Clement *et al.* (2024), Character 74.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The three character-states form a morphocline."
+> - Clement *et al.* (2024): "The three character-states form a morphocline."
 
 > - The coding of *Qujingodus* is ?.
 
 75. Stud shaped ossicles near lacrimojugal: absent (0), present (1). 
-> Clement *et al.* (in review), Character 75.
+> Clement *et al.* (2024), Character 75.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, p. 307) wrote in the diagnosis of *Coelacanthus* that the lacrimojugal is associated with small stud-shaped ossicles which must have lain free in the skin, a condition similar to those of Spermatodus."
+> - Clement *et al.* (2024): "Forey (1998, p. 307) wrote in the diagnosis of *Coelacanthus* that the lacrimojugal is associated with small stud-shaped ossicles which must have lain free in the skin, a condition similar to those of Spermatodus."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -677,16 +677,16 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Forey (1998, char 35) recognized two conditions dealing with the anterior shape of the lacrimojugal: not expanded anteriorly (0) and expanded anteriorly (1). He associated the anterior expansion solely to the loss of the preorbital. Herein, we recognized an additional apomorphic condition of the anterior shape of the lacrimojugal which is "tapering anteriorly". The lacrimojugal expands anteriorly in genera such as *Axelrodichthys*, *Chinlea*, *Libys*, and *Macropoma*, it tapers anteriorly in *Atacamaia*, *Coelacanthus*, *Luopingcoelacanthus* and *Wimania*, while it is not expanded anteriorly in *Hadronector*, *Polyosteorhynchus*, *Ticinepomis*, and *Yunnancoelacanthus*. The three character-states form a morphocline. Character 76 is linked with character 74."
+> - Clement *et al.* (2024): " Forey (1998, char 35) recognized two conditions dealing with the anterior shape of the lacrimojugal: not expanded anteriorly (0) and expanded anteriorly (1). He associated the anterior expansion solely to the loss of the preorbital. Herein, we recognized an additional apomorphic condition of the anterior shape of the lacrimojugal which is "tapering anteriorly". The lacrimojugal expands anteriorly in genera such as *Axelrodichthys*, *Chinlea*, *Libys*, and *Macropoma*, it tapers anteriorly in *Atacamaia*, *Coelacanthus*, *Luopingcoelacanthus* and *Wimania*, while it is not expanded anteriorly in *Hadronector*, *Polyosteorhynchus*, *Ticinepomis*, and *Yunnancoelacanthus*. The three character-states form a morphocline. Character 76 is linked with character 74."
 
 > - The coding of *Qujingodus* is ?.
 
 77. Lacrimojugal, sensory pores of: relatively small size pores through the length of the lacrimojugal (0), anterior pore(s) expanded or forming a groove (1).
-> Clement *et al.* (in review), Character 77.
+> Clement *et al.* (2024), Character 77.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Character 77 is linked with character 74."
+> - Clement *et al.* (2024): " Character 77 is linked with character 74."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -695,7 +695,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Forey (1998, char. 36) reported that the lacrimojugal ends anteriorly without or with an anterior angle. This downward angle is present in some species (e.g., *Whiteia woodwardi*, *Atacamaia solitaria*, *Coelacanthus granulatus*) in which the lacrimojugal extends more anteriorly than the anterior limit of the orbit. This angle is distinct from the angle that could be observed at mid-length of the ventral margin of the lacrimojugal (e.g., *Diplocercides*, *Ticinepomis*). Character 78 is linked with character 74."
+> - Clement *et al.* (2024): " Forey (1998, char. 36) reported that the lacrimojugal ends anteriorly without or with an anterior angle. This downward angle is present in some species (e.g., *Whiteia woodwardi*, *Atacamaia solitaria*, *Coelacanthus granulatus*) in which the lacrimojugal extends more anteriorly than the anterior limit of the orbit. This angle is distinct from the angle that could be observed at mid-length of the ventral margin of the lacrimojugal (e.g., *Diplocercides*, *Ticinepomis*). Character 78 is linked with character 74."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -704,7 +704,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Gess & Coates (2015, char. 110) defined the shape of the lacrimojugal as elbow-like with a ventral extension. They coded this condition as present in *Serenichthys* and *Diplocercides* among the 28 actinistian taxa they coded for. Character 79 is linked with character 74."
+> - Clement *et al.* (2024): "Gess & Coates (2015, char. 110) defined the shape of the lacrimojugal as elbow-like with a ventral extension. They coded this condition as present in *Serenichthys* and *Diplocercides* among the 28 actinistian taxa they coded for. Character 79 is linked with character 74."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -713,7 +713,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Cavin *et al.* (2020, char. 48) defined a lacrimojugal character to reflect differences among derived coelacanths. The lacrimojugal was considered either as being curved (0) or straight (1) in its mid-region. We redefine this character in terms of the ventral margin of the lacrimojugal to consider the disparity of all coelacanths. We are using four character-states to describe the shape of the ventral margin of the lacrimojugal: linear (0) (e.g., Miguashaia bureaui), V-shaped (1) (e.g., *Diplocercides kayseri*, *Foreyia maxkuhni*), curvilinear (2) (e.g., *Caridosuctor populosum*, *Coccoderma suevicum*), and sinusoidal (3) (e.g., *Hadronector donbairdi*). The V-shaped condition of the ventral margin of the lacrimojugal is in part associated with the presence of the posteroventral expansion of the margin (Character 79). Character 80 is linked with character 74."
+> - Clement *et al.* (2024): " Cavin *et al.* (2020, char. 48) defined a lacrimojugal character to reflect differences among derived coelacanths. The lacrimojugal was considered either as being curved (0) or straight (1) in its mid-region. We redefine this character in terms of the ventral margin of the lacrimojugal to consider the disparity of all coelacanths. We are using four character-states to describe the shape of the ventral margin of the lacrimojugal: linear (0) (e.g., Miguashaia bureaui), V-shaped (1) (e.g., *Diplocercides kayseri*, *Foreyia maxkuhni*), curvilinear (2) (e.g., *Caridosuctor populosum*, *Coccoderma suevicum*), and sinusoidal (3) (e.g., *Hadronector donbairdi*). The V-shaped condition of the ventral margin of the lacrimojugal is in part associated with the presence of the posteroventral expansion of the margin (Character 79). Character 80 is linked with character 74."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -722,25 +722,25 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Cloutier (1991b, char. 64) defined a character to reflect the anterior extent of the lacrimojugal which was suggested to be characteristic of advanced coelacanths by Stensiö (1921)16. However, Cloutier (1991b) only coded *Mawsonia gigas* as having a lacrimojugal extending to the anterior part of the snout. We redefined the apomorphic condition as extending to the snout, rather than the anterior part of the snout. Character 81 is linked with character 74."
+> - Clement *et al.* (2024): " Cloutier (1991b, char. 64) defined a character to reflect the anterior extent of the lacrimojugal which was suggested to be characteristic of advanced coelacanths by Stensiö (1921)16. However, Cloutier (1991b) only coded *Mawsonia gigas* as having a lacrimojugal extending to the anterior part of the snout. We redefined the apomorphic condition as extending to the snout, rather than the anterior part of the snout. Character 81 is linked with character 74."
 
 > - The coding of *Qujingodus* is ?.
 
 82. Lacrimojugal postorbital limb: absent (0), present (1). 
-> Clement *et al.* (in review), Character 82.
+> Clement *et al.* (2024), Character 82.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 82 takes into account the condition of the lacrimojugal. Therefore, the outgroups are coded as "-". Nevertheless, in *Grossius aragonensis*, *Onychodus jandemarrai* and *Strunius walteri*, the jugal lacks a postorbital limb. Character 82 is linked to character 74.
+> - Clement *et al.* (2024): "Character 82 takes into account the condition of the lacrimojugal. Therefore, the outgroups are coded as "-". Nevertheless, in *Grossius aragonensis*, *Onychodus jandemarrai* and *Strunius walteri*, the jugal lacks a postorbital limb. Character 82 is linked to character 74.
 
 > - The coding of *Qujingodus* is ?.
 
 83. Lacrimojugal postorbital limb, extent of: above midorbit level or at midorbit level (0), below midorbit level (1).
-> Clement *et al.* (in review), Character 83.
+> Clement *et al.* (2024), Character 83.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 83 is linked with characters 74 and 82."
+> - Clement *et al.* (2024): "Character 83 is linked with characters 74 and 82."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -756,7 +756,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 40) considered the presence of an anterodorsal excavation in the postorbital to be an apomorphic condition. As described in *Latimeria chalumnae*, this excavation receives a tough ligamentous connection with the posteriormost supraorbitals (Forey, 1998, p. 98, fig. 4.1)."
+> - Clement *et al.* (2024): "Forey (1998, char. 40) considered the presence of an anterodorsal excavation in the postorbital to be an apomorphic condition. As described in *Latimeria chalumnae*, this excavation receives a tough ligamentous connection with the posteriormost supraorbitals (Forey, 1998, p. 98, fig. 4.1)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -765,7 +765,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Cloutier (1991b, char. 62) defined this anterior process of the postorbital as the anteroventral corner of the postorbital that extends anteriorly beyond the posteroventral margin of the orbit as seen in Mawsonia (e.g., *Mawsonia brasiliensis* (Yabumoto, 2002, fig. 4)."
+> - Clement *et al.* (2024): " Cloutier (1991b, char. 62) defined this anterior process of the postorbital as the anteroventral corner of the postorbital that extends anteriorly beyond the posteroventral margin of the orbit as seen in Mawsonia (e.g., *Mawsonia brasiliensis* (Yabumoto, 2002, fig. 4)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -802,7 +802,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 46) described the apomorphic condition in which large pores are lying separate from the main trajectory canal of the jugal canal in the squamosal (e.g., *Rhabdoderma*, *Latimeria*)."
+> - Clement *et al.* (2024): "Forey (1998, char. 46) described the apomorphic condition in which large pores are lying separate from the main trajectory canal of the jugal canal in the squamosal (e.g., *Rhabdoderma*, *Latimeria*)."
 
 >> - The coding of *Qujingodus* is ?.
 
@@ -825,7 +825,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Character 93 is linked with character 65."
+> - Clement *et al.* (2024): "Character 93 is linked with character 65."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -842,7 +842,7 @@
 
 > - Character 265 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 80), and references therein; Zhu *et al*. (2013), Character 181; Choo *et al*. (2017), Character 187; King *et al*. (2017), Character 201; Castiello (2018), Character 200; Zhu Y. *et al*. (2022), Character 269; Brazeau *et al*. (2023), Character 206.
 
-> - Clement *et al.* (in review): "Character 96 is linked to character 95."
+> - Clement *et al.* (2024): "Character 96 is linked to character 95."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -851,16 +851,16 @@
 > Lu *et al.* (2016), character 90; Clement et al. (2018), character 89.
 > - Character 266 in 'early gnathostome phylogeny dataset', rephrased. 
 
-> - Clement *et al.* (in review): "The three character-states form a morphocline. Character 97 is linked to character 95."
+> - Clement *et al.* (2024): "The three character-states form a morphocline. Character 97 is linked to character 95."
 
 > - The coding of *Qujingodus* is 2.
 
 98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
-> Clement *et al.* (in review), Character 98.
+> Clement *et al.* (2024), Character 98.
 > Lu *et al.* (2016), character 59; Clement et al. (2018), character 58, "Extent of maxilla along cheek: to posterior margin of cheek (0), cheek bones exclude maxilla from posterior margin of cheek (1)".
 > - Character 267 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Lu *et al.* (2016), character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Clement et al. (2018), character 58; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271; Brazeau *et al*. (2023), Character 182.
 
-> - Clement *et al.* (in review): "Character 98 is linked to character 95."
+> - Clement *et al.* (2024): "Character 98 is linked to character 95."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -869,7 +869,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): " Forey (1998, char. 49) considered three character-states to describe the cheek bone ornamentation: tubercular (1), absent (0), and with coarse superficial rugosity (2); in his character description (p. 128), the numbering of these character-states has been mislabeled where only state 1 and 2 have been written. In order to take into account the disparity of the cheek bone ornamentation in coelacanths, we used four character-states that better represent the disparity. In addition, some taxa are coded as a polymorphic condition to include both the tubercular and ridged ornamentation. We are limiting the coding of the cheek bones ornamentation to the condition observed on the postorbital, squamosal, preoperculum, and spiracular; in contrast to some previous papers, we are not taking into consideration the ornamentation of the operculum. Some of the polymorphic conditions correspond to different conditions observed on the preoperculum (frequently with ridges) and the remaining cheek bones (frequently tubercular) of a species."
+> - Clement *et al.* (2024): " Forey (1998, char. 49) considered three character-states to describe the cheek bone ornamentation: tubercular (1), absent (0), and with coarse superficial rugosity (2); in his character description (p. 128), the numbering of these character-states has been mislabeled where only state 1 and 2 have been written. In order to take into account the disparity of the cheek bone ornamentation in coelacanths, we used four character-states that better represent the disparity. In addition, some taxa are coded as a polymorphic condition to include both the tubercular and ridged ornamentation. We are limiting the coding of the cheek bones ornamentation to the condition observed on the postorbital, squamosal, preoperculum, and spiracular; in contrast to some previous papers, we are not taking into consideration the ornamentation of the operculum. Some of the polymorphic conditions correspond to different conditions observed on the preoperculum (frequently with ridges) and the remaining cheek bones (frequently tubercular) of a species."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -878,9 +878,9 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Forey (1998, char. 50) described two character-states for the sensory openings for the infraorbital, jugal and preopercular canals: many tiny pores (0) and a few large pores (1). Dutel *et al.* (2012, char. 50) added a third character-states taking into account a condition in which there is a large continuous groove crossed by pillars."
+> - Clement *et al.* (2024): "Forey (1998, char. 50) described two character-states for the sensory openings for the infraorbital, jugal and preopercular canals: many tiny pores (0) and a few large pores (1). Dutel *et al.* (2012, char. 50) added a third character-states taking into account a condition in which there is a large continuous groove crossed by pillars."
 
-> -  Clement *et al.* (in review) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it 'unordered'.
+> -  Clement *et al.* (2024) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it 'unordered'.
 
 > - The coding of *Qujingodus* is ?.
 
@@ -890,7 +890,7 @@
 > - Character 214 in 'early gnathostome phylogeny dataset', polarity, rephrased. Giles *et al*. (2015), Character 54; Choo *et al*. (2017), Character 278; King *et al*. (2017), Character 214; Castiello (2018), Character 213; Zhu Y. *et al*. (2021), Character 52; Zhu Y. *et al*. (2022), Character 218; Brazeau *et al*. (2023), Character 219.
 > - Giles et al. (2015)：“This character is contingent on the presence of a consolidated dermal cheek. This character reflects whether the canal-bearing dermal cheek (preorpercular or suborbital equivalent) is composed of one or multiple bones. State '0' is apparent in actinopterygians, Guiyu, Psarolepis (preopercular), Entelognathus and other placoderms.”
 
-> - Clement *et al.* (in review): "Character 101 is linked to character 65."
+> - Clement *et al.* (2024): "Character 101 is linked to character 65."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -899,7 +899,7 @@
 
 > - Character 208 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 56), and references therein; Zhu *et al*. (2013), Character 171; Choo *et al*. (2017), Character 178; King *et al*. (2017), Character 193; Castiello (2018), Character 192; Zhu Y. *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 198; Brazeau *et al*. (2023), Character 269.
 
-> - Clement *et al.* (in review): "Among actinistians, Friedman (2007, char. 47; fig. 4C) and Lu & Zhu (2009, char. 16) reported the presence of large foramina distinct from the sensory line pores and pit lines on the cheek solely in *Styloichthys*."
+> - Clement *et al.* (2024): "Among actinistians, Friedman (2007, char. 47; fig. 4C) and Lu & Zhu (2009, char. 16) reported the presence of large foramina distinct from the sensory line pores and pit lines on the cheek solely in *Styloichthys*."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -910,7 +910,7 @@
 
 > - Forey (1998) defined his character 32 as follows: (0) suboperculum absent, (1) suboperculum present. 
 
-> - Clement *et al.* (in review): "By out-group comparison (including actinopterygians, onychodontiforms, dipnomorphs and tetrapodomorphs), the presence of a suboperculum is the plesiomorphic condition. Thus, most of the coding that we are using differs from what has been provided by Forey (1998, char. 32) and subsequent analyses (up to Toriño *et al.*, 2021, char. 32) because of the different polarity of the character."
+> - Clement *et al.* (2024): "By out-group comparison (including actinopterygians, onychodontiforms, dipnomorphs and tetrapodomorphs), the presence of a suboperculum is the plesiomorphic condition. Thus, most of the coding that we are using differs from what has been provided by Forey (1998, char. 32) and subsequent analyses (up to Toriño *et al.*, 2021, char. 32) because of the different polarity of the character."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -919,7 +919,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Character 104 is linked to characters 65 and 103."
+> - Clement *et al.* (2024): "Character 104 is linked to characters 65 and 103."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -928,7 +928,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): " Character 105 is linked to character 103."
+> - Clement *et al.* (2024): " Character 105 is linked to character 103."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -937,12 +937,12 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Character 106 is linked to character 103."
+> - Clement *et al.* (2024): "Character 106 is linked to character 103."
 
 > - The coding of *Qujingodus* is ?.
 
 107. Operculum: without sensory pores (0), with sensory pores (1)
-> Clement *et al.* (in review), Character 107.
+> Clement *et al.* (2024), Character 107.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
@@ -953,7 +953,7 @@
 
 > - Character 227 in 'early gnathostome phylogeny dataset'. **The states are different**
 
-> - Clement *et al.* (in review): "Cloutier (1991a, char 28) defined a character to describe the shape of the operculum among Palaeozoic coelacanths, either as quadrilateral (including rectangular, square and trapezoidal) (e.g., *Miguashaia*, *Hadronector*) and triangular (e.g., *Coelacanthus*, *Rhabdoderma*). Cloutier (1991b, p. 406) mentioned that the distinction between the two shapes was generally clear with the exception of species having operculum with strongly asymetrical, diamond-shape (e.g., *Diplocercides jaekeli*). Instead of coding for the global shape of the operculum, Cavin *et al.* (2020, char. 55) characterized the posteroventral edge of the operculum: marks an angle (or posterior margin rounded) (0) (e.g., *Macropoma*, *Latimeria*), straight (1) (e.g., Trachymetopon, Mawsonia), and regularly curved (2) (e.g., *Axelrodichthys*, *Chinlea*). We redefine the shape of the operculum using three character-states; we add the ovoid shape in contrast to the original description of Cloutier (1991a, b, char. 28). The ovoid shape takes into account some of the species that could have been coded as a regularly curved margin by Cavin *et al.* (2020, char. 55)."
+> - Clement *et al.* (2024): "Cloutier (1991a, char 28) defined a character to describe the shape of the operculum among Palaeozoic coelacanths, either as quadrilateral (including rectangular, square and trapezoidal) (e.g., *Miguashaia*, *Hadronector*) and triangular (e.g., *Coelacanthus*, *Rhabdoderma*). Cloutier (1991b, p. 406) mentioned that the distinction between the two shapes was generally clear with the exception of species having operculum with strongly asymetrical, diamond-shape (e.g., *Diplocercides jaekeli*). Instead of coding for the global shape of the operculum, Cavin *et al.* (2020, char. 55) characterized the posteroventral edge of the operculum: marks an angle (or posterior margin rounded) (0) (e.g., *Macropoma*, *Latimeria*), straight (1) (e.g., Trachymetopon, Mawsonia), and regularly curved (2) (e.g., *Axelrodichthys*, *Chinlea*). We redefine the shape of the operculum using three character-states; we add the ovoid shape in contrast to the original description of Cloutier (1991a, b, char. 28). The ovoid shape takes into account some of the species that could have been coded as a regularly curved margin by Cavin *et al.* (2020, char. 55)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -962,25 +962,25 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): " Cloutier (1991b, char. 66) described this character as absence (0) or presence (1) of posterodorsal hook on the dentary. Forey (1998, char. 57) used a character to describe the shape of the dentary as simple (0) and hook-shaped (1). Forey (1998) associated this feature with the elaboration of the muscular lip fold as present in Latimeria chalumnae. This hook-shape is present in a few derived actinistians such as *Chinlea*, *Heptanema*, *Foreyia*, *Luopingcoelacanthus*, *Macropoma*, *Macropomoides*, *Undina*, *Swenzia* and *Whiteia*."
+> - Clement *et al.* (2024): " Cloutier (1991b, char. 66) described this character as absence (0) or presence (1) of posterodorsal hook on the dentary. Forey (1998, char. 57) used a character to describe the shape of the dentary as simple (0) and hook-shaped (1). Forey (1998) associated this feature with the elaboration of the muscular lip fold as present in Latimeria chalumnae. This hook-shape is present in a few derived actinistians such as *Chinlea*, *Heptanema*, *Foreyia*, *Luopingcoelacanthus*, *Macropoma*, *Macropomoides*, *Undina*, *Swenzia* and *Whiteia*."
 
 > - The coding of *Qujingodus* is 0.
 
 110. Dentary relative, size of: dentary much bigger than the splenial (0), dentary approximately the same size as the splenial (1), dentary much smaller than the splenial (2). (ordered)
-> Clement *et al.* (in review), Character 110.
+> Clement *et al.* (2024), Character 110.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "The relative size of the dentary and splenial considers the general surface of these bones in lateral view. The three character-states form a morphocline. Character 110 is linked with character 133."
+> - Clement *et al.* (2024): "The relative size of the dentary and splenial considers the general surface of these bones in lateral view. The three character-states form a morphocline. Character 110 is linked with character 133."
 
 > - The coding of *Qujingodus* is 0.
 
 111. Posterior margin of dentary: relatively at right angle with the dorsal margin (0), dorsally beveled (1), ventrally beveled (2), pointed (X bevel) (3), V-grooved (4). 
-> Clement *et al.* (in review), Character 111.
+> Clement *et al.* (2024), Character 111.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "This character takes into account the general shape of the posterior margin of the dentary when looking at the lateral profile of the lateral surface of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the dentary is located ventrally (e.g., *Gavinia*, *Laugia*), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., *Libys*, *Tachymetopon*). In the pointed shape (or X bevel), the pointed part of the posterior margin of the dentary is approximately located at mid-height of the dentary (e.g., *Coelacanthus*, *Parnaibaia*), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., *Foreyia*). Most coelacanths having a dorsal hook-shape posteriorly oriented on the dentary (Char. 108) have a V-grooved posterior margin. This character does not apply for the out-groups in which a long dentary is known."
+> - Clement *et al.* (2024): "This character takes into account the general shape of the posterior margin of the dentary when looking at the lateral profile of the lateral surface of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the dentary is located ventrally (e.g., *Gavinia*, *Laugia*), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., *Libys*, *Tachymetopon*). In the pointed shape (or X bevel), the pointed part of the posterior margin of the dentary is approximately located at mid-height of the dentary (e.g., *Coelacanthus*, *Parnaibaia*), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., *Foreyia*). Most coelacanths having a dorsal hook-shape posteriorly oriented on the dentary (Char. 108) have a V-grooved posterior margin. This character does not apply for the out-groups in which a long dentary is known."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -989,7 +989,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Lund and Lund (1985) proposed the lack of a distinct angular diastema in the orientation of the dentary (which thus has a relatively continuous occlusal line with the angular) to be the plesiomorphic condition. Cloutier (1991a, b, char. 37) suggested that the apomorphic condition corresponds to the presence of a dentary oriented diagonally with the angular. Because of the large disparity of inclination of the dentary we divided the original apomorphic condition into two character-states (slightly dipping and sharply inclined). The three character-states forms a morphocline on the anterior inclination of the dentary. The horizontally straight condition corresponds to the plesiomorphic condition where the dentary is nearly parallel to the main orientation of the lower jaw (e.g., Miguashaia, Caridosuctor, Coelacanthus). In a few species, the dentary is slightly dipping or inclined anteroventrally; the angle of inclination could vary between 10 (e.g., *Serenichthys*) and 40 degrees (e.g., *Diplocercides*). The sharply downturned orientation of the dentary corresponds to the condition where the main orientation of the dentary is approximately to a right angle with the main orientation of the lower jaw (e.g., *Allenypterus*, *Diplurus*, *Foreyia*). The three character-states form a morphocline."
+> - Clement *et al.* (2024): "Lund and Lund (1985) proposed the lack of a distinct angular diastema in the orientation of the dentary (which thus has a relatively continuous occlusal line with the angular) to be the plesiomorphic condition. Cloutier (1991a, b, char. 37) suggested that the apomorphic condition corresponds to the presence of a dentary oriented diagonally with the angular. Because of the large disparity of inclination of the dentary we divided the original apomorphic condition into two character-states (slightly dipping and sharply inclined). The three character-states forms a morphocline on the anterior inclination of the dentary. The horizontally straight condition corresponds to the plesiomorphic condition where the dentary is nearly parallel to the main orientation of the lower jaw (e.g., Miguashaia, Caridosuctor, Coelacanthus). In a few species, the dentary is slightly dipping or inclined anteroventrally; the angle of inclination could vary between 10 (e.g., *Serenichthys*) and 40 degrees (e.g., *Diplocercides*). The sharply downturned orientation of the dentary corresponds to the condition where the main orientation of the dentary is approximately to a right angle with the main orientation of the lower jaw (e.g., *Allenypterus*, *Diplurus*, *Foreyia*). The three character-states form a morphocline."
 
 > - The coding of *Qujingodus* is 2.
 
@@ -998,7 +998,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Forey (1998, p. 153; char. 65) described the presence a prominent lateral swelling on the dentary of *Mawsonia*, *Axelrodichthys* and *Lualabaea*, located in front of the depression for the deep pseudomaxillary fold. This protuberance is a smooth dome-shaped protuberance (see Forey, 1998, char. 5.10A, B)."
+> - Clement *et al.* (2024): "Forey (1998, p. 153; char. 65) described the presence a prominent lateral swelling on the dentary of *Mawsonia*, *Axelrodichthys* and *Lualabaea*, located in front of the depression for the deep pseudomaxillary fold. This protuberance is a smooth dome-shaped protuberance (see Forey, 1998, char. 5.10A, B)."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -1007,16 +1007,16 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Character 114 is linked to character 132."
+> - Clement *et al.* (2024): " Character 114 is linked to character 132."
 
 > - The coding of *Qujingodus* is 0.
 
 115. Dentary teeth: present (0), absent (1). 
-> Clement *et al.* (in review), Character 115.
+> Clement *et al.* (2024), Character 115.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Friedman & Coates (2006, char. 54) coded *Allenypterus* as "?" because of its edentulous condition. We used a separate character to take into account the present or absent of teeth on the mandible."
+> - Clement *et al.* (2024): "Friedman & Coates (2006, char. 54) coded *Allenypterus* as "?" because of its edentulous condition. We used a separate character to take into account the present or absent of teeth on the mandible."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -1025,7 +1025,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The presence of dentary teeth fused to the dentary or separate from the dentary was used by Forey (1998, char. 54). Forey (1998) mentioned that the apomorphic condition takes into account both a condition in which teeth are present on separate tooth plates and the edentulous condition (Character 115). Character 116 is linked with character 115."
+> - Clement *et al.* (2024): "The presence of dentary teeth fused to the dentary or separate from the dentary was used by Forey (1998, char. 54). Forey (1998) mentioned that the apomorphic condition takes into account both a condition in which teeth are present on separate tooth plates and the edentulous condition (Character 115). Character 116 is linked with character 115."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -1034,23 +1034,23 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The dentary sensory pore is generally a single large pore associated with the trigeminal nerve; Mawsonia soba differs by the presence of four pores rather than one large pore (Brito *et al.*, 2018). As defined by Forey (1998, char. 61), this pore is located near the suture between the dentary and the splenial, above the mandibular canal."
+> - Clement *et al.* (2024): "The dentary sensory pore is generally a single large pore associated with the trigeminal nerve; Mawsonia soba differs by the presence of four pores rather than one large pore (Brito *et al.*, 2018). As defined by Forey (1998, char. 61), this pore is located near the suture between the dentary and the splenial, above the mandibular canal."
 
 > - The coding of *Qujingodus* is 1.
 
 118. Parasymphysial plate: present (0), absent (1)
-> Clement *et al.* (in review), Character 118.
+> Clement *et al.* (2024), Character 118.
 
 > - Character 297 in 'early gnathostome phylogeny dataset'. **The states are parts of those of Character 297 in 'early gnathostome phylogeny dataset'.**
 
 > - The coding of *Qujingodus* is 0.
 
 119. Parasymphysial plate: detachable tooth whorl (0), long sutured to coronoid (1), short not sutured to coronoid (2).
-> Clement *et al.* (in review), Character 119.
+> Clement *et al.* (2024), Character 119.
 
 > - Character 297 in 'early gnathostome phylogeny dataset', in part, rephrased.
  
-> - Clement *et al.* (in review): "Character 119 is linked with character 118."
+> - Clement *et al.* (2024): "Character 119 is linked with character 118."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -1059,7 +1059,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 120 is linked with character 118."
+> - Clement *et al.* (2024): "Character 120 is linked with character 118."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -1068,16 +1068,16 @@
  
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 56) described that the fourth coronoid of the anterior series of coronoids is modified in some actinistians. This coronoid is closely associated with the posterior end of the dentary and is modified to bear enlarged tooth/teeth (e.g., *Spermatodus* (Forey, 1998, fig. 5.8A); *Undina penicillata* (Forey, 1998, fig. 5.12C)) and the lateral edge rolled over (e.g., *Sassenia*; see Forey (1998, fig. 5.8B)). This coronoid is located anterior to the principal coronoid (char. 122)."
+> - Clement *et al.* (2024): "Forey (1998, char. 56) described that the fourth coronoid of the anterior series of coronoids is modified in some actinistians. This coronoid is closely associated with the posterior end of the dentary and is modified to bear enlarged tooth/teeth (e.g., *Spermatodus* (Forey, 1998, fig. 5.8A); *Undina penicillata* (Forey, 1998, fig. 5.12C)) and the lateral edge rolled over (e.g., *Sassenia*; see Forey (1998, fig. 5.8B)). This coronoid is located anterior to the principal coronoid (char. 122)."
 
 > - The coding of *Qujingodus* is ?.
 
 122. Principal coronoid: present (0), absent (1). 
-> Clement *et al.* (in review), Character 122.
+> Clement *et al.* (2024), Character 122.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "An enlarged posterior (principal) coronoid projecting considerably above the occlusal margin of the lower jaw has been recognized by many authors as an actinistian synapomorphy (Schaeffer, 1952; Lund & Lund, 1985; Cloutier, 1991a). Cloutier (1991a) recognized the coronoid IV oriented vertically as an actinistian synapomorphy; although we agree that the posteriormost is oriented vertically, the homology of this element with coronoid IV is questioned. The modified coronoid (char. 121) is frequently referred to as Coronoid IV."
+> - Clement *et al.* (2024): "An enlarged posterior (principal) coronoid projecting considerably above the occlusal margin of the lower jaw has been recognized by many authors as an actinistian synapomorphy (Schaeffer, 1952; Lund & Lund, 1985; Cloutier, 1991a). Cloutier (1991a) recognized the coronoid IV oriented vertically as an actinistian synapomorphy; although we agree that the posteriormost is oriented vertically, the homology of this element with coronoid IV is questioned. The modified coronoid (char. 121) is frequently referred to as Coronoid IV."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1086,7 +1086,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Cloutier (1991b) mentioned that in most actinistians, the principal coronoid (his "Coronoid IV") abuts the mesial side of the prearticular. Forey (1998, char. 66) proposed two character-states for the condition of the principal coronoid: lying free (0) and sutured to the angular (1). Forey (1998, p. 163) and Clément (1999, p. 238) mentioned that the principal coronoid does not sutured to the angular in most actinistians with the exception of Axelrodichthys and Mawsonia. Character 123 is linked with character 122."
+> - Clement *et al.* (2024): "Cloutier (1991b) mentioned that in most actinistians, the principal coronoid (his "Coronoid IV") abuts the mesial side of the prearticular. Forey (1998, char. 66) proposed two character-states for the condition of the principal coronoid: lying free (0) and sutured to the angular (1). Forey (1998, p. 163) and Clément (1999, p. 238) mentioned that the principal coronoid does not sutured to the angular in most actinistians with the exception of Axelrodichthys and Mawsonia. Character 123 is linked with character 122."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1095,7 +1095,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1981, 1998) mentioned the difference in the shape of the principal coronoid, but did not defined a character. Cloutier (1991a, char. 38) recognized two shapes relative to the lateral view of the principal coronoid (his "coronoid IV") visible above the angular: subtriangular and subquadrilateral. In addition, Cloutier (1991a) mentioned that these two character-states did not apply to the shape of *Axelrodichthys araripensis*. Yabumoto & Uyeno (2005) used the shape of the principal coronoid as distinctive for Mawsonia (M. lavocati (Yabumoto & Uyeno, 2005, figs. 6, 7) and M. brasiliensis). Dutel *et al.* (2015, fig. 1) described the principal coronoid of *Trachymetopon liassicum* as saddle-shape. Fragoso *et al.* (2018) qualified the principal coronoid of *Mawsonia/Axelrodichthys* complex as saddle shaped displaying a cranial and a caudal process. We added a second apomorphic state to consider this shape. A third apomorphic state, the boomerang-shape, was defined to take into account the curved shape of the principal coronoid of *Macropoma lewesiensis* (Forey, 1998, fig. 5.13). Character 124 is linked with character 122."
+> - Clement *et al.* (2024): "Forey (1981, 1998) mentioned the difference in the shape of the principal coronoid, but did not defined a character. Cloutier (1991a, char. 38) recognized two shapes relative to the lateral view of the principal coronoid (his "coronoid IV") visible above the angular: subtriangular and subquadrilateral. In addition, Cloutier (1991a) mentioned that these two character-states did not apply to the shape of *Axelrodichthys araripensis*. Yabumoto & Uyeno (2005) used the shape of the principal coronoid as distinctive for Mawsonia (M. lavocati (Yabumoto & Uyeno, 2005, figs. 6, 7) and M. brasiliensis). Dutel *et al.* (2015, fig. 1) described the principal coronoid of *Trachymetopon liassicum* as saddle-shape. Fragoso *et al.* (2018) qualified the principal coronoid of *Mawsonia/Axelrodichthys* complex as saddle shaped displaying a cranial and a caudal process. We added a second apomorphic state to consider this shape. A third apomorphic state, the boomerang-shape, was defined to take into account the curved shape of the principal coronoid of *Macropoma lewesiensis* (Forey, 1998, fig. 5.13). Character 124 is linked with character 122."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1104,7 +1104,7 @@
 > Lu *et al.* (2016), character 94; Clement et al. (2018), character 93.
 > - Character 288 in 'early gnathostome phylogeny dataset'. 
 
-> - Clement *et al.* (in review): "Forey (1998, char. 67)12 considered the presence of enlarged teeth lying alongside a replacement socket upon at least some of the anterior coronoids as the apomorphic condition. However, based on outgroup comparison with onychodontiforms, the presence would rather correspond to the plesiomorphic condition."
+> - Clement *et al.* (2024): "Forey (1998, char. 67)12 considered the presence of enlarged teeth lying alongside a replacement socket upon at least some of the anterior coronoids as the apomorphic condition. However, based on outgroup comparison with onychodontiforms, the presence would rather correspond to the plesiomorphic condition."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -1136,7 +1136,7 @@
 
 > - Character 707 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Brazeau *et al*. (2023), Character 303.
 
-> - Clement *et al.* (in review): "Zhu & Yu (2002, char. 80), Zhu & Yu (2004) and Friedman (2007, char. 68) used the trajectory of the mandibular canal in relation to the posteriormost infradentary to address the phylogenetic position among sarcopterygians as well as basal forms of actinistians such as *Styloichthys*."
+> - Clement *et al.* (2024): "Zhu & Yu (2002, char. 80), Zhu & Yu (2004) and Friedman (2007, char. 68) used the trajectory of the mandibular canal in relation to the posteriormost infradentary to address the phylogenetic position among sarcopterygians as well as basal forms of actinistians such as *Styloichthys*."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -1152,12 +1152,12 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 62) recognized two character-states to describe the ornamentation of the lower jaw: ridged (0) and granular (1) ornament. We recognize an additional character-state to consider the complete disparity of the lower jaw ornament: unornamented (2). Character 131 is partly linked with characters 133 and 114."
+> - Clement *et al.* (2024): "Forey (1998, char. 62) recognized two character-states to describe the ornamentation of the lower jaw: ridged (0) and granular (1) ornament. We recognize an additional character-state to consider the complete disparity of the lower jaw ornament: unornamented (2). Character 131 is partly linked with characters 133 and 114."
 
 > - The coding of *Qujingodus* is 2.
 
 132. Splenial: present (0), absent (1)
-> Clement *et al.* (in review), Character 132.
+> Clement *et al.* (2024), Character 132.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1168,16 +1168,16 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 133 is linked to character 132."
+> - Clement *et al.* (2024): "Character 133 is linked to character 132."
 
 > - The coding of *Qujingodus* is ?.
 
 134. Posterior margin of splenial: relatively at right angle with dorsal margin (0), dorsally beveled (1), ventrally believed (2), pointed (X bevel) (3), V-grooved (4). 
-> Clement *et al.* (in review), Character 134.
+> Clement *et al.* (2024), Character 134.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "This character considers the general shape of the posterior margin of the splenial when looking at the lateral profile of the lateral surface of the splenial; this character is similar to Character 111 that is relative to the posterior margin of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the splenial is located ventrally (e.g., *Allenypterus*, *Diplocercides*, *Garnbergia*), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., *Parnaibaia*). In the pointed shape (or X bevel), the pointed part of the posterior margin of the splenial is approximately located at mid-height of the splenial (e.g., *Coelacanthus*, *Holophagus*), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., *Foreyia*). Character 134 is linked to character 132."
+> - Clement *et al.* (2024): "This character considers the general shape of the posterior margin of the splenial when looking at the lateral profile of the lateral surface of the splenial; this character is similar to Character 111 that is relative to the posterior margin of the dentary. We used the terminology for the description of edge profile. Dorsally beveled (or top bevel) implies than the pointed posterior edge of the posterior margin of the splenial is located ventrally (e.g., *Allenypterus*, *Diplocercides*, *Garnbergia*), while ventrally beveled (or bottom bevel) it is the dorsal part that is pointed (e.g., *Parnaibaia*). In the pointed shape (or X bevel), the pointed part of the posterior margin of the splenial is approximately located at mid-height of the splenial (e.g., *Coelacanthus*, *Holophagus*), while the V-grooved shape describes the pointing part projecting inward the posterior margin (e.g., *Foreyia*). Character 134 is linked to character 132."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1186,7 +1186,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The definition and order of character-states have been changed from previous uses of this character ((Forey (1991, char. 27 in part); Forey (1998, char. 68)). Wen *et al.* (2013, char. 68) added an additional apomorphic character-states (pointed and marked with fine striations). The order of the two apomorphic states are changed to obtain three character-states forming a morphocline."
+> - Clement *et al.* (2024): "The definition and order of character-states have been changed from previous uses of this character ((Forey (1991, char. 27 in part); Forey (1998, char. 68)). Wen *et al.* (2013, char. 68) added an additional apomorphic character-states (pointed and marked with fine striations). The order of the two apomorphic states are changed to obtain three character-states forming a morphocline."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -1198,20 +1198,20 @@
 > - The coding of *Qujingodus* is ?.
 
 137. Angular, depth of: posterior half deeper than anterior half of angular (0), deepest at approximately at midway along the length of the angular (1), anterior half deeper than posterior half of angular (2). (ordered) 
-> Clement *et al.* (in review), Character 137.
+> Clement *et al.* (2024), Character 137.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Cavin *et al.* (2020, char. 56) defined a character identifying the deepest point of the angular. Two character-states were originally used: approximately midway along length of the bone (0) and near the anterior margin of the bone (1). Since the character-states were primarily defined in order to reflect a difference among derived coelacanths (mainly *Mawsonia* and *Axelrodichthys*), we used another state as "posterior half deeper than anterior half of angular" which is herein considered as the plesiomorphic state because it is observed among basal coelacanths. The three character-states form a morphocline. Character 137 is linked to character 136."
+> - Clement *et al.* (2024): "Cavin *et al.* (2020, char. 56) defined a character identifying the deepest point of the angular. Two character-states were originally used: approximately midway along length of the bone (0) and near the anterior margin of the bone (1). Since the character-states were primarily defined in order to reflect a difference among derived coelacanths (mainly *Mawsonia* and *Axelrodichthys*), we used another state as "posterior half deeper than anterior half of angular" which is herein considered as the plesiomorphic state because it is observed among basal coelacanths. The three character-states form a morphocline. Character 137 is linked to character 136."
 
 > - The coding of *Qujingodus* is ?.
 
 138. Angular with dentary and splenial, contact of: linear (0), broad V-shaped (1), fine tapering (2), W-shaped (3), interdigitate (4). 
-> Clement *et al.* (in review), Character 138.
+> Clement *et al.* (2024), Character 138.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 138 is linked to characters 111 and 132."
+> - Clement *et al.* (2024): "Character 138 is linked to characters 111 and 132."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1228,7 +1228,7 @@
 > - The coding of *Qujingodus* is ?.
 
 141. Jaw articulation: anterior to anterior level of operculum (0), posterior to anterior level of operculum (1)
-> Clement *et al.* (in review), Character 141.
+> Clement *et al.* (2024), Character 141.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1265,19 +1265,19 @@
 > - The coding of *Qujingodus* is ?.
 
 146. Parasphenoid, shape of: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
-> Lu & Zhu (2009), Character 91; Lu *et al.* (2016), character 111; Clement et al. (2018), character 110; Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137; **Clement *et al.* (in review), character 146.**
+> Lu & Zhu (2009), Character 91; Lu *et al.* (2016), character 111; Clement et al. (2018), character 110; Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137; **Clement *et al.* (2024), character 146.**
 > Lu *et al.* (2016), character 111; Clement et al. (2018), character 110.
 > - Character 278 in 'early gnathostome phylogeny dataset'. 
-> - Clement *et al.* (in review): Parasphenoid, shape of: small lozenge shaped (0), broad splint shaped (1).
+> - Clement *et al.* (2024): Parasphenoid, shape of: small lozenge shaped (0), broad splint shaped (1).
 
 > - The coding of *Qujingodus* is XX.
 
 147.Parasphenoid, shape of: margin close to parallel or subparallel (0), flared anteriorly (1). 
-> Clement *et al.* (in review), Character 147.
+> Clement *et al.* (2024), Character 147.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 147 reflects the broadening of the anterior part of the parasphenoid as spatulate lateral expansion."
+> - Clement *et al.* (2024): "Character 147 reflects the broadening of the anterior part of the parasphenoid as spatulate lateral expansion."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -1286,12 +1286,12 @@
 
 > - Character 283 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 70), and references therein; Zhu *et al*. (2013), Character 242; Choo *et al*. (2017), Character 229; Zhu Y. *et al*. (2022), Character 287.
 
-> - Clement *et al.* (in review): "Friedman (2007, char. 169) defined a character as the absence or presence of “denticle field of parasphenoid with anteriorly divergent lateral margins.” This character reflects if the denticles covered the anterolateral margins of the parasphenoid that flare anteriorly (character 147)."
+> - Clement *et al.* (2024): "Friedman (2007, char. 169) defined a character as the absence or presence of “denticle field of parasphenoid with anteriorly divergent lateral margins.” This character reflects if the denticles covered the anterolateral margins of the parasphenoid that flare anteriorly (character 147)."
 
 > - The coding of *Qujingodus* is 0.
 
 149. Parasphenoid denticle field: ending at or anterior to level of foramina for internal carotid arteries (0), extending posterior to internal carotid foramina (1)
-> Clement *et al.* (in review), Character 149.
+> Clement *et al.* (2024), Character 149.
 
 > - Character 284 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 71), and references therein; Zhu *et al*. (2013), Character 243; Choo *et al*. (2017), Character 230; King *et al*. (2017), Character 137; Castiello (2018), Character 136; Zhu Y. *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 141.
 
@@ -1302,7 +1302,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The anterolateral ascending laminae of the parasphenoid are known in *Macropoma* and *Latimeria* (Forey, 1998). They also have been referred to as the "prominent lateral wing" (Forey, 1998)."
+> - Clement *et al.* (2024): "The anterolateral ascending laminae of the parasphenoid are known in *Macropoma* and *Latimeria* (Forey, 1998). They also have been referred to as the "prominent lateral wing" (Forey, 1998)."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -1311,12 +1311,12 @@
 
 > - Character 276 in 'early gnathostome phylogeny dataset'. Giles *et al*. (2015), Character 114; Choo *et al*. (2017), Character 292; King *et al*. (2017), Character 74; Castiello (2018), Character 76; Zhu Y. *et al*. (2022), Character 280; Brazeau *et al*. (2023), Character 78.
 
-> - Clement *et al.* (in review): "Khonsari *et al.* (2013) addressed specifically the evolution of the buccohypophysial foramen with a special interest to coelacanths."
+> - Clement *et al.* (2024): "Khonsari *et al.* (2013) addressed specifically the evolution of the buccohypophysial foramen with a special interest to coelacanths."
 
 > - The coding of *Qujingodus* is 0.
 
 152. Entopterygoid, shape of: elongated (0), triangular (1)
-> Clement *et al.* (in review), Character 152.
+> Clement *et al.* (2024), Character 152.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1327,7 +1327,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Dutel *et al.* (2012, fig. 20) illustrated the ventral swelling of the palatoquadrate (their character 110) as a process located on the ventrolateral margin of the entopterygoid seen in *Latimeria*. According to Dutel *et al.* (2012), the swelling is only observed in *Holophagus*, *Latimeria*, *Libys*, *Macropoma*, *Megalocoelacanthus*, and *Undina*. Toriño *et al.* (2021, p. 14 SI) discussed various codings that have been used in Fragoso’s (2014) analysis, and maintained Dutel *et al.*`s coding."
+> - Clement *et al.* (2024): "Dutel *et al.* (2012, fig. 20) illustrated the ventral swelling of the palatoquadrate (their character 110) as a process located on the ventrolateral margin of the entopterygoid seen in *Latimeria*. According to Dutel *et al.* (2012), the swelling is only observed in *Holophagus*, *Latimeria*, *Libys*, *Macropoma*, *Megalocoelacanthus*, and *Undina*. Toriño *et al.* (2021, p. 14 SI) discussed various codings that have been used in Fragoso’s (2014) analysis, and maintained Dutel *et al.*`s coding."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1336,33 +1336,33 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Friedman (2007, char. 161) recognized that a shagreen of denticles is the plesiomorphic conditions in osteichthyans, whereas actinistians share denticles remodeled into long ridges on the oral surface of dermal bones (including the entopterygoids)."
+> - Clement *et al.* (2024): "Friedman (2007, char. 161) recognized that a shagreen of denticles is the plesiomorphic conditions in osteichthyans, whereas actinistians share denticles remodeled into long ridges on the oral surface of dermal bones (including the entopterygoids)."
 
 > - The coding of *Qujingodus* is ?.
 
 155. Nasal capsule, shape of: round or triangular shaped (0), deep and elongate (1)
-> Clement *et al.* (in review), Character 155.
+> Clement *et al.* (2024), Character 155.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 0.
 
 156. Olfactory tracts: short diverging at the level or anterior to the ethmoid process (0), long diverging posterior to the level of the ethmoid process (closer to the optic foramen) (1)
-> Lu *et al.* (2016), character 117; Clement et al. (2018), character 116; Clement *et al.* (in review), Character 156. 
+> Lu *et al.* (2016), character 117; Clement et al. (2018), character 116; Clement *et al.* (2024), Character 156. 
 
 > - Character 381 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
 
 157. Hypophysial fossa: extending posterior to the orbit (0), extending at the level of the orbit or anterior to the orbit (1)
-> Clement *et al.* (in review), Character 157.
+> Clement *et al.* (2024), Character 157.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
 
 158. Hypophysial fossa posterior lobe: absent (0), present (1)
-> Clement *et al.* (in review), Character 158.
+> Clement *et al.* (2024), Character 158.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1373,12 +1373,12 @@
 
 > - Character 379 in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Zhu & Yu (2002, char. 107) and Friedman (2007, char. 93) used the presence of the fenestra ventralis (or ventrolateralis) as well as the common ventral fenestra for anterior and posterior nostrils to investigate sarcopterygian interrelationships."
+> - Clement *et al.* (2024): "Zhu & Yu (2002, char. 107) and Friedman (2007, char. 93) used the presence of the fenestra ventralis (or ventrolateralis) as well as the common ventral fenestra for anterior and posterior nostrils to investigate sarcopterygian interrelationships."
 
 > - The coding of *Qujingodus* is ?.
 
 160. Tectum orbitale, size of: narrow (0), extensive (1)
-> Clement *et al.* (in review), Character 160.
+> Clement *et al.* (2024), Character 160.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1389,7 +1389,7 @@
 
 > - Character 385 in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Friedman (2007, char. 172) originally used this character by including two apomorphic states. Herein, we are solely using one of the two character-states that is relevant with the taxa analyzed. Actinistians are characterized by greatly expanded depressions marking the ethmoid articulation between the palatoquadrate and the neurocranium (Friedman, 2007)."
+> - Clement *et al.* (2024): "Friedman (2007, char. 172) originally used this character by including two apomorphic states. Herein, we are solely using one of the two character-states that is relevant with the taxa analyzed. Actinistians are characterized by greatly expanded depressions marking the ethmoid articulation between the palatoquadrate and the neurocranium (Friedman, 2007)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1399,19 +1399,19 @@
 
 > - Character 398 in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Zhu & Yu (2002, char. 109) and Friedman (2007, char. 95) used this character with a different polarity."
+> - Clement *et al.* (2024): "Zhu & Yu (2002, char. 109) and Friedman (2007, char. 95) used this character with a different polarity."
 
 > - The coding of *Qujingodus* is ?.
 
 163. Foramen for oculomotor nerve (III) relative, position of: dorsal and near the optic nerve (II) foramen (0), posterior and at the same height as the optic nerve (II) foramen (1)
-> Clement *et al.* (in review), Character 163.
+> Clement *et al.* (2024), Character 163.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
 
 164. Foramen for the facial nerve (VII) relative, position of: same level as the anterior tip of the processus connectens (0), dorsal to the anterior tip of the processus connectens (1)
-> Clement *et al.* (in review), Character 164.
+> Clement *et al.* (2024), Character 164.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1429,21 +1429,21 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 166 is linked with character 165."
+> - Clement *et al.* (2024): "Character 166 is linked with character 165."
 
 > - The coding of *Qujingodus* is ?.
 
 167. Basipterygoid process articular facet: facing posteriorly (0), facing anteriorly (1). 
-> Clement *et al.* (in review), Character 167.
+> Clement *et al.* (2024), Character 167.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 167 is linked with character 165."
+> - Clement *et al.* (2024): "Character 167 is linked with character 165."
 
 > - The coding of *Qujingodus* is ?.
 
 168. Intracranial joint relative to cranial nerves, position of: through profundus foramen (0), through or behind trigeminal (V) foramen (1)
-> Clement *et al.* (in review), Character 168.
+> Clement *et al.* (2024), Character 168.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1457,7 +1457,7 @@
 > - The coding of *Qujingodus* is ?. 
 
 170. Processus connectens, size of: knob like not well developed (0), long and well developed (1)
-> Mondéjar-Fernánde (2020), character 66; Clement *et al.* (in review), Character 170.
+> Mondéjar-Fernánde (2020), character 66; Clement *et al.* (2024), Character 170.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1468,7 +1468,7 @@
 > Lu *et al.* (2016), character 171; Clement et al. (2018), character 169.
 > - Character 489 in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The vestibular fontanelle is a large basicranial fenestra located ventrally to the notochord and that opens into the saccular region of the inner ear. The fenestra ovalis present in tetrapods is derived from the vestibular fontanelle (Clack, 1994)."
+> - Clement *et al.* (2024): "The vestibular fontanelle is a large basicranial fenestra located ventrally to the notochord and that opens into the saccular region of the inner ear. The fenestra ovalis present in tetrapods is derived from the vestibular fontanelle (Clack, 1994)."
 
 > - The coding of *Qujingodus* is XX.
 
@@ -1491,12 +1491,12 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 70) defined a character as the basisphenoid extending forward to enclose the optic foramen (0) or the optic foramen lying within separate interorbital ossification or cartilage (1). Toriño *et al.* (2021, char. 70) rather used the character relative to the optic foramen which is either enclosed by the basisphenoid extending forward (0) or lying within separate interorbital ossification or cartilage (1). Herein, the character concerns two conditions for the basisphenoid: extending forward to enclose the optic foramen (0) and optic foramen lying within separate interorbital ossification or cartilage (1)."
+> - Clement *et al.* (2024): "Forey (1998, char. 70) defined a character as the basisphenoid extending forward to enclose the optic foramen (0) or the optic foramen lying within separate interorbital ossification or cartilage (1). Toriño *et al.* (2021, char. 70) rather used the character relative to the optic foramen which is either enclosed by the basisphenoid extending forward (0) or lying within separate interorbital ossification or cartilage (1). Herein, the character concerns two conditions for the basisphenoid: extending forward to enclose the optic foramen (0) and optic foramen lying within separate interorbital ossification or cartilage (1)."
 
 > - The coding of *Qujingodus* is 0.
 
 175. Basisphenoid base of the lateral wings: broad (0), constricted (1)
-> Clement *et al.* (in review), Character 175.
+> Clement *et al.* (2024), Character 175.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1506,12 +1506,12 @@
 > Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 71.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
-> - Clement *et al.* (in review): "Forey (1998, char. 71) considered the processus connectens meeting the parasphenoid as the plesiomorphic state, whereas a processus connectens failing to meet the parasphenoid as the apomorphic state. Cavin & Grădinaru (2014, char. 71) and Toriño *et al.* (2021, char. 71) mentioned that the original formulation given by Forey (1998, char. 71)12 is opposite to the character coding observed in Forey’s matrix. Cavin & Grădinaru (2014) inverted the original character-states. Therefore, we are using the character-states."
+> - Clement *et al.* (2024): "Forey (1998, char. 71) considered the processus connectens meeting the parasphenoid as the plesiomorphic state, whereas a processus connectens failing to meet the parasphenoid as the apomorphic state. Cavin & Grădinaru (2014, char. 71) and Toriño *et al.* (2021, char. 71) mentioned that the original formulation given by Forey (1998, char. 71)12 is opposite to the character coding observed in Forey’s matrix. Cavin & Grădinaru (2014) inverted the original character-states. Therefore, we are using the character-states."
 
 > - The coding of *Qujingodus* is 0.
 
 177. Antotic process: absent (0), present (1)
-> Clement *et al.* (in review), Character 177.
+> Clement *et al.* (2024), Character 177.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1522,7 +1522,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Character 178 is linked with character 177 (antotic process) and character 31 (descending process of parietal)."
+> - Clement *et al.* (2024): " Character 178 is linked with character 177 (antotic process) and character 31 (descending process of parietal)."
 
 > - The coding of *Qujingodus* is -.
 
@@ -1531,33 +1531,33 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The prootic presents two roughened areas: an anterior one, the prefacial eminence, that is sutured on the inner side with the postparietal descending (ventral) process, and a posterior one suturing with the tabular descending (ventral) process. The temporal excavation is located between these two areas. Forey (1998, char. 74) defined two character-states for the condition of the temporal excavation (or temporal fossa): lined with bone and not lined with bone. In his list of characters, Forey (1998, p. 192) coded this temporal excavation as lined with bone (1) and not lined with bone (0). Toriño *et al.* (2021, char. 74) used "0" for lined with bone and "1" for not lined."
+> - Clement *et al.* (2024): "The prootic presents two roughened areas: an anterior one, the prefacial eminence, that is sutured on the inner side with the postparietal descending (ventral) process, and a posterior one suturing with the tabular descending (ventral) process. The temporal excavation is located between these two areas. Forey (1998, char. 74) defined two character-states for the condition of the temporal excavation (or temporal fossa): lined with bone and not lined with bone. In his list of characters, Forey (1998, p. 192) coded this temporal excavation as lined with bone (1) and not lined with bone (0). Toriño *et al.* (2021, char. 74) used "0" for lined with bone and "1" for not lined."
 
 > - The coding of *Qujingodus* is ?.
 
 180. Otic region: mainly ossified (0), mainly cartilaginous (1)
-> Clement *et al.* (in review), Character 180.
+> Clement *et al.* (2024), Character 180.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 0.
 
 181. Well-developed posterolateral otic process: absent (0), present (1)
-> Clement *et al.* (in review), Character 181.
+> Clement *et al.* (2024), Character 181.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is ?.
 
 182. Jugular process: absent (0), present (1)
-> Clement *et al.* (in review), Character 182.
+> Clement *et al.* (2024), Character 182.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 183. Accessory jugular processes: absent (0), present (1)
-> Clement *et al.* (in review), Character 183.
+> Clement *et al.* (2024), Character 183.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1571,11 +1571,11 @@
 > - The coding of *Qujingodus* is 0.
 
 185. Otico-occipital: not hypertrophied (0), hypertrophied (1). 
-> Clement *et al.* (in review), Character 185.
+> Clement *et al.* (2024), Character 185.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Cavin *et al.* (2017) mentioned that the condition of the otico-occipital in Foreyia was hypertrophied in comparison to the generalized coelacanth Bauplan. It is suggested that in Foreyia that the postparietal, supratemporal (or tabular) and extrascapulars are all fused together. Not only the otico-occipital part of the skull roof forms a single ossified component, but this component is larger than in other coelacanths."
+> - Clement *et al.* (2024): "Cavin *et al.* (2017) mentioned that the condition of the otico-occipital in Foreyia was hypertrophied in comparison to the generalized coelacanth Bauplan. It is suggested that in Foreyia that the postparietal, supratemporal (or tabular) and extrascapulars are all fused together. Not only the otico-occipital part of the skull roof forms a single ossified component, but this component is larger than in other coelacanths."
 
 > - The coding of *Qujingodus* is 0.
 
@@ -1591,7 +1591,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): " Forey (1998, char. 77) and subsequent analyses (up to Toriño *et al.* (2021, char. 80)) coded for the presence or absence of the vestibular fontanelle. Herein, we are redefining the vestibular fontanelle character in terms of its size. We considered a vestibular fontanelle to be large if it occupies 33% or more of the length of the otico-occipital region of the neurocranium; this condition is found in Macropoma precursor (Forey, 1998, fig. 6.10). A vestibular fontanelle is considered to be small if it occupies less than 25% of the length of the otico-occipital region of the neurocranium; this condition is seen in Laugia groenlandica (Forey, 1998, fig. 6.7)12 and Sassenia groenlandica (Forey, 1998, fig. 6.8)."
+> - Clement *et al.* (2024): " Forey (1998, char. 77) and subsequent analyses (up to Toriño *et al.* (2021, char. 80)) coded for the presence or absence of the vestibular fontanelle. Herein, we are redefining the vestibular fontanelle character in terms of its size. We considered a vestibular fontanelle to be large if it occupies 33% or more of the length of the otico-occipital region of the neurocranium; this condition is found in Macropoma precursor (Forey, 1998, fig. 6.10). A vestibular fontanelle is considered to be small if it occupies less than 25% of the length of the otico-occipital region of the neurocranium; this condition is seen in Laugia groenlandica (Forey, 1998, fig. 6.7)12 and Sassenia groenlandica (Forey, 1998, fig. 6.8)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1603,7 +1603,7 @@
 > - The coding of *Qujingodus* is ?.
 
 189. Prominent groove for the jugular vein on the prootic: present (0), absent (1)
-> Clement *et al.* (in review), Character 189.
+> Clement *et al.* (2024), Character 189.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1617,7 +1617,7 @@
 > - The coding of *Qujingodus* is ?.
 
 191. Prominent ridge on prootic: present (0), absent (1). A prominent ridge on the prootic is also present in tetrapodomorphs (e.g., Gogonasus).
-> Clement *et al.* (in review), Character 191.
+> Clement *et al.* (2024), Character 191.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1659,28 +1659,28 @@
 > - The coding of *Qujingodus* is ?.
 
 197. Hypophysial fossa: with anterior lobe (0), without anterior lobe (1)
-> Clement *et al.* (in review), Character 197.
+> Clement *et al.* (2024), Character 197.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 1.
 
 198. Endolymphatic ducts: open posteriorly (0), open dorsally (1)
-> Clement *et al.* (in review), Character 198.
+> Clement *et al.* (2024), Character 198.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is ?.
 
 199. Hyomandibular: ossified (0), cartilaginous (1)
-> Clement *et al.* (in review), Character 199.
+> Clement *et al.* (2024), Character 199.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 200. Hyomandibular, orientation of: almost horizontal (0), almost vertical (1)
-> Clement *et al.* (in review), Character 200.
+> Clement *et al.* (2024), Character 200.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1694,67 +1694,67 @@
 > - The coding of *Qujingodus* is ?.
 
 202. Ceratohyal, size of: short and stubby (0), long and narrow (1)
-> Clement *et al.* (in review), Character 202.
+> Clement *et al.* (2024), Character 202.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 203. Anterior end of urohyal: unifid (0), bifid (1). 
-> Clement *et al.* (in review), Character 203.
+> Clement *et al.* (2024), Character 203.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Romano *et al.* (2016) compared the evolutionary morphology of the urohyal among coelacanths. We based our two urohyal characters (characters 203 and 204) on the general trends reflected by this comparison (Romano *et al.*, 2006, fig. 9)."
+> - Clement *et al.* (2024): "Romano *et al.* (2016) compared the evolutionary morphology of the urohyal among coelacanths. We based our two urohyal characters (characters 203 and 204) on the general trends reflected by this comparison (Romano *et al.*, 2006, fig. 9)."
 
 > - The coding of *Qujingodus* is ?.
 
 204. Urohyal, shaft of: narrow (0), broad (1)
-> Clement *et al.* (in review), Character 204.
+> Clement *et al.* (2024), Character 204.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 205. Basibranchial anterior one, shape of: pointed lateral margins (0), parallel lateral margins (1)
-> Clement *et al.* (in review), Character 205.
+> Clement *et al.* (2024), Character 205.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 206. Basibranchial, number of: two (0), one (1)
-> Clement *et al.* (in review), Character 206.
+> Clement *et al.* (2024), Character 206.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 207. Ceratobranchials, shape of: straight to weakly curved (0), strongly curved (1)
-> Clement *et al.* (in review), Character 207.
+> Clement *et al.* (2024), Character 207.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 208. Ceratobranchials, shape of: expanded distally (0), same width along length (1), expanded proximally (2). (ordered)
-> Clement *et al.* (in review), Character 208.
+> Clement *et al.* (2024), Character 208.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The three character-states form a morphocline.“
+> - Clement *et al.* (2024): "The three character-states form a morphocline.“
 
 > - The coding of *Qujingodus* is ?.
 
 209. Epibranchials, shape of: elongate and rod like (0), short and flat (1)
-> Clement *et al.* (in review), Character 209.
+> Clement *et al.* (2024), Character 209.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 210. Anocleithrum: subdermal (0), dermal (1)
-> Clement *et al.* (in review), Character 210.
+> Clement *et al.* (2024), Character 210.
 
 > - Character 594 in 'early gnathostome phylogeny dataset', polarity. King *et al*. (2017), Character 446; Castiello (2018), Character 435; Zhu Y. *et al*. (2022), Character 600; Brazeau *et al*. (2023), Character 451.
 
@@ -1765,19 +1765,19 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 89) and subsequent analyses (up to Toriño *et al.* (2021, char. 89) used solely two shapes (simple (0) and forked (1)) to describe the disparity of the shape of the anocleithrum. We are defining the plesiomorphic shape as ovoid as could be observed in the outgroup *Onychodus jandemarrai* (Andrews *et al.*, 2006, figs. 5b, 21c-e) and *Miguashaia bureaui* (Cloutier, 1996, figs. 13A-B, 14C). Three apomorphic states are used to cover the disparity of anocleithral shape among coelacanths: sigmoid (1; e.g., *Allenypterus montanus*, *Hadronector donbairdi*), forked (2; e.g., *Caridosuctor populosum*), broad plate-like (3; e.g., *Rhabdoderma elegans*), and triangular (4; e.g., *Coccoderma suevicum*)."
+> - Clement *et al.* (2024): "Forey (1998, char. 89) and subsequent analyses (up to Toriño *et al.* (2021, char. 89) used solely two shapes (simple (0) and forked (1)) to describe the disparity of the shape of the anocleithrum. We are defining the plesiomorphic shape as ovoid as could be observed in the outgroup *Onychodus jandemarrai* (Andrews *et al.*, 2006, figs. 5b, 21c-e) and *Miguashaia bureaui* (Cloutier, 1996, figs. 13A-B, 14C). Three apomorphic states are used to cover the disparity of anocleithral shape among coelacanths: sigmoid (1; e.g., *Allenypterus montanus*, *Hadronector donbairdi*), forked (2; e.g., *Caridosuctor populosum*), broad plate-like (3; e.g., *Rhabdoderma elegans*), and triangular (4; e.g., *Coccoderma suevicum*)."
 
 > - The coding of *Qujingodus* is ?.
 
 212. Anocleithrum, position of: at dorsal end of cleithrum (0), at midpoint of cleithrum (1)
-> Clement *et al.* (in review), Character 212.
+> Clement *et al.* (2024), Character 212.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 213. Cleithrum: not covered anteriorly by operculum (0), covered anteriorly by operculum (1)
-> Clement *et al.* (in review), Character 213.
+> Clement *et al.* (2024), Character 213.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1796,7 +1796,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 215 is linked with character 216.“
+> - Clement *et al.* (2024): "Character 215 is linked with character 216.“
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1808,39 +1808,39 @@
 > - The coding of *Qujingodus* is ?.
 
 217. Extracleithrum: without anteroventral canal (0), with anteroventral canal (1). Character 217 is linked with character 216.
-> Clement *et al.* (in review), Character 217.
+> Clement *et al.* (2024), Character 217.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 218.Extracleithrum and clavicle, dorsal extent of: extracleithrum extends more dorsally than clavicle (0), extracleithrum and clavicle extend dorsally approximately at the same level (1), clavicle extends more dorsally than the extracleithrum (2).  (ordered)
-> Clement *et al.* (in review), Character 218.
+> Clement *et al.* (2024), Character 218.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "This character is not polarized based on out-group comparison because the out-groups do not have an extracleithrum. However, in basal actinistians both elements extend approximately at the same level (e.g., *Miguashaia bureaui*) or the clavicle extends slightly more dorsally than the extracleithrum (e.g., *Miguashaia grossi*). The three character-states form a morphocline. Character 218 is linked with character 216.“
+> - Clement *et al.* (2024): "This character is not polarized based on out-group comparison because the out-groups do not have an extracleithrum. However, in basal actinistians both elements extend approximately at the same level (e.g., *Miguashaia bureaui*) or the clavicle extends slightly more dorsally than the extracleithrum (e.g., *Miguashaia grossi*). The three character-states form a morphocline. Character 218 is linked with character 216.“
 
 > - The coding of *Qujingodus* is ?.
 
 219. Cleithrum and clavicle: not forming a prominent postbranchial lamina (0), forming a prominent postbranchial lamina (1)
-> Clement *et al.* (in review), Character 219.
+> Clement *et al.* (2024), Character 219.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 220. Clavicle: not hypertrophied (0), hypertrophied (1). 
-> Clement *et al.* (in review), Character 220.
+> Clement *et al.* (2024), Character 220.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The clavicle is considered to be hypertrophied to take into account the condition in *Foreyia maxkuhni* (Cavin *et al.*, 2017, figs. 1A-C, 2A-B). With the exception of the postparietal shield, the clavicle is the largest element in *Foreyia*; it is approximately twice the size of the operculum, and represents approximately a fourth of the size of the head."
+> - Clement *et al.* (2024): "The clavicle is considered to be hypertrophied to take into account the condition in *Foreyia maxkuhni* (Cavin *et al.*, 2017, figs. 1A-C, 2A-B). With the exception of the postparietal shield, the clavicle is the largest element in *Foreyia*; it is approximately twice the size of the operculum, and represents approximately a fourth of the size of the head."
 
 > - The coding of *Qujingodus* is ?.
 
 221. Facet posterior to glenoid: absent (0), present (1)
-> Clement *et al.* (in review), Character 221.
+> Clement *et al.* (2024), Character 221.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1851,7 +1851,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 99) described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., *Laugia*, *Coccoderma*, *Holophagus*, and *Libys*) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in *Libys* and *Holophagus*, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in *Laugia* and *Coccoderma*, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 222 takes into account solely the condition of the pectoral lepidotrichia."
+> - Clement *et al.* (2024): "Forey (1998, char. 99) described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., *Laugia*, *Coccoderma*, *Holophagus*, and *Libys*) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in *Libys* and *Holophagus*, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in *Laugia* and *Coccoderma*, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 222 takes into account solely the condition of the pectoral lepidotrichia."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1860,7 +1860,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 99) described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., *Laugia*, *Coccoderma*, *Holophagus*, and *Liby*s) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in *Libys* and *Holophagus*, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in *Laugia* and *Coccoderma*, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 223 takes into account solely the condition of the pelvic lepidotrichia."
+> - Clement *et al.* (2024): "Forey (1998, char. 99) described the paired fin lepidotrichia either as not expanded or expanded. Four actinistian genera (i.e., *Laugia*, *Coccoderma*, *Holophagus*, and *Liby*s) were coded as having expanded paired fin lepidotrichia. However, two different conditions are covered by the expression, expanded lepidotrichia: (1) in *Libys* and *Holophagus*, the pectoral lepidotrichia are broad and relatively longer than in comparative species and (2) in *Laugia* and *Coccoderma*, the pelvic lepidotrichia are disproportionately long. We are splitting the original expanded condition into two characters to reflect the disparity. Character 223 takes into account solely the condition of the pelvic lepidotrichia."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1869,7 +1869,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The three character-states form a morphocline. The order of character-states has been changed from the original description of the character (Cloutier, 1991a,b, char. 43; Forey, 1991, char. 51; Forey, 1998, char. 100).
+> - Clement *et al.* (2024): "The three character-states form a morphocline. The order of character-states has been changed from the original description of the character (Cloutier, 1991a,b, char. 43; Forey, 1991, char. 51; Forey, 1998, char. 100).
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1881,39 +1881,39 @@
 > - The coding of *Qujingodus* is ?.
 
 226. Anterior process(es) of pelvic plate: single (0), forked (1). 
-> Clement *et al.* (in review), Character 226.
+> Clement *et al.* (2024), Character 226.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Schaeffer (1941) revised morphology of the pelvic plates in seven coelacanth taxa. The morphology of the pelvic plate was described in terms of three components of the pelvic plates: the anterior division, the posterior division and the medial process. We considered that the "anterior division" is composed between one to three processes: the anteromedial, the anterolateral and the lateral processes. The "posterior division" includes the posterior process; occasionally the lateral process seems to be coalescent with the posterior process. The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes. If a single anterior process is present (e.g., *Changxingia*, *Libys*) it is assumed that it corresponds generally to the anteromedial process. The forked condition corresponds to the clear presence of an anterior bifurcation, most likely corresponding to the presence of both the anteromedial and anterolateral processes."
+> - Clement *et al.* (2024): "Schaeffer (1941) revised morphology of the pelvic plates in seven coelacanth taxa. The morphology of the pelvic plate was described in terms of three components of the pelvic plates: the anterior division, the posterior division and the medial process. We considered that the "anterior division" is composed between one to three processes: the anteromedial, the anterolateral and the lateral processes. The "posterior division" includes the posterior process; occasionally the lateral process seems to be coalescent with the posterior process. The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes. If a single anterior process is present (e.g., *Changxingia*, *Libys*) it is assumed that it corresponds generally to the anteromedial process. The forked condition corresponds to the clear presence of an anterior bifurcation, most likely corresponding to the presence of both the anteromedial and anterolateral processes."
 
 > - The coding of *Qujingodus* is ?.
 
 227. Anterior processes of pelvic plate relative, length of: anteromedial process longer than anterolateral process (0), anteromedial and anterolateral processes approximately the same length (1), anteromedial process shorter than anterolateral process (2). (ordered)
-> Clement *et al.* (in review), Character 227.
+> Clement *et al.* (2024), Character 227.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes; character 227 is linked with the forked condition of character 226. These processes correspond in part to the anterior division of the pelvic girdle mentioned by Schaeffer (1941). The three character-states are organized into a morphocline reflecting the relative length of the anteromedial and anterolateral processes."
+> - Clement *et al.* (2024): "The presence of the anterior processes of the pelvic girdle refers to the presence of the anteromedial and anterolateral processes; character 227 is linked with the forked condition of character 226. These processes correspond in part to the anterior division of the pelvic girdle mentioned by Schaeffer (1941). The three character-states are organized into a morphocline reflecting the relative length of the anteromedial and anterolateral processes."
 
 > - The coding of *Qujingodus* is ?.
 
 228. Medial process of pelvic plate: absent (or cartilaginous) (0), present (1)
-> Clement *et al.* (in review), Character 228.
+> Clement *et al.* (2024), Character 228.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 229. Lateral process of pelvic plate: absent (or cartilaginous) (0), present (1)
-> Clement *et al.* (in review), Character 229.
+> Clement *et al.* (2024), Character 229.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
 230. Posterior process of pelvic plate: absent or not clearly differentiated from the main corpus of the pelvic girdle or from the lateral process (0), clearly differentiated as a spatulated process from the main corpus of the pelvic girdle (1)
-> Clement *et al.* (in review), Character 230.
+> Clement *et al.* (2024), Character 230.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1938,7 +1938,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Schaeffer (1941) reported that in most coelacanth genera the basal plate of the first dorsal fin is triangular with the apex directed anteriorly."
+> - Clement *et al.* (2024): "Schaeffer (1941) reported that in most coelacanth genera the basal plate of the first dorsal fin is triangular with the apex directed anteriorly."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1950,11 +1950,11 @@
 > - The coding of *Qujingodus* is ?.
 
 235. D1 lepidotrichia: same width as the lepidotrichia of the second dorsal and anal fins (0), substantially stouter than the second dorsal and anal fins (1).
-> Clement *et al.* (in review), Character 235.
+> Clement *et al.* (2024), Character 235.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "We considered a lepidotrichia to be substantially stouter when it is from two to three times broader than the lepidotrichia of the second dorsal and anal fins. Occasionally the caudal lepidotrichia could also be as stout as those of the first dorsal fin. This condition is clearly visible in *Undina penicillata* (see Arratia *et al.*, 2001, fig. 31), *Whiteia oishii* (Yabumoto & Brito, 2016, fig. 2b), *Ticinepomis peyeri* (Cavin *et al.*, 2013, fig. 4)."
+> - Clement *et al.* (2024): "We considered a lepidotrichia to be substantially stouter when it is from two to three times broader than the lepidotrichia of the second dorsal and anal fins. Occasionally the caudal lepidotrichia could also be as stout as those of the first dorsal fin. This condition is clearly visible in *Undina penicillata* (see Arratia *et al.*, 2001, fig. 31), *Whiteia oishii* (Yabumoto & Brito, 2016, fig. 2b), *Ticinepomis peyeri* (Cavin *et al.*, 2013, fig. 4)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1977,25 +1977,25 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 238 is linked with character 237."
+> - Clement *et al.* (2024): "Character 238 is linked with character 237."
 
 > - The coding of *Qujingodus* is ?.
 
 239. Anterodorsal process of D2 basal plate: narrow on all the length of the process (0), expanded by a dorsal flange on most of the length of the process (1).
-> Clement *et al.* (in review), Character 239.
+> Clement *et al.* (2024), Character 239.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 239 is linked with character 238."
+> - Clement *et al.* (2024): "Character 239 is linked with character 238."
 
 > - The coding of *Qujingodus* is ?.
 
 240. Anterodorsal process of D2 basal plate, relative size of: short and stubbier than the anteroventral process of D2 basal plate (0), similar in length and height to anteroventral process of D2 basal plate (1), longer than anteroventral process of D2 basal plate (2). (ordered) 
-> Clement *et al.* (in review), Character 240.
+> Clement *et al.* (2024), Character 240.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The three character-states form a morphocline in terms of the relative size of the anterodorsal and anteroventral processes of the D2 basal plate. Character 240 is linked with characters 237 and 238."
+> - Clement *et al.* (2024): "The three character-states form a morphocline in terms of the relative size of the anterodorsal and anteroventral processes of the D2 basal plate. Character 240 is linked with characters 237 and 238."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -2021,7 +2021,7 @@
 > - The coding of *Qujingodus* is ?.
 
 244. Anal fin basal plate: lacking processes (0), with processes (1)
-> Clement *et al.* (in review), Character 244.
+> Clement *et al.* (2024), Character 244.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -2056,11 +2056,11 @@
 > - The coding of *Qujingodus* is ?.
 
 249. Epichordal and hypochordal lobes of caudal fin: convex (0), concave (1), pointed (2). 
-> Clement *et al.* (in review), Character 249.
+> Clement *et al.* (2024), Character 249.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The convex, concave and pointed conditions only apply to the diphycercal and triphycercal conditions of character 248. The posterior profile of the caudal fin of actinistians varies among taxa. Three character-states are defined based on the curvature provided by the distal extremities of epichordal and hypochordal lepidotrichia of the caudal fin excluding the supplementary lobe. The caudal fin could either be convex (i.e., rounded curvature outward; e.g., *Latimeria*, *Caridosuctor*, *Diplurus*), concave (i.e., rounded curvature inward; e.g., *Rebellatrix*) or pointed (e.g., *Allenypterus*, *Holopterygius*). This character does not apply for actinistians having an heterocercal caudal fin (e.g., *Miguashaia*, *Gavinia*). Character 249 is linked to character 248.
+> - Clement *et al.* (2024): "The convex, concave and pointed conditions only apply to the diphycercal and triphycercal conditions of character 248. The posterior profile of the caudal fin of actinistians varies among taxa. Three character-states are defined based on the curvature provided by the distal extremities of epichordal and hypochordal lepidotrichia of the caudal fin excluding the supplementary lobe. The caudal fin could either be convex (i.e., rounded curvature outward; e.g., *Latimeria*, *Caridosuctor*, *Diplurus*), concave (i.e., rounded curvature inward; e.g., *Rebellatrix*) or pointed (e.g., *Allenypterus*, *Holopterygius*). This character does not apply for actinistians having an heterocercal caudal fin (e.g., *Miguashaia*, *Gavinia*). Character 249 is linked to character 248.
 
 > - The coding of *Qujingodus* is ?.
 
@@ -2069,12 +2069,12 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The distinction between symmetrical and asymmetrical dorsal and ventral lobes of the caudal fin was not clarified by Forey (1998, char. 97). Generally, the ventral lobe bears 1 or 2 lepidotrichia less than the dorsal lobe. We considered a condition with a difference of up to two lepidotrichia as symmetrical."
+> - Clement *et al.* (2024): "The distinction between symmetrical and asymmetrical dorsal and ventral lobes of the caudal fin was not clarified by Forey (1998, char. 97). Generally, the ventral lobe bears 1 or 2 lepidotrichia less than the dorsal lobe. We considered a condition with a difference of up to two lepidotrichia as symmetrical."
 
 > - The coding of *Qujingodus* is ?.
 
 251. Epichordal lobe of caudal fin: starting posterior to mid-total length (0), starting anterior to mid-total length (1)
-> Clement *et al.* (in review), Character 251.
+> Clement *et al.* (2024), Character 251.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -2085,12 +2085,12 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Character 252 is linked with the triphycercal condition of Character 248." 
+> - Clement *et al.* (2024): "Character 252 is linked with the triphycercal condition of Character 248." 
 
 > - The coding of *Qujingodus* is ?.
 
 253. Caudal fin lepidotrichia: without denticules (0), with denticules (1).
-> Clement *et al.* (in review), Character 253.
+> Clement *et al.* (2024), Character 253.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -2115,12 +2115,12 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "The interlocking articulation pattern of lepidotrichial segments has been originally described for *Miguashaia bureaui* by Cloutier (1996, fig. 16)."
+> - Clement *et al.* (2024): "The interlocking articulation pattern of lepidotrichial segments has been originally described for *Miguashaia bureaui* by Cloutier (1996, fig. 16)."
 
 > - The coding of *Qujingodus* is ?.
 
 257. Vertebrae, alignment of: linear above abdominal cavity (0), strongly arched above abdominal cavity (1).
-> Clement *et al.* (in review), Character 257.
+> Clement *et al.* (2024), Character 257.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -2131,12 +2131,12 @@
 
 > - Characters 657 and 658 in 'early gnathostome phylogeny dataset' are relative to this character.
 
-> - Clement *et al.* (in review): "According to Arratia *et al.* (2001), 'supraneurals' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia *et al.* (2001) illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia *et al.*, 2001, fig. 30) and Undina penicillata (Arratia *et al.*, 2001, fig. 31). They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125) considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline."
+> - Clement *et al.* (2024): "According to Arratia *et al.* (2001), 'supraneurals' are independent, median, elongate, rod-like bones that articulate proximally with the neural spine and distally with the dorsal radial [...], or lack articulation distally with another bone [...]." Arratia *et al.* (2001) illustrated ‘supraneurals’ located distally to the neural spines found anteriorly to the insertion of the epichordal lobe of the caudal fin in Diplurus (Arratia *et al.*, 2001, fig. 30) and Undina penicillata (Arratia *et al.*, 2001, fig. 31). They mentioned that the caudal fin of Laugia, Diplurus, and Holophagus (likely Undina), among others, begins with two or three ‘supraneurals’. Friedman (2007, char. 125) considered the presence of supraneural spines (herein referred to as ''supraneurals'') for the thoracic and abdominal vertebrae [Char. 125(0)] or the absence of such elements or its presence only at the anterior end of the vertebral column [Char. 125(1)]. Herein, we considered the presence or absence of supraneural associated to the vertebrae located anteriorly to the insertion of the caudal fin. Three character-states are recognized: presence of ‘supraneurals’ along most of the abdominal-thoracic region of the axial skeleton (0), presence of ‘supraneurals’ limited to 1-5 vertebrae located anterior to the insertion of the epichordal lobe of the caudal fin (1), and absence of ‘supraneurals’ anteriorly to the insertion of the epichordal lobe of the caudal fin (3). The three character-states form a morphocline."
 
 > - The coding of *Qujingodus* is ?.
 
 259. Neural spines: abutting one another (0), not abutting (1).
-> Clement *et al.* (in review), Character 259.
+> Clement *et al.* (2024), Character 259.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -2154,7 +2154,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 90) considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in *Miguashaia* and *Diplocercides*; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines."
+> - Clement *et al.* (2024): "Forey (1998, char. 90) considered that the plesiomorphic condition was when the posterior neural and haemal spines were abutting with each other as seen in *Miguashaia* and *Diplocercides*; polarized based on the porolepiform condition. It is clearer to mention that the contact between adjacent neural and haemal spines is on the totality of their length. This clarification is given because adjacent spines could abut proximally just dorsal to the arches. In species for which the haemal and neural spines are abutting, the spines are broad on most of their length and the extremities are less club-shaped the remaining actinistian species. We redefined the character to take into account solely the haemal spines because character 259 takes into account the condition of the neural spines."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -2163,7 +2163,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Lambers (1992) mentioned that the presence of pleural ribs is rare in coelacanths. Since 1992, a few species with anatomical structures identified as ossified ribs are fairly common. Cloutier (1991b, char. 69) coded for the presence of pleural ribs, whereas Forey (1991, char. 52) coded for the presence of "long, ossified ribs". Lambers (1992, p. 43) suggested that this character should be coded as three character-states: absence of ossified ribs (0), presence of small, rudimentary ribs (1; as in Libys and Undina) and large ossified ribs (2; as in *Diplurus*)."
+> - Clement *et al.* (2024): "Lambers (1992) mentioned that the presence of pleural ribs is rare in coelacanths. Since 1992, a few species with anatomical structures identified as ossified ribs are fairly common. Cloutier (1991b, char. 69) coded for the presence of pleural ribs, whereas Forey (1991, char. 52) coded for the presence of "long, ossified ribs". Lambers (1992, p. 43) suggested that this character should be coded as three character-states: absence of ossified ribs (0), presence of small, rudimentary ribs (1; as in Libys and Undina) and large ossified ribs (2; as in *Diplurus*)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -2172,7 +2172,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1991, char. 54) first defined this character. He mentioned that the plesiomorphic condition corresponds to a scale with a dense covering of uniform tubercles and/or ridges. The apomorphic condition (i.e., differentiated) as originally defined, corresponds to a scale where “the central tubercles are very much enlarged, hollow and surrounded by much smaller tubercles.” Mondéjar-Fernàndez *et al.* (2021) reviewed scale ornament for all coelacanth species."
+> - Clement *et al.* (2024): "Forey (1991, char. 54) first defined this character. He mentioned that the plesiomorphic condition corresponds to a scale with a dense covering of uniform tubercles and/or ridges. The apomorphic condition (i.e., differentiated) as originally defined, corresponds to a scale where “the central tubercles are very much enlarged, hollow and surrounded by much smaller tubercles.” Mondéjar-Fernàndez *et al.* (2021) reviewed scale ornament for all coelacanth species."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -2181,16 +2181,16 @@
 
 > - **Characters 687 and 689 in 'early gnathostome phylogeny dataset' are relative to this character.**
 
-> - Clement *et al.* (in review): "Forey (1998, char. 106) defined two character-states to take into account the condition of scale ornament: ridges or tubercles (0) and rugose (1). Since most of the disparity among coelacanths comes from the presence or absence of ridges and tubercles, we used three character-states to describe these conditions. Only three taxa were coded as having rugose ornament (i.e., *Mawsonia*, *Axelrodichthys*, and *Guizhoucoelacanthus*) by Toriño *et al.* (2021, char. 106). Mondéjar-Fernàndez *et al.* (2021, table 1) summarized the type of ornament on the exposed area of the external surface of the scales for numerous coelacanth species."
+> - Clement *et al.* (2024): "Forey (1998, char. 106) defined two character-states to take into account the condition of scale ornament: ridges or tubercles (0) and rugose (1). Since most of the disparity among coelacanths comes from the presence or absence of ridges and tubercles, we used three character-states to describe these conditions. Only three taxa were coded as having rugose ornament (i.e., *Mawsonia*, *Axelrodichthys*, and *Guizhoucoelacanthus*) by Toriño *et al.* (2021, char. 106). Mondéjar-Fernàndez *et al.* (2021, table 1) summarized the type of ornament on the exposed area of the external surface of the scales for numerous coelacanth species."
 
 > - The coding of *Qujingodus* is ?.
 
 265. Scale inner surface: without bumps (0), with bumps (1). 
-> Clement *et al.* (in review), Character 265.
+> Clement *et al.* (2024), Character 265.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Cloutier (1996, fig. 17D) and Mondéjar-Fernàndez *et al.* (2021, fig. 2) figured and described the presence of small circular bumps on the inner surface of the scales of *Miguashaia bureaui*."
+> - Clement *et al.* (2024): "Cloutier (1996, fig. 17D) and Mondéjar-Fernàndez *et al.* (2021, fig. 2) figured and described the presence of small circular bumps on the inner surface of the scales of *Miguashaia bureaui*."
 
 > - The coding of *Qujingodus* is 1.
 
@@ -2207,7 +2207,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Friedman & Coates (2006, char. 109) used the absence or presence of ventral keel scales. They coded the presence of ventral keel scales in *Allenypterus* and *Holopterygius*; a polymorphic state was coded for the actinopterygian out-group."
+> - Clement *et al.* (2024): "Friedman & Coates (2006, char. 109) used the absence or presence of ventral keel scales. They coded the presence of ventral keel scales in *Allenypterus* and *Holopterygius*; a polymorphic state was coded for the actinopterygian out-group."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -2216,7 +2216,7 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (in review): "Forey (1998, char. 107) referred to the condition of the swimbladder rather than the condition of the lung (Cavin *et al.*, 2019, char. 46). Brito *et al.* (2010) and Cupello *et al.* (2017) investigated the structure identified as the calcified lungs in actinistians and more specifically that of *Axelrodichthys*. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of *Latimeria* also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)."
+> - Clement *et al.* (2024): "Forey (1998, char. 107) referred to the condition of the swimbladder rather than the condition of the lung (Cavin *et al.*, 2019, char. 46). Brito *et al.* (2010) and Cupello *et al.* (2017) investigated the structure identified as the calcified lungs in actinistians and more specifically that of *Axelrodichthys*. These structures have been identified in the literature also as ossified bladders. The ossified organ is located in a ventral position relative to the gut. One as to be aware that the outer wall of the spiral intestine and stomach of *Latimeria* also shows a higher density than surrounding tissues in CT-scan (Schultze & Cloutier, 1991)."
 
 > - The coding of *Qujingodus* is ?.
 
@@ -3616,64 +3616,64 @@
 The list of 14 meristic characters provides the reference to character numbers used in previous publications: Ca, Cloutier (1991a), Cb, Cloutier (1991b), Fa, Forey (1991), Fb, Forey (1998), C, Clément (2005), F&C, Friedman & Coates (2006), Y, Yabumoto (2008), G, Geng et al. (2009), W, Wendruff (2011), W&W, Wendruff & Wilson (2012), Da, Dutel et al. (2012), Z, Zhu et al. (2012), GR, Graf (2012), WE, Wen et al. (2013), CAa, Cavin et al. (2013), C&G, Cavin & Grădinaru (2014), A&S, Arratia & Schultze (2015), G&C, Gess & Coates (2015), Db, Dutel et al. (2015), CAb, Cavin et al. (2017), R&S, Renesto & Stockar (2018), CAc, Cavin et al. (2019), CAd, Cavin et al. (2020), T, Toriño et al. (2021).
 
 569. Number of premaxillae.
-> [Ca4 in part, Cb4 in part, Fb4 in part, C4 in part, F&C4 in part, Y4 in part, G4 in part, W4 in part, W&W4 in part, Da4 in part, Z4 in part, GR4 in part, WE4 in part, CAa4 in part, C&G4 in part, A&S4 in part, G&C4 in part, Db4 in part, CAb4 in part, R&S4 in part, CAc4 in part, CAd4 in part, T4 in part]Clement *et al.* (in review), merestic character 1.
+> [Ca4 in part, Cb4 in part, Fb4 in part, C4 in part, F&C4 in part, Y4 in part, G4 in part, W4 in part, W&W4 in part, Da4 in part, Z4 in part, GR4 in part, WE4 in part, CAa4 in part, C&G4 in part, A&S4 in part, G&C4 in part, Db4 in part, CAb4 in part, R&S4 in part, CAc4 in part, CAd4 in part, T4 in part]Clement *et al.* (2024), merestic character 1.
 
 > - This character is linked with Character 8 herein. Potentially Redundant.
 
 570. Number of extrascapulars.
->  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (in review), merestic character 2.
+>  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (2024), merestic character 2.
 
 > - Cloutier (1991b): 0 = three extrascapulars; 1 = five extrascapulars; 2 = seven extrascapulars (Forey 1981; his Character 18); 3 = more than seven extrascapulars.
 > - Cloutier (1991b): 0 = three extrascapulars; 1 = five extrascapulars; 2 = seven extrascapulars (Forey 1981; his Character 18); 3 = more than seven extrascapulars; 4 = two extrascapulars; 5 = four extrascapulars.
 > - States 4 and 5 in Cloutier (1991b) are linked to character 52 herein.
 
 571. Number of supraorbitals.
-> [Fa14 in part, Fb9 in part, C9 in part, F&C9 in part, Y9 in part, G9 in part, W9 in part, W&W9 in part, Da9 in part, Z9 in part, GR9 in part, WE9 in part, CAa9 in part, C&G9 in part, A&S9 in part, G&C9 in part, Db9 in part, CAb9 in part, R&S9 in part, CAc6 in part, Cad6 in part, T9 in part]Clement *et al.* (in review), merestic character 3.
+> [Fa14 in part, Fb9 in part, C9 in part, F&C9 in part, Y9 in part, G9 in part, W9 in part, W&W9 in part, Da9 in part, Z9 in part, GR9 in part, WE9 in part, CAa9 in part, C&G9 in part, A&S9 in part, G&C9 in part, Db9 in part, CAb9 in part, R&S9 in part, CAc6 in part, Cad6 in part, T9 in part]Clement *et al.* (2024), merestic character 3.
 
 > - Forey (1998): Number of supraorbitals or tectals; fewer than eight (0), more than 10 (1).
 
 572. Number of preparietals per row.
->  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part] Clement *et al.* (in review), merestic character 4.
+>  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part] Clement *et al.* (2024), merestic character 4.
 > - Note typo errors above (copied from merestic character 2).
 
 > - Cloutier (1991a, 1991b): Character 8, Preparietals, number: 0 = more than five preparietals per row; 1= two preparietals per row; 2 = three preparietals per row; 3 = four preparietals per row; 4 = five preparietals per row; 5 = one preparietal per row.
 
 573. Number of anterior coronoids.
-> [Fb55, C55, F&C55 modified, Y55, G55, W55, W&W55, Da55 modified, Z55 modified, GR55 modified, WE55 modified, CAa55, C&G55 modified, A&S55 modified, G&C55 modified, Db55 modified, CAb55 modified, R&S55 modified, T17 modified]Clement *et al.* (in review), merestic character 5.
+> [Fb55, C55, F&C55 modified, Y55, G55, W55, W&W55, Da55 modified, Z55 modified, GR55 modified, WE55 modified, CAa55, C&G55 modified, A&S55 modified, G&C55 modified, Db55 modified, CAb55 modified, R&S55 modified, T17 modified]Clement *et al.* (2024), merestic character 5.
 
 > - Friedman and Coates (2006), Zhu et al. (2012): Character 55, Number of coronoids at anterior end of jaw: zero (0), one (1), two (2), three (3), four (4).
 > - Forey (1998), Clément (2005), Character 55 is a different character. Meckelian bone or cartilage exposed anteriorly (0), not exposed (1).
 
 574. Number of neural arches.
-> Clement *et al.* (in review), merestic character 6.
+> Clement *et al.* (2024), merestic character 6.
 
 575. Number of pectoral fin lepidotrichia.
-> Cloutier (1991b), character 70, in part; Clement *et al.* (in review), merestic character 7.
+> Cloutier (1991b), character 70, in part; Clement *et al.* (2024), merestic character 7.
 
 > - Cloutier (1991b), character 70. Number of lepidotrichia on pectoral fin: 0 = fifty or more lepidotrichia; 1 = between 30 and 49 lepidotrichia; 2 = between 20 and 29 lepidotrichia; 3 = between ten and 19 lepidotrichia; 4 = less than ten lepidotrichia.
 
 576. Number of pelvic fin lepidotrichia.
-> Clement *et al.* (in review), merestic character 8.
+> Clement *et al.* (2024), merestic character 8.
 
 577. Number of D1 fin lepidotrichia.
-> [Ca44 in part, Cb44 in part, Fb96 in part, C96 in part, F&C96 in part, Y96 in part, G96 in part, W96 in part, W&W96 in part, Da96 in part, Z96 in part, GR96 in part, WE96 in part, CAa96 in part, C&G96 in part, A&S96 in part, G&C96 in part, Db96 in part, CAb96 in part, R&S96 in part, CAc42, Cad42, T96 in part]Clement *et al.* (in review), merestic character 9.
+> [Ca44 in part, Cb44 in part, Fb96 in part, C96 in part, F&C96 in part, Y96 in part, G96 in part, W96 in part, W&W96 in part, Da96 in part, Z96 in part, GR96 in part, WE96 in part, CAa96 in part, C&G96 in part, A&S96 in part, G&C96 in part, Db96 in part, CAb96 in part, R&S96 in part, CAc42, Cad42, T96 in part]Clement *et al.* (2024), merestic character 9.
 
 578. Number of D2 fin lepidotrichia.
-> Cloutier (1991b), character 74, in part; Clement *et al.* (in review), merestic character 10.
+> Cloutier (1991b), character 74, in part; Clement *et al.* (2024), merestic character 10.
 
 > - Cloutier (1991b), character 74. Number of lepidotrichia on second dorsal fin: 0 = more than 25 lepidotrichia; 1 = between 20 and 25 lepidotrichia; 2 = between 15 and 19 lepidotrichia; 3 = between ten and 14 lepidotrichia; 4 = less than ten lepidotrichia.
 
 579. Number of anal fin lepidotrichia.
-> Clement *et al.* (in review), merestic character 11.
+> Clement *et al.* (2024), merestic character 11.
 
 580. Number of lepidotrichia in epichordal lobe of caudal fin.
-> Clement *et al.* (in review), merestic character 12.
+> Clement *et al.* (2024), merestic character 12.
 
 581. Number of triphycercal fin rays.
-> Clement *et al.* (in review), merestic character 13.
+> Clement *et al.* (2024), merestic character 13.
 
 582. Number of scale rows from D1 to lateral line.
-> Clement *et al.* (in review), merestic character 14.
+> Clement *et al.* (2024), merestic character 14.
 
 ## charaters 601-640 are continuous characters from Clement et al. in review. A total of 88 landmarks are used to define 59 linear measurements to evaluate 40 continuous (morphometric) variables.
 601. Total length (Body size): [landmak 1, landmark 2]
@@ -3998,3 +3998,4 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
