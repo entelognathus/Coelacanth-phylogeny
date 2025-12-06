@@ -6,13 +6,13 @@
 
 ## Skeletal tissues
 ### 1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
-> Forey (1998), character 2; Friedman & Coates (2006),  character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
+> Forey (1998), character 2; Friedman & Coates (2006), character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
 > - Character XX in 'early gnathostome phylogeny dataset'.
 > - Clement *et al.* (2024): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin *et al*. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones." Clement *et al.* (2024) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[liunordered]'. Alternatively, this character can be splited into two characters: condition of snout bones (separate from one another vs consolidated); condition of consolidated snout bones (edentulous vs toothed).
 >> - The coding of *Qujingodus* is 1.
 
 ### 2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
-> Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part; Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
+> Cloutier (1991a), character 6, in part; Cloutier (1991b), character 6, in part; Zhu *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
 > - Character 166 in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (2024) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[unordered]'.
 > - The coding of *Qujingodus* is 2.
@@ -69,7 +69,7 @@
 
 > - Clement *et al.* (2024): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
-> - Clement *et al.* (2024) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered.  
+> - Clement *et al.* (2024) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered. 
 
 > - The coding of *Qujingodus* is 1.
 
@@ -117,7 +117,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 14. Median rostral: without teeth (0), with teeth (1). 
-> Friedman (2007), Character 3; Lu & Zhu (2009), Character 3; Zhu  *et al*. (2009, Character 75), and references therein; Zhu *et al*. (2013), Character 199; Choo *et al*. (2017), Character 203; King *et al*. (2017), Character 346; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 264; Brazeau *et al*. (2023), Character 351.
+> Friedman (2007), Character 3; Lu & Zhu (2009), Character 3; Zhu *et al*. (2009, Character 75), and references therein; Zhu *et al*. (2013), Character 199; Choo *et al*. (2017), Character 203; King *et al*. (2017), Character 346; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 264; Brazeau *et al*. (2023), Character 351.
 
 > - Character 260 in 'early gnathostome phylogeny dataset'. 
 
@@ -144,7 +144,7 @@
 > - The coding of *Qujingodus* is -.
 
 ### 17. Supraorbital canal, course of: straight (0), lyre shaped (1).
-> Friedman (2007), Character 31; Zhu  *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
+> Friedman (2007), Character 31; Zhu *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296.
 
 > - Character 173 in 'early gnathostome phylogeny dataset'. 
 
@@ -169,14 +169,14 @@
 > - The coding of *Qujingodus* is 2.
 
 ### 20. Lateral bones alongside postparietal, number of: one (0), two or more (1)
-> Friedman (2007), Character 8; Zhu  *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Lu et al. (2016), character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Clement et al. (2018), character 47; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
+> Friedman (2007), Character 8; Zhu *et al*. (2009, Character 27), and references therein; Zhu *et al*. (2013), Character 161; Giles *et al*. (2015), Character 48; Lu et al. (2016), character 48; Choo *et al*. (2017), Character 143; King *et al*. (2017), Character 172; Clement et al. (2018), character 47; Castiello (2018), Character 170; Zhu Y. *et al*. (2021), Character 46; Zhu Y. *et al*. (2022), Character 152; Brazeau *et al*. (2023), Character 176.
 > Lu *et al.* (2016), character 48, three states (two, one, more than two); Clement et al. (2018), character 47, three states .
 > - Character 149 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is 1.
 
 ### 21. Intertemporal: absent (0), present (1)
-> Cloutier (1991a), Cloutier (1991a), Character 17; Forey (1991), Character 15;  Forey (1998), Clément (2005), Friedman & Coates (2006), Character 12; Friedman (2007), Character 17; Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 12.
+> Cloutier (1991a), Cloutier (1991a), Character 17; Forey (1991), Character 15; Forey (1998), Clément (2005), Friedman & Coates (2006), Character 12; Friedman (2007), Character 17; Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 12.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -199,7 +199,7 @@
 > - The coding of *Qujingodus* is 1.
 
 ### 24. Tabular descending process: absent (0), present (1).
->  Cloutier (1991a), Cloutier (1991b), Character 19; Forey (1991), Character 17,homology; Forey (1998), rephrased, Clément (2005), rephrased, Friedman & Coates (2006), rephrased, Yabumoto (2008), rephrased, Geng *et al.* (2009), rephrased, Wendruff & Wilson (2012), rephrased, Dutel *et al.* (2012), rephrased, Zhu *et al.* (2012), rephrased, Graf (2012), rephrased, Wen *et al.* (2013), rephrased, Cavin *et al.* (2013), rephrased, Cavin & Grădinaru (2014), rephrased, Arratia & Schultze (2015), rephrased, Gess & Coates (2015), rephrased, Dutel *et al.* (2015), rephrased, Cavin *et al.* (2017), rephrased, Renesto & Stockar (2018), rephrased, Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), rephrased, Character 14.
+> Cloutier (1991a), Cloutier (1991b), Character 19; Forey (1991), Character 17,homology; Forey (1998), rephrased, Clément (2005), rephrased, Friedman & Coates (2006), rephrased, Yabumoto (2008), rephrased, Geng *et al.* (2009), rephrased, Wendruff & Wilson (2012), rephrased, Dutel *et al.* (2012), rephrased, Zhu *et al.* (2012), rephrased, Graf (2012), rephrased, Wen *et al.* (2013), rephrased, Cavin *et al.* (2013), rephrased, Cavin & Grădinaru (2014), rephrased, Arratia & Schultze (2015), rephrased, Gess & Coates (2015), rephrased, Dutel *et al.* (2015), rephrased, Cavin *et al.* (2017), rephrased, Renesto & Stockar (2018), rephrased, Cavin et al. (2019), Cavin et al. (2020), Toriño *et al.* (2021), rephrased, Character 14.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -208,14 +208,14 @@
 > - The coding of *Qujingodus* is 0.
 
 ### 25. Otic canal: running through skull roof (0), following edge of skull roof (1)
->  Zhu  *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300; Clement *et al.* (2024), Character 25.
+> Zhu *et al*. (2009, Character 114), and references therein; Zhu *et al*. (2013), Character 192; Choo *et al*. (2017), Character 197; King *et al*. (2017), Character 295; Castiello (2018), Character 286; Zhu Y. *et al*. (2022), Character 183; Brazeau *et al*. (2023), Character 300; Clement *et al.* (2024), Character 25.
 
 > - Character 179 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is 0.
 
-### 26. Otic canal, trajectory of: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2). (ordered)    
-> Cloutier (1991a), Cloutier (1991b), Character 20;Cloutier & Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37; Zhu & Yu (2002), Character 37; Friedman (2007), Character 40;  Lu & Zhu (2009), Character 30, in part; Giles *et al*. (2015), Character 47; Lu *et al.* (2016), character 47; Choo *et al*. (2017), Character 273; King *et al*. (2017), Character 303; Clement et al. (2018), character 46; Castiello (2018), Character 294; Zhu Y. *et al*. (2022), Character 184; Brazeau *et al*. (2023), Character 308.
+### 26. Otic canal, trajectory of: running through the lateral series of bones (tabular and/or supratemporal and/or intertemporal) (0), running between postparietal and lateral series of bones (tabular and supratemporal and/or intertemporal) (1), running through tabular and postparietal (2). (ordered) 
+> Cloutier (1991a), Cloutier (1991b), Character 20;Cloutier & Ahlberg (1996), Character 101; Zhu & Schultze (2001), Character 47; Zhu & Yu (2001), Character 37; Zhu & Yu (2002), Character 37; Friedman (2007), Character 40; Lu & Zhu (2009), Character 30, in part; Giles *et al*. (2015), Character 47; Lu *et al.* (2016), character 47; Choo *et al*. (2017), Character 273; King *et al*. (2017), Character 303; Clement et al. (2018), character 46; Castiello (2018), Character 294; Zhu Y. *et al*. (2022), Character 184; Brazeau *et al*. (2023), Character 308.
 > Lu *et al.* (2016), character 47; Clement et al. (2018), character 46.
 > - Character 180 in 'early gnathostome phylogeny dataset', Rephrased. 
 
@@ -224,7 +224,7 @@
 > - The coding of *Qujingodus* is 0.
 
 ### 27. Medial branch of otic canal: absent (0), present (1)
-> Cloutier (1991a), Cloutier (1991b), Character 16; Forey (1991), Character 37; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Character 20; Lu & Zhu (2009), Character 30, in part;  Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 20.
+> Cloutier (1991a), Cloutier (1991b), Character 16; Forey (1991), Character 37; Forey (1998), Clément (2005), Friedman & Coates (2006),Yabumoto (2008), Geng et al. (2009), Character 20; Lu & Zhu (2009), Character 30, in part; Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 20.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -286,7 +286,7 @@
 > - The coding of *Qujingodus* is 0.
 
 ### 35. Anterior margin of parietals: between or in front of orbits (0), slightly posterior to orbits (1)
->  Friedman (2007), Character 13; Lu & Zhu (2009), Character 1.
+> Friedman (2007), Character 13; Lu & Zhu (2009), Character 1.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -370,7 +370,7 @@
 > - The coding of *Qujingodus* is 1.
 
 ### 45. Anterior pit line, position of: on postparietal (0), on parietal (1). 
-> Friedman (2007), Character 36; Zhu  *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Lu *et al.* (2016), character 34; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Clement et al. (2018), character 34; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
+> Friedman (2007), Character 36; Zhu *et al*. (2009, Character 106), and references therein; Zhu *et al*. (2013), Character 184; Lu *et al.* (2016), character 34; Choo *et al*. (2017), Character 189; King *et al*. (2017), Character 287; Clement et al. (2018), character 34; Castiello (2018), Character 279; Zhu Y. *et al*. (2022), Character 164; Brazeau *et al*. (2023), Character 292.
 > Lu *et al.* (2016), character 240; Clement et al. (2018), character 238.
 > - Character 160 in 'early gnathostome phylogeny dataset'. 
 
@@ -389,7 +389,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 47. Middle and posterior pit lines, position of: within posterior half of postparietals (0), within anterior third of postparietals (1). 
-> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Lu & Zhu (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 25. Zhu  *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293.
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Lu & Zhu (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 25. Zhu *et al*. (2009, Character 107), and references therein; Zhu *et al*. (2013), Character 185; Choo *et al*. (2017), Character 190; King *et al*. (2017), Character 288; Castiello (2018), Character 280; Zhu Y. *et al*. (2022), Character 165; Brazeau *et al*. (2023), Character 293.
 
 > - Character 161 in 'early gnathostome phylogeny dataset', Rephrased. 
 
@@ -400,7 +400,7 @@
 ### 48. Complete fusion of postparietal shield: no (0), yes (1)
 > Clement *et al.* (2024), Character 48.
 
-> - Character 138 in 'early gnathostome phylogeny dataset', in part. Clement *et al*. (2018), Character 278; Zhu Y. *et al*. (2022), Character 140.  
+> - Character 138 in 'early gnathostome phylogeny dataset', in part. Clement *et al*. (2018), Character 278; Zhu Y. *et al*. (2022), Character 140. 
 
 > - The coding of *Qujingodus* is 0.
 
@@ -437,7 +437,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-### 53. Lateral extrascapulars, size of: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2).  (ordered)
+### 53. Lateral extrascapulars, size of: less than the width of median extrascapular (0), approximately the same width as median extrascapular (1), more than the width of median extrascapular (2). (ordered)
 > Clement *et al.* (2024), Character 53.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -497,7 +497,7 @@
 
 > - > - The coding of *Qujingodus* is ?.
 
-60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2).  (ordered)
+60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). (ordered)
 > Clement *et al.* (2024), Character 60.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -807,14 +807,14 @@
 96. Ventral margin of maxilla: straight (0), curved (1).
 > Lu & Zhu (2009), Character 21.
 
-> - Character 265 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 80), and references therein; Zhu *et al*. (2013), Character 181; Choo *et al*. (2017), Character 187; King *et al*. (2017), Character 201; Castiello (2018), Character 200; Zhu Y. *et al*. (2022), Character 269; Brazeau *et al*. (2023), Character 206.
+> - Character 265 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2009, Character 80), and references therein; Zhu *et al*. (2013), Character 181; Choo *et al*. (2017), Character 187; King *et al*. (2017), Character 201; Castiello (2018), Character 200; Zhu Y. *et al*. (2022), Character 269; Brazeau *et al*. (2023), Character 206.
 
 > - Clement *et al.* (2024): "Character 96 is linked to character 95."
 
 > - The coding of *Qujingodus* is 1.
 
 97. Posterior expansion of the maxilla: absent (0), small expansion (posterodorsal process) (1), large expansion (cleaver-shaped) (2). (ordered)
-> Friedman (2007), Character 39; Lu & Zhu (2009), Character 20, polarity; Zhu  *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Lu *et al.* (2016), character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Clement et al. (2018), character 89; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Brazeau *et al*. (2023), Character 181.
+> Friedman (2007), Character 39; Lu & Zhu (2009), Character 20, polarity; Zhu *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Lu *et al.* (2016), character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Clement et al. (2018), character 89; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Brazeau *et al*. (2023), Character 181.
 > Lu *et al.* (2016), character 90; Clement et al. (2018), character 89.
 > - Character 266 in 'early gnathostome phylogeny dataset', rephrased. 
 
@@ -825,7 +825,7 @@
 98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
 > Clement *et al.* (2024), Character 98.
 > Lu *et al.* (2016), character 59; Clement et al. (2018), character 58, "Extent of maxilla along cheek: to posterior margin of cheek (0), cheek bones exclude maxilla from posterior margin of cheek (1)".
-> - Character 267 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Lu *et al.* (2016), character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Clement et al. (2018), character 58; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271; Brazeau *et al*. (2023), Character 182.
+> - Character 267 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Lu *et al.* (2016), character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Clement et al. (2018), character 58; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271; Brazeau *et al*. (2023), Character 182.
 
 > - Clement *et al.* (2024): "Character 98 is linked to character 95."
 
@@ -847,7 +847,7 @@
 
 > - Clement *et al.* (2024): "Forey (1998, char. 50) described two character-states for the sensory openings for the infraorbital, jugal and preopercular canals: many tiny pores (0) and a few large pores (1). Dutel *et al.* (2012, char. 50) added a third character-states taking into account a condition in which there is a large continuous groove crossed by pillars."
 
-> -  Clement *et al.* (2024) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it 'unordered'.
+> - Clement *et al.* (2024) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it 'unordered'.
 
 > - The coding of *Qujingodus* is ?.
 
@@ -864,7 +864,7 @@
 102. Foramina similar to infradentary foramina on cheek bones: absent (0), present (1).
 > Lu & Zhu (2009), Character 16.
 
-> - Character 208 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 56), and references therein; Zhu *et al*. (2013), Character 171; Choo *et al*. (2017), Character 178; King *et al*. (2017), Character 193; Castiello (2018), Character 192; Zhu Y. *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 198; Brazeau *et al*. (2023), Character 269.
+> - Character 208 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2009, Character 56), and references therein; Zhu *et al*. (2013), Character 171; Choo *et al*. (2017), Character 178; King *et al*. (2017), Character 193; Castiello (2018), Character 192; Zhu Y. *et al*. (2022), Character 212; Brazeau *et al*. (2023), Character 198; Brazeau *et al*. (2023), Character 269.
 
 > - Clement *et al.* (2024): "Among actinistians, Friedman (2007, char. 47; fig. 4C) and Lu & Zhu (2009, char. 16) reported the presence of large foramina distinct from the sensory line pores and pit lines on the cheek solely in *Styloichthys*."
 
@@ -1067,7 +1067,7 @@
 > - The coding of *Qujingodus* is ?.
 
 125. Coronoid fangs: absent (0), present (1). 
-> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 67; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 36; Zhu  *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Lu *et al.* (2016), character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Clement et al. (2018), character 93; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292; Brazeau *et al*. (2023), Character 350.
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 67; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 36; Zhu *et al*. (2009, Character 94), and references therein; Zhu *et al*. (2013), Character 202; Giles *et al*. (2015), Character 94; Lu *et al.* (2016), character 94; Choo *et al*. (2017), Character 148; King *et al*. (2017), Character 345; Clement et al. (2018), character 93; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 292; Brazeau *et al*. (2023), Character 350.
 > Lu *et al.* (2016), character 94; Clement et al. (2018), character 93.
 > - Character 288 in 'early gnathostome phylogeny dataset'. 
 
@@ -1224,7 +1224,7 @@
 > - The coding of *Qujingodus* is ?.
 
 145. Vomerine fangs: absent (0), present (1)
-> Friedman (2007), Character 78; Zhu  *et al*. (2009, Character 63), and references therein; Zhu *et al*. (2013), Character 235; Lu *et al.* (2016), character 257; Choo *et al*. (2017), Character 225; King *et al*. (2017), Character 360; Clement et al. (2018), character 255; Castiello (2018), Character 352; Zhu Y. *et al*. (2022), Character 276; Brazeau *et al*. (2023), Character 365.
+> Friedman (2007), Character 78; Zhu *et al*. (2009, Character 63), and references therein; Zhu *et al*. (2013), Character 235; Lu *et al.* (2016), character 257; Choo *et al*. (2017), Character 225; King *et al*. (2017), Character 360; Clement et al. (2018), character 255; Castiello (2018), Character 352; Zhu Y. *et al*. (2022), Character 276; Brazeau *et al*. (2023), Character 365.
 > Lu *et al.* (2016), character 257; Clement et al. (2018), character 255.
 
 > - Character 272 in 'early gnathostome phylogeny dataset'. 
@@ -1232,7 +1232,7 @@
 > - The coding of *Qujingodus* is ?.
 
 146. Parasphenoid, shape of: lozenge-shaped (0), splint-shaped (1), diamond-shaped (2), saddle-shaped (3).
-> Lu & Zhu (2009), Character 91; Lu *et al.* (2016), character 111; Clement et al. (2018), character 110; Friedman (2007, Character 168), Zhu  *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137; **Clement *et al.* (2024), character 146.**
+> Lu & Zhu (2009), Character 91; Lu *et al.* (2016), character 111; Clement et al. (2018), character 110; Friedman (2007, Character 168), Zhu *et al*. (2009, Character 68), and references therein; Zhu *et al*. (2013), Character 240; Giles *et al*. (2015), Character 111; Choo *et al*. (2017), Character 155; King *et al*. (2017), Character 133; Castiello (2018), Character 132; Zhu Y. *et al*. (2022), Character 282; Brazeau *et al*. (2023), Character 137; **Clement *et al.* (2024), character 146.**
 > Lu *et al.* (2016), character 111; Clement et al. (2018), character 110.
 > - Character 278 in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (2024): Parasphenoid, shape of: small lozenge shaped (0), broad splint shaped (1).
@@ -1251,7 +1251,7 @@
 148. Parasphenoid denticle field: denticule field not expanding anterolaterally (0), denticule field expanding anterolaterally (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 34; Friedman (2007), Character 169, modified.
 
-> - Character 283 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 70), and references therein; Zhu *et al*. (2013), Character 242; Choo *et al*. (2017), Character 229; Zhu Y. *et al*. (2022), Character 287.
+> - Character 283 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2009, Character 70), and references therein; Zhu *et al*. (2013), Character 242; Choo *et al*. (2017), Character 229; Zhu Y. *et al*. (2022), Character 287.
 
 > - Clement *et al.* (2024): "Friedman (2007, char. 169) defined a character as the absence or presence of “denticle field of parasphenoid with anteriorly divergent lateral margins.” This character reflects if the denticles covered the anterolateral margins of the parasphenoid that flare anteriorly (character 147)."
 
@@ -1260,12 +1260,12 @@
 149. Parasphenoid denticle field: ending at or anterior to level of foramina for internal carotid arteries (0), extending posterior to internal carotid foramina (1)
 > Clement *et al.* (2024), Character 149.
 
-> - Character 284 in 'early gnathostome phylogeny dataset'. Zhu  *et al*. (2009, Character 71), and references therein; Zhu *et al*. (2013), Character 243; Choo *et al*. (2017), Character 230; King *et al*. (2017), Character 137; Castiello (2018), Character 136; Zhu Y. *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 141.
+> - Character 284 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2009, Character 71), and references therein; Zhu *et al*. (2013), Character 243; Choo *et al*. (2017), Character 230; King *et al*. (2017), Character 137; Castiello (2018), Character 136; Zhu Y. *et al*. (2022), Character 288; Brazeau *et al*. (2023), Character 141.
 
 > - The coding of *Qujingodus* is 0.
 
 150. Parasphenoid: without ascending laminae anteriorly (0), with ascending laminae anteriorly (1). 
-> Forey (1991), Character 3; Forey (1998), Character 61; Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015); Lu *et al.* (2016), character 113; Cavin *et al.* (2017);  Clement et al. (2018), character 112; Renesto & Stockar (2018); Cavin *et al.* (2019), Cavin *et al.* (2020), Character 39; Toriño *et al.* (2021), Character 79.
+> Forey (1991), Character 3; Forey (1998), Character 61; Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015); Lu *et al.* (2016), character 113; Cavin *et al.* (2017); Clement et al. (2018), character 112; Renesto & Stockar (2018); Cavin *et al.* (2019), Cavin *et al.* (2020), Character 39; Toriño *et al.* (2021), Character 79.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -1781,7 +1781,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-218.Extracleithrum and clavicle, dorsal extent of: extracleithrum extends more dorsally than clavicle (0), extracleithrum and clavicle extend dorsally approximately at the same level (1), clavicle extends more dorsally than the extracleithrum (2).  (ordered)
+218.Extracleithrum and clavicle, dorsal extent of: extracleithrum extends more dorsally than clavicle (0), extracleithrum and clavicle extend dorsally approximately at the same level (1), clavicle extends more dorsally than the extracleithrum (2). (ordered)
 > Clement *et al.* (2024), Character 218.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -1832,7 +1832,7 @@
 > - The coding of *Qujingodus* is ?.
 
 224. Pelvic fins, position of: anterior to level of D1 (0), between level of D1 and D2 (1), posterior to level of D2 (2). (ordered)
-> Cloutier (1991a), Cloutier (1991b), Character 43 and Character 71;  Forey (1991), Character 51; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 100.
+> Cloutier (1991a), Cloutier (1991b), Character 43 and Character 71; Forey (1991), Character 51; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 100.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
@@ -2198,7 +2198,7 @@
 
 > - Character 2 in 'early gnathostome phylogeny dataset'.
 
-271.  Perichondral bone: present (0), absent (1).
+271. Perichondral bone: present (0), absent (1).
 > Lu *et al.* (2016), character 3; Clement et al. (2018), character 3.
 
 > - Character 4 in 'early gnathostome phylogeny dataset'.
@@ -2223,7 +2223,7 @@
 
 > - Character 15 in 'early gnathostome phylogeny dataset'.
 
-276.  Pore canal network (sensu Zhu *et al*. 2010): absent (0), present (1).
+276. Pore canal network (sensu Zhu *et al*. 2010): absent (0), present (1).
 > Lu *et al.* (2016), character 8; Clement et al. (2018), character 8.
 
 > - Character 19 in 'early gnathostome phylogeny dataset'.
@@ -2233,7 +2233,7 @@
 
 > - Character 10 in 'early gnathostome phylogeny dataset'.
 
-278.  Dentine kind: mesodentine (0), semidentine (1), orthodentine (2)
+278. Dentine kind: mesodentine (0), semidentine (1), orthodentine (2)
 > Lu *et al.* (2016), character 10; Clement et al. (2018), character 10.
 
 > - Character 11 in 'early gnathostome phylogeny dataset'.
@@ -2419,7 +2419,7 @@
 
 > - Character 139 in 'early gnathostome phylogeny dataset'.
 
-313. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate /  absent present paranuchals precluded from nuchal by centrals no median posterior skull roof bone,
+313. Medial processes of paranuchal wrapping posterolateral corners of nuchal plate / absent present paranuchals precluded from nuchal by centrals no median posterior skull roof bone,
 > Lu *et al.* (2016), character 50; Clement et al. (2018), character 49.
 
 > - Character 154 in 'early gnathostome phylogeny dataset'.
@@ -2586,7 +2586,7 @@
 
 > - Character 311 (reversed) in 'early gnathostome phylogeny dataset'.
 
-346. Distribution of tooth whorls: upper and lower jaws (0), lower jaws only (1),  upper jaws only (2).
+346. Distribution of tooth whorls: upper and lower jaws (0), lower jaws only (1), upper jaws only (2).
 > Lu *et al.* (2016), character 84; Clement et al. (2018), character 83.
 
 > - Character 308 in 'early gnathostome phylogeny dataset'.
@@ -2632,17 +2632,17 @@
 
 > - Character 292 in 'early gnathostome phylogeny dataset'.
 
-355. Position of upper mandibular arch cartilage (and associated cheek plate where present)/  entirely suborbital with a postorbital extension,
+355. Position of upper mandibular arch cartilage (and associated cheek plate where present)/ entirely suborbital with a postorbital extension,
 > Lu *et al.* (2016), character 95; Clement et al. (2018), character 94.
 
 > - Character 335 in 'early gnathostome phylogeny dataset'.
 
-356. Position of mandibular arch articulations /  terminal subterminal,
+356. Position of mandibular arch articulations / terminal subterminal,
 > Lu *et al.* (2016), character 96; Clement et al. (2018), character 95.
 
 > - Character 321 in 'early gnathostome phylogeny dataset'.
 
-357. Autopalatine and quadrate /  comineralized separate mineralizations,
+357. Autopalatine and quadrate / comineralized separate mineralizations,
 > Lu *et al.* (2016), character 97; Clement et al. (2018), character 96.
 
 > - Character 332 in 'early gnathostome phylogeny dataset'.
@@ -2652,12 +2652,12 @@
 
 > - Character 325 in 'early gnathostome phylogeny dataset'.
 
-359. Insertion area for jaw adductor muscles on palatoquadrate /  ventral or medial lateral,
+359. Insertion area for jaw adductor muscles on palatoquadrate / ventral or medial lateral,
 > Lu *et al.* (2016), character 99; Clement et al. (2018), character 98.
 
 > - Character 327 in 'early gnathostome phylogeny dataset'.
 
-360. Palatoquadrate relationship to dermal cheek bones /  articulation narrow and restricted broad articulation,
+360. Palatoquadrate relationship to dermal cheek bones / articulation narrow and restricted broad articulation,
 > Lu *et al.* (2016), character 100; Clement et al. (2018), character 99.
 
 > - Character 322 in 'early gnathostome phylogeny dataset'.
@@ -2752,7 +2752,7 @@
 
 > - Character 368 in 'early gnathostome phylogeny dataset'.
 
-379. Position of myodome for superior oblique eye muscles /  posterior and dorsal to foramen for nerve II anterior and dorsal to foramen,
+379. Position of myodome for superior oblique eye muscles / posterior and dorsal to foramen for nerve II anterior and dorsal to foramen,
 > Lu *et al.* (2016), character 122; Clement et al. (2018), character 121.
 
 > - Character 400 in 'early gnathostome phylogeny dataset'.
@@ -2828,12 +2828,12 @@
 
 > - Character 432 in 'early gnathostome phylogeny dataset'.
 
-394. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal/  'traverses jugular canal, with separate exit in otic region' 'intersects jugular canal, with exit through posterior jugular foramen',
+394. Course of hyoid ramus of facial nerve (N. VII) relative to jugular canal/ 'traverses jugular canal, with separate exit in otic region' 'intersects jugular canal, with exit through posterior jugular foramen',
 > Lu *et al.* (2016), character 138; Clement et al. (2018), character 137.
 
 > - Character 484 in 'early gnathostome phylogeny dataset'.
 
-395. Glossopharyngeal nerve (N. IX) exit/  foramen situated posteroventral to otic capsule and anterior to metotic fissure through metotic fissure,
+395. Glossopharyngeal nerve (N. IX) exit/ foramen situated posteroventral to otic capsule and anterior to metotic fissure through metotic fissure,
 > Lu *et al.* (2016), character 139; Clement et al. (2018), character 138.
 
 > - Character 541 in 'early gnathostome phylogeny dataset'.
@@ -2868,7 +2868,7 @@
 
 > - Character 435 in 'early gnathostome phylogeny dataset'.
 
-402. Position of basal/basipterygoid articulation/  same anteroposterior level as hypophysial opening  anterior to hypophysial opening posterior to hypophysial opening,
+402. Position of basal/basipterygoid articulation/ same anteroposterior level as hypophysial opening anterior to hypophysial opening posterior to hypophysial opening,
 > Lu *et al.* (2016), character 146; Clement et al. (2018), character 145.
 
 > - Character 436 in 'early gnathostome phylogeny dataset'.
@@ -2943,12 +2943,12 @@
 
 > - Character 467 in 'early gnathostome phylogeny dataset'.
 
-417. Position of hyomandibula articulation on neurocranium /  'below or anterior to orbit, on ventrolateral angle of braincase' 'on otic capsule, posterior to orbit',
+417. Position of hyomandibula articulation on neurocranium / 'below or anterior to orbit, on ventrolateral angle of braincase' 'on otic capsule, posterior to orbit',
 > Lu *et al.* (2016), character 163; Clement et al. (2018), character 161.
 
 > - Character 443 in 'early gnathostome phylogeny dataset'.
 
-418. Position of hyomandibula articulation relative to structure of skeletal labyrinth /  anterior or lateral to skeletal labyrinth at level of posterior semicircular canal,
+418. Position of hyomandibula articulation relative to structure of skeletal labyrinth / anterior or lateral to skeletal labyrinth at level of posterior semicircular canal,
 > Lu *et al.* (2016), character 164; Clement et al. (2018), character 162.
 
 > - Character 445 in 'early gnathostome phylogeny dataset'.
@@ -3103,7 +3103,7 @@
 
 > - Character 618 in 'early gnathostome phylogeny dataset'.
 
-449. Mineralisation of internal surface of scapular blade /  mineralised all around 'unmineralised on internal face forming a hemicylindrical cross-section',
+449. Mineralisation of internal surface of scapular blade / mineralised all around 'unmineralised on internal face forming a hemicylindrical cross-section',
 > Lu *et al.* (2016), character 197; Clement et al. (2018), character 195.
 
 > - Character 619 in 'early gnathostome phylogeny dataset'.
@@ -3252,7 +3252,7 @@
 > Lu *et al.* (2016), character 226; Clement et al. (2018), character 224.
 
 > - Character 660 in 'early gnathostome phylogeny dataset'.
-> - Johanson *et al.* (2012,  Zoomorphology): "The synarcual is a structure incorporating the anterior vertebrae of the axial skeleton and occurs in vertebrate taxa such as the fossil group Placodermi and the Chondrichthyes (Holocephali, Batoidea)."
+> - Johanson *et al.* (2012, Zoomorphology): "The synarcual is a structure incorporating the anterior vertebrae of the axial skeleton and occurs in vertebrate taxa such as the fossil group Placodermi and the Chondrichthyes (Holocephali, Batoidea)."
 
 479. Series of thoracic supraneurals: absent (0), present (1).
 > Lu *et al.* (2016), character 227; Clement et al. (2018), character 225.
@@ -3356,7 +3356,7 @@
 
 > - Character 352 in 'early gnathostome phylogeny dataset'. **The states are different.**
 
-498. Length of dentary: constitutes a majority of jaw length (0),  half the length of jaw or less (1).
+498. Length of dentary: constitutes a majority of jaw length (0), half the length of jaw or less (1).
 > Lu *et al.* (2016), character 248; Clement et al. (2018), character 246.
 
 > - Character 316 in 'early gnathostome phylogeny dataset'.
@@ -3419,7 +3419,7 @@
 
 > - Character 116 in 'early gnathostome phylogeny dataset'.
 
-510. Posterior nostril: facial (0), at margin of oral cavity (1),  palatal (2). (ordered)
+510. Posterior nostril: facial (0), at margin of oral cavity (1), palatal (2). (ordered)
 > Lu *et al.* (2016), character 262; Clement et al. (2018), character 260.
 
 > - Characters 111-112 in 'early gnathostome phylogeny dataset'.
@@ -3554,7 +3554,7 @@
 
 > - Character 282 in 'early gnathostome phylogeny dataset'.
 
-537. Enlarged anterior tooth on premaxilla: absent (0),  present (1).
+537. Enlarged anterior tooth on premaxilla: absent (0), present (1).
 > Mondéjar-Fernánde (2020), character 121.
 
 > - Character 247 in 'early gnathostome phylogeny dataset'.
@@ -3586,7 +3586,7 @@ The list of 14 meristic characters provides the reference to character numbers u
 > - This character is linked with Character 8 herein. Potentially Redundant.
 
 570. Number of extrascapulars.
->  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (2024), merestic character 2.
+> [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part]Clement *et al.* (2024), merestic character 2.
 
 > - Cloutier (1991b): 0 = three extrascapulars; 1 = five extrascapulars; 2 = seven extrascapulars (Forey 1981; his Character 18); 3 = more than seven extrascapulars.
 > - Cloutier (1991b): 0 = three extrascapulars; 1 = five extrascapulars; 2 = seven extrascapulars (Forey 1981; his Character 18); 3 = more than seven extrascapulars; 4 = two extrascapulars; 5 = four extrascapulars.
@@ -3598,7 +3598,7 @@ The list of 14 meristic characters provides the reference to character numbers u
 > - Forey (1998): Number of supraorbitals or tectals; fewer than eight (0), more than 10 (1).
 
 572. Number of preparietals per row.
->  [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part] Clement *et al.* (2024), merestic character 4.
+> [Ca21 in part, Cb21 in part, Fa18 in part, Fb17 in part, C17 in part, F&C17 in part, Y17 in part, G17 in part, W17 in part, W&W17 in part, Da17 in part, Z17 in part, GR17 in part, WE17 in part, CAa17 in part, C&G17 in part, A&S17 in part, G&C17 in part, Db17 in part, CAb17 in part, R&S17 in part, CAc10 in part, CAd10 in part, T17 in part] Clement *et al.* (2024), merestic character 4.
 > - Note typo errors above (copied from merestic character 2).
 
 > - Cloutier (1991a, 1991b): Character 8, Preparietals, number: 0 = more than five preparietals per row; 1= two preparietals per row; 2 = three preparietals per row; 3 = four preparietals per row; 4 = five preparietals per row; 5 = one preparietal per row.
@@ -3729,7 +3729,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 5	Jessen, H. Weitere Fischreste aus dem Oberen Plattenkalk der Bergisch-Gladbach-Paffrather Mulde (Oberdevon, Rheinisches Schiefergebirge). Palaeontographica A 143, 159-187 (1973).
 
-6	Schultze, H.-P. & Cloutier, R. in Devonian Fishes and Plants of Miguasha, Quebec, Canada   (eds H.-P. Schultze & R. Cloutier)  348-368 (Verlag Dr. Friedrich Pfeil, 1996).
+6	Schultze, H.-P. & Cloutier, R. in Devonian Fishes and Plants of Miguasha, Quebec, Canada (eds H.-P. Schultze & R. Cloutier) 348-368 (Verlag Dr. Friedrich Pfeil, 1996).
 
 7	Jessen, H. Die Crossopterygier des Oberen Plattenkalkes (Devon) der Bergisch-Gladbach-Paffrather Mulde (Rheinisches Schiefergebirge) unter Berücksichtigung von amerikanischem und europäischem Onychodus-Material. Arkiv för Zoologi 18, 306-389 (1966).
 
@@ -3741,7 +3741,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 11	Beltan, L. Quelques poissons du Muschelkalk supérieur d'Espagne. Acta Geológica Hispánica 19, 117-127 (1984).
 
-12	Forey, P. L. History of the Coelacanth Fishes.  (Chapman & Hall, 1998).
+12	Forey, P. L. History of the Coelacanth Fishes. (Chapman & Hall, 1998).
 
 13	Lund, R. & Lund, W. L. Coelacanths from the Bear Gulch Limestone (Namurian) of Montana and the evolution of the Coelacanthiformes. Bulletin of Carnegie Museum of Natural History 25, 1-74 (1985).
 
@@ -3749,7 +3749,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 15	Arratia, G. & Schultze, H. P. A new fossil actinistian from the Early Jurassic of Chile and its bearing on the phylogeny of Actinistia. Journal of Vertebrate Paleontology 35, doi:10.1080/02724634.2015.983524 (2015).
 
-16	Stensiö, E. A. Triassic fishes from Spitzbergen.  Part I.  A.  (Holzhausen, 1921).
+16	Stensiö, E. A. Triassic fishes from Spitzbergen. Part I. A. (Holzhausen, 1921).
 
 17	Mørk, A. et al. The type section of the Vikinghøgda Formation: a new Lower Triassic unit in central and eastern Svalbard. Polar Research 18, 51-82, doi:10.1111/j.1751-8369.1999.tb00277.x (1999).
 
@@ -3817,7 +3817,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 49	Jain, S. L. Indocoelacanthus robustus n. gen., n. sp. (Coelacanthidae, Lower Jurassic), the first fossil coelacanth from India. Journal of Paleontology 48, 49-62 (1974).
 
-50	Gradstein, F. M. et al. in Geochronology, Time Scales and Global Stratigraphic Correlation   (eds W. A. Berggren, D. V. Kent, M.-P. Aubry, & J. Hardenbol)  95-128 (SEPM Special Publication, 1995).
+50	Gradstein, F. M. et al. in Geochronology, Time Scales and Global Stratigraphic Correlation (eds W. A. Berggren, D. V. Kent, M.-P. Aubry, & J. Hardenbol) 95-128 (SEPM Special Publication, 1995).
 
 51	Kadarusman et al. A thirteen-million-year divergence between two lineages of Indonesian coelacanths. Scientific Reports 10, doi:10.1038/s41598-019-57042-1 (2020).
 
@@ -3831,7 +3831,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 56	Brito, P. M. et al. First occurrence of a mawsoniid (Sarcopterygii: Actinistia), Mawsonia soba sp nov., in pre-Aptian Cretaceous deposits from Cameroon. Cretaceous Research 86, 91-96, doi:10.1016/j.cretres.2017.12.014 (2018).
 
-57	Wenz, S. in Colloques Internationaux du Centre National de la Recherche Scientifique Vol. 218    175-190 (Centre National de la Recherche Scientifique, 1975).
+57	Wenz, S. in Colloques Internationaux du Centre National de la Recherche Scientifique Vol. 218 175-190 (Centre National de la Recherche Scientifique, 1975).
 
 58	Taquet, P. Géologie et paléontologie du gisement de Gadoufaoua (Aptien du Niger). Cahiers de paléontologie, 1-191 (1976).
 
@@ -3839,13 +3839,13 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 60	Dutel, H. et al. The giant Cretaceous coelacanth (Actinistia, Sarcopterygii) Megalocoelacanthus dobiei Schwimmer, Stewart & Williams, 1994, and its bearing on Latimerioidei interrelationships. PLoS One 7, e49911, doi:10.1371/journal.pone.0049911 (2012).
 
-61	Cloutier, R. in Devonian Fishes and Plants of Miguasha, Quebec, Canada   (eds H.-P. Schultze & R.  Cloutier)  227-247 (Verlag Dr. Friedrich Pfeil, 1996).
+61	Cloutier, R. in Devonian Fishes and Plants of Miguasha, Quebec, Canada (eds H.-P. Schultze & R. Cloutier) 227-247 (Verlag Dr. Friedrich Pfeil, 1996).
 
 62	Cloutier, R., Loboziak, S., Candilier, A.-M. & Blieck, A. Biostratigraphy of the Upper Devonian Escuminac Formation, eastern Quebec, Canada: A comparative study based on miospores and fishes. Review of Palaeobotany and Palynology 93, 191-215 (1996).
 
 63	Forey, P. L., Ahlberg, P. E., Luksevics, E. & Zupins, I. A new coelacanth from the Middle Devonian of Latvia. Journal of Vertebrate Paleontology 20, 243-252 (2000).
 
-64	Heckert, A. B., Lucas, S. G. & Hunt, A. P. in Vertebrate Paleontology in Arizona Vol. 29  (eds A. B. Heckert & S. G. Lucas)  16-44 (New Mexico Museum of Natural History and Science Bulletin, 2005).
+64	Heckert, A. B., Lucas, S. G. & Hunt, A. P. in Vertebrate Paleontology in Arizona Vol. 29 (eds A. B. Heckert & S. G. Lucas) 16-44 (New Mexico Museum of Natural History and Science Bulletin, 2005).
 
 65	Long, J. A. & Trinajstic, K. A review of recent discoveries of exceptionally preserved fossil fishes from the Gogo sites (Late Devonian, Western Australia). Earth and Environmental Science Transactions of the Royal Society of Edinburgh 108, 111-117 (2018).
 
@@ -3863,7 +3863,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 72	Cloutier, R. & Candilier, A.-M. Palaeozoic vertebrates of northern France and Belgium: Part III - Sarcopterygii (Devonian to Carboniferous). Geobios, mémoire spécial 19, 335-342 (1995).
 
-73	Menning, M., Weyer, D., Drozdzewski, G., van Amerom, H. W. & Wendt, I. in Karbon: Zeitskala und Sequenzstratigraphie Vol. 156  (eds M. Menning et al.)  3-44 (Geologisches Jahrbuch Reihe A, 2000).
+73	Menning, M., Weyer, D., Drozdzewski, G., van Amerom, H. W. & Wendt, I. in Karbon: Zeitskala und Sequenzstratigraphie Vol. 156 (eds M. Menning et al.) 3-44 (Geologisches Jahrbuch Reihe A, 2000).
 
 74	Clements, T., Purnell, M. & Gabbott, S. The Mazon Creek Lagerstatte: A diverse Late Paleozoic ecosystem entombed within siderite concretions. Journal of the Geological Society 176, 1-11, doi:10.1144/jgs2018-088 (2019).
 
@@ -3907,7 +3907,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 94	Simões, T. R., Caldwell, M. W., Palci, A. & Nydam, R. L. Giant taxon‐character matrices: Quality of character constructions remains critical regardless of size. Cladistics 33 198-219 (2017).
 
-95	Cloutier, R. in Early Vertebrates and Related Problems of Evolutionary Biology   (eds M.-M. Chang, Y.-H. Liu, & G.-R. Zhang)  379–428 (Science Press, 1991).
+95	Cloutier, R. in Early Vertebrates and Related Problems of Evolutionary Biology (eds M.-M. Chang, Y.-H. Liu, & G.-R. Zhang) 379–428 (Science Press, 1991).
 
 96	Cloutier, R. Patterns, trends, and rates of evolution within the Actinistia. Environmental Biology of Fishes 32, 23-58 (1991).
 
@@ -3929,7 +3929,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 105	Forey, P. L. The coelacanth Rhabdoderma in the Carboniferous of the British Isles. Palaeontology 24, 203-229 (1981).
 
-106	Zhu, M. & Yu, X. B. in Recent Advances in the Origin and Early Radiation of Vertebrates   (eds G. Arratia, M. V. H. Wilson, & R. Cloutier)  271-286 (Verlag Dr. Friedrich Pfeil, 2004).
+106	Zhu, M. & Yu, X. B. in Recent Advances in the Origin and Early Radiation of Vertebrates (eds G. Arratia, M. V. H. Wilson, & R. Cloutier) 271-286 (Verlag Dr. Friedrich Pfeil, 2004).
 
 107	Khonsari, R. H. et al. The buccohypophyseal canal is an ancestral vertebrate trait maintained by modulation in sonic hedgehog signaling. Bmc Biology 11, doi:10.1186/1741-7007-11-27 (2013).
 
@@ -3963,13 +3963,13 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 
 122	Upeniece, I. New species of Strunius (Sarcopterygii, Onychodontida) from Latvia, Lode quarry (Upper Devonian). Geobios, Mémoire Spécial 19, 281-284 (1995).
 
-123	Maisey, J. G. Santana Fossils: An Illustrated Atlas.  459 (T.F.H. Publications, 1991).
+123	Maisey, J. G. Santana Fossils: An Illustrated Atlas. 459 (T.F.H. Publications, 1991).
 
 124	Barbosa, R. E. S., da Silva, M. C., Duque, R. R. C. & Barreto, A. M. F. Os Mawsoniídeos das bacias sedimentares do nordest do Brasil: Revisão bibliográfica. Estudos Geológicos 29, 94-119 (2019).
 
 125	Brito, P. M. & Yabumoto, Y. An updated review of the fish faunas from the Crato and Santana formations in Brazil, a close relationship to the Tethys fauna. Bulletin of the Kitakyushu Museum of Natural History and Human History, Series A (Natural History) 9, 107-136 (2011).
 
-126	Cavin, L. & Forey, P. L. in Mesozoic Fishes 3 - Systematics, Paleoenvironments and Biodiversity   (eds G. Arratia & A. Tintori)  493-506 (Verlag Dr. Friedrich Pfeil, 2004).
+126	Cavin, L. & Forey, P. L. in Mesozoic Fishes 3 - Systematics, Paleoenvironments and Biodiversity (eds G. Arratia & A. Tintori) 493-506 (Verlag Dr. Friedrich Pfeil, 2004).
 
 127	Benton, M. J. et al. Exceptional vertebrate biotas from the Triassic of China, and the expansion of marine ecosystems after the Permo-Triassic mass extinction. Earth-Science Reviews 125, 199-243, doi:10.1016/j.earscirev.2013.05.014 (2013).
 
@@ -3990,6 +3990,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
