@@ -47,7 +47,8 @@
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
-> - Clement *et al.* (2024): "Character 5 is linked to Character 4." 
+> - Clement *et al.* (2024): "Character 5 is linked to Character 4."
+> - This character is contingent on the presence of the rostral organ pores, Character 4 herein.
 
 >> - The coding of *Qujingodus* is ?.
 
@@ -57,7 +58,7 @@
 > - Clement *et al.* (2024): "Forey (1991, char. 35) defined a character to consider the condition in which the posterior openings of the rostral organ were confluent. We subdivided the original plesiomorphic condition into two conditions reflecting the relative distance separating the two pores on the preorbital. Forey (1980) mentioned that this character was linked with the presence of the preorbital (Character 57); when the preorbital is absent it is not possible to code for the condition of the posterior openings of the rostral organ. The three character-states form a morphocline. Character 6 is linked to characters 4 and 57.“
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
-
+> - This character is contingent on the presence of the rostral organ pores, Character 4 herein.
 >> - The coding of *Qujingodus* is ?.
 
 ### 7. Posterior openings of rostral organ: anterior and posterior pores aligned horizontally (0), posterior pore offset posterodorsally to anterior pore (1). 
@@ -66,7 +67,7 @@
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (2024): "Character 7 is linked to characters 4, 6 and 57."
-
+> - This character is contingent on the presence of the rostral organ pores, Character 4 herein.
 >> - The coding of *Qujingodus* is ?.
 
 ### 8. Premaxillae: fragmented (0), paired (1), fused (2).
@@ -95,8 +96,8 @@
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (2024): "The three character-states form a morphocline. Character 10 is linked with Character 9."
-
->> - The coding of *Qujingodus* is ?. **to xm: for thase taxa without dorsal lamina, the coding should be - 'logical impossibility'.$$**
+> - This character is contingent on the presence of the dorsal lamina of premaxilla, Character 9 herein.
+>> - The coding of *Qujingodus* is ?. **to xm: for thase taxa without dorsal lamina, the coding should be - 'logical impossibility'.**
 
 ### 11. Dorsal lamina of premaxilla, perforation of: perforated by ethmoid commissure (0), not perforated by ethmoid commissure (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 6; Clement *et al.* (2024), Character 11.
@@ -104,7 +105,7 @@
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (2024): "Character 11 is linked to Character 9."
-
+> - This character is contingent on the presence of the dorsal lamina of premaxilla, Character 9 herein.
 >> - The coding of *Qujingodus* is ?. **to xm: for thase taxa without dorsal lamina, the coding should be - 'logical impossibility'.$$**
 
 ### 12. Premaxilla ventral margin, shape of: arched (0), not arched (1). 
@@ -4026,6 +4027,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
