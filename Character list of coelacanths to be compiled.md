@@ -28,18 +28,14 @@
 ### 3. Rostral tubuli: absent (0) , present (1).
 > Friedman (2007), Character 136; Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Lu *et al.* (2016), Character 260; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Clement *et al*. (2018), Character 258; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71; Clement *et al.* (2024), Character 3.
 
-> Lu *et al.* (2016), Character 260; Clement et al. (2018), Character 258.  **to Xm: If contents of this line have already be incorporated into the above, you can delete it to avoid repitition.**
-
 > - Character 24 in 'early gnathostome phylogeny dataset'. 
 
 > - The coding of *Qujingodus* is 1.
 
 ### 4. Rostral organ pores: absent (0), present (1). 
-> Cloutier (1991a), Character 145; Friedman (2007), Character 145; Clement *et al.* (2024), Character 4.
+> Cloutier (1991a), Character 145; Friedman (2007), Character 145;  King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111. Cui *et al*. (2023), Character 515; Clement *et al.* (2024), Character 4.
 
 > - Character 510 in 'early gnathostome phylogeny dataset'.（510. Rostral organ: (0) absent; (1) present.
-
-> - in 'early gnathostome phylogeny dataset': King *et al*. (2017), Character 107; Castiello (2018), Character 107; Zhu Y. *et al*. (2022), Character 516; Brazeau *et al*. (2023), Character 111. Cui *et al*. (2023), Character 515. **to Xm: the contents of this line can be incorporated into the above.**
 
 > - Clement *et al.* (2024): "Character 4 is linked to characters 5, 6 and 7."
 
@@ -79,7 +75,7 @@
 
 > - Clement *et al.* (2024): "The character-states of Char. 8 have been reorganized to obtain a morphocline. The condition observed in the out-group is paired premaxillae. The fragmented condition corresponds to a series of small elements located at the position of the premaxillae. The fused condition of Character 8 is partially linked with Character 1.“
 
-> - Clement *et al.* (2024) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered. 
+> - Clement *et al.* (2024) assigned this character ‘ordered’，Considering the paired premaxillae plesiomorphic by the out-group comparison, it is better to assign this character unordered. +
 
 > - The coding of *Qujingodus* is 1.
 
@@ -127,7 +123,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 14. Median rostral: without teeth (0), with teeth (1). 
-> Friedman (2007), Character 3; Lu & Zhu (2009), Character 3; Zhu *et al*. (2009, Character 75), and references therein; Zhu *et al*. (2013), Character 199; Choo *et al*. (2017), Character 203; King *et al*. (2017), Character 346; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 264; Brazeau *et al*. (2023), Character 351; Clement *et al.* (2024), Character 14.
+> Friedman (2007), Character 3; Lu & Zhu (2009), Character 3; Zhu *et al*. (2009, Character 75), and references therein; Zhu *et al*. (2013), Character 199; Choo *et al*. (2017), Character 203; King *et al*. (2017), Character 346; Castiello (2018), Character 337; Zhu Y. *et al*. (2022), Character 264; Brazeau *et al*. (2023), Character 351; Cui *et al*. (2023), Character 264; Clement *et al.* (2024), Character 14.
 
 > - Character 260 in 'early gnathostome phylogeny dataset'. 
 
@@ -154,7 +150,7 @@
 > - The coding of *Qujingodus* is -.
 
 ### 17. Supraorbital canal, course of: straight (0), lyre shaped (1).
-> Friedman (2007), Character 31; Zhu *et al*. (2009, Character 110), and references therein; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296; Clement *et al.* (2024), Character 17.
+> Friedman (2007), Character 31; Zhu *et al.* (2009), Character 110; Zhu *et al*. (2013), Character 188; Choo *et al*. (2017), Character 193; King *et al*. (2017), Character 291; Castiello (2018), Character 283; Zhu Y. *et al*. (2022), Character 177; Brazeau *et al*. (2023), Character 296; Cui *et al*. (2023), Character 177; Clement *et al.* (2024), Character 17.
 
 > - Character 173 in 'early gnathostome phylogeny dataset'. 
 
@@ -284,11 +280,12 @@
 > - The coding of *Qujingodus* is 0.
 
 ### 33. Pineal foramen: present (0), absent (1) 
-> Friedman (2007), Character 14; Lu & Zhu (2009), Character 2; Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; Lu *et al.* (2016), Character 41; King *et al*. (2017), Character 159; Clement et al. (2018), Character 41; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 162; Clement *et al.* (2024), Character 33.
+> Friedman (2007), Character 14; Lu & Zhu (2009), Character 2; Davis *et al*. (2012), Character 25; Choo *et al*. (2017), Character 24; Lu *et al.* (2016), Character 41; King *et al*. (2017), Character 159; Clement et al. (2018), Character 41; Castiello (2018), Character 117; Zhu Y. *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 162;  Cui *et al*. (2023), Character 130; Clement *et al.* (2024), Character 33.
 
 > Lu *et al.* (2016), Character 41; Clement et al. (2018), Character 41.
 
-> - Character 128 in 'early gnathostome phylogeny dataset'. 
+> - Character 128 in 'early gnathostome phylogeny dataset'.
+
 > - The coding of *Qujingodus* is 1.
 
 ### 34. Parietals and postparietals: without raised or depressed areas (0), with raised areas (1), with depressed areas (2).
@@ -4032,6 +4029,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
