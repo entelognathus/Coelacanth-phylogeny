@@ -15,7 +15,7 @@
 > Cloutier (1991a), Character 6, in part; Cloutier (1991b), Character 6, in part; Zhu *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291.
 > - Character 166 in 'early gnathostome phylogeny dataset'. 
 > - Clement *et al.* (2024) stated that the three character-states of this character form a morphocline, and set it ‘ordered’，We consider this morphocline unclear and retain it '[unordered]'.
-> - The coding of *Qujingodus* is 2.
+>> - The coding of *Qujingodus* is 2.
 
 ### 3. Rostral tubuli: absent (0) , present (1).
 > Friedman (2007), Character 136; Zhu *et al*. (2009, Character 150), and references therein; Zhu *et al*. (2013), Character 142; Lu *et al.* (2016), Character 260; Choo *et al*. (2017), Character 158; King *et al*. (2017), Character 67; Clement *et al*. (2018), Character 258; Castiello (2018), Character 69; Zhu Y. *et al*. (2022), Character 24; Brazeau *et al*. (2023), Character 71.
@@ -396,7 +396,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-54. Posterior margin of skull roof: straight (0), embayed (1).
+### 54. Posterior margin of skull roof: straight (0), embayed (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 18.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -405,7 +405,7 @@
 
 > - The coding of *Qujingodus* is 0.
 
-55. Anterior branches of occipital commissure: absent (0), present (1). 
+### 55. Anterior branches of occipital commissure: absent (0), present (1). 
 > Cloutier (1991b), Character 60; Forey (1991), Character 40; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 22; Cavin et al. (2019), Cavin et al. (2020), Character 11.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -414,14 +414,14 @@
 
 > - The coding of *Qujingodus* is ?.
 
-56. Sensory pores, size of: pores on ethmosphenoid shield similar to parietal shield pores (0), pores on ethmosphenoid shield larger than parietal shield pores (1)
+### 56. Sensory pores, size of: pores on ethmosphenoid shield similar to parietal shield pores (0), pores on ethmosphenoid shield larger than parietal shield pores (1)
 > Forey (1991), Character 38.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is 0.
 
-57. Preorbital: present (0), absent (1). 
+### 57. Preorbital: present (0), absent (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 22; Forey (1991), Character 20; Forey (1991), Character 19; Forey (1998), Clément (2005), Friedman & Coates (2006), Friedman (2007), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 10.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -431,7 +431,7 @@
 > - The coding of *Qujingodus* is ?.
 
 
-58. Lateral rostral: without ventral process (0), with ventral process (1). 
+### 58. Lateral rostral: without ventral process (0), with ventral process (1). 
 > Cloutier (1991a).
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -440,14 +440,14 @@
 
 > - The coding of *Qujingodus* is ?.
 
-59. Lateral rostral: forming part of orbit (0), not forming part of orbit (1)
+### 59. Lateral rostral: forming part of orbit (0), not forming part of orbit (1)
 > Lu & Zhu (2009), Character 4.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - > - The coding of *Qujingodus* is ?.
 
-60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). (ordered)
+### 60. Lateral rostral, shape of: rectangular (length/height ratio between 1.1 and 2.5) (0), elongated (length/height ratio between 2.6 and 5) (1), highly elongated (length/height ratio greater than 5) (2). (ordered)
 > Clement *et al.* (2024), Character 60.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -456,7 +456,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-61. Posterodorsal process of lateral rostral: absent (0), present (1). 
+### 61. Posterodorsal process of lateral rostral: absent (0), present (1). 
 > Lu & Zhu (2009), Character 5.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -465,7 +465,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-62. Cheek bones, contact of: in contact or overlapping (0), separated (1).
+### 62. Cheek bones, contact of: in contact or overlapping (0), separated (1).
 > Cloutier (1991a), Character 23, in part; Cloutier (1991b), Character 23; Forey (1991), Character 22; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 29.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -474,7 +474,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-63. Contact between lacrimojugal and preorbital and/or supraorbital series: present (0), absent (1).
+### 63. Contact between lacrimojugal and preorbital and/or supraorbital series: present (0), absent (1).
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 51.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -483,7 +483,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-64. Spiracular: present (0), absent (1). 
+### 64. Spiracular: present (0), absent (1). 
 > Cloutier (1991a), Cloutier (1991b), Character 24; Forey (1991), Character 21; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), polarity, Wendruff (2011), polarity, Wendruff & Wilson (2012), polarity, Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), polarity, Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 30; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 15.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -493,14 +493,14 @@
 
 > - The coding of *Qujingodus* is ?.
 
-65. Preoperculum: present (0), absent (1)
+### 65. Preoperculum: present (0), absent (1)
 > Forey (1991), Character 23; Forey (1998), polarity, Clément (2005), modified, Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), Graf (2012), polarity, Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 31.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-66. Preoperculum, size of: large bone (0), reduced to narrow tube (1). 
+### 66. Preoperculum, size of: large bone (0), reduced to narrow tube (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 38; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 18.
 
 > - Character 216 in 'early gnathostome phylogeny dataset', rephrased.
@@ -510,7 +510,7 @@
 > - The coding of *Qujingodus* is ?.
 > - Only Coelacanthus granulatus is coded as "1".
 
-67. Preoperculum: undifferentiated (0), developed as a posterior tube-like canal-bearing portion and an anterior blade-like portion (1). 
+### 67. Preoperculum: undifferentiated (0), developed as a posterior tube-like canal-bearing portion and an anterior blade-like portion (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 39.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -519,14 +519,14 @@
 
 > - The coding of *Qujingodus* is ?.
 
-68. Squamosal: present (0), absent (1)
+### 68. Squamosal: present (0), absent (1)
 > Lu & Zhu (2009), Character 22.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-69. Squamosal, position of: limited to the midlevel of the cheek (0), extending behind the postorbital to reach skull roof (1). 
+### 69. Squamosal, position of: limited to the midlevel of the cheek (0), extending behind the postorbital to reach skull roof (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 34.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -535,7 +535,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-70. Squamosal, position of: posterior to postorbital (0), ventral to postorbital (1).
+### 70. Squamosal, position of: posterior to postorbital (0), ventral to postorbital (1).
 > Clement *et al.* (2024), Character 70.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -544,7 +544,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-71. Squamosal, position of: forming part of upper jaw margin (0), not forming part of upper jaw margin (1). 
+### 71. Squamosal, position of: forming part of upper jaw margin (0), not forming part of upper jaw margin (1). 
 > Clement *et al.* (2024), Character 71.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -553,7 +553,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-72. Squamosal, size of: large bone (0), reduced to a narrow tube (1). 
+### 72. Squamosal, size of: large bone (0), reduced to a narrow tube (1). 
 > Cloutier (1991b), Character 25, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 37.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -562,7 +562,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-73. Squamosal, shape of: pentagonal (0), quadrilateral (1), triangular (2), irregular (3).
+### 73. Squamosal, shape of: pentagonal (0), quadrilateral (1), triangular (2), irregular (3).
 > Cloutier (1991a), Character 25.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -571,7 +571,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-74. Lacrimal: not fused with jugal (0), fused with jugal (1), fused with jugal and squamosal (2). (ordered)
+### 74. Lacrimal: not fused with jugal (0), fused with jugal (1), fused with jugal and squamosal (2). (ordered)
 > Clement *et al.* (2024), Character 74.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -580,7 +580,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-75. Stud shaped ossicles near lacrimojugal: absent (0), present (1). 
+### 75. Stud shaped ossicles near lacrimojugal: absent (0), present (1). 
 > Clement *et al.* (2024), Character 75.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -589,7 +589,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-76. Lacrimojugal, shape of: tapering anteriorly (0), not expanded anteriorly (1), expanded anteriorly (2). (ordered)
+### 76. Lacrimojugal, shape of: tapering anteriorly (0), not expanded anteriorly (1), expanded anteriorly (2). (ordered)
 > Cloutier (1991b), Character 65; Forey (1998), rephrased, Clément (2005), rephrased, Friedman & Coates (2006), rephrased, Yabumoto (2008), rephrased, Geng *et al.* (2009), rephrased, Wendruff (2011), rephrased, Wendruff & Wilson (2012), rephrased, Dutel *et al.* (2012), rephrased, Zhu *et al.* (2012), rephrased, Graf (2012), rephrased, Wen *et al.* (2013), rephrased, Cavin *et al.* (2013), rephrased, Cavin & Grădinaru (2014), rephrased, Arratia & Schultze (2015), rephrased, Gess & Coates (2015), rephrased, Dutel *et al.* (2015), rephrased, Cavin *et al.* (2017), rephrased, Renesto & Stockar (2018), rephrased, Toriño *et al.* (2021), rephrased, Character 35.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -598,7 +598,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-77. Lacrimojugal, sensory pores of: relatively small size pores through the length of the lacrimojugal (0), anterior pore(s) expanded or forming a groove (1).
+### 77. Lacrimojugal, sensory pores of: relatively small size pores through the length of the lacrimojugal (0), anterior pore(s) expanded or forming a groove (1).
 > Clement *et al.* (2024), Character 77.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -607,7 +607,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-78. Lacrimojugal, shape of: not angled anteriorly (0), angled anteriorly (1).
+### 78. Lacrimojugal, shape of: not angled anteriorly (0), angled anteriorly (1).
 > Forey (1998), rephrased, Clément (2005), rephrased, Friedman & Coates (2006), rephrased, Yabumoto (2008), rephrased, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), rephrased, Zhu *et al.* (2012), rephrased, Graf (2012), rephrased, Wen *et al.* (2013), rephrased, Cavin *et al.* (2013), Cavin & Grădinaru (2014), rephrased, Arratia & Schultze (2015), rephrased, Gess & Coates (2015), rephrased, Dutel *et al.* (2015), rephrased, Cavin *et al.* (2017), rephrased, Renesto & Stockar (2018), rephrased, Toriño *et al.* (2021), rephrased, Character 36. Cavin *et al.* (2019), modified, Cavin *et al.* (2020), modified, Character 17.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -616,7 +616,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-79. Lacrimojugal ventral margin: without a posteroventral extension (0), with a posteroventral extension (1). 
+### 79. Lacrimojugal ventral margin: without a posteroventral extension (0), with a posteroventral extension (1). 
 > Gess & Coates (2015), modified, Character 110.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -625,7 +625,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-80. Lacrimojugal ventral margin: linear (0), V-shaped (1), curvilinear (2), sinusoidal (3).
+### 80. Lacrimojugal ventral margin: linear (0), V-shaped (1), curvilinear (2), sinusoidal (3).
 > Gess & Coates (2015), modified, Character 110, in part.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -634,7 +634,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-81. Lacrimojugal, position of: extending only to anterior of orbit (0), extending to snout (1).
+### 81. Lacrimojugal, position of: extending only to anterior of orbit (0), extending to snout (1).
 > Cloutier (1991b), Character 64.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -643,7 +643,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-82. Lacrimojugal postorbital limb: absent (0), present (1). 
+### 82. Lacrimojugal postorbital limb: absent (0), present (1). 
 > Clement *et al.* (2024), Character 82.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -652,7 +652,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-83. Lacrimojugal postorbital limb, extent of: above midorbit level or at midorbit level (0), below midorbit level (1).
+### 83. Lacrimojugal postorbital limb, extent of: above midorbit level or at midorbit level (0), below midorbit level (1).
 > Clement *et al.* (2024), Character 83.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -661,14 +661,14 @@
 
 > - The coding of *Qujingodus* is ?.
 
-84. Preopercular and lacrimojugal (jugal), contact of: separated (0), abutting (1)
+### 84. Preopercular and lacrimojugal (jugal), contact of: separated (0), abutting (1)
 > Gess & Coates (2015), Character 114.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-85. Anterodorsal excavation in postorbital: absent (0), present (1). 
+### 85. Anterodorsal excavation in postorbital: absent (0), present (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 40; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 20.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -677,7 +677,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-86. Postorbital: without anterior process (0), with anterior process (1).
+### 86. Postorbital: without anterior process (0), with anterior process (1).
 > Cloutier (1991b), Character 62; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 41; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 21.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -686,35 +686,35 @@
 
 > - The coding of *Qujingodus* is ?.
 
-87. Postorbital, size of: large bone (0), reduced to narrow tube (1)
+### 87. Postorbital, size of: large bone (0), reduced to narrow tube (1)
 > Cloutier (1991b), Character 63; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 42; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 22.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-88. Postorbital, position of: lying wholly behind intracranial joint (0), spanning intracranial joint (1)
+### 88. Postorbital, position of: lying wholly behind intracranial joint (0), spanning intracranial joint (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 43; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 23.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-89. Infraorbital canal, trajectory of: within postorbital with simple pores opening directly from main canal (0), anterior and posterior branches within postorbital (1)
+### 89. Infraorbital canal, trajectory of: within postorbital with simple pores opening directly from main canal (0), anterior and posterior branches within postorbital (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 44; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 24.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-90. Infraorbital canal, trajectory of: running through center of postorbital (0), running along anterior margin of postorbital (1)
+### 90. Infraorbital canal, trajectory of: running through center of postorbital (0), running along anterior margin of postorbital (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 45; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 25.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-91. Jugal canal: simple (0), prominent branches (1). 
+### 91. Jugal canal: simple (0), prominent branches (1). 
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 46; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 26.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
@@ -723,21 +723,21 @@
 
 >> - The coding of *Qujingodus* is ?.
 
-92. Jugal canal, trajectory of: running through center of bone (0), running along ventral margin of squamosal (1)
+### 92. Jugal canal, trajectory of: running through center of bone (0), running along ventral margin of squamosal (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 47; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 27.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-93. Pit lines: marking cheek bones (0), not marking cheek bones (1)
+### 93. Pit lines: marking cheek bones (0), not marking cheek bones (1)
 > Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 48.
 
 > - Character XX in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Qujingodus* is ?.
 
-94. Preopercular canal: preopercular canal ends at dorsal margin of preopercular (0), does not end at dorsal margin of preopercular (1). 
+### 94. Preopercular canal: preopercular canal ends at dorsal margin of preopercular (0), does not end at dorsal margin of preopercular (1). 
 > Lu & Zhu (2009), Character 29.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
@@ -746,7 +746,7 @@
 
 > - The coding of *Qujingodus* is ?.
 
-95. Maxilla: absent (0), present (1)
+### 95. Maxilla: absent (0), present (1)
 > Friedman (2007), Character 38; Lu *et al.* (2016), Character 247, polarity; Clement et al. (2018), Character 245, polarity; Coates *et al*. (2018), Character 93, in part; Zhu Y. *et al*. (2022), Character 263, in part.
 > Lu *et al.* (2016), Character 247, polarity; Clement et al. (2018), Character 245, polarity.
 
@@ -754,7 +754,7 @@
 
 > - The coding of *Qujingodus* is 1.
 
-96. Ventral margin of maxilla: straight (0), curved (1).
+### 96. Ventral margin of maxilla: straight (0), curved (1).
 > Lu & Zhu (2009), Character 21.
 
 > - Character 265 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2009, Character 80), and references therein; Zhu *et al*. (2013), Character 181; Choo *et al*. (2017), Character 187; King *et al*. (2017), Character 201; Castiello (2018), Character 200; Zhu Y. *et al*. (2022), Character 269; Brazeau *et al*. (2023), Character 206.
@@ -763,7 +763,7 @@
 
 > - The coding of *Qujingodus* is 1.
 
-97. Posterior expansion of the maxilla: absent (0), small expansion (posterodorsal process) (1), large expansion (cleaver-shaped) (2). (ordered)
+### 97. Posterior expansion of the maxilla: absent (0), small expansion (posterodorsal process) (1), large expansion (cleaver-shaped) (2). (ordered)
 > Friedman (2007), Character 39; Lu & Zhu (2009), Character 20, polarity; Zhu *et al*. (2009, Character 79), and references therein; Zhu *et al*. (2013), Character 180; Giles *et al*. (2015), Character 90; Lu *et al.* (2016), Character 90; Choo *et al*. (2017), Character 145; King *et al*. (2017), Character 175; Clement et al. (2018), Character 89; Castiello (2018), Character 172; Zhu Y. *et al*. (2022), Character 270; Brazeau *et al*. (2023), Character 181.
 > Lu *et al.* (2016), Character 90; Clement et al. (2018), Character 89.
 > - Character 266 in 'early gnathostome phylogeny dataset', rephrased. 
@@ -772,7 +772,7 @@
 
 > - The coding of *Qujingodus* is 2.
 
-98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
+### 98. Contribution by maxilla to posterior margin of cheek: present (0), absent (1). 
 > Clement *et al.* (2024), Character 98.
 > Lu *et al.* (2016), Character 59; Clement et al. (2018), Character 58, "Extent of maxilla along cheek: to posterior margin of cheek (0), cheek bones exclude maxilla from posterior margin of cheek (1)".
 > - Character 267 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2009, Character 81), and references therein; Zhu *et al*. (2013), Character 182; Giles *et al*. (2015), Character 59; Lu *et al.* (2016), Character 59; Choo *et al*. (2017), Character 146; King *et al*. (2017), Character 176; Clement et al. (2018), Character 58; Castiello (2018), Character 173; Zhu Y. *et al*. (2022), Character 271; Brazeau *et al*. (2023), Character 182.
@@ -781,7 +781,7 @@
 
 > - The coding of *Qujingodus* is 0.
 
-99. Cheek bones, ornament of: absent or with very fine tuberculation (0), tubercular (1), represented as a coarse superficial rugosity (2), ridged (3).
+### 99. Cheek bones, ornament of: absent or with very fine tuberculation (0), tubercular (1), represented as a coarse superficial rugosity (2), ridged (3).
 > Forey (1991), Character 56, in part; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 49; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 28.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
@@ -790,7 +790,7 @@
 
 > - The coding of *Qujingodus* is 0.
 
-100. Openings for infraorbital jugal and preopercular sensory canals: many small pores (0), few large pores (1), large and continuous grooves crossed by pillars (2).
+### 100. Openings for infraorbital jugal and preopercular sensory canals: many small pores (0), few large pores (1), large and continuous grooves crossed by pillars (2).
 > Forey (1998), modified, Clément (2005), modified, Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), modified, Zhu *et al.* (2012), Graf (2012), modified, Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), modified, Arratia & Schultze (2015), modified, Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), modified, Renesto & Stockar (2018), modified, Toriño *et al.* (2021), modified, Character 50; Cavin *et al.* (2019), Cavin *et al.* (2020), Character 29.
 
 > - Character XX in 'early gnathostome phylogeny dataset'. 
@@ -3940,6 +3940,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
