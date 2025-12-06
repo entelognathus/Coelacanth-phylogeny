@@ -20,7 +20,8 @@
 ### 2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
 > Cloutier (1991a), Character 6, in part; Cloutier (1991b), Character 6, in part; Zhu *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291; Clement *et al.* (2024), Character 2.
 
-> - Character 166 in 'early gnathostome phylogeny dataset'. 
+> - Character 166 in 'early gnathostome phylogeny dataset'.
+> - Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291. Cui *et al*. (2023), Character 170; Lu *et al*. (2026), Character 166; Zhu Y. *et al*. (2026), Character 166. **看一下我在特征171中的批注。**
 
 > - Clement *et al.* (2024) stated that the three states of this character form a morphocline, and set them ‘ordered’，We consider this morphocline unclear and retain the three states 'unordered'. **to Xm: The comments like this should be included in your SI.**
 
@@ -4027,6 +4028,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
