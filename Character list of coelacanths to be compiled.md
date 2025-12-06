@@ -2,33 +2,6 @@
 ## Characters 1-268 are from Clement *et al.* (2024); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
 > - Multistate characters that formed clear morphoclines (characters 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, 258, 383, 420, 510, 512, and 516) were treated as ordered; others were treated as unordered.
 
-> Ca, Cloutier (1991a),
-> Cb, Cloutier (1991b),
-> Fa, Forey (1991),
-> Fb, Forey (1998),
-> C, Clément (2005),
-> F&C, Friedman & Coates (2006),
-> FR, Friedman (2007),
-> Y, Yabumoto (2008),
-> G, Geng et al. (2009),
-> L&Z, Lu & Zhu (2009),
-> W, Wendruff (2011),
-> W&W, Wendruff & Wilson (2012),
-> Da, Dutel et al. (2012),
-> Z, Zhu et al. (2012),
-> GR, Graf (2012),
-> WE, Wen et al. (2013),
-> CAa, Cavin et al. (2013),
-> C&G, Cavin & Grădinaru (2014),
-> A&S, Arratia & Schultze (2015),
-> G&C, Gess & Coates (2015),
-> Db, Dutel et al. (2015),
-> CAb, Cavin et al. (2017),
-> R&S, Renesto & Stockar (2018),
-> CAc, Cavin et al. (2019),
-> CAd, Cavin et al. (2020),
-> T, Toriño et al. (2021).
-
 ## Skeletal tissues
 1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
 > Forey (1998), character 2; Friedman & Coates (2006),  character 2; Yabumoto (2008), character 2; Geng *et al.* (2009), character 2; Wendruff (2011), character 2; Wendruff & Wilson (2012), character 2; Dutel *et al.* (2012), character 2; Zhu *et al.* (2012), character 2; Graf (2012), character 2; Wen *et al.* (2013),character 2; Cavin *et al.* (2013), character 2; Cavin & Grădinaru (2014), character 2; Arratia & Schultze (2015), character 2; Gess & Coates (2015), character 2; Dutel *et al.* (2015), character 2; Cavin *et al.* (2017), character 2, modified; Renesto & Stockar (2018), character 2; Cavin *et al.* (2019), character 2, modified; Toriño *et al.* (2021), character 2.
@@ -3610,8 +3583,6 @@
 541. Supratemporal contact with postparietal: absent (0), present (1).
 > - **New character?**
 
-
-
 ## charaters 569-581 are meristic characters.
 The list of 14 meristic characters provides the reference to character numbers used in previous publications: Ca, Cloutier (1991a), Cb, Cloutier (1991b), Fa, Forey (1991), Fb, Forey (1998), C, Clément (2005), F&C, Friedman & Coates (2006), Y, Yabumoto (2008), G, Geng et al. (2009), W, Wendruff (2011), W&W, Wendruff & Wilson (2012), Da, Dutel et al. (2012), Z, Zhu et al. (2012), GR, Graf (2012), WE, Wen et al. (2013), CAa, Cavin et al. (2013), C&G, Cavin & Grădinaru (2014), A&S, Arratia & Schultze (2015), G&C, Gess & Coates (2015), Db, Dutel et al. (2015), CAb, Cavin et al. (2017), R&S, Renesto & Stockar (2018), CAc, Cavin et al. (2019), CAd, Cavin et al. (2020), T, Toriño et al. (2021).
 
@@ -3717,6 +3688,33 @@ The list of 14 meristic characters provides the reference to character numbers u
 639. Caudal fin length / pre-caudal length: [6, 2] / [1, 6]
 640. Supplementary lobe length / caudal fin length: [8, 2] / [6, 2]
 
+
+> Ca, Cloutier (1991a),
+> Cb, Cloutier (1991b),
+> Fa, Forey (1991),
+> Fb, Forey (1998),
+> C, Clément (2005),
+> F&C, Friedman & Coates (2006),
+> FR, Friedman (2007),
+> Y, Yabumoto (2008),
+> G, Geng et al. (2009),
+> L&Z, Lu & Zhu (2009),
+> W, Wendruff (2011),
+> W&W, Wendruff & Wilson (2012),
+> Da, Dutel et al. (2012),
+> Z, Zhu et al. (2012),
+> GR, Graf (2012),
+> WE, Wen et al. (2013),
+> CAa, Cavin et al. (2013),
+> C&G, Cavin & Grădinaru (2014),
+> A&S, Arratia & Schultze (2015),
+> G&C, Gess & Coates (2015),
+> Db, Dutel et al. (2015),
+> CAb, Cavin et al. (2017),
+> R&S, Renesto & Stockar (2018),
+> CAc, Cavin et al. (2019),
+> CAd, Cavin et al. (2020),
+> T, Toriño et al. (2021).
 
 Series of paired median skull roofing bones that meet at the dorsal midline of the skull (rectilinear skull roof pattern): absent (0), present (1).
 > Lu *et al.* (2016), character 43; no in Clement et al. (2018).
@@ -3998,5 +3996,6 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
