@@ -1,5 +1,5 @@
 ﻿# Character List of the coelacanth clade.
-## Characters 1-268 are from Clement et al. (in review); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
+## Characters 1-268 are from Clement *et al.* (2024); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
 > - Multistate characters that formed clear morphoclines (characters 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, 258, 383, 420, 510, 512, and 516) were treated as ordered; others were treated as unordered.
 
 > Ca, Cloutier (1991a),
@@ -3998,4 +3998,5 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
