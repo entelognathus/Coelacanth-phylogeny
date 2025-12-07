@@ -3321,7 +3321,7 @@
 > Coates & Sequeira (2001a, b); Brazeau (2009); Davis *et al*. (2012), Character 137; Lu *et al.* (2016), Character 232; Choo *et al*. (2017), Character 133; King *et al*. (2017), Character 466; Castiello (2018), Character 455; Clement *et al*. (2018), Character 230; Andreev *et al*. (2022), Character 230; Zhu Y. *et al*. (2022), Character 659; Cui *et al*. (2023), Character 658; Lu *et al*. (2026), Character 653; Zhu Y. *et al*. (2026), Character 653.
 
 > - Character 653 in 'early gnathostome phylogeny dataset'.
-> - > - Osteichthyans are coded as "1";
+> - Osteichthyans are coded as "1".
 
 ### 485. Basal plate in anal fin: absent (0), present (1).
 > Friedman & Brazeau (2010), Character 42; Giles *et al*. (2015), Character 233; Lu *et al.* (2016), Character 233; Choo *et al*. (2017), Character 323; King *et al*. (2017), Character 478; Castiello (2018), Character 467; Clement *et al*. (2018), Character 231; Zhu Y. *et al*. (2022), Character 660; Andreev *et al*. (2022), Character 231; Brazeau *et al*. (2023), Character 483; Cui *et al*. (2023), Character 659; Lu *et al*. (2026), Character 654; Zhu Y. *et al*. (2026), Character 654.
@@ -3414,8 +3414,8 @@
 ### 501. Mandibular sensory canal: extends through infradentaries (0), extends through infradentaries and dentary (1).
 > Zhu  *et al*. (2009), Character 120, and references therein; Zhu *et al*. (2013), Character 218; Lu *et al.* (2016), Character 251; King *et al*. (2017), Character 299; Choo *et al*. (2017), Character 218; Coates *et al*. (2018), Character 94; Castiello (2018), Character 290; Clement *et al*. (2018), Character 249; Zhu Y. *et al*. (2022), Character 307; Andreev *et al*. (2022), Character 249; Brazeau *et al*. (2023), Character 304; Cui *et al*. (2023), Character 307; Lu *et al*. (2026), Character 303; Zhu Y. *et al*. (2026), Character 303.
 
-> - Character 303 in 'early gnathostome phylogeny dataset'.**The states are inverse!!!**
-> - In actinopterygians is (1), e.g., *Cheirolepis* and *Moythomasia*.
+> - Character 303 in 'early gnathostome phylogeny dataset'. Note the reversed states.
+> - The state 1 is in actinopterygians, e.g., *Cheirolepis* and *Moythomasia*.
 
 ### 502. Extensive flange composed of prearticular and Meckelian bone that extends beyond ventral edge of outer dermal series: absent (0), present (1).
 > Lu *et al.* (2016), Character 252; Choo *et al*. (2017), Character 330; King *et al*. (2017), Character 352; Lu *et al*. (2017), Character 252; Castiello (2018), Character 344; Clement *et al*. (2018), Character 250; Zhu Y. *et al*. (2022), Character 299; Andreev *et al*. (2022), Character 250; Brazeau *et al*. (2023), Character 357; Cui *et al*. (2023), Character 299; Lu *et al*. (2026), Character 295; Zhu Y. *et al*. (2026), Character 295.
@@ -4027,6 +4027,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
