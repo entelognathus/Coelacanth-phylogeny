@@ -1,22 +1,14 @@
 ﻿# Character List of the coelacanth clade (onychodontids plus conventionally defined coelacanths)
-## Characters 1-268 are from Clement *et al.* (2024); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Character 533-540 are from Mondéjar-Fernánde (2020).
+## Characters 1-268 are from Clement *et al.* (2024); Characters 269-532 are from Lu et al. (2016), Clement et al. (2018); Characters 533-540 are from Mondéjar-Fernánde (2020).
 > - Multistate characters that formed clear morphoclines (characters 6, 8, 10, 15-16, 23, 26, 36, 53, 60, 74, 76, 97, 100, 110, 112, 135, 137, 208, 218, 224, 227, 240, 258, 383, 420, 510, 512, and 516) were treated as ordered; others were treated as unordered.
-
-## To xm: 按照我下面的方式仔细编辑相应内容，这样曲靖齿鱼所要用的SI有关character list的部分就不是一个简单的list，每个特征都有具体出处。有些特征会有一些comments. 引用特征出处，按出版年份排序。两篇文章之间统一用分号，最后结束用点号。逗号和分号之后，该空一格就空一格。最后再对照引用过的文献将reference编辑一下。
-## To xm: 我在批注中提出的建议或问题，你认为已明白或已被解决，你可以删去这些批注以保持整体版本的清洁。
-## 看一下我在特征171中的批注。这个活看看谁能帮你一下。
 
 ## Skeletal tissues
 ### 1. Snout bones: separate from one another (0), consolidated edentulous (1), consolidated toothed (2).
 > Forey (1998), Character 2; Friedman & Coates (2006), Character 2; Yabumoto (2008), Character 2; Geng *et al.* (2009), Character 2; Wendruff (2011), Character 2; Wendruff & Wilson (2012), Character 2; Dutel *et al.* (2012), Character 2; Zhu *et al.* (2012), Character 2; Graf (2012), Character 2; Wen *et al.* (2013),Character 2; Cavin *et al.* (2013), Character 2; Cavin & Grădinaru (2014), Character 2; Arratia & Schultze (2015), Character 2; Gess & Coates (2015), Character 2; Dutel *et al.* (2015), Character 2; Cavin *et al.* (2017), Character 2, modified; Renesto & Stockar (2018), Character 2; Cavin *et al.* (2019), Character 2, modified; Toriño *et al.* (2021), Character 2; Clement *et al.* (2024), Character 1.
-
-> - Character XX in 'early gnathostome phylogeny dataset'. **to Xm: The contents like this will be deleted in your SI, but keep it here for a cross-check.**
-
-> - Clement *et al.* (2024): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin *et al*. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones." **to Xm: The citation like this will be deleted in your SI.**
-
-> -  Clement *et al.* (2024) stated that the three states of this character form a morphocline, and set them ‘ordered’，We consider this morphocline unclear and retain the three states 'unordered'. Alternatively, this character can be split into two characters: condition of snout bones (separate from one another vs consolidated); condition of consolidated snout bones (edentulous vs toothed). **to Xm: The comments like this should be included in your SI.**
-
-> - The coding of *Qujingodus* is 1. **to Xm: this line is for quick check.**
+> - Character XX in 'early gnathostome phylogeny dataset'.
+> - Clement *et al.* (2024): "Character 1 was originally defined by Forey (1998, char. 2). Subsequently, Cavin *et al*. (2017, char. 2) considered an additional character-state for the consolidated condition of snout bones."
+> -  Clement *et al.* (2024) stated that the three states of this character form a morphocline, and set them ‘ordered’，We consider this morphocline unclear and retain the three states 'unordered'. Alternatively, this character can be split into two characters: condition of snout bones (separate from one another vs consolidated); condition of consolidated snout bones (edentulous vs toothed).
+> - The coding of *Qujingodus* is 1.
 
 ### 2. Ethmoid commissure, trajectory of: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2).
 > - Cloutier (1991a), Character 6, in part; Cloutier (1991b), Character 6, in part; Zhu  *et al*. (2009, Character 105), and references therein; Zhu *et al*. (2013), Character 183; Choo *et al*. (2017), Character 188; King *et al*. (2017), Character 286; Castiello (2018), Character 278; Zhu Y. *et al*. (2022), Character 170; Brazeau *et al*. (2023), Character 291. Cui *et al*. (2023), Character 170;  Clement *et al.* (2024), Character 2; Lu *et al*. (2026), Character 166; Zhu Y. *et al*. (2026), Character 166.
@@ -4022,6 +4014,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
