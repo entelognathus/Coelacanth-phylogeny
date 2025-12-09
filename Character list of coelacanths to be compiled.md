@@ -1347,7 +1347,7 @@
 > - The coding of *Qujingodus* is 0.
 
 ### 156. Olfactory tracts: short diverging at the level or anterior to the ethmoid process (0), long diverging posterior to the level of the ethmoid process (closer to the optic foramen) (1)
-> Lu *et al.* (2016), Character 117; Clement et al. (2018), Character 116; Clement *et al.* (2024), Character 156. 
+> Zhu *et al*. (2009); Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 57; Lu *et al.* (2016), Character 117; Choo *et al*. (2017), Character 56. King *et al*. (2017), Character 21; Castiello (2018), Character 21; Clement et al. (2018), Character 116; Zhu Y. *et al*. (2022), Character 385; Andreev *et al*. (2022), Character 116; Brazeau *et al*. (2023), Character 24; Cui *et al*. (2023), Character 385; Clement *et al.* (2024), Character 156; Lu *et al*. (2026), Character 381; Zhu Y. *et al*. (2026), Character 381. 
 
 > - Character 381 in 'early gnathostome phylogeny dataset'.
 
@@ -1368,7 +1368,7 @@
 > - The coding of *Qujingodus* is 0.
 
 ### 159. Fenestra ventralis: absent (0), present (1).
-> Friedman (2007), Character 93, in part; Lu & Zhu (2009), Character 11; Clement *et al.* (2024), Character 159.
+> Friedman (2007), Character 93, in part; Zhu *et al*. (2009), Character 34, and references therein; Lu & Zhu (2009), Character 11; Zhu *et al*. (2013), Character 220; Choo *et al*. (2017), Character 219; Zhu Y. *et al*. (2022), Character 383; Cui *et al*. (2023), Character 383; Clement *et al.* (2024), Character 159; Lu *et al*. (2026), Character 379; Zhu Y. *et al*. (2026), Character 379.
 
 > - Character 379 in 'early gnathostome phylogeny dataset'.
 
@@ -1384,7 +1384,7 @@
 > - The coding of *Qujingodus* is 1.
 
 ### 161. Ethmoid articulation for palatoquadrate: placed on postnasal wall (0), majority of facet located anterior to postnasal wall (1). 
-> Friedman (2007), Character 172; Clement *et al.* (2024), Character 161.
+> Friedman (2007), Character 172; Zhu *et al*. (2009), Character 35, and references therein; Zhu *et al*. (2013), Character 221; Choo *et al*. (2017), Character 242; King *et al*. (2017), Character 72; Castiello (2018), Character 74; Zhu Y. *et al*. (2022), Character 389; Brazeau *et al*. (2023), Character 76; Cui *et al*. (2023), Character 389; Clement *et al.* (2024), Character 161; Lu *et al*. (2026), Character 385; Zhu Y. *et al*. (2026), Character 385.
 
 > - Character 385 in 'early gnathostome phylogeny dataset'.
 
@@ -1393,9 +1393,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 162. Eye stalk or unfinished area for similar structure: present (0), absent (1). 
-> Zhu & Yu (2002), Character 109; Friedman (2007), Character 95, polarity; Lu *et al.* (2016), Character 131; Clement *et al*. (2018), Character 130; Clement *et al.* (2024), Character 162.
-
-> Lu *et al.* (2016), Character 131; Clement et al. (2018), Character 130.
+> Zhu & Yu (2002), Character 109; Friedman (2007), Character 95, polarity; Zhu *et al*. (2009), Character 36, and references therein; Zhu *et al*. (2013), Character 222; Giles *et al*. (2015), Character 131; Lu *et al.* (2016), Character 131; Choo *et al*. (2017), Character 149; King *et al*. (2017), Character 62; Castiello (2018), Character 63; Clement *et al*. (2018), Character 130; Zhu Y. *et al*. (2022), Character 402; Andreev *et al*. (2022), Character 130; Brazeau *et al*. (2023), Character 66; Cui *et al*. (2023), Character 402; Clement *et al.* (2024), Character 162; Lu *et al*. (2026), Character 398; Zhu Y. *et al*. (2026), Character 398.
 
 > - Character 398 in 'early gnathostome phylogeny dataset'.
 
@@ -1418,9 +1416,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 165 Basipterygoid process: present (0), absent (1)
-> Cloutier (1991a), Cloutier (1991b), Character 36; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 72; Clement *et al.* (2024), Character 165.
-
-> Lu *et al.* (2016), Character 149, polarity; Clement et al. (2018), Character 148, polarity.
+> Cloutier (1991a), Cloutier (1991b), Character 36; Forey (1998), polarity, Clément (2005), polarity, Friedman & Coates (2006), polarity, Yabumoto (2008), polarity, Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), polarity, Zhu *et al.* (2012), polarity, Graf (2012), polarity, Wen *et al.* (2013), polarity, Cavin *et al.* (2013), Cavin & Grădinaru (2014), polarity, Arratia & Schultze (2015), polarity, Gess & Coates (2015), polarity, Dutel *et al.* (2015), polarity, Cavin *et al.* (2017), polarity, Renesto & Stockar (2018), polarity, Toriño *et al.* (2021), polarity, Character 72; Davis *et al*. (2012), Character 83; Lu *et al.* (2016), Character 149, polarity; Choo *et al*. (2017), Character 82; King *et al*. (2017), Character 45; Castiello (2018), Character 45; Clement et al. (2018), Character 148, polarity; Zhu Y. *et al*. (2022), Character 442; Andreev *et al*. (2022), Character 148; Brazeau *et al*. (2023), Character 48; Cui *et al*. (2023), Character 442; Clement *et al.* (2024), Character 165; Lu *et al*. (2026), Character 437; Zhu Y. *et al*. (2026), Character 437.
 
 > - Character 437 in 'early gnathostome phylogeny dataset', polarity, "Basipterygoid process (basal articulation) with vertically oriented component: absent (0), present (1)."
 
@@ -1466,17 +1462,16 @@
 > - The coding of *Qujingodus* is 1.
 
 ### 171. Vestibular fontanelle: absent (0), present (1). 
-> Friedman (2007), Character 180; Lu *et al.* (2016), Character 171; Clement *et al*. (2018), Character 169; Clement *et al.* (2024), Character 171.
+> Friedman (2007), Character 180; Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 98; Lu *et al.* (2016), Character 171; Choo *et al*. (2017), Character 94; King *et al*. (2017), Character 56; Castiello (2018), Character 57; Clement *et al*. (2018), Character 169; Zhu Y. *et al*. (2022), Character 495; Andreev *et al*. (2022), Character 169; Brazeau *et al*. (2023), Character 60; Cui *et al*. (2023), Character 494; Clement *et al.* (2024), Character 171; Lu *et al*. (2026), Character 489; Zhu Y. *et al*. (2026), Character 489.
 
-> - Character 489 in 'early gnathostome phylogeny dataset'.
-> - Brazeau (2009); Friedman & Brazeau (2010); Davis *et al*. (2012), Character 98; Choo *et al*. (2017), Character 94; King *et al*. (2017), Character 56; Castiello (2018), Character 57; Zhu Y. *et al*. (2022), Character 495; Andreev *et al*. (2022), Character 169; Brazeau *et al*. (2023), Character 60. Cui *et al*. (2023), Character 494; Lu *et al*. (2026), Character 489; Zhu Y. *et al*. (2026), Character 489. **to xm: 对于完全一样的特征，你可以将early gnathstome矩阵里面的文献，融合到上面文献清单中.** 
+> - Character 489 in 'early gnathostome phylogeny dataset'. 
 
 > - Clement *et al.* (2024): "The vestibular fontanelle is a large basicranial fenestra located ventrally to the notochord and that opens into the saccular region of the inner ear. The fenestra ovalis present in tetrapods is derived from the vestibular fontanelle (Clack, 1994)."
 
 > - The coding of *Qujingodus* is XX.
 
 ### 172. Posttemporal fossae: absent (0), present (1)
-> Friedman (2007), Character 103; Clement *et al.* (2024), Character 172.
+> Friedman (2007), Character 103; King *et al*. (2017), Character 106; Castiello (2018), Character 106; Zhu Y. *et al*. (2022), Character 515; Brazeau *et al*. (2023), Character 110; Brazeau *et al*. (2023), Character 110; Cui *et al*. (2023), Character 514; Clement *et al.* (2024), Character 172; Lu *et al*. (2026), Character 509; Zhu Y. *et al*. (2026), Character 509.
 
 > - Character 509 in 'early gnathostome phylogeny dataset'.
 
@@ -1600,7 +1595,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 188. Suprapterygoid process: absent (0), present (1)
-> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 80; Clement *et al.* (2024), Character 188.
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 80; King *et al*. (2017), Character 109; Castiello (2018), Character 109; Zhu Y. *et al*. (2022), Character 518; Brazeau *et al*. (2023), Character 113; Cui *et al*. (2023), Character 517; Clement *et al.* (2024), Character 188; Lu *et al*. (2026), Character 512; Zhu Y. *et al*. (2026), Character 512.
 
 > - Character 512 in 'early gnathostome phylogeny dataset'.
 
@@ -1691,7 +1686,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 201. Hyomandibular proximal articular facet: single headed (0), double headed (1)
-> Friedman (2007), Character 84; Lu & Zhu (2009), Character 13; Clement *et al.* (2024), Character 201.
+> Zhu *et al*. (2009), Character 44 and references therein; Friedman (2007), Character 84; Lu & Zhu (2009), Character 13; Zhu *et al*. (2013), Character 227; Giles *et al*. (2015), Character 155; Choo *et al*. (2017), Character 150; King *et al*. (2017), Character 63; Castiello (2018), Character 65; Zhu Y. *et al*. (2022), Character 449; Andreev *et al*. (2022), Character 163; Brazeau *et al*. (2023), Character 67; Cui *et al*. (2023), Character 449; Clement *et al.* (2024), Character 201; Lu *et al*. (2026), Character 444; Zhu Y. *et al*. (2026), Character 444.
 
 > - Character 444 in 'early gnathostome phylogeny dataset'.
 
@@ -1758,9 +1753,9 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 210. Anocleithrum: subdermal (0), dermal (1)
-> Clement *et al.* (2024), Character 210.
+> King *et al*. (2017), Character 446; Castiello (2018), Character 435; Zhu Y. *et al*. (2022), Character 600; Brazeau *et al*. (2023), Character 451; Cui *et al*. (2023), Character 599; Clement *et al.* (2024), Character 210; Lu *et al*. (2026), Character 594; Zhu Y. *et al*. (2026), Character 594.
 
-> - Character 594 in 'early gnathostome phylogeny dataset', polarity. King *et al*. (2017), Character 446; Castiello (2018), Character 435; Zhu Y. *et al*. (2022), Character 600; Brazeau *et al*. (2023), Character 451.
+> - Character 594 in 'early gnathostome phylogeny dataset', polarity.
 
 > - The coding of *Qujingodus* is ?.
 
@@ -1788,9 +1783,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 214. Dorsal end of cleithrum, shape of: pointed (0), broad and rounded (1)
-> Friedman (2007), Character 107; Lu *et al.* (2016), Character 183; Clement et al. (2018), Character 181; Clement *et al.* (2024), Character 214.
-
-> Lu *et al.* (2016), Character 183; Clement et al. (2018), Character 181.
+> Cloutier & Ahlberg (1996), Character 115; Schultze & Cumbaa (2001), Character 94; Zhu & Schultze (2001), Character 164; Zhu *et al*. (2001), Character 122; Zhu & Yu (2002), Character 122; Cloutier & Arratia (2004), Character 148; Zhu *et al*. (2006), Character 96; Friedman (2007), Character 107; Zhu *et al*. (2009), Character 124; Giles *et al*. (2015), Character 183; Lu *et al.* (2016), Character 183; Choo *et al*. (2017), Character 307; King *et al*. (2017), Character 435; Castiello (2018), Character 424; Clement et al. (2018), Character 181; Zhu Y. *et al*. (2022), Character 585; Andreev *et al*. (2022), Character 155; Brazeau *et al*. (2023), Character 440. Cui *et al*. (2023), Character 584; Clement *et al.* (2024), Character 214; Lu *et al*. (2026), Character 579; Zhu Y. *et al*. (2026), Character 579.
 
 > - Character 579 in 'early gnathostome phylogeny dataset'.
 
@@ -1806,7 +1799,7 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 216. Extracleithrum: absent (0), present (1)
-> Cloutier (1991a), Cloutier (1991b), Character 40; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 88; Clement *et al.* (2024), Character 216.
+> Cloutier (1991a), Cloutier (1991b), Character 40; Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng *et al.* (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 88; King *et al*. (2017), Character 448; Castiello (2018), Character 437; Zhu Y. *et al*. (2022), Character 602; Brazeau *et al*. (2023), Character 453. Cui *et al*. (2023), Character 601; Clement *et al.* (2024), Character 216; Lu *et al*. (2026), Character 596; Zhu Y. *et al*. (2026), Character 596.
 
 > - Character 596 in 'early gnathostome phylogeny dataset'.
 
