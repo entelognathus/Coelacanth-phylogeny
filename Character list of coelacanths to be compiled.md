@@ -2983,7 +2983,7 @@
 ### 427. Ventral notch between parachordals: present or entirely unfused (0), absent (1).
 > Brazeau (2009); Davis *et al*. (2012), Character 101; Lu *et al.* (2016), Character 174; Choo *et al*. (2017), Character 97; King *et al*. (2017), Character 59; Castiello (2018), Character 60; Clement *et al*. (2018), Character 172; Zhu Y. *et al*. (2022), Character 553; Andreev *et al*. (2022), Character 172; Brazeau *et al*. (2023), Character 63; Cui *et al*. (2023), Character 552; Lu *et al*. (2026), Character 547; Zhu Y. *et al*. (2026), Character 547.
 
-> - Character 547 in 'early gnathostome phylogeny dataset'.
+> - Character 547 in 'early gnathostome phylogeny dataset', states are reversed.
 
 ### 428. Parachordal shape: forming a broad, flat surface as wide as the otic capsules (0), mediolaterally constricted relative to the otic capsules (1).
 > Brazeau (2009), Character 98; Davis *et al*. (2012), Character 102; Lu *et al.* (2016), Character 175; Choo *et al*. (2017), Character 98; King *et al*. (2017), Character 60; Castiello (2018), Character 61; Clement *et al*. (2018), Character 173; Zhu Y. *et al*. (2022), Character 552; Andreev *et al*. (2022), Character 173; Brazeau *et al*. (2023), Character 64; Cui *et al*. (2023), Character 551; Lu *et al*. (2026), Character 546; Zhu Y. *et al*. (2026), Character 546.
@@ -3008,7 +3008,7 @@
 ### 432. Canal for median dorsal aorta within basicranium: absent (0), present (1).
 > Lu *et al.* (2016), Character 179; Clement et al. (2018), Character 177.
 
-> - Character 492 (in part) in 'early gnathostome phylogeny dataset'.
+> - Character xx in 'early gnathostome phylogeny dataset'.
 
 ### 433. Hypotic lamina (and dorsally directed glossopharyngeal canal): absent (0), present (1).
 > Schaeffer (1981); Maisey (2001); Brazeau (2009); Davis *et al*. (2012), Character 103; Lu *et al.* (2016), Character 180; Choo *et al*. (2017), Character 99; King *et al*. (2017), Character 61; Castiello (2018), Character 62; Clement *et al*. (2018), Character 178; Zhu Y. *et al*. (2022), Character 496; Andreev *et al*. (2022), Character 178; Brazeau *et al*. (2023), Character 65; Cui *et al*. (2023), Character 495; Lu *et al*. (2026), Character 490; Zhu Y. *et al*. (2026), Character 490.
@@ -3153,7 +3153,7 @@
 ### 461. Pelvic claspers: absent (0), present (1).
 > Lu *et al.* (2016), Character 209; Clement et al. (2018), Character 207.
 
-> - Character 638 in 'early gnathostome phylogeny dataset'.
+> - Character xx in 'early gnathostome phylogeny dataset'.
 
 ### 462. Dermal pelvic clasper ossifications: absent (0), present (1).
 > Brazeau (2009); Davis *et al*. (2012), Character 123; Lu *et al.* (2016), Character 210; Choo *et al*. (2017), Character 119; King *et al*. (2017), Character 396; Castiello (2018), Character 386; Clement *et al*. (2018), Character 208; Andreev *et al*. (2022), Character 208; Zhu Y. *et al*. (2022), Character 644; Cui *et al*. (2023), Character 643; Lu *et al*. (2026), Character 638; Zhu Y. *et al*. (2026), Character 638.
@@ -3519,7 +3519,7 @@
 ### 532. Pituitary vein canal: discontinuous, enters the cranial cavity (0), discontinuous, enters hypophysial recess (1), continuous transverse vein (1).
 > Clement *et al*. (2018), Character 282.
 
-> - Character 439 in 'early gnathostome phylogeny dataset'. 
+> - Character xx in 'early gnathostome phylogeny dataset'. 
 
 ### 533. Parietal portion of skull roof relative to postparietal portion in length: parietal portion roughly as long as postparietal portion (0), parietal portion much longer postparietal portion (1), parietal portion much shorter than postparietal portion (2).
 > Mondéjar-Fernánde (2020), Character 26.
@@ -3976,6 +3976,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
