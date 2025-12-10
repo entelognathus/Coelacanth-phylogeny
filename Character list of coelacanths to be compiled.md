@@ -3561,8 +3561,9 @@
 
 > - Character 518 in 'early gnathostome phylogeny dataset'.**The states are different. Check it.**
 
-### 541. Supratemporal contact with postparietal: absent (0), present (1).
-> - **New character?**
+### 541. Supratemporal in contact with postparietal: absent (0), present (1).
+> King et al. (2017), Character 273; Castiello (2018), Character 267; Zhu Y. et al. (2022), Character 104; Brazeau et al. (2023), Character 278. Cui et al. (2023), Character 104; Lu et al. (2026), Character 102; Zhu Y. et al. (2026), Character 102.
+> - Character 102 in 'early gnathostome phylogeny dataset'.
 
 ## charaters 569-581 are meristic characters.
 The list of 14 meristic characters provides the reference to character numbers used in previous publications: Ca, Cloutier (1991a), Cb, Cloutier (1991b), Fa, Forey (1991), Fb, Forey (1998), C, Clément (2005), F&C, Friedman & Coates (2006), Y, Yabumoto (2008), G, Geng et al. (2009), W, Wendruff (2011), W&W, Wendruff & Wilson (2012), Da, Dutel et al. (2012), Z, Zhu et al. (2012), GR, Graf (2012), WE, Wen et al. (2013), CAa, Cavin et al. (2013), C&G, Cavin & Grădinaru (2014), A&S, Arratia & Schultze (2015), G&C, Gess & Coates (2015), Db, Dutel et al. (2015), CAb, Cavin et al. (2017), R&S, Renesto & Stockar (2018), CAc, Cavin et al. (2019), CAd, Cavin et al. (2020), T, Toriño et al. (2021).
@@ -3976,6 +3977,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
