@@ -256,9 +256,8 @@
 > - The coding of *Qujingodus* is ?.
 
 ### 44. Anterior pit line: absent (0), present (1)
-> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 24; Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Zhu Y. *et al*. (2022), Character 163; Andreev *et al*. (2022), Character 34; Brazeau *et al*. (2023), Character 307. Cui *et al*. (2023), Character 163; Clement *et al.* (2024), Character 44; Lu *et al*. (2026), Character 159; Zhu Y. *et al*. (2026), Character 159.
+> Forey (1998), Clément (2005), Friedman & Coates (2006), Yabumoto (2008), Geng et al. (2009), Wendruff (2011), Wendruff & Wilson (2012), Dutel *et al.* (2012), Zhu *et al.* (2012), Graf (2012), Wen *et al.* (2013), Cavin *et al.* (2013), Cavin & Grădinaru (2014), Arratia & Schultze (2015), Gess & Coates (2015), Dutel *et al.* (2015), Cavin *et al.* (2017), Renesto & Stockar (2018), Toriño *et al.* (2021), Character 24; Giles *et al*. (2015), Character 34; Choo *et al*. (2017), Character 267; King *et al*. (2017), Character 302; Castiello (2018), Character 293; Lu *et al.* (2016), Character 34; Clement et al. (2018), Character 34; Zhu Y. *et al*. (2022), Character 163; Andreev *et al*. (2022), Character 34; Brazeau *et al*. (2023), Character 307. Cui *et al*. (2023), Character 163; Clement *et al.* (2024), Character 44; Lu *et al*. (2026), Character 159; Zhu Y. *et al*. (2026), Character 159.
 > - Character 159 in 'early gnathostome phylogeny dataset'.
-> - Lu *et al.* (2016), Character 34; Clement et al. (2018), Character 34.
 > - The coding of *Qujingodus* is 1.
 
 ### 45. Position of anterior pit line: on postparietal (0), on parietal (1). 
@@ -958,9 +957,9 @@
 > - The coding of *Qujingodus* is ?.
 
 129. Mandibular canal, trajectory of: not passing through most posterior infradentary (0), passing through most posterior infradentary (1). 
-> Friedman (2007), Character 68; Lu & Zhu (2009), Character 31; Clement *et al.* (2024), Character 129.
+> Friedman (2007), Character 68; Lu & Zhu (2009), Character 31; Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Brazeau *et al*. (2023), Character 303; Clement *et al.* (2024), Character 129.
 
-> - Character 707 in 'early gnathostome phylogeny dataset'. Zhu *et al*. (2013), Character 217; King *et al*. (2016), Character 298; Castiello (2018), Character 289; Brazeau *et al*. (2023), Character 303.
+> - Character 707 in 'early gnathostome phylogeny dataset'.
 
 > - Clement *et al.* (2024): "Zhu & Yu (2002, char. 80), Zhu & Yu (2004) and Friedman (2007, char. 68) used the trajectory of the mandibular canal in relation to the posteriormost infradentary to address the phylogenetic position among sarcopterygians as well as basal forms of actinistians such as *Styloichthys*."
 
@@ -2253,7 +2252,7 @@
 > - Character 132 in 'early gnathostome phylogeny dataset'.
 
 ### 309. Broad supraorbital vaults: absent (0), present (1).
-> ennis and Miles, 1981, Character 16; Giles *et al*. (2015), Character 44; Lu *et al.* (2016), Character 44; Choo *et al*. (2017), Character 271; King *et al*. (2017), Character 200; Castiello (2018), Character 208; Clement *et al*. (2018), Character 43; Zhu Y. *et al*. (2021), Character 42; Zhu Y. *et al*. (2022), Character 135; Andreev *et al*. (2022), Character 44; Brazeau *et al*. (2023), Character 214; Cui *et al*. (2023), Character 135; Lu *et al*. (2026), Character 133; Zhu Y. *et al*. (2026), Character 133.
+> Dennis and Miles, 1981, Character 16; Giles *et al*. (2015), Character 44; Lu *et al.* (2016), Character 44; Choo *et al*. (2017), Character 271; King *et al*. (2017), Character 200; Castiello (2018), Character 208; Clement *et al*. (2018), Character 43; Zhu Y. *et al*. (2021), Character 42; Zhu Y. *et al*. (2022), Character 135; Andreev *et al*. (2022), Character 44; Brazeau *et al*. (2023), Character 214; Cui *et al*. (2023), Character 135; Lu *et al*. (2026), Character 133; Zhu Y. *et al*. (2026), Character 133.
 
 > - Character 133 in 'early gnathostome phylogeny dataset'.
 
@@ -3856,6 +3855,7 @@ Series of paired median skull roofing bones that meet at the dorsal midline of t
 135	Bryant, W. L. New fishes from the Triassic of Pennsylvania. Proceedings of the American Philosophical Society 73, 319-326 (1934).
 
 136	Jaekel, O. Der Kopf der Wirbeltiere. Ergebnisse der Anatomie und Entwickelungsgeschichte 27, 815-897 (1927).
+
 
 
 
